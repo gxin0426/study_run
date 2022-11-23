@@ -100,3 +100,13 @@
 - Have a nice day! (祝您有愉快的一天!)
 - thank you
 - Have a nice day, too
+
+### 超市问路
+
+- excuse me (打扰一下)
+- can you tell me where i can find bread (面包在哪)
+- The bakery is at the front of the store (面包在商店的前面)
+- Keep walking to the front until you see the cashiers, then turn right. you will see the bakery in front of you (继续往前走，直到你看到收银员，然后向右转，你会看到面包店在你面前)
+- ok,   can you tell me where i can find the peanut butter? (好的，你能告诉我哪里可以找到花生酱吗？)
+- it's at the far end of aisle 9 (它在9号过道的最末端)
+-  Got it, thanks ( 知道了，谢谢)
