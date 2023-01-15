@@ -46,3 +46,17 @@
 
 - Instruction set 指令集
 - For convenience 为了方便
+- split through MLP by column then by row, split the tensor operations by attention heads then by row (通过MLP按列然后按行拆分，按注意头然后按行拆分张量操作)
+- **communication intensive**, better only intra-node, to leverage NVlink high bandwidth (通信密集，最好只在节点内进行，以利用NVlink的高带宽 )
+- from pilot to production (从试验到生产)
+- formed under the auspices(/ˈɔːspɪs/) of the Linux Foundation (在Linux基金会的主持下成立的)
+- The **Runtime Specification**  *<u>outlines</u>* how to run a “filesystem bundle” that is unpacked on disk.(**运行时规范** *<u>概述</u>*了如何运行一个在磁盘上解包的 "文件系统包"。)
+- This specification defines how to create an OCI Image, which will generally be done by a build system, and output an image **manifest**, a filesystem (layer) serialization, and an image configuration. At a high level the image manifest contains metadata about the contents and dependencies of the image including the **content-addressable** identity of one or more filesystem serialization **archives** that will be unpacked to make up the final runnable filesystem. The image configuration includes information such as application arguments, environments, etc. The combination of the image manifest, image configuration, and one or more filesystem serializations is called the OCI Image.(本规范定义了如何创建一个OCI镜像，这通常由构建系统完成，并输出一个镜像**清单**、一个文件系统（层）序列化和一个镜像配置。在高层次上，镜像清单包含关于镜像内容和依赖性的元数据，包括一个或多个文件系统序列化档案的内容**可寻址**身份，这些**档案**将被解包以构成最终可运行的文件系统。镜像配置包括诸如应用参数、环境等信息。镜像清单、镜像配置和一个或多个文件系统序列化的组合被称为OCI镜像。)
+- the **deputy** of the drug company(医药代表)
+- the bulk of 大部分
+- be meant to do sth  意在做某事 意味着做某事 保护人民
+- instrumentation 工具 
+- with a minimal footprint on the system (对系统的影响最小)
+- head over to  (前往)
+- Carreta **leverages** eBPF to **efficiently** map all service network **interactions** in a K8s  cluste (Carreta**利用**eBPF**有效地**映射K8s集群中的所有服务网络**互动**，并利用Grafana查询和可视化收集的数据。)
+- 
