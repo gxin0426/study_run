@@ -27,7 +27,7 @@
 - 精读
 - 泛读
 
-#### 输入
+#### 输出
 
 **听说**
 
@@ -39,4 +39,43 @@
 - 仿写
 - 实战写作
 
-![](learn_method.png)
+**num1:**
+
+![](picture_for_learn_method/learn_method.png)
+
+**num2:**
+
+![](picture_for_learn_method/method2.png)
+
+
+
+### 教材推荐
+
+#### 三核心
+
+##### 发音
+
+![](picture_for_learn_method\method3.png)
+
+##### 连读
+
+![](picture_for_learn_method/method4.png)
+
+##### 语调
+
+![](picture_for_learn_method/method5.png)
+
+#### 语法
+
+![](picture_for_learn_method/method6.png)
+
+#### 词汇
+
+![](picture_for_learn_method/method7.png)
+
+![](picture_for_learn_method/method8.png)
+
+#### 听力
+
+![](picture_for_learn_method/method9.png)
+
