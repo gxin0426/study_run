@@ -1,3 +1,5 @@
+# overview
+
 ## 主语
 
 **解释： 动作发起者**
@@ -27,3 +29,21 @@
 ## 表语
 
 **说明主语的状态、性质、等** **（am,is,are,was,were,have been）系动词之后**
+
+# 昂克英语grammer
+
+#### 词性
+
+![](grammer/vocu1.png)
+
+#### 成分
+
+![](grammer/vocu2.png)
+
+#### 复合句
+
+![](grammer/vocu3.png)
+
+#### 总结
+
+![](grammer/vocu4.png)

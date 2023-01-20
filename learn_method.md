@@ -79,3 +79,11 @@
 
 ![](picture_for_learn_method/method9.png)
 
+#### 阅读和写作
+
+![](picture_for_learn_method/method10.png)
+
+#### 学习软件推荐
+
+![](picture_for_learn_method/method11.png)
+
