@@ -59,4 +59,6 @@
 - with a minimal footprint on the system (对系统的影响最小)
 - head over to  (前往)
 - Carreta **leverages** eBPF to **efficiently** map all service network **interactions** in a K8s  cluste (Carreta**利用**eBPF**有效地**映射K8s集群中的所有服务网络**互动**，并利用Grafana查询和可视化收集的数据。)
-- 
+- **Thanks to** LLVM, EM and asm.js, code runs at near-native speed (**得益于**LLVM、EM和asm.js，代码的运行速度接近原生速度)
+- acquired by Google (被谷歌收购)
+- Tho i will say (但我想说)
