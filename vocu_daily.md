@@ -515,5 +515,61 @@
 
 #### 001组
 
-1. 
+1. n.（名词） A mutual fund  [/ˈmjuːtʃuəl/](cmd://Speak/_us_/mutual)   信托基金   adj： 彼此相关的   相互的，彼此的 
+
+2. logistic  [/lo'dʒɪstɪk/](cmd://Speak/_us_/logistic)  adj.（形容词） 象征派逻辑的  **后勤的**   **物流**
+
+3. scroll [/skrol/](cmd://Speak/_us_/scroll)  *【计算机科学】* 卷动，翻滚 
+
+4. **diffusion** [ /dɪˈfjuːʒn/](cmd://Speak/_us_/diffusion)  扩散，传播；[物]漫射
+
+5. **reward** n. 报酬；酬谢；报答  vt. 奖赏；奖励 
+
+6. comparison *n.* 比较, 对照 
+
+7. placebo  [/pləˈsiːboʊ/](cmd://Speak/_us_/placebo)  n. 安慰剂；为死者所诵的晚祷词 
+
+8. **stakeholder**  [ /'stekholdɚ/](cmd://Speak/_us_/stakeholder)  *n.* 股东， 利益相关人
+
+9. **demystify **[/ˌdiːˈmɪstɪfaɪ/](cmd://Speak/_us_/demystify)   *vt.* 使非神秘化  
+
+10. demarcate  [/ˈdiːmɑːrkeɪt/](cmd://Speak/_us_/demarcate)  *vt.* 定…的界线；区分   *[pressure demarcate](dic://pressure demarcate)* 压力标定 
+
+11. vital  [vital part](javascript:;) 要害部位 *adj.*至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的  *n.*身体的重要内脏，维持生命的重要器官（vitals） 
+
+12. evolvable [ /ɪ'vɒlvəbl/](cmd://Speak/_us_/evolvable)  adj.可开展的  **evolvable computer**: 演化计算机 
+
+13. buzzword  *n.*（报刊等的）时髦术语，流行行话 
+
+14. reap  [/riːp/](cmd://Speak/_us_/reap)  *vt. & vi.* 收割庄稼；收获 
+
+15. profitable  [/ˈprɑːfɪtəbl/](cmd://Speak/_us_/profitable)   *adj.* 有利可图的; 有益的   *[profitable organization](dic://profitable organization)* 营利组织 
+
+16. decision-making */*dɪˈsɪʒn meɪkɪŋ*/*  *adj.*决策的  *n.*决策 
+
+17. **flourish** [/ˈflɜːrɪʃ/](cmd://Speak/_us_/flourish)  *vi.* 茂盛, 繁荣  *vt.* 挥动  *n.*夸张动作；（讲话或文章的）华丽辞藻，修饰；花彩号声；（手写花体字的）花饰 
+
+18. anticipate  [/ænˈtɪsɪpeɪt/](cmd://Speak/_us_/anticipate)  *vt.* 先于…行动  预感, 期望 
+
+    *[anticipated conditions](dic://anticipated conditions)* 预期的条件 
+
+    We **anticipate** hearing from you again  我们期待再接到你们的来信
+
+    They have **anticipated** us and seized the bridge   他们抢在我们之前占领了那座桥
+
+19. **eviction** *n.* 逐出,赶出 
+
+20. velocity  [ /vəˈlɑːsəti/](cmd://Speak/_us_/velocity)    n. 速率；迅速；周转率 
+
+#### 002组
+
+1. bogus [ /ˈboʊɡəs/](cmd://Speak/_us_/bogus)   *adj.* 假的,假冒的,伪造的 
+2. **specific**  [/spəˈsɪfɪk/](cmd://Speak/_us_/specific) adj. 特殊的，特定的；明确的；详细的；具有特效的 
+3. alumni  */*əˈlʌmnaɪ*/*  *n.*校友，毕业生（alumnus 的复数）  alumni association 校友会
+4. **principle**  */*ˈprɪnsəp(ə)l*/*  *n.*（行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素 
+5. **sketch** */*sketʃ*/*  *n.*素描，速写，草图；（任何作品的）粗样，初稿；简述，概述；幽默短剧，滑稽小品；<非正式，旧>滑稽的人（或物）  *v.*（给……）画速写，（给……）画素描；简述，概述；（用手或身体）做（姿势） sketch out 概述 草拟 [DESIGN SKETCH](javascript:;) 设计图 效果图 预设图 
+6.  **tackle**  */*ˈtæk(ə)l*/*  *v.*应付，解决（难题或局面）；与……交涉；（足球、曲棍球等比赛中）抢断；（橄榄球等比赛中）擒抱并摔倒（对方球员）；擒获；对付，打（尤指罪犯）；质问，责问；反对，反抗  *n.*（足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；（美式足球中的）阻截队员；体育器械，（尤指）渔具；（吊起重物用的）索具，滑轮；<英，俚>男性性器官 
+7.   misconception    */*ˌmɪskənˈsepʃ(ə)n*/*   *n.*错误想法，误解，错误印象 
+
+  
 
