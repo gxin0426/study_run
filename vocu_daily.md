@@ -625,7 +625,9 @@
 
 12. **well**  *adv.* 好，对，满意地；友好地，和蔼地；彻底地，完全地   *n.* 井，水井  *vi.* (液体)涌出；流出；涌流 
 
-    **as well**  In addition; also 另外；也: *mentioned other matters as well  也提到了其它事情*
+    **as well**  1. In addition; also 另外；也: *mentioned other matters as well  也提到了其它事情*   2. With equal effect 同样地:  *I might as well go*  我最好还是去
 
-    
+13. **tease**  *v.*取笑，嘲笑；逗弄（动物）；（尤指性方面）挑逗，撩拨；哄，逗；拨，分离；梳理（羊毛、头发等）；<美>（为了使头发显厚）回梳  *n.*爱开玩笑的人，爱戏弄别人的人；玩笑，戏弄；卖弄风骚的人 
+
+14. 
 
