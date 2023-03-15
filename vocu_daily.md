@@ -571,7 +571,61 @@
 6.  **tackle**  */*ˈtæk(ə)l*/*  *v.*应付，解决（难题或局面）；与……交涉；（足球、曲棍球等比赛中）抢断；（橄榄球等比赛中）擒抱并摔倒（对方球员）；擒获；对付，打（尤指罪犯）；质问，责问；反对，反抗  *n.*（足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；（美式足球中的）阻截队员；体育器械，（尤指）渔具；（吊起重物用的）索具，滑轮；<英，俚>男性性器官 
 7.   misconception    */*ˌmɪskənˈsepʃ(ə)n*/*   *n.*错误想法，误解，错误印象 
 8. elite  */*ɪˈliːt*/*  *n.*权力集团，上层人士；尖子，精英  *adj.*出类拔萃的，精锐的 
-9. deficiency  */*dɪˈfɪʃ(ə)nsi*/*  *n.*缺乏，不足；缺陷，瑕疵；赤字 
+9. **deficiency**  */*dɪˈfɪʃ(ə)nsi*/*  *n.*缺乏，不足；缺陷，瑕疵；赤字 
 
-  
+#### 003组
+
+1. sleep with 与...发生关系
+
+2. serenely   */*səˈriːnli*/*  *adv.*安详地；沉着地；宁静地 
+
+3. cheese */*tʃiːz*/*  *n.*干酪，奶酪 
+
+4. **out of mind** 心不在焉；忘却；发狂  out of sight, out of mind   眼不见，心不烦
+
+5. **casually** [/ˈkæʒuəli/](cmd://Speak/_us_/casually)   *adv.* 偶然地;无意地  未经考虑地；漫不经心地 
+
+   **remark** *n.*言论，评述；（正式演讲时的）言论（remarks）；<正式> 引人注目，显耀   *v.*谈论，说起；注意到
+
+   She **remarked** **casually** that she was changing her job  她当时漫不经心地说要换工作 
+
+6. pin  */*pɪn*/*  *n.*（尤指做衣服时固定布料用的）别针，大头针；<美>胸针，饰针  *v.*（用钉子）钉住，别住；按住，使不能动弹；（棋）牵制  [pins and needles](javascript:;) 如坐针毡 
+
+7. **scratch** */*skrætʃ*/*  v.tr.（及物动词） v.intr.（不及物动词）  （用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）  *n.*（某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠  
+
+   [from scratch](javascript:;) 白手起家；从头做起
+
+   [up to scratch](javascript:;) 达到标准 
+
+   The porters scratched up the desk  搬运工人们把桌子刮坏了 
+
+8. come up  
+
+   OK, a nice cold beer **coming up**  好的，一杯冰啤马上就到
+
+   So tap water **comes up** trumps, eh?  (trump *v.*出王牌赢（牌）；赢，胜过，打败；比……更重要)  所以自来水的口感更令人满意？
+
+   In the pipeline means they're being planned, they're coming up soon  In the pipeline 的意思是有计划的，马上到来的意思 
+
+9. **acquisition** */*ˌækwɪˈzɪʃ(ə)n*/*    *n.*学得，习得；（金钱、财物等的）获取；购买，添置，增添物；收购，购置的产业 
+
+   [data acquisition](javascript:;) 数据采集
+
+   [language acquisition](javascript:;) 语言习得 
+
+   This **motor-scooter** [/'skutɚ/](cmd://Speak/_us_/scooter)   (踏板车) is my latest **acquisition** 这辆**摩托车**是我最新**购置**的 
+
+10. **salty** */*ˈsɔːlti*/*   *adj.*咸的，含盐的；<旧>有趣而略显粗俗的；<非正式>粗鲁的，爱闹事的 
+
+    [salty water](javascript:;) 盐水
+
+11. **well up ** 涌出；流露；萌发
+
+    **be well up in**: 精通；熟悉；精晓；认识
+
+12. **well**  *adv.* 好，对，满意地；友好地，和蔼地；彻底地，完全地   *n.* 井，水井  *vi.* (液体)涌出；流出；涌流 
+
+    **as well**  In addition; also 另外；也: *mentioned other matters as well  也提到了其它事情*
+
+    
 
