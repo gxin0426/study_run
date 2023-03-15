@@ -627,7 +627,83 @@
 
     **as well**  1. In addition; also 另外；也: *mentioned other matters as well  也提到了其它事情*   2. With equal effect 同样地:  *I might as well go*  我最好还是去
 
-13. **tease**  *v.*取笑，嘲笑；逗弄（动物）；（尤指性方面）挑逗，撩拨；哄，逗；拨，分离；梳理（羊毛、头发等）；<美>（为了使头发显厚）回梳  *n.*爱开玩笑的人，爱戏弄别人的人；玩笑，戏弄；卖弄风骚的人 
+13. **tease**  *v.tr.（及物动词）.*  v.intr.（不及物动词） 取笑，嘲笑；逗弄（动物）；（尤指性方面）挑逗，撩拨；哄，逗；拨，分离；梳理（羊毛、头发等）；<美>（为了使头发显厚）回梳  *n.*爱开玩笑的人，爱戏弄别人的人；玩笑，戏弄；卖弄风骚的人 
 
-14. 
+14.  macaroni  */*ˌmækəˈroʊni*/*  *n.* **通心粉 通心面条** ；纨绔子弟 
+
+15. **mutual**  */*ˈmjuːtʃuəl*/*  *adj.*相互的，彼此的；共同的，共有的；（保险公司、建筑协会等）互助的  *n.*互助公司 
+
+    [mutual fund](javascript:;) 共同基金互助基金互惠基金公共基金 
+
+    [Washington Mutual](javascript:;) 华盛顿互惠华盛顿互惠银行华盛顿互助银行华盛顿共同基金
+
+    [mutual benefit](javascript:;) 互惠互利
+
+    [mutual understanding](javascript:;) 互相谅解，相互理解 
+
+#### 004组
+
+1. **receipt**  */*rɪˈsiːt*/*  *n.*发票，收据 
+
+2. merge —— merger(*n.*（公司、组织的）合并 */*ˈmɜːrdʒər*/* )
+
+3. recipe */*ˈresəpi*/* *n.*烹饪法，食谱 
+
+4. irony  [/ˈaɪrəni/](cmd://Speak/_us_/irony)  *n.*（出乎意料的）奇异可笑之处，具有讽刺意味的情况；反语，讽刺  *adj.*铁的；含铁的；似铁的 （iron n. 铁 [/ˈaɪərn/](cmd://Speak/_us_/iron) ）
+
+   The irony, of course, is that Nigerians speak English.   当然，讽刺的是，尼日利亚人说英语 
+
+5. entire  [/ɪnˈtaɪər/](cmd://Speak/_us_/entire)  *adj.*全部的，整个的   I read the entire book  我阅读了全书
+
+6. **strike** */*straɪk*/*  *v.*打，撞  *n.*罢工，罢市，罢课  
+
+   复数 strikes
+
+   第三人称单数 strikes
+
+   现在分词 striking
+
+   过去式 struck
+
+   过去分词 struck或stricken */*ˈstrɪkən*/* 
+
+7. **grief**  *n.*（尤指因某人去世引起的）悲伤，悲痛；伤心事，悲痛事 
+
+   grief-stricken adj. 极度悲伤的
+
+8. gleam *v.*发微光，闪烁；  *n.*反光，闪光 
+
+9. routine */*ruːˈtiːn*/*  *n.*常规，惯例；生活乏味，无聊  *adj.*常规的，例行的；平常的，毫不特别的 
+
+10. **block**  */*blɑːk*/*  *n.*大块，一块（木料、石头等）；（四面临街的）街段，街区；大楼，大厦；栋，座，幢；障碍物，阻碍；（短时间的）思维停滞，思维中断；一组，一批，一叠；（连续的）一段时间；阻挡，拦截；积木；（古代斩首用的）垫头木；<美>一大片土地；（物体的）平面，纯色色块；滑轮，滑轮组           
+
+     *v.*阻塞，堵塞（道路、管道等）；遮住（视线）；封锁，挡住（去路）；阻挠，阻止；阻截，拦截（对方的球）；对……进行块操作；用模具使（帽等）成形
+
+    复数 blocks
+
+    第三人称单数 blocks
+
+    现在分词 blocking
+
+    过去式 blocked
+
+    过去分词 blocked
+
+11. **motion** [ /ˈmoʊʃn/](cmd://Speak/_us_/motion)  n.（名词）  动；运动  v.tr.（及物动词）  打手势  v.intr.（不及物动词） 示意  motioned to her to enter 示意让她进来 
+
+    复数 motions
+
+    第三人称单数 motions
+
+    现在分词 motioning
+
+    过去式 motioned
+
+    过去分词 motioned
+
+12. startle  *v.tr.（及物动词） v.intr.（不及物动词）* 使吓一跳，使惊奇  n. 惊愕；惊恐 
+
+13. **retrieve** [ /rɪˈtriːv/](cmd://Speak/_us_/retrieve)    v.tr.（及物动词） v.intr.（不及物动词）  检索   取回；重新获得 
+14. polish  [/ˈpɑːlɪʃ/](cmd://Speak/_us_/polish)  v.tr.（及物动词）v.intr.（不及物动词）  磨光；擦亮  n.（名词） 光滑，光亮 **Polish** 波兰的 波兰语 
+15. hectic [/ˈhektɪk/](cmd://Speak/_us_/hectic)  adj.（形容词） 忙乱的  It was **hectic** at work today  今天的工作真紧张
 
