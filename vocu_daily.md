@@ -707,3 +707,56 @@
 14. polish  [/ˈpɑːlɪʃ/](cmd://Speak/_us_/polish)  v.tr.（及物动词）v.intr.（不及物动词）  磨光；擦亮  n.（名词） 光滑，光亮 **Polish** 波兰的 波兰语 
 15. hectic [/ˈhektɪk/](cmd://Speak/_us_/hectic)  adj.（形容词） 忙乱的  It was **hectic** at work today  今天的工作真紧张
 
+#### 006组
+
+1. **advocate**  [ /ˈædvəkeɪt/](cmd://Speak/_us_/advocate)  v.tr.（及物动词）  拥护   n.（名词） 拥护者 
+
+   Advocates argue these automated vehicles will change mining forever. 倡导者认为，这些自动驾驶车辆将永远地改变矿业
+
+2. **occasional**  adj.Abbr. **occas.**（形容词） 偶尔
+
+3. disclaimer */*dɪsˈkleɪmər*/*  *n.*不承诺，**免责声明**；放弃，拒绝
+
+4. **abundant** */*əˈbʌndənt*/*  *adj.*大量的，丰富的，充足的
+
+5. **retention** */*rɪˈtenʃ(ə)n*/*  *n.*保持，保留；保存，存放；保持力，持续力；记忆力 
+
+   Information learned right before bed has greater rates of retention  睡前学到的信息保存率更高 
+
+6. **derive** [/dɪˈraɪv/](cmd://Speak/_us_/derive) v.tr.得到：从某一源泉得到（或取得）  v.intr 起源于，来自。 **derivation ** 发展;  、
+
+   *derive from* 源出 
+
+   The word derives from French 这个词来自法语 
+
+   Many English words are derived from Latin 许多英语词汇源于拉丁文 
+
+7. **lapse** [/læps/](cmd://Speak/_us_/lapse)  v.intr. （时间）流逝；（合同、协议等）失效，期满终止；（状态，活动）中止，结束；背弃，放弃（宗教信仰）；开始（以某种方式）说话、行事（lapse into）  *n.* 过失，小失误；（一时的）行为失检；（两件事发生的）间隔时间；（活动的）暂停，中断；开始说，开始做；（因未继续缴费而导致的）终止，结束
+
+   *lapse of time* 一段时间；时光的流逝
+
+   *lapse of memory* 记错；记忆力衰退
+
+   The lapse of year will never efface that scene of ruins from my memory 时光的流逝绝不会把那废墟的景象从我的记忆中冲淡
+
+8. **tighten** [ /ˈtaɪtn/](cmd://Speak/_us_/tighten)  v.tr.intr. 变紧，绷紧 
+
+9. [stand on](javascript:;)[persist in](javascript:;) 坚持；粘住 
+
+10. hatred  */*ˈheɪtrɪd*/*  *n.*仇恨，憎恨，敌意  [racial hatred](javascript:;) 种族仇恨 
+
+11. self-interest *n.*私利；利己主义 
+
+12. urge  [/ɜːrdʒ/](cmd://Speak/_us_/urge)  v.tr. 推进，驱策 催促，力劝  v.intr. 驱策，鼓动 
+
+13. self-assurance  *n.*自信 *adj.*自信的 
+
+    **assurance** */*əˈʃʊrəns*/*  *n.*自信，把握；（人寿）保险；保证，确保 
+
+14. **psychological** */*ˌsaɪkəˈlɑːdʒɪk(ə)l*/* *adj.*心理的，精神的；心理学的 
+
+15. responsiveness */*rɪˈspɑːnsɪvnəs*/*  *n.*响应能力；有同情心 
+
+16. 
+
+ 
