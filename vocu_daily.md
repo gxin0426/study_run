@@ -757,6 +757,59 @@
 
 15. responsiveness */*rɪˈspɑːnsɪvnəs*/*  *n.*响应能力；有同情心 
 
-16. 
+#### 007组
 
- 
+1. penguin [/ˈpeŋɡwɪn/](cmd://Speak/_us_/penguin) 企鹅
+
+2. **curious**  */*ˈkjʊriəs*/* *adj*  --- **curiosity** */*ˌkjʊriˈɑːsəti*/*  *n.* --- **curiously** */*ˈkjʊriəsli*/* *adv.*  好奇的；好奇心；好奇地
+
+3. agility  */*əˈdʒɪləti*/* *n.*（动作）敏捷，灵活；（思维）机敏  [AGILITY CONTROL](javascript:;) 敏捷操控 敏捷控制系统 
+
+4. mobility */*moʊˈbɪləti*/* *n.*  （住处、社会阶层、职业方面的）流动能力；活动性，灵活性
+
+    [Social mobility](javascript:;) 社会流动社会迁移
+
+5. **dexterity**  [ /dekˈsterəti/](cmd://Speak/_us_/dexterity) *n.* 灵巧;熟练;敏捷;聪敏   **dexterity** comes by **experience**   **熟练**来自**经验** 
+
+6. **solidity**  [/sə'lɪdəti/](cmd://Speak/_us_/solidity) *n.*   1. The condition or property of being solid  **坚固**：牢固的状态或特性 2. Soundness of mind, moral character, or finances. **稳健**：头脑、品德、操行或财政良好的状态  （solid:固体)
+
+7. **overcommit** [/ˌovəkəˈmɪt/](cmd://Speak/_us_/overcommit)  v.tr. 使承担过多义务  v.intr.  处于或变得承担过多义务  **过量使用** 
+
+8. **octonary** [/'ɑktə,nɛri/](cmd://Speak/_us_/octonary)  adj. 八的或与八有关的  *n.* 八进制
+
+9. **foe** */*foʊ*/*  [friend or foe](javascript:;) 朋友还是敌人
+
+10. **convey** */*kənˈveɪ*/*  *v.tr.* 传送，运输；表达，传递；<法律>转让（土地、财产等） *[conveying system](dic://conveying system)* 输送系统 
+
+    Destroyers escorted a **convey** of merchant ships  驱逐舰护送一支商船队 
+
+11. **mature** */*məˈtʃʊr*/*  *adj.*成熟的，理智的  v.tr. 使长成；使成熟  v.intr. 变成熟  mature women 少妇 mature work 成熟的作品
+
+12. **eager**  */*ˈiːɡər*/*  [be eager for](javascript:;) 渴望 想得到 巴望 
+
+13. **but then again**   其次 还有  this is better, but then again it costs more 这个好一点，但是也贵一些
+
+14. synchronize  */*ˈsɪŋkrənaɪz*/* *vt.*  （使）同步 
+
+15. dramatic *adj.*  巨大的；戏剧的 
+
+    **dramatic transformation 巨大转变**
+
+16. indefinitely [/ɪnˈdefɪnətli/](cmd://Speak/_us_/indefinitely)   A gas tends to expand **indefinitely** 气体具有**无限**膨胀的趋势 
+
+17. prematurely [/ˌpriməˈtjʊrlɪ/](cmd://Speak/_us_/prematurely)  adv 过早的 She was born prematurely 他是早产的
+
+18. potentially */*pəˈtenʃəli*/* *adv.* 潜在地
+
+19. fit the bill  符合要求
+
+    [He really fit the bill](javascript:;)  他完全符合我的设想
+
+20. figure out  计算出 想出 理解 
+
+    We must figure out how to solve the problem 我们必须想出解决这个问题的办法
+
+    Can you figure out what I'm doing?  你知道我在做什么吗？ 
+
+21. plug  *n.*（电）插头；（电）插座  *v.*堵，塞；补足；插入 
+
