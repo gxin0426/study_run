@@ -603,7 +603,7 @@
 
    OK, a nice cold beer **coming up**  好的，一杯冰啤马上就到
 
-   So tap water **comes up** trumps, eh?  (trump *v.*出王牌赢（牌）；赢，胜过，打败；比……更重要)  所以自来水的口感更令人满意？
+   So tap water **comes up** trumps, eh?  (trump *v.*出王牌赢（牌）；赢，胜过，打败；比……更重要)  所以自来水的口感更令人满意？  **trump up**  伪造，捏造
 
    In the pipeline means they're being planned, they're coming up soon  In the pipeline 的意思是有计划的，马上到来的意思 
 
@@ -812,4 +812,108 @@
     Can you figure out what I'm doing?  你知道我在做什么吗？ 
 
 21. plug  *n.*（电）插头；（电）插座  *v.*堵，塞；补足；插入 
+
+#### 008组
+
+1. lousy */*ˈlaʊzi*/*  *adj.*<非正式>极坏的，恶劣的；<非正式>令人厌恶的，讨厌的；<非正式>（让人不快的事物）很多的
+
+2. **venture** */*ˈventʃər*/*  *n.*风险项目，冒险事业；冒险旅行，冒险行动  *vt. vi.*敢于去（未知或危险等地方）；冒险 
+
+3. **anthropology**  */*ˌænθrəˈpɑːlədʒi*/*  *n.*人类学  anthropologist 人类学家
+
+4.  ethic  [/ˈeθɪk/](cmd://Speak/_us_/ethic)  *n.* 道德规范,伦理  
+
+   [work ethic](javascript:;) 职业道德；职业伦理 
+
+5. liaise [/lɪ'ez/](cmd://Speak/_us_/liaise)  *vi.* 做联络人；联络  *[to liaise](dic://to liaise)* 串联 
+
+6. **nutshell**  坚果外壳；简要地说，概括地说（in a nutshell) 
+
+   [in a nutshell](javascript:;) 简言之 总而言之 简而言之 概括地说
+
+7. protagonist *n.*<正式>（戏剧、电影、小说等的）主人公 
+
+8. screenwriter  *n.*编剧家；电影剧本作家
+
+9. trophy  */*ˈtroʊfi*/*  *n.*奖杯，奖品； 
+
+10. **resurgent**  */*rɪˈsɜːrdʒənt*/*  *adj.* 复活的,复兴的
+
+    Geopolitics aside, the bull case rests on resurgent demand  撇开地缘政治不谈，看涨的理由在于需求的复苏
+
+11. backdrop  *n.*（舞台的）背景幕布；周围景物；（事件的）背景 
+
+    [Backdrop Design](javascript:;) 背景幕设计 背景设计 展板设计
+
+12. **sympathy**  *n.*同情（心），理解；赞同，支持；（与某人的）同感，共鸣；和应 
+
+13. **complaint** [/kəmˈpleɪnt/](cmd://Speak/_us_/complaint)  n.  **抱怨**  控告 
+
+    Several of his colleagues **trumped up** a **complaint** to get him removed from the job 他的几位同事诬告他,使他丟掉了工作 
+
+    If you want to make a complaint, please press three  如果你想投诉，请拨三
+
+    In fact, the top complaint was people speaking too loudly – another of my pet hates  事实上，最大的抱怨是人们说话声音太大——这也是我最讨厌的事情之一 
+
+14. **obstacle**  [/ˈɑːbstəkl/](cmd://Speak/_us_/obstacle)  *n.*障碍，阻碍；障碍物 
+
+    I think most of these obstacles can be surmounted(*vt. 克服*) 我认为这些障碍大多数都是可以克服的 
+
+15. disproportionate  [/ˌdɪsprəˈpɔːrʃənət/](cmd://Speak/_us_/disproportionate)  *adj.* 不相称的, 不成比例的, 不均匀的  == Out of proportion 
+
+    We spend a disproportionate amount of our income on rent 我们的收入花在房租上的比例太大了
+
+16. financial firm  金融企业  
+
+    [consulting firm](javascript:;) 咨询公司
+
+    [accounting firm](javascript:;) 会计事务所，会计师事务所
+
+17. **firm** *adj.*  坚硬的;  健壮的  (firm muscles 结实的肌肉);  稳固的; 坚决的 (a firm voice); 强有力的，确信的
+
+    *v.tr.intr.*  使稳定，使变坚固
+
+    China expresses strong indignation and firm opposition  中方对此表示强烈愤慨和坚决反对 
+
+18. **internship** *n.*实习生 
+
+19. **specialize** [/ˈspeʃəlaɪz/](cmd://Speak/_us_/specialize)  *vi.* 专门从事；详细说明；特化  *vt.* 使专门化；使适应特殊情况；详细说明 
+
+    Many students specialize in engineering  许多学生专攻工程学 
+
+    He decided to specialize in entomology after graduation  他决定毕业后专攻昆虫学 
+
+20. specialism  */*ˈspeʃəlɪzəm*/*  *n.*专长；专攻；专门研究 
+
+    [computer specialism](javascript:;) 计算机专业
+
+    [chinese specialism](javascript:;) 汉语专业
+
+21. whizz  *n.*专家；精明的人 *vt.vi.* 飕飕作声 
+
+22. country-born 生在乡下的 
+
+23. lament */*ləˈment*/* *n.*挽歌，悼文；表达哀伤（或痛惜）之情的言辞  *v.*对……感到悲痛，对……表示失望 
+
+24. **misfit** *n.*不适合；不适应环境的人   *vt.*对……不适合 
+
+25. **weigh**  */*weɪ*/* *v.*称，称……的重量；重，有……重；认真考虑，权衡 
+
+    He spoke very slowly, weighing his words  他说话慢条斯理，字斟句酌 
+
+### Effective GO
+
+####  001组
+
+1. Names are as important in GO as in any other language.  名称在Go中和其他语言中一样重要
+2. naming conventions --- established conventions --- By convention --- Another convention 
+3. underscore or miexedCaps  下划线或混合大写 
+4. Err on the side of brevity, since everyone using your package will be **typing** that name 倾向于简洁的一面，因为每个使用你的包的人都会输入这个名字
+5.  in the rare case of   在罕见的情况下 
+6. confusion 
+7. repetition 
+8. There's nothing wrong with doing  这样没什么不对的
+9. and it's often appropriate to do so  而且这样做往往是合适的 
+10.  it's  neither idiomatic nor necessary to do 既不习惯也没有必要 
+11. 
 
