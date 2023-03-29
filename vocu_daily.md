@@ -906,14 +906,106 @@
 ####  001组
 
 1. Names are as important in GO as in any other language.  名称在Go中和其他语言中一样重要
+
 2. naming conventions --- established conventions --- By convention --- Another convention 
+
 3. underscore or miexedCaps  下划线或混合大写 
+
 4. Err on the side of brevity, since everyone using your package will be **typing** that name 倾向于简洁的一面，因为每个使用你的包的人都会输入这个名字
+
 5.  in the rare case of   在罕见的情况下 
+
 6. confusion 
+
 7. repetition 
+
 8. There's nothing wrong with doing  这样没什么不对的
+
 9. and it's often appropriate to do so  而且这样做往往是合适的 
+
 10.  it's  neither idiomatic nor necessary to do 既不习惯也没有必要 
-11. 
+
+11. It **unifies** `for` and `while`  他统一了for和while
+
+12. type assertion 类型断言
+
+13.  they can **simplify** as well as **clarify**  他们可以简化以及澄清 
+
+14. **canonical** examples 典型的例子
+
+15. further initialization 进一步初始化
+
+16. get right to work 直接工作
+
+17. layout of memory 内存布局
+
+18. To lay the foundation for that topic  为该主题打下基础 
+
+19. The method returns the number of bytes read and an error value, if any. To read into the first 32 bytes of a larger buffer `buf`, *slice* (here used as a verb) the buffer 该方法返回读取的字节数和一个错误值（如果有的话）。要读入一个较大的缓冲区buf的前32个字节，可以对缓冲区进行分片（这里作为动词使用）
+
+20. Such slicing is common and efficient. In fact, leaving efficiency aside for the moment, the following snippet would also read the first 32 bytes of the buffer.  这样的切分很常见，也很有效。事实上，暂且不说效率，下面的片段也会读取缓冲区的前32字节
+
+21. The *capacity* of a slice, accessible by the built-in function `cap`, reports the maximum length the slice may assume  一个切片的容量，可通过内置函数cap访问，报告该切片可能承担的最大长度 
+
+22.  if `tz` is present  如果TZ存在 
+
+23. presence 
+
+24. richer and more general 更丰富、更普遍 
+
+25.  take as a first argument  作为第一个参数 
+
+26. "Lexicographically" 的意思是按字典顺序排列 
+
+27. **reentrant** 
+
+28. recur into your `String` method indefinitely   无限期地重复出现在你的字符串方法中 
+
+29. missing piece   缺少的部分 
+
+30. variadic function（可变参数函数）、list of arguments（参数列表）、specific type（特定类型）、largest int（最大整数）、for loop（循环）、return（返回）、parameter（参数）等。
+
+31. placeholder 占位符
+
+32. collecting an arbitrary number of arguments.  收集一个任意数量的参数 
+
+33. superficially 
+
+34. "niladic" 意味着函数没有参数
+
+35. We can eliminate that clumsiness by redefining the method to take a *pointer* to a `ByteSlice` as its receiver  我们可以通过重新定义该方法，将一个指向字节片的指针作为其接收器来消除这种笨拙的现象 
+
+36. To do this  要做到这一点 
+
+37.  be invoked 被调用
+
+38. There is a handy exception, though. 不过，也有一个方便的例外。 
+
+39.  reduce the entire example to this  将整个例子简化为这样 
+
+40.  data item  数据项 
+
+41. we want the actual string value **held by** the interface  我们希望得到接口所持有的实际字符串值 
+
+42. concrete value 具体值
+
+43. 这句话的英文原文是"What if there's only one type we care about?"，可以翻译为"如果我们只关心一种类型，该怎么办？"
+
+    这个句子的主语是"we"，谓语是"care about"，表示"关心"。句子中的关键词是"one type"，表示"一种类型"。句子中的疑问词"what if"表示一种假设或者情况，可以翻译为"如果......会怎样？"。整个句子是一个条件句，表达了一种假设情况下的问题。
+
+44. **As an illustration of** the capability  作为能力的一个说明 
+
+45. by analogy with 通过与。。。类比
+
+46.  One **illustrative** example  一个说明性的例子 
+
+47.  **parsed** **representation** of the request 请求的解析表示的
+
+48. protection from 防止
+
+49. An integer is all that's needed.  一个整数就够了。 
+
+50. It has uses beyond those we've seen already.  它的用途超出了我们已经看到的那些 
+
+51. come right after  紧随其后 
 
