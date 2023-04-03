@@ -913,7 +913,7 @@
 
 4. Err on the side of brevity, since everyone using your package will be **typing** that name 倾向于简洁的一面，因为每个使用你的包的人都会输入这个名字
 
-5.  in the rare case of   在罕见的情况下 
+5. in the rare case of   在罕见的情况下 
 
 6. **confusion**  n.（名词）混乱   *chaos and confusion* 混乱与浑沌 
 
@@ -931,7 +931,7 @@
 
    **appropriate**  [ /əˈproʊpriIt/](cmd://Speak/_us_/appropriate)  adj.  **适宜的**  v.tr.  挪用 拨出 
 
-10.  it's  **neither** **idiomatic** **nor** necessary to do 既不习惯也没有必要 
+10. it's  **neither** **idiomatic** **nor** necessary to do 既不习惯也没有必要 
 
     **idiomatic** [/ˌɪdiəˈmætɪk/](cmd://Speak/_us_/idiomatic)  adj 习惯 惯用方法  符合语言习惯的 
 
@@ -941,7 +941,7 @@
 
 12. type **assertion** 类型断言  [/əˈsɜːrʃn/](cmd://Speak/_us_/assertion) 
 
-13.  they can **simplify** as well as **clarify**  他们可以简化以及澄清 
+13. they can **simplify** as well as **clarify**  他们可以简化以及澄清 
 
     **simplify** [/ˈsɪmplifaɪ/](cmd://Speak/_us_/simplify)   *v.tr.*  使变得简单或更简单 
 
@@ -979,13 +979,13 @@
 
     He assumed full authority as tsar in 2023  2023年他全面掌权做了沙皇 
 
-22.  if `tz` is **present**  如果TZ存在 
+22. if `tz` is **present**  如果TZ存在 
 
 23. presence   *n.* [ /ˈprezns/](cmd://Speak/_us_/presence)  出席，出场     反义词 *n.* [absence](dic://absence)
 
 24. richer and more general 更丰富、更普遍 
 
-25.  take as a first argument  作为第一个参数  *n.*  [/ˈɑːrɡjumənt/](cmd://Speak/_us_/argument)  争论
+25. take as a first argument  作为第一个参数  *n.*  [/ˈɑːrɡjumənt/](cmd://Speak/_us_/argument)  争论
 
 26. "Lexicographically" 的意思是按字典顺序排列 
 
@@ -1015,13 +1015,13 @@
 
 36. To do this  要做到这一点
 
-37.  be invoked 被调用
+37. be invoked 被调用
 
 38. There is a **handy**(adj.) **exception**, **though**. 不过，也有一个**方便**的**例外**。 
 
-39.  reduce the **entire** example to this  将整个例子简化为这样 
+39. reduce the **entire** example to this  将整个例子简化为这样 
 
-40.  data item  数据项 
+40. data item  数据项 
 
 41. we want the actual string value **held by** the interface  我们希望得到接口所持有的实际字符串值 
 
@@ -1035,43 +1035,310 @@
 
 44. **As an illustration of** the capability  作为能力的一个说明 
 
+    illustration [ /ˌɪləˈstreɪʃn/](cmd://Speak/_us_/illustration)  *n.*  说明，解释 
+
+    capability  [/ˌkeɪpəˈbɪləti/](cmd://Speak/_us_/capability) *n.* 
+
+    **confer**  [/kənˈfɜːr/](cmd://Speak/_us_/confer)  *vt. vi.*  授予 赋予   *confer with* vi 协商；交换意见  ***confer on* vt. 授给（授予）** 
+
 45. by analogy with 通过与。。。类比
 
-46.  One **illustrative** example  一个说明性的例子 
+    **analogy**  [/əˈnælədʒi/](cmd://Speak/_us_/analogy)  n.  类比  *analogy analysis* 类比分析 
 
-47.  **parsed** **representation** of the request 请求的解析表示的
+46. One **illustrative** example  一个说明性的例子 
+
+    **illustrative** *adj.*     [/ɪˈlʌstrətɪv/](cmd://Speak/_us_/illustrative)   *adj.* 用作说明的,解说性的 
+
+47. **parsed** **representation** of the request 请求的解析表示的 
+
+    **parse**   [/pɑrs/](cmd://Speak/_us_/parse)   v.tr.  语法分析 解析 
+
+    **representation**  [ /ˌreprɪzenˈteɪʃn/](cmd://Speak/_us_/representation)  *n.*  代表 
 
 48. protection from 防止
 
 49. An integer is all that's needed.  一个整数就够了。 
 
-50. It has uses beyond those we've seen already.  它的用途超出了我们已经看到的那些 
+50. It has uses beyond those we've seen already([/ɔl'rɛdi/](cmd://Speak/_us_/already)).  它的用途超出了我们已经看到的那些 
 
-51. come right after  紧随其后 
+51. come right after  紧随其后  
 
-52.  **notion** **of** subclassing 子类的概念
+52. **notion** **of** subclassing 子类的概念
+
+    *[related notion](dic://related notion)* n. 相关概念 
+
+    *[intuitive notion](dic://intuitive notion)* [计] 直觉概念 
 
 53. but with more **far-reaching** **implications**  但有更深远的影响 
 
+    implication  [ /ˌɪmplɪˈkeɪʃn/](cmd://Speak/_us_/implication)  n. 暗示；牵连，卷入；含义 
+
+    Not to mention the political implications.  更不用提其中的政治含义了
+
 54. separate threads  独立的线程
 
-55. It has no need for **synchronization primitives**  它不需要同步原语
+55. It has no need for **synchronization primitives**  它不需要同步原语 
+
+    synchronization  [ /ˌsɪŋkrənəˈzeɪʃn/](cmd://Speak/_us_/synchronization)   n.  同步 
 
 56. **inaccurate connotations**   不准确的含义 
 
-57.  multiplexed  复用的
+    inaccurate  [/ɪn'ækjərət/](cmd://Speak/_us_/inaccurate)   adj. 不精确  
 
-58. This design has a problem, though: `Serve` creates a new goroutine for every incoming request, even though only `MaxOutstanding` of them can run at any moment. 不过，这种设计有一个问题：Serve为每个传入的请求创建一个新的goroutine，尽管在任何时候只有MaxOutstanding的请求可以运行。 
+    **connotation** [ /ˌkɑːnəˈteɪʃn/](cmd://Speak/_us_/connotation)  n. 内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等） 
+
+    *[sexual connotation](dic://sexual connotation)* 性暗示 
+
+    *[Thought connotation](dic://Thought connotation)* 思想内涵 
+
+57. **multiplexed**   [/'mʌltiplekst/](cmd://Speak/_us_/multiplexed)  多路复用
+
+58. This design has a problem, **though**: `Serve` creates a new goroutine for every incoming request, **even though** only `MaxOutstanding` of them can run at any moment. **不过**，这种设计有一个问题：Serve为每个传入的请求创建一个新的goroutine，**尽管**在任何时候只有MaxOutstanding的请求可以运行。 
 
 59. address that deficiency 解决这一缺陷
 
-60.  we just count the completion signals by draining the channel after launching all the goroutines.  我们只是在启动所有的goroutine之后，通过排空通道来计算完成信号
+    **address**  
 
-61. **Rather than** create a constant value for numCPU, we can ask the runtime what value is appropriate.  与其为numCPU创建一个常量值，我们可以询问运行时什么值是合适的
+    1. *v.* 写（收信人）姓名地址；致函
+    2. 演说；演讲
+    3. 称呼（某人）；冠以（某种称呼）
+    4. 设法解决；处理；对付
+    5. 向…说话
+    6. *n.* 地址；住址；通信处
+    7. 网址；电子邮件地址
+    8. 演讲，演说
+    9. 称呼
+
+    **deficiency**   [/dɪˈfɪʃnsi/](cmd://Speak/_us_/deficiency)   *n.*  缺点，缺陷 
+
+60. we just count the **completion signals** by **draining the channel** after launching all the goroutines.  我们只是在启动所有的goroutine之后，通过排空通道来计算完成信号
+
+    completion *n.*    [/kəmˈpliːʃn/](cmd://Speak/_us_/completion)   完成 
+
+    **drain**  *vi. vt.*   [ /dreɪn/](cmd://Speak/_us_/drain)    
+
+    1. vi. 排水；流干
+    2. vt. 喝光，耗尽；使流出；排掉水
+    3. n. 排水；消耗；下水道，排水管
+
+61. **Rather than** create a constant value for numCPU, we can ask the runtime what value is appropriate.  与其为numCPU创建一个常量值，(倒不如)我们可以询问运行时什么值是合适的
 
 62. When feasible  在可行的情况下 
 
-63. calling `recover` handles the condition completely 调用 recover 可以完全处理这个问题 
+    **feasible** [ /ˈfiːzəbl/](cmd://Speak/_us_/feasible)  *adj.*  可行的；可能的；可实行的 
 
-64. 
+63. calling `recover` handles the condition **completely** 调用 recover 可以完全处理这个问题 
+
+#### 002group
+
+1. character  [ /ˈkærəktər/](cmd://Speak/_us_/character)   *n.* 品质, 特性, 特色  **字符  符号  暗码，密码，代码**  in character 在性质上
+
+2. relative  
+
+   1. adj. 相对的；有关系的；成比例的
+   2. n. 亲戚；关系词；相关物；亲缘植物
+
+3. unlikely 
+
+   1. adj. 不太可能的；没希望的
+
+   2. adv. 未必
+
+      *[be unlikely to](dic://be unlikely to)* 不大可能；不再发生
+
+   A straightforward translation of a C++ or Java program into Go is unlikely to produce a satisfactory result
+
+4. quite   [/kwaɪt/](cmd://Speak/_us_/quite)   *adv.* 完全地；整体地；十分地
+
+5. **idiomatic**  [ /ˌɪdiəˈmætɪk/](cmd://Speak/_us_/idiomatic) *adj.* 符合语言习惯的,成语的 
+
+   **idiomatic Go code** go语言代码习惯
+
+1. augment  [ /ɔːɡˈment/](cmd://Speak/_us_/augment)   对... 的补充 
+
+   1. *vt.* 增加, 提高, 扩大
+   2. *n.* 增加, 提高, 扩大
+
+2. polymorphism [ /ˌpɑlɪ'mɔrfɪzm/](cmd://Speak/_us_/polymorphism)  *n.* 多态
+
+3.  We intend to go 我们打算去  [/ɪnˈtend/](cmd://Speak/_us_/intend)   
+
+4. self-contained 自带的 [/kənˈteɪn/](cmd://Speak/_us_/contain) 
+
+5. **content**  [/ˈkɑːntent/](cmd://Speak/_us_/content)   
+
+   1. n. 内容，目录；容量；满足
+   2. adj. 满意的
+   3. vt. 使满足
+
+   **contentious** [ /kənˈtenʃəs/](cmd://Speak/_us_/contentious)  *adj.* 容易引起争论的,好争论的 
+
+   *[contentious territory](dic://contentious territory)* 争议领土 
+
+   And even this point is highly contentious.  甚至这一点也是非常有争议的 
+
+6. consequential  [ /ˌkɑːnsɪˈkwenʃl/](cmd://Speak/_us_/consequential) *adj.* 作为结果的,间接的 重要的 
+
+   **consequence** [ /ˈkɑːnsɪkwens/](cmd://Speak/_us_/consequence)  *n.* 结果, 后果  重要(性), 重大 
+
+   Formatting issues are the most **contentious** but the least **consequential**. 
+
+7. Utopia [/ju:'təupiə/](cmd://Speak/_us_/Utopia)  n. 乌托邦（理想中最美好的社会）；理想国 
+
+8. prescriptive [ /prɪ'skrɪptɪv/](cmd://Speak/_us_/prescriptive)     a long prescriptive style guide  长篇规定性的风格指南 
+
+   1. *adj.* 规定的, 指定的, 制定(规则)的
+   2. 约定俗成的, 惯例的
+
+   prescription 
+
+   1. *n.* 药, 治疗方法
+   2. 处方, 药方
+   3. 开处方, 开药
+
+9. devote [ /dɪˈvoʊt/](cmd://Speak/_us_/devote)  
+
+   *vt.* 把…奉献(给), 把…专用(于)
+
+   时 态: devoted, devoting, devotes
+   名 词: devotement 
+
+10. property market 房地产市场
+
+11. **precaution**  [ /prɪˈkɔːʃn/](cmd://Speak/_us_/precaution)  *n.* 预防措施 
+
+12. precarious  [ /prɪˈkeriəs/](cmd://Speak/_us_/precarious)  *adj.* 依靠机会的; 不确定的  不安全的; 不稳固的  *[precarious driving](dic://precarious driving)* 危险驾驶 
+
+13. few are in as bad shape as this  很少有像这样糟糕的情况 
+
+14. emit [/ɪˈmɪt/](cmd://Speak/_us_/emit)  vt. 发出，放射；发行；发表 
+
+    *[emitting diode](dic://emitting diode)* 发光二极管；电致发光片 
+
+    *[emit light](dic://emit light)* 发光 
+
+    The sun emits light  太阳发光 
+
+15. indent  [/ɪnˈdent/](cmd://Speak/_us_/indent)  缩进
+
+    1. vt. 缩排；定货；印凹痕
+    2. vi. 切割成锯齿状
+    3. n. 凹痕；订货单；契约；缩进
+
+    Indentation  [ /ˌɪndɛn'teʃən/](cmd://Speak/_us_/indentation)  *n.* 缩进
+
+16. precedence  [/ˈpresɪdəns/](cmd://Speak/_us_/precedence)   *n.* 领先于…的权利;优先权  
+
+    operator precedence 操作符优先级
+
+17.  large **swaths** of code 大片的代码段
+
+18. semantic adj. 语义的；语义学的（等于semantical）  [ /sɪ'mæntɪk/](cmd://Speak/_us_/semantic) 
+
+19. accessor 访问器
+
+    Use accessor methods instead of constructors to reinitialize the object  使用**访问**函数方法代替构造函数来重新初始化对象 
+
+20. modification  [ /ˌmɑːdɪfɪˈkeɪʃn/](cmd://Speak/_us_/modification)    so any modifications would be discarded   所以任何修改都会被丢弃 
+
+21. agent-noun 代理名词
+
+22. productive [ /prəˈdʌktɪv/](cmd://Speak/_us_/productive) 
+
+    1. *adj.* 多产的，富饶的
+    2. 富有成效的；有益的 
+
+    *productive forces* 生产力
+
+    *productive capacity* 生产能力
+
+    *productive efficiency* 生产效率；生产效能
+
+    *productive maintenance* 生产维修
+
+    *productive time* 运算时间；生产时间
+
+    *total productive maintenance* 全面生产维护
+
+    *productive investment* 生产性投资
+
+23. **signature** [ /ˈsɪɡnətʃər/](cmd://Speak/_us_/signature)   缩写   署名，签名 
+
+24. **semicolon ** [ /'sɛmɪkolən/](cmd://Speak/_us_/semicolon)   分号 
+
+25. **lexer**  [ /leksə/](cmd://Speak/_us_/lexer)  词法分析程序 
+
+26. omit [/oˈmɪt/](cmd://Speak/_us_/omit)   *vt.* 省略，遗漏；删掉 
+
+27. **clause** [/klɔːz/](cmd://Speak/_us_/clause)  子句 从句
+
+28. generalized [ /'dʒɛnrəlaɪzd/](cmd://Speak/_us_/generalized)  *adj.* 广泛的，普遍的，全面的 
+
+29. *[parenthese](dic://parenthese)* n. 括号；圆括号 
+
+30. brace [/bres/](cmd://Speak/_us_/brace)  大括弧；大括号 
+
+31. delimit [/diˈlɪmɪt/](cmd://Speak/_us_/delimit)  vt. 划界；定界限 
+
+    brace-delimit 大括号分割
+
+32. unnecessary adj. 不必要的；非必须的；多余的
+
+33. flow into 流入
+
+34. eliminate [ /ɪˈlɪmɪneɪt/](cmd://Speak/_us_/eliminate)  *v.tr*    消灭；消除 
+
+35. declaration  [ /ˌdekləˈreɪʃn/](cmd://Speak/_us_/declaration)  *n.* 宣布, 宣告, 声明 
+
+    *function declaration* 功能说明；函数说明 
+
+    *variable declaration* 变量声明
+
+36.  An aside  一个旁证 
+
+37. pragmatism  [ /'prægmə'tɪzəm/](cmd://Speak/_us_/pragmatism)   n. 实用主义 
+
+    **pragmatic**  [/præɡˈmætɪk/](cmd://Speak/_us_/pragmatic)   *adj.* 务实的；实事求是的；注重实效的 
+
+38. lexical [/ˈleksɪkl/](cmd://Speak/_us_/lexical) *adj.* 词法的  具词典性质的,词典的  词汇的 
+
+39. comma  [ /ˈkɑːmə/](cmd://Speak/_us_/comma)   逗号
+
+40. preclude  [ /prɪˈkluːd/](cmd://Speak/_us_/preclude)  排除了...
+
+    The flood precluded him from coming  他因洪水不能来了 
+
+41. **clumsy** *adj.* 笨拙的, 笨重的 
+
+42. volatile [ /ˈvɑːlətl/](cmd://Speak/_us_/volatile)  在计算机中，volatile是一个关键字，用于修饰变量。它的作用是告诉编译器，该变量的值可能会在程序的执行过程中被意外地改变，因此编译器不能对该变量进行优化，必须每次都从内存中读取该变量的值。这样可以保证程序的正确性，但是会降低程序的执行效率。 
+
+    在计算机中，volatile location是指一个内存地址，它的值可能会在程序的执行过程中被意外地改变。与普通的内存地址不同，编译器不能对volatile location进行优化，必须每次都从内存中读取该地址的值。这样可以保证程序的正确性，但是会降低程序的执行效率。
+
+43. obviate  [ /ˈɑːbvieɪt/](cmd://Speak/_us_/obviate)   *vt.* 避免,消除(贫困、不方便等) 
+
+44. tied to 捆绑于
+
+45. adorn  [/əˈdɔːrn/](cmd://Speak/_us_/adorn)  vt. 装饰；使生色 
+
+    unadorned  [ /ˌʌnəˈdɔːrnd/](cmd://Speak/_us_/unadorned)   *adj.* 朴素的;未经装饰的 
+
+46. exploit  [/ɪkˈsplɔɪt/](cmd://Speak/_us_/exploit)  vt. 利用  exploiting the fact  利用这一事实 
+
+47. set up  vt. 建立 
+
+48. **accustom**  [/əˈkʌstəm/](cmd://Speak/_us_/accustom)  vt. 使习惯于  
+
+49. peculiar [/pɪˈkjuːliər/](cmd://Speak/_us_/peculiar)  *adj.* 奇怪的, 异常的  特有的, 独具的 
+
+50. The fields of a composite literal are **laid** **out** in order and must all be present.  复合字词的字段是**按顺序**排列的，必须全部出现。 
+
+    Composite literal 是一种创建复合类型（如数组、切片、结构体等）的简洁语法。它使用花括号包含一个或多个键值对或元素，每个键值对或元素之间用逗号分隔。例如，创建一个包含三个元素的整数切片可以使用以下语法：[]int{1, 2, 3}。 
+
+    **lay out** 设计，安排，陈列，花费，拟定 
+
+51. respective [ /rɪˈspektɪv/](cmd://Speak/_us_/respective)  *adj.* 各自的; 各个的 
+
+
+
+ 
 
