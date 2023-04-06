@@ -48,9 +48,11 @@
 
 #### 002组
 
-1. Leverage the classic push/pull and data version control to **collaborate** and orchestrate as a team （利用经典的推/拉和数据版本控制，作为一个整体进行协作和编排）
+1. Leverage the classic push/pull and data version control to **collaborate** and **orchestrate** as a team （利用经典的推/拉和数据版本控制，作为一个整体进行协作和编排）
 
 ​		**collaborate ** */*kəˈlæbəreɪt*/*  *v.*合作，协作；勾结，通敌
+
+​		orchestrate  [ /ˈɔːrkɪstreɪt/](cmd://Speak/_us_/orchestrate)   *vt.* 把(乐曲)编成管弦乐  和谐地安排；精心策划 
 
 ​		**leverage ** */*ˈlevərɪdʒ*/* *n.*影响力，手段；杠杆力，杠杆作用；<美>杠杆比率   *v.*<英>举债经营；**充分利用			（资源、观点等）**
 
@@ -64,15 +66,17 @@
 
    *n.*（足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；（美式足球中的）阻截队员；体育器械，（尤指）渔具；（吊起重物用的）索具，滑轮；<英，俚>男性性器官
 
-4. **model-agnostic** 模型诊断
+4. **model-diagnostic** 模型诊断
 
-5. First, make a **supervised model** along with the stated **pre-requisites** and launch the web app to visualize the data. （ 首先，按照规定的前提条件制作一个监督模型，并启动网络应用，使数据可视化）
+5. First, make a **supervised model** along with the **stated** **pre-requisites** and launch the web app to visualize the data. （ 首先，按照规定的前提条件制作一个监督模型，并启动网络应用，使数据可视化）
 
 ​		**supervised model** 监督模型
 
 ​		**pre-requisites** 前提条件  requisite *adj.*<正式>必需的，必要的  *n.*<正式>必需品，必要条件
 
-6. **Essentially**  *adv.*本质上，根本上；大体上，基本上
+​		**stated** adj. 定期的；规定的；**阐明的**
+
+6. **essentially**  [/ɪˈsenʃəli/](cmd://Speak/_us_/essentially)  *adv.*本质上，根本上；大体上，基本上
 
 7. an **intermediate** to an **advanced** **implementation** 从中级到高级的实现
 
@@ -338,7 +342,7 @@
 9. **fingerprint**  n.（名词）   指纹
 10. **transcription**  [/trænˈskrɪpʃn/](cmd://Speak/_us_/transcription)  n.（名词）  抄写  *【生物学】* 转移 转录  *reverse transcription* 反转录，逆转录 
 
-11. **treachery**  n.（名词）  背叛 
+11. **treachery**  n.（名词）  背叛  [/ˈtretʃəri/](cmd://Speak/_us_/treachery)   对比 ==> treasury [/ˈtreʒəri/](cmd://Speak/_us_/treasury)   财政部
 
     I can't **stand** your **treachery** and deceit[/dɪˈsiːt/](cmd://Speak/_us_/deceit)(欺诈).
 
@@ -1154,18 +1158,18 @@
 
    **idiomatic Go code** go语言代码习惯
 
-1. augment  [ /ɔːɡˈment/](cmd://Speak/_us_/augment)   对... 的补充 
+6. augment  [ /ɔːɡˈment/](cmd://Speak/_us_/augment)   对... 的补充 
 
    1. *vt.* 增加, 提高, 扩大
    2. *n.* 增加, 提高, 扩大
 
-2. polymorphism [ /ˌpɑlɪ'mɔrfɪzm/](cmd://Speak/_us_/polymorphism)  *n.* 多态
+7. polymorphism [ /ˌpɑlɪ'mɔrfɪzm/](cmd://Speak/_us_/polymorphism)  *n.* 多态
 
-3.  We intend to go 我们打算去  [/ɪnˈtend/](cmd://Speak/_us_/intend)   
+8. We intend to go 我们打算去  [/ɪnˈtend/](cmd://Speak/_us_/intend)   
 
-4. self-contained 自带的 [/kənˈteɪn/](cmd://Speak/_us_/contain) 
+9. self-contained 自带的 [/kənˈteɪn/](cmd://Speak/_us_/contain) 
 
-5. **content**  [/ˈkɑːntent/](cmd://Speak/_us_/content)   
+10. **content**  [/ˈkɑːntent/](cmd://Speak/_us_/content)   
 
    1. n. 内容，目录；容量；满足
    2. adj. 满意的
@@ -1177,41 +1181,41 @@
 
    And even this point is highly contentious.  甚至这一点也是非常有争议的 
 
-6. consequential  [ /ˌkɑːnsɪˈkwenʃl/](cmd://Speak/_us_/consequential) *adj.* 作为结果的,间接的 重要的 
+11. consequential  [ /ˌkɑːnsɪˈkwenʃl/](cmd://Speak/_us_/consequential) *adj.* 作为结果的,间接的 重要的 
 
-   **consequence** [ /ˈkɑːnsɪkwens/](cmd://Speak/_us_/consequence)  *n.* 结果, 后果  重要(性), 重大 
+    **consequence** [ /ˈkɑːnsɪkwens/](cmd://Speak/_us_/consequence)  *n.* 结果, 后果  重要(性), 重大 
 
-   Formatting issues are the most **contentious** but the least **consequential**. 
+    Formatting issues are the most **contentious** but the least **consequential**. 
 
-7. Utopia [/ju:'təupiə/](cmd://Speak/_us_/Utopia)  n. 乌托邦（理想中最美好的社会）；理想国 
+12. Utopia [/ju:'təupiə/](cmd://Speak/_us_/Utopia)  n. 乌托邦（理想中最美好的社会）；理想国 
 
-8. prescriptive [ /prɪ'skrɪptɪv/](cmd://Speak/_us_/prescriptive)     a long prescriptive style guide  长篇规定性的风格指南 
+13. prescriptive [ /prɪ'skrɪptɪv/](cmd://Speak/_us_/prescriptive)     a long prescriptive style guide  长篇规定性的风格指南 
 
-   1. *adj.* 规定的, 指定的, 制定(规则)的
-   2. 约定俗成的, 惯例的
+    1. *adj.* 规定的, 指定的, 制定(规则)的
+    2. 约定俗成的, 惯例的
 
-   prescription 
+    prescription 
 
-   1. *n.* 药, 治疗方法
-   2. 处方, 药方
-   3. 开处方, 开药
+    1. *n.* 药, 治疗方法
+    2. 处方, 药方
+    3. 开处方, 开药
 
-9. devote [ /dɪˈvoʊt/](cmd://Speak/_us_/devote)  
+14. devote [ /dɪˈvoʊt/](cmd://Speak/_us_/devote)  
 
-   *vt.* 把…奉献(给), 把…专用(于)
+    *vt.* 把…奉献(给), 把…专用(于)
 
-   时 态: devoted, devoting, devotes
-   名 词: devotement 
+    时 态: devoted, devoting, devotes
+    名 词: devotement 
 
-10. property market 房地产市场
+15. property market 房地产市场
 
-11. **precaution**  [ /prɪˈkɔːʃn/](cmd://Speak/_us_/precaution)  *n.* 预防措施 
+16. **precaution**  [ /prɪˈkɔːʃn/](cmd://Speak/_us_/precaution)  *n.* 预防措施 
 
-12. precarious  [ /prɪˈkeriəs/](cmd://Speak/_us_/precarious)  *adj.* 依靠机会的; 不确定的  不安全的; 不稳固的  *[precarious driving](dic://precarious driving)* 危险驾驶 
+17. precarious  [ /prɪˈkeriəs/](cmd://Speak/_us_/precarious)  *adj.* 依靠机会的; 不确定的  不安全的; 不稳固的  *[precarious driving](dic://precarious driving)* 危险驾驶 
 
-13. few are in as bad shape as this  很少有像这样糟糕的情况 
+18. few are in as bad shape as this  很少有像这样糟糕的情况 
 
-14. emit [/ɪˈmɪt/](cmd://Speak/_us_/emit)  vt. 发出，放射；发行；发表 
+19. emit [/ɪˈmɪt/](cmd://Speak/_us_/emit)  vt. 发出，放射；发行；发表 
 
     *[emitting diode](dic://emitting diode)* 发光二极管；电致发光片 
 
@@ -1219,7 +1223,7 @@
 
     The sun emits light  太阳发光 
 
-15. indent  [/ɪnˈdent/](cmd://Speak/_us_/indent)  缩进
+20. indent  [/ɪnˈdent/](cmd://Speak/_us_/indent)  缩进
 
     1. vt. 缩排；定货；印凹痕
     2. vi. 切割成锯齿状
@@ -1227,23 +1231,23 @@
 
     Indentation  [ /ˌɪndɛn'teʃən/](cmd://Speak/_us_/indentation)  *n.* 缩进
 
-16. precedence  [/ˈpresɪdəns/](cmd://Speak/_us_/precedence)   *n.* 领先于…的权利;优先权  
+21. precedence  [/ˈpresɪdəns/](cmd://Speak/_us_/precedence)   *n.* 领先于…的权利;优先权  
 
     operator precedence 操作符优先级
 
-17.  large **swaths** of code 大片的代码段
+22. large **swaths** of code 大片的代码段
 
-18. semantic adj. 语义的；语义学的（等于semantical）  [ /sɪ'mæntɪk/](cmd://Speak/_us_/semantic) 
+23. semantic adj. 语义的；语义学的（等于semantical）  [ /sɪ'mæntɪk/](cmd://Speak/_us_/semantic) 
 
-19. accessor 访问器
+24. accessor 访问器
 
     Use accessor methods instead of constructors to reinitialize the object  使用**访问**函数方法代替构造函数来重新初始化对象 
 
-20. modification  [ /ˌmɑːdɪfɪˈkeɪʃn/](cmd://Speak/_us_/modification)    so any modifications would be discarded   所以任何修改都会被丢弃 
+25. modification  [ /ˌmɑːdɪfɪˈkeɪʃn/](cmd://Speak/_us_/modification)    so any modifications would be discarded   所以任何修改都会被丢弃 
 
-21. agent-noun 代理名词
+26. agent-noun 代理名词
 
-22. productive [ /prəˈdʌktɪv/](cmd://Speak/_us_/productive) 
+27. productive [ /prəˈdʌktɪv/](cmd://Speak/_us_/productive) 
 
     1. *adj.* 多产的，富饶的
     2. 富有成效的；有益的 
@@ -1262,83 +1266,566 @@
 
     *productive investment* 生产性投资
 
-23. **signature** [ /ˈsɪɡnətʃər/](cmd://Speak/_us_/signature)   缩写   署名，签名 
+28. **signature** [ /ˈsɪɡnətʃər/](cmd://Speak/_us_/signature)   缩写   署名，签名 
 
-24. **semicolon ** [ /'sɛmɪkolən/](cmd://Speak/_us_/semicolon)   分号 
+29. **semicolon ** [ /'sɛmɪkolən/](cmd://Speak/_us_/semicolon)   分号 
 
-25. **lexer**  [ /leksə/](cmd://Speak/_us_/lexer)  词法分析程序 
+30. **lexer**  [ /leksə/](cmd://Speak/_us_/lexer)  词法分析程序 
 
-26. omit [/oˈmɪt/](cmd://Speak/_us_/omit)   *vt.* 省略，遗漏；删掉 
+31. omit [/oˈmɪt/](cmd://Speak/_us_/omit)   *vt.* 省略，遗漏；删掉 
 
-27. **clause** [/klɔːz/](cmd://Speak/_us_/clause)  子句 从句
+32. **clause** [/klɔːz/](cmd://Speak/_us_/clause)  子句 从句
 
-28. generalized [ /'dʒɛnrəlaɪzd/](cmd://Speak/_us_/generalized)  *adj.* 广泛的，普遍的，全面的 
+33. generalized [ /'dʒɛnrəlaɪzd/](cmd://Speak/_us_/generalized)  *adj.* 广泛的，普遍的，全面的 
 
-29. *[parenthese](dic://parenthese)* n. 括号；圆括号 
+34. *[parenthese](dic://parenthese)* n. 括号；圆括号 
 
-30. brace [/bres/](cmd://Speak/_us_/brace)  大括弧；大括号 
+35. brace [/bres/](cmd://Speak/_us_/brace)  大括弧；大括号 
 
-31. delimit [/diˈlɪmɪt/](cmd://Speak/_us_/delimit)  vt. 划界；定界限 
+36. delimit [/diˈlɪmɪt/](cmd://Speak/_us_/delimit)  vt. 划界；定界限 
 
     brace-delimit 大括号分割
 
-32. unnecessary adj. 不必要的；非必须的；多余的
+37. unnecessary adj. 不必要的；非必须的；多余的
 
-33. flow into 流入
+38. flow into 流入
 
-34. eliminate [ /ɪˈlɪmɪneɪt/](cmd://Speak/_us_/eliminate)  *v.tr*    消灭；消除 
+39. eliminate [ /ɪˈlɪmɪneɪt/](cmd://Speak/_us_/eliminate)  *v.tr*    消灭；消除 
 
-35. declaration  [ /ˌdekləˈreɪʃn/](cmd://Speak/_us_/declaration)  *n.* 宣布, 宣告, 声明 
+40. declaration  [ /ˌdekləˈreɪʃn/](cmd://Speak/_us_/declaration)  *n.* 宣布, 宣告, 声明 
 
     *function declaration* 功能说明；函数说明 
 
     *variable declaration* 变量声明
 
-36.  An aside  一个旁证 
+41. An aside  一个旁证 
 
-37. pragmatism  [ /'prægmə'tɪzəm/](cmd://Speak/_us_/pragmatism)   n. 实用主义 
+42. pragmatism  [ /'prægmə'tɪzəm/](cmd://Speak/_us_/pragmatism)   n. 实用主义 
 
     **pragmatic**  [/præɡˈmætɪk/](cmd://Speak/_us_/pragmatic)   *adj.* 务实的；实事求是的；注重实效的 
 
-38. lexical [/ˈleksɪkl/](cmd://Speak/_us_/lexical) *adj.* 词法的  具词典性质的,词典的  词汇的 
+43. lexical [/ˈleksɪkl/](cmd://Speak/_us_/lexical) *adj.* 词法的  具词典性质的,词典的  词汇的 
 
-39. comma  [ /ˈkɑːmə/](cmd://Speak/_us_/comma)   逗号
+44. comma  [ /ˈkɑːmə/](cmd://Speak/_us_/comma)   逗号
 
-40. preclude  [ /prɪˈkluːd/](cmd://Speak/_us_/preclude)  排除了...
+45. preclude  [ /prɪˈkluːd/](cmd://Speak/_us_/preclude)  排除了...
 
     The flood precluded him from coming  他因洪水不能来了 
 
-41. **clumsy** *adj.* 笨拙的, 笨重的 
+46. **clumsy** *adj.* 笨拙的, 笨重的 
 
-42. volatile [ /ˈvɑːlətl/](cmd://Speak/_us_/volatile)  在计算机中，volatile是一个关键字，用于修饰变量。它的作用是告诉编译器，该变量的值可能会在程序的执行过程中被意外地改变，因此编译器不能对该变量进行优化，必须每次都从内存中读取该变量的值。这样可以保证程序的正确性，但是会降低程序的执行效率。 
+47. volatile [ /ˈvɑːlətl/](cmd://Speak/_us_/volatile)  在计算机中，volatile是一个关键字，用于修饰变量。它的作用是告诉编译器，该变量的值可能会在程序的执行过程中被意外地改变，因此编译器不能对该变量进行优化，必须每次都从内存中读取该变量的值。这样可以保证程序的正确性，但是会降低程序的执行效率。 
 
     在计算机中，volatile location是指一个内存地址，它的值可能会在程序的执行过程中被意外地改变。与普通的内存地址不同，编译器不能对volatile location进行优化，必须每次都从内存中读取该地址的值。这样可以保证程序的正确性，但是会降低程序的执行效率。
 
-43. obviate  [ /ˈɑːbvieɪt/](cmd://Speak/_us_/obviate)   *vt.* 避免,消除(贫困、不方便等) 
+48. obviate  [ /ˈɑːbvieɪt/](cmd://Speak/_us_/obviate)   *vt.* 避免,消除(贫困、不方便等) 
 
-44. tied to 捆绑于
+49. tied to 捆绑于
 
-45. adorn  [/əˈdɔːrn/](cmd://Speak/_us_/adorn)  vt. 装饰；使生色 
+50. adorn  [/əˈdɔːrn/](cmd://Speak/_us_/adorn)  vt. 装饰；使生色 
 
     unadorned  [ /ˌʌnəˈdɔːrnd/](cmd://Speak/_us_/unadorned)   *adj.* 朴素的;未经装饰的 
 
-46. exploit  [/ɪkˈsplɔɪt/](cmd://Speak/_us_/exploit)  vt. 利用  exploiting the fact  利用这一事实 
+51. exploit  [/ɪkˈsplɔɪt/](cmd://Speak/_us_/exploit)  vt. 利用  exploiting the fact  利用这一事实 
 
-47. set up  vt. 建立 
+52. set up  vt. 建立 
 
-48. **accustom**  [/əˈkʌstəm/](cmd://Speak/_us_/accustom)  vt. 使习惯于  
+53. **accustom**  [/əˈkʌstəm/](cmd://Speak/_us_/accustom)  vt. 使习惯于  
 
-49. peculiar [/pɪˈkjuːliər/](cmd://Speak/_us_/peculiar)  *adj.* 奇怪的, 异常的  特有的, 独具的 
+54. peculiar [/pɪˈkjuːliər/](cmd://Speak/_us_/peculiar)  *adj.* 奇怪的, 异常的  特有的, 独具的 
 
-50. The fields of a composite literal are **laid** **out** in order and must all be present.  复合字词的字段是**按顺序**排列的，必须全部出现。 
+55. The fields of a composite literal are **laid** **out** in order and must all be present.  复合字词的字段是**按顺序**排列的，必须全部出现。 
 
     Composite literal 是一种创建复合类型（如数组、切片、结构体等）的简洁语法。它使用花括号包含一个或多个键值对或元素，每个键值对或元素之间用逗号分隔。例如，创建一个包含三个元素的整数切片可以使用以下语法：[]int{1, 2, 3}。 
 
     **lay out** 设计，安排，陈列，花费，拟定 
 
-51. respective [ /rɪˈspektɪv/](cmd://Speak/_us_/respective)  *adj.* 各自的; 各个的 
+56. respective [ /rɪˈspektɪv/](cmd://Speak/_us_/respective)  *adj.* 各自的; 各个的 
 
+57. except for 除了... 
 
+58. analogous  [ /əˈnæləɡəs/](cmd://Speak/_us_/analogous)   *adj.* 相似的,可比拟的 
 
- 
+    analogous to passing a pointer to the underlying array.  类似于传递一个指向底层数组的指针 
+
+59. afterward  [/ˈæftɚwɚd/](cmd://Speak/_us_/afterward)   *adv.* <美>以后, 过后, 后来 
+
+    We began mass-producing it shortly afterward.  不久我们就大量生产它了 
+
+60.  **composite**  [ /kəmˈpɑːzət/](cmd://Speak/_us_/composite)   *adj.* 混合成的, 综合成的      
+
+    *composite material* 复合材料 
+
+    *composite steel* 复合钢 
+
+    *composite function* 复合函数 
+
+    *composite fiber* 复合纤维；混合纤维 
+
+    *composite indicator* 综合指标 
+
+61. literal n.*Computer Science* （名词）*【计算机科学】*  A letter or symbol that represents a particular constant or number, known or unknown, and is not programmer-defined. 
+
+62. **colon**  [/ˈkoʊlən/](cmd://Speak/_us_/colon)  冒号
+
+    colon-separated 冒号分割
+
+63. interpretation [ /ɪn'tɝprɪ'teʃən/](cmd://Speak/_us_/interpretation)  *n.* 解释，说明；诠释 
+
+    *simultaneous interpretation* 同声传译
+
+    *judicial interpretation* 司法解释
+
+    *image interpretation* 图像判读，影像判读
+
+    *geological interpretation* 地质判读；地质学解释
+
+    *oral interpretation* 口译
+
+    *visual interpretation* 目视判读；目视判释
+
+    *physical interpretation* 物理解释
+
+64. **intricate**   [ /ˈɪntrɪkɪt/](cmd://Speak/_us_/intricate)   *adj.* 错综复杂的 
+
+    *[intricate plot](dic://intricate plot)* 剧情复杂 
+
+    The design is intricate  这个设计是错综复杂的 
+
+65. **contrived** [ /kən'traɪvd/](cmd://Speak/_us_/contrived)  *adj.*   精心设计的 
+
+    In this **contrived** example `Sequence` satisfies **both**. 在这个设计好的例子中，Sequence同时满足了这两点 
+
+66. **analogy**  [ /əˈnælədʒi/](cmd://Speak/_us_/analogy) *n.* 类似, 相似  类比 
+
+67. trivial [/ˈtrɪviəl/](cmd://Speak/_us_/trivial)  adj. 不重要的，琐碎的；琐细的 普通的
+
+    *trivial matters* 无关重要的事情（trivial matter的复数形式）
+
+    There are a few trivial slips in this lesson  在这篇课文中有几个小错误 
+
+68. harm  [ /hɑːrm/](cmd://Speak/_us_/harm)   *n.* 损害, 危害, 伤害  *vt.* (使)受到损害, 伤害 
+
+    *no harm* 无害 
+
+    *out of harm's way* 在安全地带 
+
+69. **irrelevant**  [ /ɪˈreləvənt/](cmd://Speak/_us_/irrelevant)  *adj.* 不相干的,不相关的 
+
+70. bloat [ /blot/](cmd://Speak/_us_/bloat) 
+
+    1. vt. （使）肿胀；使膨胀；腌制
+    2. vi. 膨胀；肿起；得意
+    3. n. 膨胀的东西，肿胀的人；肿胀病人；自满的人
+
+    Unused imports bloat the program and slow compilation  未使用的导入会使程序变得臃肿，并减缓编译速度 
+
+71.  *[workaround](dic://workaround)*    [ /'wə:kə,raund/](cmd://Speak/_us_/workaround)  **n. 应变方法；变通方法，替代方法；避免计算机程序问题法** *n.* 工作区
+
+72. silence  [/'saɪləns/](cmd://Speak/_us_/silence)  vt. 平息  *n.* 寂静；无声 
+
+    To silence **complaints** about the unused imports, use a blank identifier to refer to a symbol from the imported package  为了平息对未使用的导入的抱怨 
+
+    *in silence* 沉默地
+
+    *keep silence* 保持沉默，保持安静
+
+    *silence is gold* 沉默是金
+
+    *silence is golden* 沈默是金
+
+    *break the silence* 打破沉默；打破宁静
+
+    *dead silence* 静默无声；死一般的沉寂
+
+    *conspiracy of silence* 保持缄默的密约
+
+    *radio silence* 无线电寂静
+
+73. complaint [/kəmˈplent/](cmd://Speak/_us_/complaint)   *n.* 抱怨, 诉苦  投诉, 控告  疾病 
+
+74. **reminder** [ /rɪˈmaɪndər/](cmd://Speak/_us_/reminder) *n.* 提醒…的东西
+
+    remind 使记起；使想起 
+
+    By convention, the global declarations to silence import errors should come right after the imports and be commented, both to make them easy to find and as a reminder to clean things up later. 
+
+    按照惯例，用于消除导入错误的全局声明应该紧跟在导入之后，并加以注释，这既是为了使它们易于被发现，也是为了提醒人们以后要注意清理。
+
+75. *[inadvertently](dic://inadvertently)* adv. 无意地，不经意地  [ /ˌɪnədˈvɜːrtəntli/](cmd://Speak/_us_/inadvertently)   
+
+    **advertent** *adj.* 注意的,留意的  [/ædˈvɚrtnt/](cmd://Speak/_us_/advertent) 
+
+76. alongside  [ /əˌlɔːŋˈsaɪd/](cmd://Speak/_us_/alongside) 
+
+    1. *adv.* 靠着边，沿着边
+    2. *prep.* (表示位置)在…旁边；沿着…的边；与…并排靠拢着
+    3. (表示比较)与…放在一起比较
+    4. **(表示伴随)与…一起，与…一道** 
+
+    **As mentioned earlier**, Go's multivalue return makes it easy to return a detailed error description alongside the normal return value.  如前所述，Go的多值返回使其很容易在正常返回值的同时(与.... 一起)返回详细的错误描述。 
+
+77. regular 
+
+    1. adj. 整齐的；定期的；有规律的；合格的
+    2. n. 正式队员；常客；中坚分子
+    3. adv. 经常地；定期地
+
+    *regular meeting* 例会
+
+    *at regular intervals* 每隔一定时间（距离）
+
+    *regular season* 常规赛；季赛
+
+    *regular expression* 正则表达式；正规表达式
+
+    *regular work* 固定工作
+
+    *regular practice* 习惯做法
+
+    *regular customer* 常客；老主顾
+
+    *regular polygon* 正多边形；正多角形
+
+    *regular inspection* 定期检查
+
+    *regular bus* 班车
+
+    *regular army* 正规军；常备军
+
+    *regular script* 楷书
+
+    *regular staff* 正式职工
+
+78. refine [/rɪˈfaɪn/](cmd://Speak/_us_/refine)   vt. 精炼，提纯；使…文雅；改善 
+
+    They refined gold out of the **ore**  他们从矿石中提炼出黄金  [/ɔːr/](cmd://Speak/_us_/ore) 
+
+79.  package **qualifier** 包修饰符  [/'kwɑlɪfaɪɚ/](cmd://Speak/_us_/qualifier)  n. 限定词，限定语；取得资格的人；修饰语 
+
+    **qualify**  [/ˈkwɑːlɪfaɪ/](cmd://Speak/_us_/qualify) 
+
+    1. *vt. & vi.* (使)具有资格, (使)合格
+    2. *vt.* 限定, 修饰
+
+​		I'd like to qualify my last statement 我想修正一下最后一句话  
+
+​		She qualified as a doctor this year 她今年取得了医生资格 
+
+80. refer to 引用
+
+81. subtlety [ /'sʌtlti/](cmd://Speak/_us_/subtlety) n. 微妙；敏锐；精明 
+
+    Concurrent programming in many environments is made difficult by the subtleties required to implement correct access to shared variables.   许多环境中的并发编程由于实现对共享变量的正确访问所需的微妙因素而变得困难 
+
+    对比    **nuance** ： 细微差别 
+
+82. inaccurate  [/ɪn'ækjərɪt/](cmd://Speak/_us_/inaccurate)   *adj.* 有错误的,不正确的 
+
+    They're called *goroutines* because the existing terms—threads, coroutines, processes, and so on—**convey** **inaccurate** **connotations**.  它们被称为goroutines，因为现有的术语--线程、coroutines、进程等等--都包含了不准确的含义。
+
+83. **connotation** [/ˌkɑːnəˈteʃn/](cmd://Speak/_us_/connotation)  n. 内涵；含蓄；暗示，隐含意义；储蓄的东西（词、语等） 
+
+84. **closure** [ /'kloʒɚ/](cmd://Speak/_us_/closure)  **闭包**
+
+    1. n. 关闭；终止，结束
+    2. vt. 使终止 
+
+    Serious lack of circulating fund forced the closure of the company  公司因缺严重乏流动资金而被迫关闭 
+
+85. simultaneous [/ˌsaɪmlˈteɪniəs/](cmd://Speak/_us_/simultaneous)  *adj.* 同时发生的; 同时存在的 
+
+86. *[Semaphore](dic://Semaphore)* 信号量; 信号灯; 信号标; 信号对象;  [ /'sɛməfɔr/](cmd://Speak/_us_/semaphore) 
+
+87. **subsequent** [ /ˈsʌbsɪkwənt/](cmd://Speak/_us_/subsequent)  == consequent   *subsequent handling* 后续工序 
+
+88. **beware** *vi.* 谨防, 当心 
+
+89. *[Deliberately](dic://Deliberately)* 有意; 刻意; 存心;  [ /dɪ'lɪbərətli/](cmd://Speak/_us_/deliberately) 
+
+90. **schematic** [ /skiːˈmætɪk/](cmd://Speak/_us_/schematic) 
+
+    1. *adj.* 纲要的，图表的；示意的，概略的
+    2. *n.* 图表，(尤指)电路原理图
+
+91. **execution**  [ /ˌeksɪˈkjuːʃn/](cmd://Speak/_us_/execution) 
+
+92. **substitute**  [ /ˈsʌbstɪtuːt/](cmd://Speak/_us_/substitute) 
+
+    *vt. & vi.* 代替, 替换, 代用
+
+    时 态: substituted, substituting, substitutes
+    名 词: substitutability
+    形容词: substitutable
+
+93. explanation  [ /ˌekspləˈneɪʃn/](cmd://Speak/_us_/explanation)   *n.* 解释, 说明 
+
+    **explain**  [ /ɪk'splen/](cmd://Speak/_us_/explain) 
+
+    v. 说明，解释
+
+    时 态: explained, explaining, explains
+    形容词: explainable
+
+94. affect [/əˈfekt/](cmd://Speak/_us_/affect)   vt. 影响；假装；感动；感染 
+
+95. **denote**  [ /dɪˈnoʊt/](cmd://Speak/_us_/denote) 
+
+    vt. 表示，指示
+
+    时 态: denoted, denoting, denotes
+    形容词: denotable
+
+    double-brace-delimited **pieces** denote template actions  以双括号分隔的**片段**表示模板动作 
+
+### jinshan2
+
+#### 001group
+
+1. trial [ /ˈtraɪəl/](cmd://Speak/_us_/trial)  
+
+   *clinical trial* 临床试验；诊治试验 
+
+   **clinical**  [ /ˈklɪnɪkl/](cmd://Speak/_us_/clinical) adj. 门诊的 临床的 
+
+2. **chunk**  [ /tʃʌŋk/](cmd://Speak/_us_/chunk)    n. 大块；矮胖的人或物   a chunk of ice.  一块厚冰 
+
+3. unitary  [/'junɪtɛri/](cmd://Speak/_us_/unitary)  adj. 单位的；单一的；统一的  unit  n. 单位
+
+4. bypass   [ /ˈbaɪpæs/](cmd://Speak/_us_/bypass)   *vt.* 绕过, 避开  *n.* 旁道   
+
+   *bypass surgery* 绕道手术；心脏搭桥手术 
+
+   Let's bypass the town  我们绕过这座小镇子吧 
+
+5. **stochastic**  [ /sto'kæstɪk/](cmd://Speak/_us_/stochastic)  *adj.* 随机的 
+
+   *stochastic process* 随机过程 
+
+   *stochastic model* 随机模型；随机模式
+
+6. **exhaustive** [ /ɪɡˈzɔːstɪv/](cmd://Speak/_us_/exhaustive)   *adj.* 全面的, 彻底的, 透彻的 
+
+   副 词: exhaustively 
+   名 词: exhaustivity 
+
+   *exhaustive search* 穷举搜索
+
+   *exhaustive method* 穷举方法
+
+   The paper contains an exhaustive evaluation section  这篇论文有很详尽的评估段落 
+
+7. **capitalize** [ /'kæpɪtəlaɪz/](cmd://Speak/_us_/capitalize)  
+
+   1. *vt.* 用大写字母写或印刷
+   2. 将(某事物)转作资本、用作资本或资本化
+   3. 充分利用某事物,从某事物中获利
+   4. *n.* 资本化 
+
+   She capitalized on her opponent's mistake and won the game  她利用了她对手的失误赢得了比赛 
+
+   capital 
+
+   1. n. 首都，省会；大写字母；资金；资本家
+   2. adj. 重要的；大写的；首都的
+
+8. **amplifier**  [ /ˈæmplɪfaɪər/](cmd://Speak/_us_/amplifier)  *n.* 扩音器, 放大器 
+
+   **amplitude**  [/'æmplə'tʊd/](cmd://Speak/_us_/amplitude)  **振幅**
+
+   1. *n.* 广大,广阔
+   2. 充足,丰富
+   3. 振幅
+   4. 射程
+   5. (智力的)幅度 
+
+9. **announce**   [ /əˈnaʊns/](cmd://Speak/_us_/announce) vt. 宣布；述说；预示；播报   announcement 
+
+10. witness [/ˈwɪtnɪs/](cmd://Speak/_us_/witness)  *n.* 目击者；证人  *vt.* 亲眼看见，目击 
+
+11. debut [/deˈbjuː/](cmd://Speak/_us_/debut)   n. 首次演出  首次露面  She made her debut album in 1973  她在1973年推出她的第一套唱片集 
+
+12. epoch  [ /ˈepək/](cmd://Speak/_us_/epoch)  *n.* 纪元, 时期, 时代  *glacial epoch* [地]冰川期；冰河时期 
+
+    **glacial**  [ /ˈɡleʃl/](cmd://Speak/_us_/glacial)  adj. 冰的；冰河时代的；冰冷的 
+
+13. estimate [ /ˈestɪmeɪt/](cmd://Speak/_us_/estimate) 
+
+    1. vi. 估计，估价
+    2. n. 估计，估价；判断，看法
+    3. vt. 估计，估量；判断，评价
+
+14. evaluate  [ /ɪˈvæljueɪt/](cmd://Speak/_us_/evaluate) 
+
+    *vt.* 评价, 估计, 估价
+
+    时 态: evaluated, evaluating, evaluates
+    名 词: evaluation
+    形容词: evaluative
+    名 词: evaluator
+
+15. padding  [ /'pædɪŋ/](cmd://Speak/_us_/padding) 
+
+    1. *n.* 衬料; 衬垫
+    2. 赘语; 废话; 凑篇幅的文字
+
+    *brake pad* 刹车片
+
+    *foot pad* 脚垫；鞋垫
+
+     There's a lot of padding in this novel  这本小说里有许多废话 
+
+    The old man was padding along  这位老人慢慢地向前走去 
+
+16. **dilation**  [ /daɪˈleʃən/](cmd://Speak/_us_/dilation)  n. 扩张，扩大；膨胀；详述  time dilation  时间膨胀 
+
+17. **convolution**   [ /ˌkɑnvə'luʃən/](cmd://Speak/_us_/convolution) *n.* 回旋,盘旋,卷绕 
+
+    *convolution integral* 卷积积分 
+
+    **integral** [ /ˈɪntɪɡrəl/](cmd://Speak/_us_/integral)  积分 
+
+    *double integral* 二重积分 
+
+    *integral value* 整数值 
+
+    *definite integral* 定积分 
+
+    Convolutional Neural Network **卷积神经网络** 
+
+18. grain [ /ɡren/](cmd://Speak/_us_/grain) *n.* 谷粒, 谷物, 谷类  小的硬粒  (天然)纹理  coarse-grained 粗粒度的
+
+19. *energy conversion* 能量转换；能量变换 
+
+    conversion [ /kənˈvɜːrʒn/](cmd://Speak/_us_/conversion)  *n.* 变换，转化  (宗教、信仰等)彻底改变；皈依 
+
+20. derivative [ /dɪˈrɪvətɪv/](cmd://Speak/_us_/derivative)  *n.* 衍生物，派生物；派生词；【数】导数，微商 
+
+    *partial derivative* 偏导数；偏微商 
+
+    *financial derivative* 金融衍生产品；金融衍生物
+
+    gradient [/'ɡredɪənt/](cmd://Speak/_us_/gradient)  n. 梯度；倾斜度；坡度 
+
+21. All programs have bugs and need endless refinement  所有的程序都有漏洞，都需要不断改进 
+
+#### 002G
+
+1. recap  [ /ri'kæp/](cmd://Speak/_us_/recap)  as a quick recap  快速复习一下 
+
+   1. n. 翻新的轮胎
+   2. vt. 翻新胎面；扼要重述
+
+2. perceptron [/pɚ'sɛptrɑn/](cmd://Speak/_us_/perceptron)  n. 感知器，[计] 感知机（模拟人类视神经控制系统的图形识别机） 
+
+   *[multilayer perceptron](dic://multilayer perceptron)* 多层感知器
+
+   **percept** [ /'pɝsɛpt/](cmd://Speak/_us_/percept)  n. 认知，认知的对象 
+
+3. minor  [/ˈmaɪnər/](cmd://Speak/_us_/minor)  
+
+   1. *adj.* 较小的, 较少的, 低级的, 次要的
+   2. *n.* 未成年人
+   3. 副修科目 
+
+   *asia minor* n. 小亚细亚 
+
+   *minor in* 辅修；兼修 
+
+   *minor crime* 未成年人犯罪 
+
+4. **composition**   [ /ˌkɑːmpəˈzɪʃn/](cmd://Speak/_us_/composition) 
+
+   1. *n.* 创作，写作，作曲
+   2. 作文，作品
+   3. 构图；构成，成分
+   4. 混合物，合成物 
+
+   **decomposition**  [ /ˌdiːˌkɑːmpəˈzɪʃn/](cmd://Speak/_us_/decomposition)   *n.* 分解  腐烂 
+
+5. **aisle**   [/aɪl/](cmd://Speak/_us_/aisle)  *n.* 过道, 通道 
+
+6. **ideology** [/ˌaɪdiˈɑːlədʒi/](cmd://Speak/_us_/ideology)  n. 意识形态  
+
+7. **representation**   [/ˌreprɪzenˈteɪʃn/](cmd://Speak/_us_/representation) 
+
+   1. *n.* 表现；展现；描绘；描述
+   2. 作为…的代表（或代理人）；作为…的代言人
+   3. 表示；象征；代表
+   4. 【英，正式】陈述；抗议 
+
+   *data representation* 数据表示法 
+
+   knowledge representation 知识表示；知识表达
+
+   The painting is a representation of a storm at sea  这幅画描绘的是海上的暴风雨 
+
+8. **suppose**  [/sə'poz/](cmd://Speak/_us_/suppose) 
+
+   The sale **was supposed to** last for a week, but for all practical purposes it's over  促销原来预料要持续一周 , 然而实际上已经结束了 
+
+   She often seems rather unfriendly, but I suppose she’s got her plus points 她常常看上去相当不友善，不过我想她有自己的优点 
+
+   Eating spinach([/'spɪnɪtʃ/](cmd://Speak/_us_/spinach)) is supposed to make you strong  据说吃菠菜能使人强壮 
+
+9. COLORADO [ /ˌkɑləˈrædo/](cmd://Speak/_us_/colorado) 科罗拉多 
+
+10. **expunge**  [/ɪkˈspʌndʒ/](cmd://Speak/_us_/expunge)  
+
+    *vt.* 擦掉,除去,删去,消除
+
+    时 态: expunged, expunging, expunges 
+
+    All the trees have been expunged.  所有的树都消失了 
+
+11. **convergence**  [ /kən'vɝdʒəns/](cmd://Speak/_us_/convergence)  *n.* 集中,收敛；集合 
+
+    *rate of convergence* 收敛速度，收敛速率 
+
+    *conditional convergence* 条件收敛 
+
+    *quadratic convergence* [计]二次收敛 
+
+    *algorithm convergence* 算法收敛；演算法收敛性 
+
+12. **drowsiness**  [/ˈdraʊzɪnɪs/](cmd://Speak/_us_/drowsiness)  *n.* 睡意;假寐;困倦 
+
+    *[drowsiness detection](dic://drowsiness detection)* 疲劳检测 
+
+13. **malformed**  [/ˌmæl'fɔrmd/](cmd://Speak/_us_/malformed)  *adj.* 难看的,畸形的
+
+    *[malformed eye](dic://malformed eye)* 畸形眼 
+
+14. agnostic  [/æɡˈnɑːstɪk/](cmd://Speak/_us_/agnostic)  *n.* 不可知论者 
+
+15. **consonant** [/ˈkɑːnsənənt/](cmd://Speak/_us_/consonant)   *n.* 辅音, 子音 
+
+16. cord  [/kɔːrd/](cmd://Speak/_us_/cord)  n. 束缚；绳索  vt. 用绳子捆绑 
+
+    *spinal cord* 脊髓 
+
+    **spinal**  [/ˈspaɪnl/](cmd://Speak/_us_/spinal)  adj. 脊骨的；脊髓的；脊柱的
+
+17. voiceless
+
+18. **bounce** [/baʊns/](cmd://Speak/_us_/bounce) 
+
+    1. n. 弹力；活力；跳
+
+    2. vt. 弹跳；使弹起
+
+    3. vi. 弹起，反跳；弹跳；弹回 
+
+       *bounce back* 反弹 
+
+19. **resilience** [/rɪˈzɪliəns/](cmd://Speak/_us_/resilience) 
+
+    1. *n.* 弹回;弹性
+    2. 恢复力；适应力 
+
+20.  **transaction**  [ /trænˈzækʃn/](cmd://Speak/_us_/transaction)  ***transaction processing*** [计]事务处理 
+
+21. Pseudo-code 伪代码
+
+#### 003G
 
