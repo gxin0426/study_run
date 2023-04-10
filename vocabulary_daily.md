@@ -2010,11 +2010,133 @@
 
     And it is disrupting obviously day to day life  显然，这打乱了人们的日常生活 
 
+#### 005G
 
+1. Though（虽然）- 这个词通常用于表达一种转折关系，表示尽管某种情况存在，但还有其他情况需要考虑。例如："Though it was raining, we still went for a walk."
 
+​		提示：这个单词的拼写类似于“thought”，这个单词的意思是“思考”，可以用来帮助记忆。
 
+​		It’s hard work; I enjoy it though. 工作很辛苦，可是我乐意干 (副词)
 
+2. Although（尽管）- 这个词与“though”非常相似，表示尽管某种情况存在，但还有其他情况需要考虑。例如："Although it was raining, we still went for a walk."
 
+​		提示：这个单词的前缀“al-”可以让您联想到“all”，表示所有的事情都被考虑了。
+
+1. Through [/θru/ ](cmd://Speak/_us_/through)  prep.  adv. adj. （穿过，经过）- 这个词通常用来描述通过某个空间或完成某项任务。例如："We drove through the tunnel to get to the other side."
+
+   *go through* 参加；经受；仔细检查；被通过
+
+   *all through* 一直；始终
+
+   *through with* 完成
+
+   *through and through* 完全，彻底；彻头彻尾地
+
+   *through it all* 一路走过（歌词）；经过所有（歌词）
+
+   *go through with* 完成，实行；把…进行到底
+
+   *once through* 单程的
+
+​		提示：这个单词的后缀“-ough”可以让您联想到“路”，表示穿过或经过一条路。
+
+4. Thorough [ /ˈθɜːroʊ/](cmd://Speak/_us_/thorough)  adj. （彻底的，全面的）- 这个词用来形容某种工作或任务被完成得非常彻底和全面。例如："She did a thorough job cleaning the kitchen."
+
+​		提示：这个单词中的“ough”可以让您联想到“虫子”，可以形象地描述一种非常彻底的清洁过程。
+
+5. **deterministic** [/dɪ,tɝmɪn'ɪstɪk/](cmd://Speak/_us_/deterministic) *adj.* 确定性的 
+
+6. **identity** [/aɪˈdentəti/](cmd://Speak/_us_/identity) n. 身份；同一性，一致；恒等式；特性 
+
+7. **derivation** [/ˌderɪˈveɪʃn/](cmd://Speak/_us_/derivation) 
+
+8. *theoretical derivation* 理论推导
+
+9. optional exponent  可选的指数 
+
+10. **predicate**  [ /'prɛdɪkət/](cmd://Speak/_us_/predicate)  *vt.* 断言；断定  *n.* 谓语 
+
+    The sermon predicated the perfectibility of humankind.  这篇布道文断言了人类的完美性 
+
+11. reserve  [ /rɪˈzɜːrv/](cmd://Speak/_us_/reserve)  *vt.* 保留[储备]某物  *n.* 贮藏；储备 
+
+    *federal reserve* （美国）联邦储备系统
+
+    *nature reserve* n. 自然保护区
+
+    *in reserve* 备用的；留下的
+
+    *without reserve* 无保留地
+
+    *reserve currency* 储备货币
+
+    *foreign exchange reserve* n. 外汇储备
+
+    *reserve bank* （美国）联邦储备银行（等于Federal 储备银行（指保管其他银行储备金的中央银行）；Reserve Bank）
+
+    *reserve fund* 准备基金
+
+    *reserve ratio* [经]法定准备金比率
+
+    *reserve for* 为…而保留
+
+    *oil reserve* 储油量
+
+    *federal reserve board* （美国）联邦储备金监察小组
+
+    *federal reserve bank* （美）联邦储备银行
+
+    *reserve capacity* 备用容量；备用能力；储备功率
+
+    *reserve a room* 预订房间
+
+    *deposit reserve ratio* 存款准备金率
+
+    *reserve requirement* 准备金要求；准备金的规定
+
+    *federal reserve system* （美）联邦准备制度
+
+    *reserve base* 储量基础，备用基地
+
+12. nominate [ /ˈnɑːmɪneɪt/](cmd://Speak/_us_/nominate)  vt. 提名；任命  指定；推荐 
+
+13. **Comment** [/ˈkɑːment/](cmd://Speak/_us_/comment) （注释）是一种用于在代码中添加注释的方式，它不会被编译器或解释器处理或执行。注释通常用于解释代码的意图或目的，或者提供代码的上下文信息，以帮助其他程序员更好地理解代码。注释通常以特定的注释标记或符号（如 // 或 #）开头，并可以跨越一行或多行。
+
+    **Annotation**  [ /ˌæno'teʃən/](cmd://Speak/_us_/annotation) （注解）是一种给代码添加元数据的方式，它可以被编译器或解释器处理或执行。注解通常用于在代码中添加额外的信息，例如类型检查、性能分析或测试套件配置等。注解通常以特定的语法（如@annotationName）和参数列表的形式出现在代码中，并会被编译器或解释器在编译时处理。
+
+    因此，尽管**comment**和**annotation**都是用于给代码添加注释的工具，但它们的目的和使用方式略有不同。
+
+14.  **disparate**    [/ˈdɪspərət/](cmd://Speak/_us_/disparate)  *adj.* (两种或多种东西)根本不同的, 不能相比较的 
+
+    ##### 近义词
+
+    *adj.* [different](dic://different), [heterogeneous](dic://heterogeneous), [heterogenous](dic://heterogenous)
+
+    ##### 反义词
+
+     [same](dic://same), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
+
+15.  steady [ /ˈstedi/](cmd://Speak/_us_/steady) 
+
+    1. adj. 稳定的；不变的；沉着的
+    2. vi. 稳固
+    3. vt. 使稳定；稳固；使坚定
+    4. adv. 稳固地；稳定地
+    5. n. 关系固定的情侣；固定支架
+
+    *steady increase* 稳定的增长 
+
+16. *exclusive agency* 独家代理商  [ /ɪkˈskluːsɪv/](cmd://Speak/_us_/exclusive)  *an exclusive right* 独占权  *exclusive news* n. 独家新闻  *exclusive distributor* 独家经销商 
+
+17. **ephemeral**  [/ɪˈfemərəl/](cmd://Speak/_us_/ephemeral)  ( [temporary](dic://temporary))   == >  [permanent](dic://permanent)   
+
+    *[ephemeral apps](dic://ephemeral apps)* 轻应用 
+
+    *[ephemeral ports](dic://ephemeral ports)* 临时端口 
+
+    *[ephemeral lake](dic://ephemeral lake)* 季节性湖泊
+
+18. 
 
 
 
