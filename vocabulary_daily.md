@@ -2136,7 +2136,33 @@
 
     *[ephemeral lake](dic://ephemeral lake)* 季节性湖泊
 
-18. 
+18. The railway **traverses** the country   [/trəˈvɜːrs/](cmd://Speak/_us_/traverse)   这条铁路横贯全国 
+
+19. revert   [/rɪˈvɜːrt/](cmd://Speak/_us_/revert) 
+
+    1. vi. 恢复；重提；返祖遗传；归还
+    2. vt. 使回复原状
+    3. n. 恢复原状者
+
+    时 态: reverted, reverting, reverts
+    名 词: reverter
+    形容词: revertible
+    形容词: revertive
+
+    His manner seems to have reverted to normal 他的举止好像已经恢复了正常
+
+20. **overlap** [/ˌoʊvərˈlæp/](cmd://Speak/_us_/overlap)  
+
+    1. n. 重叠；重复
+    2. vi. 部分重叠；部分的同时发生
+    3. vt. 与…重叠；与…同时发生 
+
+21. **maturity**   [ /məˈtʃʊrəti/](cmd://Speak/_us_/maturity)   == > mature
+
+    1. *n.* 成熟;成熟期;发育完全
+    2. (金融)到期 
+
+22. 
 
 
 
