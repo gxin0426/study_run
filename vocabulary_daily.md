@@ -2106,7 +2106,7 @@
 
     因此，尽管**comment**和**annotation**都是用于给代码添加注释的工具，但它们的目的和使用方式略有不同。
 
-14.  **disparate**    [/ˈdɪspərət/](cmd://Speak/_us_/disparate)  *adj.* (两种或多种东西)根本不同的, 不能相比较的 
+14. **disparate**    [/ˈdɪspərət/](cmd://Speak/_us_/disparate)  *adj.* (两种或多种东西)根本不同的, 不能相比较的 
 
     ##### 近义词
 
@@ -2116,7 +2116,7 @@
 
      [same](dic://same), [homogeneous](dic://homogeneous), [homogenous](dic://homogenous)
 
-15.  steady [ /ˈstedi/](cmd://Speak/_us_/steady) 
+15. steady [ /ˈstedi/](cmd://Speak/_us_/steady) 
 
     1. adj. 稳定的；不变的；沉着的
     2. vi. 稳固
@@ -2162,7 +2162,101 @@
     1. *n.* 成熟;成熟期;发育完全
     2. (金融)到期 
 
-22. 
+22. **obsolete**    [ /ˌɑːbsəˈliːt/](cmd://Speak/_us_/obsolete)  
+
+    1. adj. 老式的；废弃的
+    2. n. 废词；陈腐的人
+    3. vt. 废弃；淘汰 
+
+    *obsolete equipment* 陈旧设备 
+
+    they are obsolete 过时了
+
+#### 006G
+
+1. **experimental**  [/ɪkˌsperɪˈmentl/](cmd://Speak/_us_/experimental)   *adj.* 实验(性)的, 试验(性)的 
+
+2. redundancy  [ /rɪˈdʌndənsi/](cmd://Speak/_us_/redundancy) 
+
+   1. *n.* 失业，被解雇，裁员，被裁减
+   2. （尤指词、短语等的）多余，累赘，啰唆
+   3. 复置装置，冗余（机器、系统等某部件发生故障后的替代装置） 
+
+   *data redundancy* 数据冗余 
+
+   140 men and women volunteered for redundancy 140个男子和女子自愿下岗 
+
+3. **simplify** vt. 简化；使单纯；使简易 
+
+   时 态: simplified, simplifying, simplifies
+   名 词: simplification
+   名 词: simplifier
+
+   *[rationally simplified](dic://rationally simplified)* 合理简化
+
+4. **heal**    [ /hiːl/](cmd://Speak/_us_/heal)      ==> [cure](dic://cure) 主要指治愈疾病 
+
+   1. vt. 治愈，痊愈；和解
+   2. vi. 痊愈 
+
+   *heal up* 痊愈；治愈
+
+   *self heal* 自我治愈；夏枯草
+
+   A clean cut heals quickly  未受感染的伤口瘉合得快 
+
+5. **comprise**  [ /kəmˈpraɪz/](cmd://Speak/_us_/comprise)    vt. 包含；由…组成 
+
+   That is comprised of three parts  这个模式由三部分组成 
+
+6. **reusable** [ /ˌri'juzəbl/](cmd://Speak/_us_/reusable)   adj. 可以再度使用的，可重复使用的 
+
+7. **preempt** [/priˈɛmpt/](cmd://Speak/_us_/preempt)   *vt.*  抢占
+
+8. **predicate** [ /'prɛdɪkət/](cmd://Speak/_us_/predicate)  *vt.* 断言；断定  *n.* 谓语
+
+   *predicate logic* 谓词逻辑
+
+   *predicate verb* 谓语动词 
+
+     We **predicate** rationality of man  我们断言理性是人类的属性 
+
+9. extrapolate  [ /ɪkˈstræpəleɪt/](cmd://Speak/_us_/extrapolate)  *vt.* (由已知资料对未知事实或价值)推算,推断 
+
+   Extrapolate that out and a group of 1,000 bats could catch a million mosquitoes in under 2 hours 以此类推，1000只蝙蝠可以在2小时内捕捉到100万只蚊子 
+
+10.  **monotonicity** [ /ˌmɔnətə'nisəti/](cmd://Speak/_us_/monotonicity)  *n.* 单调性,单一性  == > non-monotonicity 非单调
+
+11. **unresponsive**  [/ˌʌnrɪ'spɑnsɪv/](cmd://Speak/_us_/unresponsive)  *adj.* 无答复的,反应迟钝的,感受性迟钝的,无同情心的 
+
+    I found her in a coma, totally unresponsive  我发现她晕倒了，完全失去了知觉
+
+    a politician who is unresponsive to the mood of the country  对国民情绪毫无反应的政客
+
+12. agenda  [/əˈdʒendə/](cmd://Speak/_us_/agenda)  n. （政治）议题；议事日程；目的 
+
+    *item on the agenda* 议程项目 
+
+13. **veteran** [/ˈvetərən/](cmd://Speak/_us_/veteran) 
+
+    1. *n.* 经验丰富的人; 老兵
+    2. 退伍军人 
+
+14. **debate**  [ /dɪˈbet/](cmd://Speak/_us_/debate)   vt. 辩论，争论，讨论   
+
+    a debatable point 有争论的观点 [ /dɪˈbeɪtəbl/](cmd://Speak/_us_/debatable) adj
+
+15. veggie [ /ˈvɛdʒi/](cmd://Speak/_us_/veggie)  *n.* 素食者 
+
+#### 007G
+
+1. 
+
+
+
+
+
+
 
 
 
