@@ -2250,7 +2250,60 @@
 
 #### 007G
 
-1. 
+1. **showcase**  展示
+
+2. chains together 连接在一起
+
+3. early adopter  [ /ə'dɔptə(r)/](cmd://Speak/_us_/adopter)   试水者 
+
+4. **fraud**  [/frɔːd/](cmd://Speak/_us_/fraud)  *n.* 欺诈, 欺骗行为   骗子 
+
+   *accounting fraud* 假帐；做假账 
+
+   *credit fraud* 信用欺诈 
+
+5. **massive**  [ /ˈmæsɪv/](cmd://Speak/_us_/massive)   *adj.* 大而重的, 大块的  可观的, 巨大的, 大量的 
+
+   *massive retaliation* 大规模报复
+
+6.  **spin**  [ /spɪn/](cmd://Speak/_us_/spin) 
+
+   1. *vi.* 旋转；纺纱；吐丝；晕眩
+   2. *vt.* 使旋转；纺纱；编造；结网
+   3. *n.* 旋转；疾驰 
+
+   时 态: spun spinning, spins 
+
+7. shitty  [ /'ʃɪti/](cmd://Speak/_us_/shitty)  adj. 较差的；劣等的  比较级: shittier, shittiest 
+
+   *[shitty y day](dic://shitty y day)* 倒霉的一天; 晦气的一天; 
+
+   Your grandson is a shitty person. Leave now  你外孙是个小瘪三 快离开 
+
+8. **impersonate**   [ /ɪmˈpɜːrsəneɪt/](cmd://Speak/_us_/impersonate)    *vt.* 扮演   模仿, 假冒  
+
+   He impersonates all the well-known politicians exactly right  他模仿所有有名的政治家达到维妙维肖的地步 
+
+9. rigor  [/ˈrɪɡɚ/](cmd://Speak/_us_/rigor) 
+
+   1. *n.* 严格，严厉；严谨，严密
+   2. 严酷；艰苦
+   3. <医>(发热前的)寒战
+   4. (由惊吓或中毒等导致的身体)僵直，强直 
+
+   *[rigor off](dic://rigor off)* 肌肉松弛
+
+   *[rigor chill](dic://rigor chill)* 寒冷  [ /tʃɪl/](cmd://Speak/_us_/chill)  *vt. & vi.* (使)变冷, (使)变凉  *n.* 寒冷, 寒气  寒颤, 发冷 
+
+10. **residual**  [/rɪˈzɪdʒuəl/](cmd://Speak/_us_/residual)  *adj.* 存留下来的;剩余的;残余的 
+
+    *residual stress* 剩余应力
+
+    *residual oil* 渣油，残油 
+
+11. academy
+
+12. reliably
 
 
 
