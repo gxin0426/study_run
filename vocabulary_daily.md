@@ -2305,6 +2305,380 @@
 
 12. reliably
 
+13. Prometheus ***comes with*** `PromQL`  普罗米修斯自带PromQL
+
+14. depict   [/dɪˈpɪkt/](cmd://Speak/_us_/depict)   *vt.* 描绘；描画  描述 
+
+15. Please don’t hesitate to contribute to the repo for adding features.  请不要犹豫，为增加功能而向回购贡献力量 
+
+    **hesitate**  [ /ˈhezɪteɪt/](cmd://Speak/_us_/hesitate)    vi. 踌躇，犹豫；不愿   vt. 踌躇，犹豫；有疑虑，不愿意  
+
+    I hesitate to describe him as really clever  我不愿说他真的聪明 
+
+16. Create a Config Map To Externalize Prometheus Configurations     在 Kubernetes 的上下文中，"externalize" 的意思是将某些东西存储或管理在应用程序容器或 Pod 之外。 
+
+17. **scrape**  [/skreɪp/](cmd://Speak/_us_/scrape)   抓取
+
+    *v.* 用工具刮；刮掉；擦伤；挖坑；刮出刺耳声；朝后拢头发；不入调地演奏小提琴；在面包上薄涂一层（黄油）；勉强维持；险胜；将就；（艰难地）凑集；节俭；用程序从网上下载（数据）
+    *n.* 刮掉；擦痕；刮擦声；地面空洞处；薄涂在面包上的黄油；鞠躬；困境；刮宫
+
+18. *[dropdown](dic://dropdown)* adj. 可折叠的，可展开的；（计算机菜单）下拉式的
+
+    *[dropdown list](dic://dropdown list)* 下拉列表
+
+19. multi-tenancy 多租户
+
+    **tenancy**  [ /'tɛnənsi/](cmd://Speak/_us_/tenancy)   *n.* 租用, 租赁  租用或租赁期 
+
+20. making it possible to operate Prometheus at scale with high availability.  使得Prometheus的规模化运作和高可用性成为可能。 
+
+#### 008G
+
+1. which provides an **efficient** and **cost-effective** way to **retain** long-term metric data  这为保留长期的计量数据提供了一种有效的、具有成本效益的方法 
+
+2. In this **comprehensive** Prometheus kubernetes tutorial  在这个全面的Prometheus kubernetes教程中 
+
+3. Comprehensive Guides  综合指南 [ /ˌkɑːmprɪˈhensɪv/](cmd://Speak/_us_/comprehensive) 
+
+4. **dialogue**  [ /'daɪəlɑɡ/](cmd://Speak/_us_/dialogue)    n. 对话；意见交换  vt. 用对话表达  vi. 对话 
+
+5. **follow-up**  *adj.* 继续的,作为重复的 
+
+6. admit  [ /ədˈmɪt/](cmd://Speak/_us_/admit)   *vt. & vi.* 许可进入  承认, 供认  admit its mistakes 承认他的错误
+
+7. challenge incorrect **premise** 挑战错误得前提
+
+   premise  [/ˈpremɪs/](cmd://Speak/_us_/premise)  n. 前提；上述各项；房屋连地基  vt. 引出，预先提出；作为…的前提 
+
+   *on the premise* 在…前提下
+
+   *major premise* n. [逻]（三段论法的）大前提
+
+   *off the premises* (尤指酒店)店外，屋外，建筑物外 
+
+   See him off the premises and sure he never returns!  把他从这房屋赶走, 决不让他再回来 
+
+   If your premise is established, your conclusions are easily deducible  如果你的前提成立,那么就很容易推断出你的结论了 
+
+8. sibling  [ /ˈsɪblɪŋ/](cmd://Speak/_us_/sibling)   n. 兄弟姊妹
+
+9. which is trained to follow an instruction in a prompt and provide a detailed response  能够遵循提示中的指令并提供详细的回答
+
+10. *[be tied to](dic://be tied to)* 束缚于，捆绑于  [/taid/](cmd://Speak/_us_/tied)   *v.* （tie的过去式和过去分词）打结；系，缚，捆，扎；约束 
+
+11. **potent**  [ /ˈpoʊtnt/](cmd://Speak/_us_/potent)   adj. 有效的；强有力的，有权势的；有说服力的 
+
+    *[potent factor](dic://potent factor)* 强效因素 
+
+    The **medicine** had a **potent** effect on your disease.  这药物对你的病疗效很大   [ /'mɛdsn/](cmd://Speak/_us_/medicine) 
+
+    For **race**[ /reɪs/](cmd://Speak/_us_/race)  remains a potent and often divisive force in our society  目前，种族问题仍然是一个可能造成社会分裂的重大问题 
+
+    **race**  
+
+    1. n. 种族，人种；家庭，门弟；属，种
+    2. vt. 和…竞赛；使急走，使全速行进；使参加比赛
+    3. vi. 比速度，参加竞赛；全速行进
+
+    **potential**  [/pəˈtenʃl/](cmd://Speak/_us_/potential)   *adj.* 潜在的, 有可能的  *n.* **潜力；电位；电势；可能性** 
+
+    *market potential* [经]市场潜力；市场潜在需求量 
+
+    *potential energy* 势能
+
+    ***electric potential*** 电位；电势 
+
+    *potential demand* 潜在需要 
+
+    *potential impact* 潜在影响 
+
+    He taught us that **potential** **vanishes** into nothing without **effort**  他教导我们，没有努力，潜能便会消失得无影无踪 
+
+12. boilerplate [/'bɔɪlɚplet/](cmd://Speak/_us_/boilerplate)  *n.* 样板文件 
+
+    It is tempting to dismiss this as **boilerplate language**  这样的说法很难不被当成是**打官腔**
+
+    *[boilerplate stuff](dic://boilerplate stuff)* 陈词滥调 
+
+    **stuff**  n. 材料；东西；填充物；素材资料 
+
+13. **heal**  [/hiːl/](cmd://Speak/_us_/heal)  vt. 治愈，痊愈；和解  vi. 痊愈 
+
+    [cure](dic://cure) 主要指治愈疾病。
+    [treat](dic://treat) 普通用词，指接受并诊治病人。
+    [heal](dic://heal) 侧重指治愈伤口、伤痛如灼伤等。
+    [remedy](dic://remedy) 着重用药物对病人进行治疗。 
+
+    You think knowing will heal you, huh?  你觉得知道真相就会治愈你，是吗？ 
+
+    A clean cut heals quickly.  未受感染的伤口瘉合得快 
+
+14.  rendezvous  [ /'rɑndevʊ/](cmd://Speak/_us_/rendezvous)   *n.* 约会  约会的地点(和时间)  *vi.* 约会, 会合 
+
+15. orphan  [/ˈɔːrfn/](cmd://Speak/_us_/orphan) 
+
+    1. adj. 孤儿的；无双亲的
+    2. n. 孤儿
+    3. vt. 使成孤儿
+
+    orphaned process  孤儿进程
+
+16. informer  [/ɪnˈfɔːrmər/](cmd://Speak/_us_/informer)  n. 通知者；告密者  
+
+17. **dispatch**  [ /dɪˈspætʃ/](cmd://Speak/_us_/dispatch)  n. 派遣；急件  vt. 派遣；[计算机]分派  **派送 分发**
+
+    *economic dispatch* 经济调度；经济分配 
+
+    *dispatch center* 调度中心；运输中心；勤务中心 
+
+18. **dichotomy**  [ /daɪˈkɑːtəmi/](cmd://Speak/_us_/dichotomy)  *n.* 一分成二,对分 
+
+    *[dichotomy search](dic://dichotomy search)* 二分法查找 
+
+19. **constraint**  [ /kənˈstreɪnt/](cmd://Speak/_us_/constraint)  *n.* 强制；限制，约束 
+
+    *constraint condition* 约束条件
+
+    *constraint equation* 约束方程式
+
+    *budget constraint* 预算约束；预算限制
+
+    *constraint satisfaction* 受限制满足；约束补偿
+
+    *constraint matrix* 约束矩阵
+
+    *constraint set* 约束集合
+
+    *equality constraint* 等式约束
+
+    *constraint force* 约束力
+
+20. **eligible**   [/ˈelɪdʒəbl/](cmd://Speak/_us_/eligible)    *adj.* 有资格当选的, 有条件被选中的   合适的, 适当的
+
+    This man is an eligible leader   这人是一个合适的领导 
+
+#### 009G
+
+1. **bonkers**  [ /'bɑŋkɚz/](cmd://Speak/_us_/bonkers)   *adj.* 疯狂的,精神不正常的 
+
+2. **astonishing**  *adj.* 使人吃惊的,惊人的 
+
+   astonish   [ /əˈstɑːnɪʃ/](cmd://Speak/_us_/astonish)   vt. 使惊讶 
+
+3. **bog**  [ /bɑɡ/](cmd://Speak/_us_/bog)  n. 沼泽；泥塘 
+
+4. **legacy**  [ /ˈleɡəsi/](cmd://Speak/_us_/legacy)   *n.* 遗产, 遗赠物  遗留之物 
+
+   cultural legacy  文化遗产 
+
+5. **supercharge**  [ /ˈsjupɚˌtʃɑrdʒ/](cmd://Speak/_us_/supercharge)   *vt.* 对…增压  
+
+   turbocharging /ˈtɜrboʊˌtʃɑrdʒɪŋ/  涡轮增压
+
+   mechanical supercharging 机械增压 [/mIˈkænɪkl/](cmd://Speak/_us_/mechanical) 
+
+6. bleach   [/bliːtʃ/](cmd://Speak/_us_/bleach)  
+
+   1. vt. 使漂白，使变白
+   2. vi. 变白，漂白
+   3. n. 漂白剂 
+
+   *chlorine bleach* 氯漂白；氯漂白剂    **[/'klɔrin/](cmd://Speak/_us_/chlorine)**
+
+7. **contaminate**  [/kənˈtæmɪneɪt/](cmd://Speak/_us_/contaminate)   *vt.* 把…弄脏, 污染 
+
+   *[contaminated air](dic://contaminated air)* [环境] 污染空气
+
+8. **segmentation**  [ /ˌsɛɡmɛn'teʃən/](cmd://Speak/_us_/segmentation)   *n.* 分割 
+
+   *image segmentation* 图像分割，图象分割法；局部图象分析法
+
+   *market segmentation* 市场分割；市场划分
+
+9. consistency  *n.* 一致性, 连贯性  consistency model 一致性模型
+
+10. **initiative**  [ /ɪˈnɪʃətɪv/](cmd://Speak/_us_/initiative)   *n.* 主动性, 首创精神 
+
+    *take the initiative* 采取主动；带头
+
+    *on one's own initiative* 主动地
+
+    ***subjective initiative* 主观能动性**
+
+    *have the initiative* 掌握主动
+
+    ***take initiative* 积极主动**
+
+    ***learning initiative* 学习积极性**
+
+    ***peace initiative* 和平倡议，倡议和平；和平的开端**
+
+    *proliferation security initiative* 防扩散安全倡议
+
+11. favor  [ /ˈfevə/](cmd://Speak/_us_/favor)   *n.* 好感,宠爱,关切,欢心,好意,喜爱  *vt.* 支持,赞成,照顾,促成,喜欢,证实,赐予 
+
+    disfavor  n. 失宠；厌恶；不悦  vt. 不赞成；冷待 
+
+    favorite adj. 特别受喜爱的 
+
+12. **descriptor**  [ /dɪ'skrɪptɚ/](cmd://Speak/_us_/descriptor)  *n.* 描述符 
+
+13. "If any" 是一个用于加强语气或强调的短语。它通常放在句子的结尾，用于询问是否有任何可用的选择或选项，或者强调某个情况是否存在。例如：
+
+    - "Do you have any questions, if any?"（你有任何问题吗，如果有的话？）-- 在这个例子中，"if any" 表示如果你有任何其他问题，你可以提出来。
+    - "He's not very smart, if any."（如果有的话，他也不是很聪明。）-- 在这个例子中，"if any" 表示说话者认为这个人可能不聪明。
+    - "We will hold a meeting next week, if any."（如果有必要的话，我们下周将举行一次会议。）-- 在这个例子中，"if any" 表示说话者并不确定是否需要举行会议，这要根据情况而定。
+
+14. **preliminary**  [ /prɪˈlɪmɪneri/](cmd://Speak/_us_/preliminary)  --->   **vantage**  [ /ˈvæntɪdʒ/](cmd://Speak/_us_/vantage)  ---> **higher** [ /'haɪɚ/](cmd://Speak/_us_/higher)  
+
+    *preliminary stage* 初始阶段，初期；原始阶段 
+
+    *vantage point* n. 有利位置；优势 
+
+    *higher education* 高等教育（指含大学以上的教育） 
+
+15. I suppose you can  我想你可以 
+
+16. Key Benefits  主要优势 
+
+17. A Range of Features 一系列特点
+
+18.  precedence  [ /ˈpresɪdəns/](cmd://Speak/_us_/precedence)   *n.* 领先于…的权利;优先权 
+
+19. **slightly**  [ /ˈslaɪtli/](cmd://Speak/_us_/slightly)   *adv.* 轻微地;稍稍  细长;苗条;微小  
+
+    *[slightly better](dic://slightly better)* 略胜一筹 
+
+20. pollable  /paole bl/  **CF-Pollable**: 可轮询的 
+
+#### 010G
+
+1.  *[Show dropdown](dic://Show dropdown)* 显示下拉框 
+
+2. unload [ /'ʌn'lod/](cmd://Speak/_us_/unload)  vt. 卸；摆脱…之负担；倾销 
+
+3.  **aligned**   [ /əˈlaɪnd/](cmd://Speak/_us_/align)  adj.对齐的, 均衡的@动词align的过去式和过去分词  
+
+4.  **hierarchy**   [ /ˈhaɪərɑːrki/](cmd://Speak/_us_/hierarchy)   *n.* 等级制度   统治集团, 领导层 
+
+   *social hierarchy* 社会等级；社会阶层 
+
+   *hierarchy system* 体系；分级系统 
+
+   *knowledge hierarchy* 知识体系
+
+5. loosely  [ /ˈluslɪ/](cmd://Speak/_us_/loosely)   adv. 宽松地；放荡地；轻率地 
+
+6.  bullet  [ /ˈbʊlɪt/](cmd://Speak/_us_/bullet)  n. 子弹  vi. 射出；迅速行进 
+
+   *silver bullet* 银弹
+
+   bullet wounds 枪伤
+
+7.  **functionality**   [ /ˌfʌŋkʃə'næləti/](cmd://Speak/_us_/functionality)    *n.*功能性；[数]泛函性，函数性 
+
+   *[Provides Basic Functionality](dic://Provides Basic Functionality)* 提供基本功能 
+
+   *[Functionality Doctrine](dic://Functionality Doctrine)* 功能原则   [ /ˈdɑːktrɪn/](cmd://Speak/_us_/doctrine)   *n.* 教条, 教义, 学说 
+
+8. portable  [ /ˈpɔːrtəbl/](cmd://Speak/_us_/portable)   *adj.* 便于携带的; 手提式的; 轻便的 
+
+   *portable computer* 便携式计算机
+
+9. **inscrutable**    [ /ɪnˈskruːtəbl/](cmd://Speak/_us_/inscrutable)   *adj.* 不可理解的;谜一样的 
+
+   *[an inscrutable smile](dic://an inscrutable smile)* 神秘的微笑 
+
+10. bloat  [ /blot/](cmd://Speak/_us_/bloat) 
+
+    1. vt. （使）肿胀；使膨胀；腌制
+    2. vi. 膨胀；肿起；得意
+    3. n. 膨胀的东西，肿胀的人；肿胀病人；自满的人 
+
+    *[curbing code bloat](dic://curbing code bloat)* 抑止代码膨胀 
+
+11. **finegrained**   *adj.* 有细密纹理的 
+
+12. **irrespective**  [/ˌɪrɪˈspɛktɪv/](cmd://Speak/_us_/irrespective)  *adj.* 不考虑的, 不问的, 不顾的 
+
+    He is going to buy it irrespective of what you say  不管你说什么, 他是买定了
+
+13.  **descendant** [ /dɪˈsendənt/](cmd://Speak/_us_/descendant)    *n.* 后代, 后裔 
+
+14. realtime 实际时间  adj. 实时的；适时的 
+
+    *[realtime mode](dic://realtime mode)* 实时状态; 即时模式;
+
+    *[realtime shadow](dic://realtime shadow)* 实时阴影
+
+    *[realtime monitor](dic://realtime monitor)* 实时监控程序
+
+    *[realtime communications](dic://realtime communications)* 实时通信
+
+    *[realtime multitask](dic://realtime multitask)* 实时多任务
+
+    *[realtime curve](dic://realtime curve)* 实时曲线
+
+    *[realtime display](dic://realtime display)* 实时显示
+
+    *[realtime push](dic://realtime push)* 即时推送
+
+15. **diagnosis**  [/ˌdaɪəɡˈnoʊsɪs/](cmd://Speak/_us_/diagnosis)  *n.* 〈医〉诊断法; 诊断结论 
+
+    *fault diagnosis* 故障诊断
+
+    *early diagnosis* 早期诊断
+
+16. **spawn**  [/spɔn/](cmd://Speak/_us_/spawn) 
+
+    Every investment boom reflects the society that spawned it.  每次投资热潮都是社会催生 
+
+17. **consort**  [/ˈkɑːnsɔːrt/](cmd://Speak/_us_/consort) 
+
+    1. vi. 结交；陪伴；符合
+    2. vt. 使结合；使联系
+    3. n. 配偶；伙伴 
+
+​		They went in consort two or three together  他们三三两两结伴前往 
+
+​		**consortium**  [ /kən'sɔrtɪəm/](cmd://Speak/_us_/consortium)   *n.* (数家公司或银行联合组成的)财团, 联营企业 
+
+18. **arena**  [ /əˈriːnə/](cmd://Speak/_us_/arena)  n. 竞技场；舞台 
+
+    He is one of the principal movers and shakers in the political arena  他是政界一个有权有势的人物 
+
+19. **monolith**  [ /ˈmɑːnəlɪθ/](cmd://Speak/_us_/monolith)   n. 整块石料；庞然大物 
+
+    *[Silica monoliths](dic://Silica monoliths)* 二氧化硅单块 
+
+20. **daunting**  [/'dɔntɪŋ/](cmd://Speak/_us_/daunting)  adj. 使人畏缩的；使人气馁的；令人怯步的 
+
+    *[daunting work](dic://daunting work)* 艰巨的任务
+
+    *[daunting challenge](dic://daunting challenge)* 严峻的挑战
+
+    *[daunting experience](dic://daunting experience)* 望而生畏的经历 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
