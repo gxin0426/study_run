@@ -2659,6 +2659,92 @@
 
     *[daunting experience](dic://daunting experience)* 望而生畏的经历 
 
+#### 011G
+
+1. [indeed](dic://indeed) 一般用于肯定或证实对方所说的话，多承接前言，也用来加强或肯定自己说话的语气。
+   [really](dic://really) 主要用于强调与事实或现实不相违背，也可表示不快、惊奇或某种含蓄的怀疑。
+   [truly](dic://truly) 强调客观存在的真实性，没有任何虚假。
+   [actually](dic://actually) 侧重于实际的事，而不是凭空想象或推测的事。
+
+2. **sticky**  [ /ˈstɪki/](cmd://Speak/_us_/sticky)   *adj.* 粘性的；粘的 
+
+   *sticky rice* n. 糯米
+
+   *sticky tape* 胶带
+
+   *sticky fingers* 偷盗习惯；小偷小摸的人 
+
+3. [material](dic://material) 通常指组成客观存在物的部分或其原料。
+   [matter](dic://matter) 通常指构成实物的物质，与精神相对立。在科学上，指占有空间，并能以某种方式被感官觉察的一切东西。
+   [substance](dic://substance) 多指某一种形式的物质，既可指元素也可指化合物。
+   [stuff](dic://stuff) 多用于日常生活中，非正式用词。常指构成整体的所有部分、物体或项目。有时指劣等材料，含轻蔑意味。
+
+4. **astute**  [ /əˈstuːt/](cmd://Speak/_us_/astute)   *adj.*  精明的   狡猾的  *adv.* 敏锐地,精明地  *n.* 敏锐,精明 
+
+5. **indisputable**  [ /ˌɪndɪˈspjutəbəl/](cmd://Speak/_us_/indisputable)   *adj.* 无可争辩的, 不容置疑的  
+
+   This is a work of indisputable genius     [/ˈdʒiːniəs/](cmd://Speak/_us_/genius)  这是毫无疑问的天才作品 
+
+6. ditch  [ /dɪtʃ/](cmd://Speak/_us_/ditch) 
+
+   1. vt. 在…上掘沟；把…开入沟里；[俚]丢弃
+   2. vi. 开沟；掘沟
+   3. n. 沟渠；壕沟
+
+   *last ditch* 最后防线，最后手段 
+
+   The car tipped into the ditch  汽车翻进水沟里 
+
+7. cursor [ /'kɝsɚ/](cmd://Speak/_us_/cursor)   *n.* 光标 
+
+8. come with   与……一起供给；伴随……发生；从……开始 伴随着
+
+9. **arithmetic**  [ /əˈrɪθmətɪk/](cmd://Speak/_us_/arithmetic)  *n.* 算术  计算 
+
+10. sparse matrix < == >  [dense](link:dense) [matrix](link:matrix)   [ /spɑːrs/](cmd://Speak/_us_/sparse)  [ /dɛns/](cmd://Speak/_us_/dense) 
+
+11. failover   [ /feil'əuvər/](cmd://Speak/_us_/failover)  故障转移; 故障切换; 容错; 失效接管 
+
+12. naive bayes  [ /naɪˈiːv/](cmd://Speak/_us_/naive)  朴素贝叶斯
+
+13. width  [/wɪdθ/](cmd://Speak/_us_/width)   *n.* 宽度, 阔度, 广度  宽, 广  **bandwidth**   [ /'bændwɪdθ/](cmd://Speak/_us_/bandwidth)    *n.* 带宽 
+
+14.  **lineage**  [/ˈlɪniɪdʒ/](cmd://Speak/_us_/lineage)   n. 血统；家系，世系  
+
+    And now those lineages are essentially gone  但是现在这些血脉基本断绝了 
+
+15. refinement  [/rɪˈfaɪnmənt/](cmd://Speak/_us_/refinement)  *n.*    改进 改良 精细的  提炼  优雅：高雅的状态或性质 
+
+    A greater refinement of the categorization is possible  进行更加精细的分类是可能的 
+
+16.  **pitfall**   [ /ˈpɪtfɔːl/](cmd://Speak/_us_/pitfall)  *n.* (捕猎野兽用的)陷阱  2. 意想不到的困难; 易犯的错误 
+
+    *[Potential pitfall](dic://Potential pitfall)* 潜在危险 
+
+    The wolf was caught in a pitfall  那只狼是利用陷阱捉到的 
+
+17. **ware**  [ /wɛr/](cmd://Speak/_us_/ware)   n. 器具；货物；制品；陶器，器皿   vt. 留心；小心 
+
+    **warehouse**  [ /ˈwɛrhaʊs/](cmd://Speak/_us_/warehouse)    *n.* 仓库, 货栈 
+
+18. indice   *[classific indices](dic://classific indices)* 分类指标  == index
+
+19. **internally ** [ /ɪnˈtə..nəlɪ/](cmd://Speak/_us_/internally)   *adv.* 内地；内部地   == >  **externally ** [ /ɪkˈstə..n l..ɪ/](cmd://Speak/_us_/externally)  外部地  
+
+20. **stand for**  代表；支持；象征；担任…的候选人 
+
+21. cultivated  [/ˈkʌltɪveɪtɪd/](cmd://Speak/_us_/cultivated) 
+
+    1. *adj.* 耕种的
+    2. 栽培的，非野生的
+    3. 培养成的；有教养的；文雅的
+
+#### 012G
+
+
+
+
+
 
 
 
