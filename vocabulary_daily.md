@@ -2,15 +2,18 @@
 
 #### 001组
 
-1. **breaking news** 突发新闻 /ˈbrekɪŋ/
-
-2. **coronavirus** 冠状病毒 /kəˈroʊnəvaɪrəs/
-
-3. **pitch** /pɪtʃ/ n: 沥青 树油子 v.tr. 投 扔 (To throw)
-
-4. the mlops **landscape** is frequence evolving  (MLOPS的格局在不断变化)
-
-5. **tangible**  /ˈtændʒəbl/  adj: 通过触摸可以感知的；可触知的; 确实的，真实的：有可能被当作事实来对待的；真实的或具体的; 实际的：有可能被理解或实现的;  **tangible property**: 有形财产
+1. **coronavirus** 冠状病毒 /kəˈroʊnəvaɪrəs/
+2. **pitch** /pɪtʃ/ n: 沥青 树油子 v.tr. 投 扔 (To throw)
+   
+   1. 音高：例如 "the pitch of the sound"（声音的音高）。
+   2. 汽车、飞机等的倾斜角度：例如 "the pitch of the plane"（飞机的俯仰角）。
+   3. 销售推广：例如 "give a sales pitch"（做销售推广），"pitch a product to a customer"（向客户推销产品）。
+   4. 站立或扔：例如 "pitch a tent"（搭帐篷），"pitch a ball"（扔球）。
+   5. 扔掉或抛弃：例如 "pitch the old magazines"（扔掉旧杂志）。
+   
+   总的来说，"pitch" 这个词多用在与音乐、销售、体育运动、建筑和自然界等相关的场合。根据具体的上下文，"pitch" 这个词也可以有其他不同的意义。
+3. the mlops **landscape** is frequence evolving  (MLOPS的格局在不断变化)
+4. **tangible**  /ˈtændʒəbl/  adj: 通过触摸可以感知的；可触知的; 确实的，真实的：有可能被当作事实来对待的；真实的或具体的; 实际的：有可能被理解或实现的;  **tangible property**: 有形财产
 
 ​		n:  tangibles 有形资产; 可触知的或具体的某事物
 
@@ -20,11 +23,11 @@
 
    **along with** : 与...一道(又), 连同...一起, 随同...一起, 沿[顺]着
 
-8. Monitoring the  model parameters in real-world post-production **is essential to** adjust  various components to ensure that the feedback loop is met and the  expected output is delivered in production **consistently**  (在现实世界的后期生产中，监测模型参数对于调整各种组件以确保满足反馈回路并在生产中持续交付预期产出是至关重要的)
+8. Monitoring the  model parameters in real-world post-production **is essential to** adjust  various                [/ˈveriəs/](cmd://Speak/_us_/various) components to ensure that the feedback loop is met and the  expected  [ /ɪkˈspekt/](cmd://Speak/_us_/expect) output is delivered in production **consistently**  (在现实世界的后期生产中，监测模型参数对于调整各种组件以确保满足反馈回路并在生产中持续交付预期产出是至关重要的)
 
    **consistently**     */*kənˈsɪstəntli*/* *adv.* 一贯地;坚持地；固守地; 持续的
 
-9. However, one **nuance** of the current state of [MLOps](https://www.projectpro.io/mlops tutorial for beginners-tutorial/mlops-python-tutorial-for-beginners) is that it is in the very **nascent** stages of development （然而，MLOps目前状况的一个细微差别是，它正处于非常初级的发展阶段）
+9. However[/haʊ'ɛvɚ/](cmd://Speak/_us_/however), one **nuance** of the current state of [MLOps](https://www.projectpro.io/mlops tutorial for beginners-tutorial/mlops-python-tutorial-for-beginners) is that it is in the very **nascent** stages of development （然而，MLOps目前状况的一个细微差别是，它正处于非常初级的发展阶段）
 
    **nuance** v/n  */*ˈnuːɑːns*/*  使产生细微差别 细微差别
 
@@ -32,7 +35,7 @@
 
 10. **production-ready**  生产级别的
 
-11. So **adopting** these in your personal GitHub projects will make you **stand out** (脱颖而出)as an expert in MLOps （因此，在你的个人GitHub项目中**采用**这些将使你作为MLOps的专家脱颖而出）
+11. So **adopting** these in your personal GitHub projects will make you **stand out** (脱颖而出)as an expert       [/ˈekspɜːrt/](cmd://Speak/_us_/expert) in MLOps （因此，在你的个人GitHub项目中**采用**这些将使你作为MLOps的专家脱颖而出）
 
 12. **Head over to** the Kaggle Titanic EDA to ML **Challenge** and focus on building the project using cookiecutter and high-quality documentation **as** **expected from** a production machine learning **perspective** （**前往**Kaggle Titanic EDA to ML挑战赛，专注于使用cookiecutter和高质量的文档构建项目，这是从生产机器学习的角度所期望的）
 
@@ -2740,6 +2743,286 @@
     3. 培养成的；有教养的；文雅的
 
 #### 012G
+
+1. Both inspired on Django-Admin  两者的灵感都来自于Django-Admin 
+
+   **inspire**  [ /ɪnˈspaɪər/](cmd://Speak/_us_/inspire)  vt. 鼓舞；激发；启示；产生；使生灵感 
+
+2. Pros for Flask-AppBuilder  Flask-AppBuilder的优点 
+
+3. Granular permissions, creates one permission for each web exposed method and action (you have to try it). 细致的权限，为每个网络暴露的方法和动作创建一个权限（你必须尝试)
+
+   **granular**  [ /'grænjəlɚ/](cmd://Speak/_us_/granular)   *adj.* 颗粒状的 
+
+4. but some things can get on your way if your building very specific security models.  但是，如果你建立了非常具体的安全模型，有些东西会妨碍你的工作 
+
+5. **discord**  [ /ˈdɪskɔːrd/](cmd://Speak/_us_/discord)   *n.* 不和, 纷争   不一致, 不和谐  争吵, 冲突 
+
+   There are many **discords** in this family  在这个家庭里有许多**争吵** 
+
+   A note of discord crept into their relationship 
+
+   ```bash
+   1. 句子结构: 主语: "A note of discord" 谓语: "crept into" 宾语: "their relationship"
+      常用短语:
+      - A note of discord: 表示关系中出现了问题或矛盾的暗示或迹象
+      - Crept into: 悄悄地进入或慢慢地渗入
+      - Their relationship: 他们之间的关系
+      单词用法:
+      - Note: 这里指的是一个迹象或暗示，而不是书面的记录或笔记。
+      - Discord: 表示矛盾、不和、不协调的状态。
+      - Crept: 是 creep 的过去式，这里表示悄悄地进入或慢慢地渗入。
+      - Into: 表示进入某个地方或状态的介词。
+      - Their: 形容词性物主代词，表示他们拥有的。
+      - Relationship: 表示人与人之间的联系或关系。
+   ```
+
+6. destiny  [/ˈdestəni/](cmd://Speak/_us_/destiny)   *n.* 命运; 天命; 天数 
+
+7. encourage [ /ɪnˈkɜːrɪdʒ/](cmd://Speak/_us_/encourage)  *vt.* 鼓励, 激励 
+
+8. **simplify**  [ /ˈsɪmplɪfaɪ/](cmd://Speak/_us_/simplify)  vt. 简化；使单纯；使简易 
+
+   Models are just visuals to help us **simplify** and explain concepts  模型只是视觉性地帮助我们简化和解释概念 
+
+9. **latency**  [ /'letnsi/](cmd://Speak/_us_/latency)   *n.* 潜伏  潜在因素  *latency time* 延迟时间，等待时间 
+
+10. **cutting edge**  （处于某事物发展的）领先地位，尖端，最前沿；优势，有利方面 
+
+11. **composite**  [ /kəmˈpɑːzət/](cmd://Speak/_us_/composite)  *adj.* 混合成的, 综合成的 
+
+12. **crawl**    [/krɔːl/](cmd://Speak/_us_/crawl) 
+
+    1. vi. 爬行；匍匐行进
+    2.  vt. 爬行；缓慢地行进
+    3. n. 爬行；养鱼池；匍匐而行
+
+    **crawler**  [ /ˈkrɔlɚ/](cmd://Speak/_us_/crawler)  n. 爬行者；履带牵引装置
+
+    *crawler crane* 履带起重机；履带吊
+
+    *crawler tractor* 覆带式拖拉机
+
+13. **predecessor**  [ /ˈpredəsesər/](cmd://Speak/_us_/predecessor)   *n.* 前任, 前辈  (被取代的)原有事物, 前身 
+
+    *predecessor company* 被接管公司
+
+    The new president spent the first year undoing the work of his predecessor.  新总统用了第一年的时间来收拾前任总统留下的摊子 
+
+    undo   vt. 解开；取消；破坏；扰乱 
+
+    *[undo typing](dic://undo typing)* 撤消键入
+
+14. **hallmark**  [ /ˈhɔlˌmɑrk/](cmd://Speak/_us_/hallmark)  n. 品质证明；特点  vt. 给…盖上品质证明印记；使具有…标志 
+
+    *[hallmark event](dic://hallmark event)* 标志性事件 
+
+    One hallmark of a good politician is his ability to influence people.  衡量一个优秀政治家的标志之一就是他影响大众的能力 
+
+15. **asynchronous**  [ /ei'siŋkrənəs/](cmd://Speak/_us_/asynchronous)  *adj.* 异步的 
+
+    *asynchronous motor* 异步电动机，异步马达；感应电动机
+
+    *asynchronous communication* n. 异步通信；非同步通讯
+
+    *asynchronous transfer mode* [电信]异步传输模式
+
+    *asynchronous generator* 异步发电机
+
+    *asynchronous machine* 异步电机；异步机
+
+    *asynchronous operation* [计]异步操作
+
+    *three phase asynchronous motor* 三相异步电动机
+
+    *asynchronous transmission* 异步传输，异步发送
+
+16. **mutate**  *vt. & vi.* (使某物)变化, 转变, 突变, 变异 
+
+    *[mutated gene](dic://mutated gene)* 突变基因
+
+17. Perspective matters 视角很重要
+
+18. **nostalgic**  [ /nə'stældʒɪk/](cmd://Speak/_us_/nostalgic)   *adj.* 对往事怀恋的, 怀旧的  
+
+19. takeoff 
+
+    takeoff timing 起飞时间
+
+    1. *n.* (飞机的)起飞;(航天器的)升空
+    2. 起跳
+    3. 发射
+    4. 开始;出发;起点;出发点
+    5. <喻>(经济的)起飞
+    6. <非正>(对某人习惯动作的)滑稽模仿
+
+20.  onset  [/ˈɑːnset/](cmd://Speak/_us_/onset)  *n.* 开始  攻击,袭击 
+
+    The onset of depression often follows a traumatic event  抑郁症发作常常发生在遭受创伤之后 
+
+**013G**
+
+1. I'm really looking forward to embracing whatever happens and whatever comes my way  我会继续向前看，无论未来会发生什么我都会面对 
+
+2.  Looking to the future instead of the past  我们要向前看而不是向后看 
+
+3. ***elapsed time*** 运行时间，经过时间 
+
+   **elapse**  [ /ɪˈlæps/](cmd://Speak/_us_/elapse)   vi. 时间过去；消逝   n. 时间的过去；流逝 
+
+   "Elapsed timer" 是一个计时器，用于测量经过的时间。它通常用于计算开始时间和结束时间之间的时间差，即经过的时间。"Elapsed" 一词表示经过的、流逝的，因此 "elapsed timer" 的含义是经过时间计时器，可以帮助我们测量从开始时间到当前时间之间的时间。"Elapsed timer" 通常用于计算程序运行时间、测量工作时间、比赛时间等。它可以通过各种方式实现，如计算机程序、手表、手机应用程序等。
+
+4.  **theorem**  [ /'θiərəm/](cmd://Speak/_us_/theorem)  *n.* (尤指数学)定理；命题   原理,原则 
+
+   *gauss theorem* 高斯定理 
+
+5. **coworker**  [ /ˈkəʊ wɜːrkər/](cmd://Speak/_us_/coworker)   n. 同事；合作者 
+
+6. **crummy**  [ /ˈkrʌmi/](cmd://Speak/_us_/crummy)  adj. 微不足道的；寒酸的；肮脏的 
+
+   *[crummy stuff](dic://crummy stuff)* 烂货 
+
+   *[what a crummy day](dic://what a crummy day)* 多糟糕的一天啊; 多倒霉的一天; 今天真倒霉;
+
+   George knew it mocking rival musicians as being **crummy**   乔治知道嘲笑竞争对手音乐家是很糟糕的事情 
+
+7. **backoff**  [ /'bækɔf/](cmd://Speak/_us_/backoff)  n. 铲背；倒扣，补偿；备值 
+
+   *[backoff algorithm](dic://backoff algorithm)* 退避算法 
+
+   *[input backoff](dic://input backoff)* 输入回退 
+
+   *[backoff value](dic://backoff value)* 回退数
+
+8. **outdate**  [/aʊtˈdet/](cmd://Speak/_us_/outdate)  vt. 使过时；使废弃；使陈旧 
+
+   *[Brand Outdated](dic://Brand Outdated)* 品牌老化 
+
+   *[private String outDate](dic://private String outDate)* 出厂日期 
+
+9. **wallpaper**  [/'wɔlpepɚ/](cmd://Speak/_us_/wallpaper)  *n.* 壁纸；墙纸  *vt.* 往 (屋里墙上)贴壁纸  *vi.* 贴壁纸 
+
+   *[google wallpapers](dic://google wallpapers)* 谷歌壁纸 
+
+10. enroll [ /ɪnˈrəʊl/](cmd://Speak/_us_/enroll)  （使）加入；注册；登记；招收（成员）；招（生）登记入学；注册（课程） 
+
+    We enroll at least a year out  我们这里注册起码排到隔年 
+
+    **Two out of three people who enroll are not going to find an adequate job** 
+
+    中文翻译：三个报名的人中有两个找不到合适的工作。
+
+    句子结构分析：
+
+    - Two out of three people：表示“三个人中的两个”，其中，“two”是主语，而“out of three people”是一个介词短语，表示“从三个人中”。
+    - who enroll：这是一个非限定性定语从句，修饰先行词“people”。
+    - are not going to find：表示“将不会找到”，是谓语动词短语。
+    - an adequate job：表示“一个合适的工作”，是名词短语，作为find的宾语。
+
+    在句子中，"enroll"是一个动词，表示"报名"。在句子中，"enroll"作为定语从句的谓语动词，修饰先行词"people"，进一步限定"people"的身份，即指那些"enroll"的人。因此，"enroll"在句子中的作用是修饰"people"的身份，从而限定了主语的范围。
+
+11. **corrupt**  [ /kəˈrʌpt/](cmd://Speak/_us_/corrupt) 
+
+    1. adj. 腐败的，贪污的；堕落的
+    2. vt. 使堕落，使恶化；使腐烂
+    3. vi. 腐烂；堕落，腐化
+
+    *corrupt practice* 弊端；行贿；舞弊行为 
+
+    It meant government became more **transparent** and less **corrupt**  这就意味着政府变得更加透明，腐败现象减少 
+
+12. **canonical**  [/kəˈnɑːnɪkl/](cmd://Speak/_us_/canonical)  
+
+    *canonical correlation* 典型相关
+
+    *canonical correlation analysis* 典型相关分析；典范相关分析
+
+    *canonical form* 规范形式；[语]语言的语音典型
+
+    *canonical transformation* 正则变换
+
+    *canonical ensemble* 正则系综，典范系综
+
+    *canonical analysis* 典型相关分析；典型分析；双复式分析
+
+    The periods during which they worshipped were called the canonical hours  他们做礼拜的时候通常被称为祷告时刻 
+
+13. **ensemble**  [/ɑn'sɑmbl/](cmd://Speak/_us_/ensemble)  n. 全体；总效果；全套服装；全套家具；合奏组 
+
+    *ensemble average* 总体均值；统计平均值
+
+14.  **Encapsulation, Polymorphism, Inheritance**   封装 多态 继承 
+
+    *[protocol to encapsulate](dic://protocol to encapsulate)* 协议封装
+
+    **encapsulate**  [/ɪn'kæpsjə'let/](cmd://Speak/_us_/encapsulate)   *vt.* 装入胶囊 
+
+    **polymorphism**  [/ˌpɑlɪ'mɔrfɪzm/](cmd://Speak/_us_/polymorphism)  *n.* 多型现象, 多态性 
+
+    **inheritance**  [ /ɪnˈherɪtəns/](cmd://Speak/_us_/inheritance) 
+
+15. **laptop**  [ /ˈlæptɑːp/](cmd://Speak/_us_/laptop)   n.  轻便电脑 
+
+16. **amenable**  [ /əˈmiːnəbl/](cmd://Speak/_us_/amenable)  adj. 有责任的，应服从的；有义务的；经得起检验的 
+
+    He is proud that his wife is **amenable** to reason  他的妻子是个通情达理的人,为此他引以为豪 
+
+    People living in a country are **amenable** to its laws  一个国家的人民有服从法律的义务 
+
+    1. 意愿或态度上易于接受、遵从或合作的：be amenable to suggestions（愿意接受建议），be amenable to change（易于接受变化）。
+    2. 可以被管辖或受到约束的：be amenable to the law（受法律约束）。
+    3. 可以被处理或解决的：a problem that is amenable to solution（可以得到解决的问题）。
+    4. 适应或适用于某种特定的需求、条件或环境：a policy that is amenable to change（适应于变化的政策）。
+
+    总的来说，"amenable" 表示某种事物能够被影响、控制、处理或适应，通常用于描述人、行为、政策、问题等。
+
+    1. "He seemed amenable to my suggestion."（他似乎很愿意接受我的建议。）——出自《纽约时报》（The New York Times）。
+    2. "The question of whether the Supreme Court is amenable to the public will is at the forefront of the political debate."（最高法院是否受公众意愿的影响成为政治辩论的焦点。）——出自《大西洋月刊》（The Atlantic）。
+    3. "Some children are more amenable to discipline than others."（有些孩子比其他孩子更容易受到纪律的约束。）——出自《牛津高阶英汉双解词典》（Oxford Advanced Learner's Dictionary）。
+    4. "**Our approach is amenable to automation and scaling**."（我们的方法适合自动化和扩展。）——出自《自然》（Nature）。
+    5. "The disease is amenable to treatment if caught early."（如果早期发现，这种疾病是可以治疗的。）——出自《医学新闻今日》（Medical News Today）。
+
+17.  **errand**  [ /ˈerənd/](cmd://Speak/_us_/errand)  n. 差事；差使；使命 
+
+    *go on errands* 出差 
+
+    My mother asked me to go on an errand — she wanted me to buy some food  我妈妈叫我跑一下腿，她想让我去买点食物 
+
+18. belong 
+
+    1. *vi.* 属于；是…的成员
+    2. 应被放在，应归入
+    3. 适应，合得来 
+
+    Politically, they belonged to the conservative party and opposed reform  在政治上, 他们是保守派, 反对改革 
+
+    **belonging**  *n.* 附属品，附件；属性 
+
+19. **parse**  [ /pɑrs/](cmd://Speak/_us_/parse)  *vt.* 从语法上描述或分析(词句等)  解析
+
+20. glob  [ /ɡlɑb/](cmd://Speak/_us_/glob)  *n.* 一滴,一小滴水珠,(可塑性物质的)一团 
+
+    1. 名词：表示一小块黏性物质，通常是某种液体的滴状物或固体的颗粒状物。例如：a glob of glue（一滴胶水）；a glob of mud（一团泥土）。
+    2. 名词：表示整个世界或某个特定领域的总体，通常用于诙谐或夸张的说法。例如：the glob of politics（政治的总体）；the glob of culture（文化的总体）。
+    3. 动词：表示使某物变成一团或一块，常与介词 "into" 连用。例如：He globs the paint onto the canvas（他将颜料涂在画布上）。
+    4. 动词：表示汇集成团或堆积在一起。例如：The mud globs onto your shoes（泥巴粘在你的鞋上）。
+
+    需要注意的是，"glob" 这个词在日常生活中用得不是很频繁，多用于非正式场合或幽默的语境中。
+
+21. **retain**  [ /rɪˈteɪn/](cmd://Speak/_us_/retain)   vt. 保持；雇；记住 
+
+    1. 保留某物或某人：例如 "retain a copy of the document"（保留该文件的一份副本），"retain the services of a lawyer"（保留一位律师的服务）。
+    2. 保持某种状态或程度：例如 "retain the freshness of the food"（保持食物的新鲜程度），"retain your composure"（保持镇静）。
+    3. 保留权利或权力：例如 "retain ownership of the property"（保留该物业的所有权），"retain the right to veto"（保留否决权）。
+    4. 保持记忆或印象：例如 "retain fond memories of childhood"（保留童年的美好回忆），"retain an image in your mind"（保留一张图像在你的脑海中）。
+
+    总的来说，"retain" 这个词经常用在各种场合，表示保留、保持、保有等意思。
+
+22. 
+
+
+
+
 
 
 
