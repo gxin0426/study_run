@@ -2,16 +2,16 @@
 
 #### 001组
 
-1. **coronavirus** 冠状病毒 /kəˈroʊnəvaɪrəs/
-2. **pitch** /pɪtʃ/ n: 沥青 树油子 v.tr. 投 扔 (To throw)
+1. **coronavirus** 冠状病毒 /kəˈroʊnə vaɪrəs/ 
+2. **pitch** /pɪtʃ/ n: 沥青 树油子 v.t 投 扔 (To throw)
    
-   1. 音高：例如 "the pitch of the sound"（声音的音高）。
-   2. 汽车、飞机等的倾斜角度：例如 "the pitch of the plane"（飞机的俯仰角）。
-   3. 销售推广：例如 "give a sales pitch"（做销售推广），"pitch a product to a customer"（向客户推销产品）。
-   4. 站立或扔：例如 "pitch a tent"（搭帐篷），"pitch a ball"（扔球）。
-   5. 扔掉或抛弃：例如 "pitch the old magazines"（扔掉旧杂志）。
+   1. **音高**： "the pitch of the sound"（声音的音高) 
+   2. **汽车、飞机等的倾斜角度**：  "the pitch of the plane"（飞机的俯仰角) 
+   3. **销售推广**：  "give a sales pitch"（做销售推广），"pitch a product to a customer"（向客户推销产品）
+   4. **站立或扔**：  "pitch a tent"（搭帐篷），"pitch a ball"（扔球）
+   5. **扔掉或抛弃**：  "pitch the old magazines"（扔掉旧杂志）
    
-   总的来说，"pitch" 这个词多用在与音乐、销售、体育运动、建筑和自然界等相关的场合。根据具体的上下文，"pitch" 这个词也可以有其他不同的意义。
+   总的来说，‘pitch’这个词多用在与音乐、销售、体育运动、建筑和自然界等相关的场合。根据具体的上下文，"pitch" 这个词也可以有其他不同的意义 
 3. the mlops **landscape** is frequence evolving  (MLOPS的格局在不断变化)
 4. **tangible**  /ˈtændʒəbl/  adj: 通过触摸可以感知的；可触知的; 确实的，真实的：有可能被当作事实来对待的；真实的或具体的; 实际的：有可能被理解或实现的;  **tangible property**: 有形财产
 
@@ -23,19 +23,19 @@
 
    **along with** : 与...一道(又), 连同...一起, 随同...一起, 沿[顺]着
 
-8. Monitoring the  model parameters in real-world post-production **is essential to** adjust  various                [/ˈveriəs/](cmd://Speak/_us_/various) components to ensure that the feedback loop is met and the  expected  [ /ɪkˈspekt/](cmd://Speak/_us_/expect) output is delivered in production **consistently**  (在现实世界的后期生产中，监测模型参数对于调整各种组件以确保满足反馈回路并在生产中持续交付预期产出是至关重要的)
+8. Monitoring the  model parameters in real-world post-production **is essential to** *adjust*  various                [/ˈvɛriəs/]() components to ensure that the **feedback loop** is met and the  expected  [ /ɪkˈspekt/]() output is delivered in production **consistently**  (在现实世界的后期生产中，监测模型参数对于调整各种组件以确保满足反馈回路并在生产中持续交付预期产出是至关重要的)
 
    **consistently**     */*kənˈsɪstəntli*/* *adv.* 一贯地;坚持地；固守地; 持续的
 
-9. However[/haʊ'ɛvɚ/](cmd://Speak/_us_/however), one **nuance** of the current state of [MLOps](https://www.projectpro.io/mlops tutorial for beginners-tutorial/mlops-python-tutorial-for-beginners) is that it is in the very **nascent** stages of development （然而，MLOps目前状况的一个细微差别是，它正处于非常初级的发展阶段）
+9. However[/haʊ'ɛvɚ/](), one **nuance** of the current state of [MLOps](https://www.projectpro.io/mlops tutorial for beginners-tutorial/mlops-python-tutorial-for-beginners) is that it is in the very **nascent** stages of development （然而，MLOps目前状况的一个细微差别是，它正处于非常初级的发展阶段）
 
    **nuance** v/n  */*ˈnuːɑːns*/*  使产生细微差别 细微差别
 
    **nascent** adj  /ˈneɪs(ə)nt/  新兴的，初期的，开始存在的，发生中的
 
-10. **production-ready**  生产级别的
+10. **production-ready**   [/ˈrɛdi/]() 生产级别的
 
-11. So **adopting** these in your personal GitHub projects will make you **stand out** (脱颖而出)as an expert       [/ˈekspɜːrt/](cmd://Speak/_us_/expert) in MLOps （因此，在你的个人GitHub项目中**采用**这些将使你作为MLOps的专家脱颖而出）
+11. So **adopting** these in your personal GitHub projects will make you **stand out** (脱颖而出)as an expert       [/ˈɛkspɜːrt/]() in MLOps （因此，在你的个人GitHub项目中**采用**这些将使你作为MLOps的专家脱颖而出）
 
 12. **Head over to** the Kaggle Titanic EDA to ML **Challenge** and focus on building the project using cookiecutter and high-quality documentation **as** **expected from** a production machine learning **perspective** （**前往**Kaggle Titanic EDA to ML挑战赛，专注于使用cookiecutter和高质量的文档构建项目，这是从生产机器学习的角度所期望的）
 
@@ -53,15 +53,15 @@
 
 1. Leverage the classic push/pull and data version control to **collaborate** and **orchestrate** as a team （利用经典的推/拉和数据版本控制，作为一个整体进行协作和编排）
 
-​		**collaborate ** */*kəˈlæbəreɪt*/*  *v.*合作，协作；勾结，通敌
+​		**collaborate ** */*kəˈlæbəret*/*  *v.*合作，协作；勾结，通敌
 
-​		orchestrate  [ /ˈɔːrkɪstreɪt/](cmd://Speak/_us_/orchestrate)   *vt.* 把(乐曲)编成管弦乐  和谐地安排；精心策划 
+​		orchestrate  [ /ˈɔːrkɪstreɪt/]()   *vt.* 把(乐曲)编成管弦乐  和谐地安排；精心策划 
 
 ​		**leverage ** */*ˈlevərɪdʒ*/* *n.*影响力，手段；杠杆力，杠杆作用；<美>杠杆比率   *v.*<英>举债经营；**充分利用			（资源、观点等）**
 
-2. **explainable**  */*ɪkˈspleɪnəbl*/*  *adj.*可辩解的；可说明的
+2. **explainable**  */*ɪkˈsplenəbl*/*  *adj.*可辩解的；可说明的
 
-3. Where Feature  Selection **tackles** the issue of the selection of essential columns for  modeling, Explainable AI focuses on the micro-decisions that lead to the final **macro** decision （特征选择解决的是为建模选择基本列的问题，而可解释的人工智能关注的是导致最终的宏观决策的微观决定。）
+3. Where Feature  Selection **tackles** the issue of the selection of essential columns for  modeling, Explanable AI focuses on the micro-decisions that lead to the final **macro** decision （特征选择解决的是为建模选择基本列的问题，而可解释的人工智能关注的是导致最终的宏观决策的微观决定。）
 
    **micro - macro**  */*ˈmaɪkroʊ*/* - */*ˈmækroʊ*/*  微观 - 宏观
 
@@ -71,7 +71,7 @@
 
 4. **model-diagnostic** 模型诊断 [/ˌdaɪəɡˈnɑːstɪk/](cmd://Speak/_us_/diagnostic)  
 
-5. First, make a **supervised model** along with the **stated** **pre-requisites** and launch the web app to visualize [ /'vɪʒuəlaɪz/](cmd://Speak/_us_/visualize) the data. （ 首先，按照规定的前提条件制作一个监督模型，并启动网络应用，使数据可视化）
+5. First, make a **supervised model** along with the **stated** **pre-requisites** and launch the web app to visualize [ /'vɪʒuəlaɪz/]( ) the data. （ 首先，按照规定的前提条件制作一个监督模型，并启动网络应用，使数据可视化）
 
 ​		**supervised model** 监督模型
 
@@ -121,7 +121,7 @@
 
 15. if you remain **steadfast** in your belief, you have a higher chance of succeeding (只要你坚持信念， 就更可能成功)
 
-​		**steadfast** */*ˈstedfæst*/*   *adj.*忠诚的，坚定的 
+​		**steadfast** */*ˈstɛdfæst*/*   *adj.*忠诚的，坚定的 
 
 #### 003组
 
@@ -131,9 +131,9 @@
 
 3. back-propagation 反向传播
 
-   **propagation**  */*ˌprɑːpəˈɡeɪʃn*/*   *n.*（动植物等的）繁殖，增殖，；（观点、理论等的）传播；（运动、光线、声音等的）传送
+   **propagation**  */*ˌprɑːpəˈɡeʃn*/*   *n.*（动植物等的）繁殖，增殖，；（观点、理论等的）传播；（运动、光线、声音等的）传送
 
-4. A "slot" is the Open MPI **term** for an allocatable  [ /ˈæləkeɪt/](cmd://Speak/_us_/allocate) unit where we can launch a process （槽 "是开放的MPI术语，指的是可分配的单元，我们可以在这里启动一个进程。）
+4. A "slot" is the Open MPI **term** for an allocatable  [ /ˈæləket/]( ) unit where we can launch a process （槽 "是开放的MPI术语，指的是可分配的单元，我们可以在这里启动一个进程。）
 
 5. I'm sure it's **authentic** (我敢保证它是真的)
 
@@ -163,7 +163,7 @@
 
 14. split through MLP **by column then by row**, split the tensor operations by attention heads then by row (通过MLP按列然后按行拆分，按注意头然后按行拆分张量操作)
 
-15. **communication intensive**, better only **intra-node**, to leverage NVlink high bandwidth (通信密集型，最好只在节点内进行，以利用NVlink的高带宽 )
+15. **communication intensive**, better only **intra-node**, to leverage NVlink high bandwidth [ /'bændwɪdθ/]() (通信密集型，最好只在节点内进行，以利用NVlink的高带宽 )
 
     **intensive**   */*ɪnˈtensɪv*/*   *adj.*加强的，集中的，深入细致的；精耕细作的，集约的；加强词意的；以强度测量的
 
@@ -171,9 +171,7 @@
 
 #### 004组
 
-1. from pilot to production (从试验到生产)
-
-   **pilot** 
+1. from pilot [ /ˈpaɪlət/]() to production 从试验到生产
 
 2. formed under the auspices of the Linux Foundation (在Linux基金会的主持下成立的)
 
@@ -181,17 +179,17 @@
 
    **formed** */*fɔːrmd*/*   *adj.*成形的    *v.*构成；创立；使成形；制作（form 的过去式和过去分词）
 
-3. The **Runtime Specification**  **outlines** how to run a “filesystem **bundle**” that is unpacked on disk.(**运行时规范** **概述**了如何运行一个在磁盘上解包的 "文件系统包"。)
+3. The **Runtime Specification**  **outlines** how to run a “filesystem **bundle**” that is unpacked on disk. **运行时规范 概述 **  了如何运行一个在磁盘上解包的 "文件系统包"。
 
-   **Specification**   */*ˌspesɪfɪˈkeɪʃ(ə)n*/*  *n.*规格，规范，明细单，说明书；明确说明，详述；（申请专利用的）发明物说明书
+   **specification**   */*ˌspɛsɪfɪˈkeʃ(ə)n*/*  *n.*规格，规范，明细单，说明书；明确说明，详述；（申请专利用的）发明物说明书
 
-   **outline**  *n.*轮廓，外形；轮廓图，草图；提纲，大纲；梗概，要点；（词的）速记形式  *v.*概述，略述；勾勒，描画……的轮廓
+   **outline**  *n.*轮廓，外形；轮廓图，草图；提纲，大纲；**梗概**，要点；（词的）速记形式  *v.*概述，略述；勾勒，描画……的轮廓
 
    **bundle** *n.*束，捆，包；非常；一套，一系列；大量；婴儿；一大笔钱；软件包
 
-4. This specification defines how to create an OCI Image, which will generally be done by a build system, and output an image **manifest**, a filesystem (layer) serialization, and an image configuration. At a high level the image manifest contains metadata about the contents and dependencies of the image including the **content-addressable** identity of one or more filesystem serialization **archives** that will be unpacked to make up the final runnable filesystem. The image configuration includes information such as application **arguments**, environments, etc. The combination of the image manifest, image configuration, and one or more filesystem serializations is called the OCI Image. (本规范定义了如何创建一个OCI镜像，这通常由构建系统完成，并输出一个镜像**清单**、一个文件系统（层）序列化和一个镜像配置。在高层次上，镜像清单包含关于镜像内容和依赖性的元数据，包括一个或多个文件系统序列化档案的内容**可寻址**身份，这些**档案**将被解包以构成最终可运行的文件系统。镜像配置包括诸如应用参数、环境等信息。镜像清单、镜像配置和一个或多个文件系统序列化的组合被称为OCI镜像。)
+4. This specification defines how to create an OCI Image, which will generally be done by a build system, and output an image **manifest**, a filesystem (layer) serialization, and an image configuration. At a high level the image manifest contains metadata about the contents and dependencies of the image including the **content-addressable** identity of one or more filesystem **serialization** [/ˌsɪərɪəlɪ'zeʃən/]( ) **archives** that will be unpacked to make up the final runnable filesystem. The image configuration includes information such as application **arguments**, environments, etc. The combination of the image manifest, image configuration, and one or more filesystem serializations is called the OCI Image. 本规范定义了如何创建一个OCI镜像，这通常由构建系统完成，并输出一个镜像**清单**、一个文件系统（层）**序列化**和一个镜像配置。在高层次上，镜像清单包含关于镜像内容和依赖性的元数据，包括一个或多个文件系统序列化档案的内容**可寻址**身份，这些**档案**将被解包以构成最终可运行的文件系统。镜像配置包括诸如应用参数、环境等信息。镜像清单、镜像配置和一个或多个文件系统序列化的组合被称为OCI镜像 
 
-    **manifest**   *v.*显示，表明；（鬼魂或神灵）显灵，出现；（病症）显现；把……列入货单  *adj.*明显的，显而易见的   *n.*旅客名单，载货清单；货运列车编组清单
+    **manifest**   *v.*显示，表明；（鬼魂或神灵）显灵，出现；（病症）显现；把……列入货单  *adj.*明显的，显而易见的   *n.*旅客名单，载货**清单**；货运列车编组清单
 
    **content-addressable**  可寻址的
 
@@ -199,11 +197,11 @@
 
    **archives**  *v.*把……收集归档；把……存档（archive 的三单形式）  *n.*档案，档案室；案卷（archive 的复数）
 
-5. the **deputy** of the drug company(医药公司代表)
+5. the **deputy** of the drug company 医药公司代表 
 
    **deputy**  *n.*代理人，副手，副职；代表，议员；（美国协助地方治安官办案的）警官  *adj.*副的；代理的
 
-6. the bulk of 大部分
+6. the bulk of 大部分 
 
    **bulk**  [bJlk]  *n.*主体，大部分；庞大的身躯，肥硕的体形；（巨大的）容积，体积   *adj.*大批的，大宗的  *v.*使（产品）数量显得很大；结合（待售的股票或商品）
 
@@ -224,11 +222,11 @@
    ​	b. mean time  n. 平均时间（平均太阳时）
    ​	c. mean value   平均值，平均数
 
-   ​	d. [what do you mean](javascript:;) 你的意思是什么
+   ​	d. [what do you mean]( ) 你的意思是什么
 
-   ​	e. [golden mean](javascript:;) 中庸之道；[美]黄金分割（等于golden section）
+   ​	e. [golden mean]( ) 中庸之道；[美]黄金分割（等于golden section）
 
-   ​	f. [weighted mean](javascript:;) 加权平均数
+   ​	f. [weighted mean]( ) 加权平均数 
 
 8. instrumentation *n.*使用仪器；乐器法；仪表化   **工具**   /ˌɪnstrəmɛn'teʃən/ 
 
@@ -236,29 +234,29 @@
 
 10. head over to  (前往)
 
-11. Carreta **leverages** eBPF to **efficiently** map all service network **interactions** in a K8s  cluster (Carreta**利用**eBPF**有效地**映射K8s集群中的所有服务网络**互动**，并利用Grafana查询和可视化收集的数据。)
+11. Carreta **leverages** eBPF to **efficiently** map all service network **interactions** in a K8s  cluster.  Carreta**利用**eBPF**有效地**映射K8s集群中的所有服务网络**互动**
 
-12. **Thanks to** LLVM, EM and asm.js, code runs at near-native speed (**得益于**LLVM、EM和asm.js，代码的运行速度接近原生速度)
+12. **Thanks to** LLVM, EM and asm.js, code runs at near-native speed   **得益于**  LLVM、EM和asm.js，代码的运行速度接近原生速度 
 
-13. acquired by Google (被谷歌收购)
+13. **acquired** by Google   被谷歌收购  
 
     **acquired**  */*əˈkwaɪrd*/*   *adj.*[医]后天的；已获得的；已成习惯的    *v.*取得；捕获; 被收购（acquire 的过去分词） 
 
-14. Tho(though) i will say (但我想说)    
+14. Tho(though) i will say  但我想说  
 
-15. Keep in mind (请记住)
+15. Keep in mind    请记住 
 
 #### 005组
 
-1. Vertical partitioning (垂直分区)
+1. Vertical partitioning   垂直分区 
 
 2. mixin audit  (混合审核)
 
-3. standup comedy routine (单口相声)
+3. standup comedy routine  单口相声     脱口秀
 
    **routine**  *n.*常规，惯例；生活乏味，无聊；（演出中的）一套动作，一系列笑话（等）；（为达到特定目的的）老一套，俗套；（计算机）例行程序  *adj.*常规的，例行的；平常的，毫不特别的；平淡乏味的 
 
-4. **arbitrary** role (任意角色的)
+4. **arbitrary** role    任意角色的 
 
 5. represent --- present (前者是代表，后者是提出)词性动词 其他词性看词典
 
@@ -266,19 +264,19 @@
 
 7. it may seem(*v.*) a bit **overboard** (有点过头了)
 
-   [go overboard](javascript:;) 过火；鲁莽从事
+   [go overboard]() 过火；鲁莽从事
 
-8. back and forth (来回) 
+8. back and forth   来回    反复地
 
-   **forth**  */*fɔːrθ/   *adv.*离去，外出；（带）来，（拿）出；自……以后，向前；产生，得出
+   **forth**  */*fɔːrθ/   adv. **向前**，向外；自…以后
 
-9. be subject to (受制于) 
+9. be subject to  受制于    
 
-   **subject** *n.*主题，话题；学科，科目，课程；主语；  *v.*使臣服，征服，压服；使经受，使遭受     *adj.*隶属的，臣服的；可能受……影响的，易遭受……的；受……支配的，服从于……的；取决于，视……而定
+   **subject** *n.*主题，话题；学科，科目，课程；主语；  *v.*使臣服，征服，压服；使经受，使遭受     *adj.*隶属的，臣服的；可能受……影响的，易遭受……的；受……支配的，服从于……的；取决于，视……而定   
 
-   复数 subjects
+   复数 subjects 
 
-   第三人称单数 subjects
+   第三人称单数 subjects 
 
    现在分词 subjecting
 
@@ -286,27 +284,25 @@
 
    过去分词 subjected
 
-10. for the sake of brevity (为简洁起见)
+10. for the sake of brevity  为简洁起见  
 
-    **brevity** *n.*简洁，简短；短暂，短促 
+    **brevity ** [ /ˈbrɛvɪti/]() *n.*简洁，简短；短暂，短促  
 
-11. Let’s **drill down** this data structure (让我们**深入研究**一下这个数据结构) 
+11. Let’s **drill down** this data structure  让我们**深入研究**一下这个数据结构  
 
-    **drill**  *n.*钻，钻机；训练，演习；粗斜纹布；条播沟；条播机；条播作物；<非正式>常规，正确步骤；尾角螺 
+    **drill**  *n.*钻，钻机；训练，演习； v.  钻孔；训练，演习；条播 
 
-    *v.*钻孔；训练，演习；条播 
+12. is no **exception**  [ /ɪkˈsɛpʃn/]( )  也不例外    *n.*例外，除外
 
-12. is no **exception** (也不例外) *n.*例外，除外
+13. **As such**  it is the perfect place to store database connection information and other things (**因此**，它是存储数据库连接信息和其他东西的完美场所)
 
-13. **As such** it is the perfect place to store database connection information and other things (**因此**，它是存储数据库连接信息和其他东西的完美场所)
+14. Franco is fighting to **advance** their **shared dream**(共同梦想) of a fairer Brazil    佛朗哥正在为推进他们的共同梦想--一个更公平的巴西而奋斗  
 
-14. Franco is fighting to **advance** their **shared dream**(共同梦想) of a fairer Brazil (佛朗哥正在为推进他们的共同梦想--一个更公平的巴西而奋斗)
-
-​		**advance** 
+​		**advance**  
 
 ​		*v.*（使）前进，（使）向前移动；发展，进步；预付；提前，提早；促进，**推动**；提出（想法或理论）
 
-​		*n.*前进；进步，进展；改善；预付款；勾引，追求；（价格、价值的）上涨；贷款
+​		*n.*前进；进步，进展；改善；预付款 
 
 ​        adj. 预先的，事先的；先行的，先遣的
 
@@ -318,54 +314,60 @@
 
 #### 001组
 
-1. **propose**   [ /prəˈpoʊz/](cmd://Speak/_us_/propose) v.tr.（及物动词） 提议：提出以供考虑、讨论或采纳；建议： v.intr.（不及物动词） 提议，求婚：提出一个建议，尤指求婚
+1. **propose**   [ /prəˈpoʊz/]() v.t 提议：提出以供考虑、讨论或采纳；建议： v.i  提议，求婚：提出一个建议，尤指求婚
 
-   I **propose** that he should leave now. 我建议他现在就走。
+   I **propose** that he should leave now. 我建议他现在就走 
 
-2. **approval**  [/əˈpruːvl/](cmd://Speak/_us_/approval)  n.（名词） 赞成；批准；认可 
+2. **approval**  [/əˈpruːvl/]( )  n  赞成；批准；认可 
 
    May I take your smile as an indication of approval? 你的微笑表明你已经同意了吗?
 
 3. **voucher** [/ˈvaʊtʃər/]  n. 证人；保证人；证明者；收据；**补贴**    *gift voucher* 礼**券**  
 
-4. **enact**  v.tr.（及物动词） *1*.To make into law: 制定：制订成法律：  *2*. To act (something) out, as on a stage:  扮演（某物），如在舞台上：
+4. **enact**  v.t  *1*.To make into law:  制定：制订成法律：  *2*. To act (something) out, as on a stage:  扮演（某物），如在舞台上：
 
    Congress **enacted** a tax reform bill. 国会**使**税收改革提案成为**法律**
 
    enacted the part of the parent. **扮演**家长的角色
 
-5. sidekick  [/ˈsaɪdˌkɪk/](cmd://Speak/_us_/sidekick)  A close companion or comrade 密友：关系密切的朋友或同志 
+5. sidekick  [/ˈsaɪdˌkɪk/]()  A close companion or comrade  密友：关系密切的朋友或同志 
 
-6. **engage** [/ɪnˈɡeɪdʒ/](cmd://Speak/_us_/engage)   vt.  vi.  *engage in* 从事于（参加） *engage with* 交战；与…接洽 
+6. **engage** [/ɪnˈɡeɪdʒ/]( )   vt.  vi.  *engage in* 从事于（参加） *engage with* 交战；与…接洽 
+
    1. It is difficult to **engage** teachers of quality 很难**招聘**到优秀教师
    2. They are engaged in import and export  他们**做**(**从事**)进出口贸易 
 
-7. **rephrase  **[ /ˌri'frez/](cmd://Speak/_us_/rephrase)   *vt*  重新措辞
-8. **phrase **[/freɪz/](cmd://Speak/_us_/phrase)  n.Abbr. **phr.**（名词）缩写 **phr.**  简洁的语句  v.tr.（及物动词） 措辞，表意：口头或书面表达：  v.intr.（不及物动词）  措辞，念辞：制造或说出短语，如朗读时
+7. **rephrase  **[ /ˌri'frez/]( )   *vt*  重新措辞
+
+8. **phrase **[/freɪz/]( )  n.  缩写 **phr.**  简洁的语句  v.t  措辞，表意：口头或书面表达：  v.i    措辞，念辞：制造或说出短语，如朗读时
+
 9. **fingerprint**  n.（名词）   指纹
-10. **transcription**  [/trænˈskrɪpʃn/](cmd://Speak/_us_/transcription)  n.（名词）  抄写  *【生物学】* 转移 转录  *reverse transcription* 反转录，逆转录 
 
-11. **treachery**  n.（名词）  背叛  [/ˈtretʃəri/](cmd://Speak/_us_/treachery)   对比 ==> treasury [/ˈtreʒəri/](cmd://Speak/_us_/treasury)   财政部
+10. **transcription**  [/trænˈskrɪpʃn/]( )  n.（名词）  抄写  *【生物学】* 转移 转录  
 
-    I can't **stand** your **treachery** and deceit[/dɪˈsiːt/](cmd://Speak/_us_/deceit)(欺诈).
+    **reverse transcription** 反转录，逆转录 
 
-12. villa [ /'vɪlə/](cmd://Speak/_us_/villa) 别墅
+11. **treachery**  n.（名词）  背叛  [/ˈtrɛtʃəri/]( )   对比 <==> treasury [/ˈtrɛʒəri/]( )   财政部
 
-13. **secretary**   [/ˈsekrəteri/](cmd://Speak/_us_/secretary) 秘书  *under secretary* （美）副国务卿  *secretary general* 秘书长 
+    I can't **stand** your **treachery** and deceit[/dɪˈsiːt/]( )(欺诈).
+
+12. villa [ /'vɪlə/]() 别墅
+
+13. **secretary**   [/ˈsɛkrətɛri/]() 秘书  *under secretary* （美）副国务卿  *secretary general* 秘书长 
 
 14. chimpanzee */*ˌtʃɪmpænˈziː*/*  *n.*黑猩猩 
 
-15.  **antique** adj.（形容词） 古时的，古老的  n.（名词） 古董  v.tr.（及物动词） 使古色古香 
+15. **antique**  [/ænˈtiːk/]( )adj.（形容词） 古时的，古老的  n.（名词） 古董  v.tr.（及物动词） 使古色古香 
 
     The palace is full of priceless antiques  宫殿里到处都是无价的古玩
 
-16. occupancy  [/'ɑkjəpənsi/](cmd://Speak/_us_/occupancy)  *n.* 占有, 使用, 居住  
+16. occupancy  [/'ɑkjəpənsi/]( )  *n.* 占有, 使用, 居住  
 
-    occupy [/ˈɑːkjupaɪ/](cmd://Speak/_us_/occupy)   v.tr.（及物动词） 占用：占用（时间或空间）  To dwell or reside in 居住 
+    occupy [/ˈɑːkjupaɪ/]( )   v.tr.（及物动词） 占用：占用（时间或空间）  To dwell or reside in 居住 
 
 17. **subjunctive**  */*səbˈdʒʌŋktɪv*/*    虚拟语气
 
-18. **imperative**   [ /ɪmˈperətɪv/](cmd://Speak/_us_/imperative)  
+18. **imperative**   [ /ɪmˈpɛrətɪv/]( )  
 
     He always speaks in an imperative tone of voice    他老是用命令的口吻讲话 
 
@@ -374,23 +376,25 @@
 
 19. **indicative** *adj.*指示的，表明的，象征的；陈述（语气）的  *n.*陈述语气的动词形式，陈述语气 
 
-20. **irrevocable**  */*ɪˈrevəkəb(ə)l*/*  *adj.*<正式>不可更改的，不可取消的，无法挽回的 
+20. **irrevocable**  */*ɪˈrɛvəkəb(ə)l*/*  *adj.*<正式>不可更改的，不可取消的，无法挽回的 
+
+    My life was set on an **irrevocable** course  我的生活道路不可改变
 
 #### 002组
 
 1. spawn  */*spɑːn*/* *v.*（鱼、青蛙、软体动物、甲壳类等）产卵；引发，促生；大量生产  *n.*（鱼、青蛙、软体动物、甲壳 类等的）卵；产卵 
 
-2. **disposition**  [ /ˌdɪspəˈzɪʃn/](cmd://Speak/_us_/disposition)  n.（名词）  *n.* 气质, 天性, 性格 
+2. **disposition**  [ /ˌdɪspəˈzɪʃn/]( )  n.（名词）  *n.* 气质, 天性, 性格  
 
-   The writings make use of the artificial nerve net (ANN)that possesses many merits the **parallel** **disposition** and studying oneself of the problem of unline shape.  本文利用人工神经网络(ANN)具有**并行处理**、自学习等诸多优点，特别适于处理非线形问题 
+   The writings make use of the artificial nerve net (ANN) that possesses many merits the **parallel** **disposition** and studying oneself of the problem of unline shape.  本文利用人工神经网络(ANN)具有**并行处理**、自学习等诸多优点，特别适于处理非线形问题 
 
 3. disclosure  */*dɪsˈkloʊʒər*/*  *n.*披露，泄密；透露的秘闻，公开的事情  
 
-   [information disclosure](javascript:;) 信息披露；信息暴露
+   [information disclosure]() 信息披露；信息暴露
 
-4. **brevity** [ /ˈbrevəti/](cmd://Speak/_us_/brevity)  n. 短暂，短促；简洁，简短  
+4. **brevity** [ /ˈbrɛvəti/]()  n. 短暂，短促；简洁，简短  
 
-   *[for brevity](dic://for brevity)* 为简洁起见
+   *[for brevity]( )* 为简洁起见
 
 5. **superior**    */*suːˈpɪriər*/*   *adj.*（规模或实力）更大的，更强的   *n.*上级，上司；<正式>优胜者，高手 
 
@@ -398,19 +402,21 @@
 
 7. **extensively**  */*ɪkˈstensɪvli*/*  *adv.*广阔地；广泛地；巨大地 
 
-8. **granularity**   [ /ˌgrænju'læriti/](cmd://Speak/_us_/granularity)  *n.*间隔尺寸，[岩] 粒度
+8. **granularity**   [ /ˌgrænju'læriti/]()  *n.*间隔尺寸，[岩] 粒度
 
-9. **primitive** [ /ˈprɪmətɪv/](cmd://Speak/_us_/primitive)   *adj.*原始的，远古的；（器物等）粗糙的  *n.*<旧>原始人，未开化的土人；原始派艺术家（或其作品）；
+9. **primitive** [ /ˈprɪmətɪv/]()   *adj.*原始的，远古的；（器物等）粗糙的  *n.*<旧>原始人，未开化的土人；原始派艺术家（或其作品）；
 
-10. **oblige** [ /əˈblaɪdʒ/](cmd://Speak/_us_/oblige)   vt. 强制  vi. 帮忙 *[be obliged to](dic://be obliged to)* 不得不；有义务；感谢；被迫做 
+10. **oblige** [ /əˈblaɪdʒ/]()   vt. 强制  vi. 帮忙 *[be obliged to]()* 不得不；有义务；感谢；被迫做 
 
-11. **enumerate** [ /ɪˈnuːməreɪt/](cmd://Speak/_us_/enumerate)  *vt.*列举；枚举；计算
+11. **enumerate** [ /ɪˈnuːməreɪt/]()  *vt.*列举；枚举；计算
 
 12. juicy  *adj.*多汁的，汁液丰富的；生动有趣的，妙趣横生的；值很多钱的，报酬丰厚的；<非正式>充满诱惑的，吸引人的 
 
 13. **granular**  [ /'grænjəlɚ/](cmd://Speak/_us_/granular)  adj.（形容词）   细粒状的，颗粒状的 
 
-14. **present**  n.（名词） 现在，目前  adj.（形容词） 现在的，目前的  v.tr.（及物动词） 引见，介绍  呈献  礼物；赠品(名词，读音和动词一样)
+    The **substance** is **hard** and **granular**  该物质地坚硬, 呈颗粒状
+
+14. **present**  [ /ˈprɛznt/]()n.（名词） 现在，目前  adj.（形容词） 现在的，目前的  v.tr.（及物动词） 引见，介绍  呈献  礼物；赠品(名词，读音和动词一样)
 
     adj： There is no isoprene rubber production industry in China at present which shows properous business opportunity in isoprene rubber production.  目前国内尚没有异戊橡胶生产企业，异戊橡胶产品商机无限
 
@@ -420,19 +426,19 @@
 
     *the present day* 目前；当代  *at present* 目前，现在 
 
-15. **idempotent**  */*aɪˈdempətənt*/*  *adj.*幂等的  *n.*[数] 幂等 
+15. **idempotent**  */*aɪˈdɛmpətənt*/*  *adj.*幂等的  *n.*[数] 幂等 
 
 16. **compliant** [/kəmˈplaɪənt/](cmd://Speak/_us_/compliant)  adj.（形容词） 服从的 
 
-17. **mandatory**  [ /'mændətɔri/](cmd://Speak/_us_/mandatory)  adj.（形容词） 强制的  命令的 
+17. **mandatory**  [ /'mændətɔri/]()  adj. 强制的  命令的 
 
     Mask-wearing is now **mandatory** in all indoor public places  现在所有室内公共场所都必须佩戴口罩 
 
     **compulsory** 必须做的, 强制性的
 
-18. **scaffold **  [/'skæfold/](cmd://Speak/_us_/scaffold)  *n.*脚手架；鹰架；绞刑台  *vt.*给……搭脚手架；用支架支撑 
+18. **scaffold **  [/'skæfold/]()  *n.*脚手架；鹰架；绞刑台  *vt.*给……搭脚手架；用支架支撑 
 
-19. aftermath  [ /ˈæftərmæθ/](cmd://Speak/_us_/aftermath)   *n.*（战争、风暴、事故的）后果，余波；再萌草，再生草 
+19. aftermath  [ /ˈæftərmæθ/]()   *n.*（战争、风暴、事故的）后果，余波；再萌草，再生草 
 
 20. **deliver** *v.*投递，运送；履行，兑现；交付，移交； 
 
@@ -444,51 +450,51 @@
 
 3. **roughly** *adv.*粗略地，大约；粗暴地，粗鲁地；粗糙地，不精细地 
 
-4. **throttle** [/'θrɑtl/](cmd://Speak/_us_/throttle)  n.（名词） 节流阀 v.tr.（及物动词） 节流 
+4. **throttle** [/'θrɑtl/]()  n.（名词） 节流阀 v.tr.（及物动词） 节流 
 
-5. **catalog** *n.*[图情][计]目录；登记 
+5. **catalog** *n.*[图情]()  目录；登记 
 
 6. **bespeak**   *v.*证明，表明；预订；<古>对……说  预约 预订 证明 显示 
 
 7. **renewable**   */*rɪˈnuːəb(ə)l*/* *adj.*（合同、协议等）可延期的，可续期的；（能源）可更新的，可再生的  *n.*再生性能源，可再生资源 
 
-8. **heed** */*hiːd*/*  *v.*<正式>注意，留心  *n.*<正式>注意，留心  == [take care of](javascript:;)
+8. **heed** */*hiːd*/*  *v.*<正式>注意，留心  *n.*<正式>注意，留心  == [take care of]()
 
 9. **charisma**  */*kəˈrɪzmə*/*  *n.*个人魅力，感召力；神赐的力量，神授的能力；非凡的领导力 
 
-10. **impersonation** [/im,pə:sə'neiʃən/](cmd://Speak/_us_/impersonation)  *n.* 扮演 
+   *[natural charisma]()* 自然魅力; 天生丽质
+
+10. **impersonation** [/im,pə:sə'neiʃən/]( )  *n.* 扮演 
 
     **imitation**模仿, 仿效
 
-11. **determine**   [/dɪˈtɜːrmɪn/](cmd://Speak/_us_/determine)   v.tr.（及物动词） 判定：结论性、权威性地决定或解决（纠纷等）  判决：通过司法行动终结或决定  确定：在考虑，调查或计算之后，决定性地确认参见 **discover**     
+11. **determine**   [/dɪˈtɜːrmɪn/](cmd://Speak/_us_/determine)   v.t 判定：结论性、权威性地决定或解决（纠纷等）  判决：通过司法行动终结或决定  确定：在考虑，调查或计算之后， 
 
-     v.intr.（不及物动词） 解决，决定：作出决定；解决参见 **decide** 
+     v.i 解决，决定：作出决定  
 
     Tree rings and seasonal sedimentary deposits called varves can be counted to determine absolute age  
 
     可以对树木的年轮和被称为纹泥的季节性沉积物进行计数来确定其绝对年龄
 
-    The amount of rainfall **determine**s the quality of the crop
+    **The amount of rainfall determines the quality of the crop 降雨量决定着收成的好坏**
 
-    降雨量**决定**着收成的好坏
-
-12. plural [ /ˈplʊrəl/](cmd://Speak/_us_/plural) adj.（形容词）  复数的  n.Abbr. 复数，复数形式       
+12. plural [ /ˈplʊrəl/]( ) adj.    复数的  n   复数，复数形式       
 
     So in summary, normally you find 'people' as the plural form of 'person' – one person, three people 
 
     那总结一下就是，通常情况下，people是person的复数形式：一个人是one person，三个人是three people
 
-13. [Render View](javascript:;) 渲染视图 渲染窗口 渲染视窗 染视图 
+13. [Render View]() 渲染视图 渲染窗口 渲染视窗 染视图 
 
 14. porting  *n.*移植，出口商品  *v.*携带；搬运（port 的现在分词） 
 
-15. preflight *adj.*起飞前的；为起飞作准备的  [preflight checks](javascript:;) 飞行前检查 
+15. preflight *adj.*起飞前的；为起飞作准备的  [preflight checks]( ) 飞行前检查 
 
 16. **viewpoint** */*ˈvjuːpɔɪnt*/*  *n.*观点，看法；视角，观察点 
 
-17. anatomy [ /əˈnætəmi/](cmd://Speak/_us_/anatomy) *n.*解剖学；（动植物的）组成结构，解剖构造；人体；剖析，详细分析；原因，成因；骨骼 
+17. anatomy [ /əˈnætəmi/]() *n.*解剖学；（动植物的）组成结构，解剖构造；人体；剖析，详细分析；原因，成因；骨骼 
 
-18. gatherer [/'ɡæðərɚ/](cmd://Speak/_us_/gatherer) *n.*采集者，收集器 
+18. gatherer [/'ɡæðərɚ/]( ) *n.*采集者，收集器 
 
 19. the bulk of  大多数，大部 
 
@@ -496,90 +502,128 @@
 
 #### 004组
 
-1. **Premium** *n.*保险费；（正常价格或费用以外的）加付款，加价；很高的价值，额外价值；额外补贴，津贴；奖品，奖金；<美>优质汽油（=premium gas）  
+1. **Premium** *n.*保险费；（正常价格或费用以外的）加付款，加价；很高的价值，额外价值；额外补贴，津贴；奖品，奖金；<美> 优质汽油（ premium gas）  
 
-   [insurance premium](javascript:;) 保险费
+   [insurance premium]( ) 保险费
 
-2. **interfere** [/ˌɪntərˈfɪr/](cmd://Speak/_us_/interfere)  v.intr.（不及物动词） 妨碍 *【体育运动】* 掩护，阻挡  介入，干涉 
+2. **interfere** [/ˌɪntərˈfɪr/]( )  v.i   妨碍 *【体育运动】* 掩护， 阻挡  介入，干涉 
 
 3. **decouple**  解耦
 
-4. **donate**  v.tr.（及物动词）  捐赠 
+4. **donate**  [ /ˈdonet/]( ) v.t  vi 捐赠 
 
-5. **thrust**   */*θrʌst*/*  *v.*猛推，猛塞；刺，扎；  *n.*要点，要旨；猛推，刺   [thrust force](javascript:;) 推力
+5. **thrust**   */*θrʌst*/*  *v.*猛推，猛塞；刺，扎；  *n.*要点，要旨；猛推，刺   [thrust force]( ) 推力
 
-6. **equivalent**  *adj.*等同的，等效的   *n.*对等的人（或事物），对应的人（或事物）；当量（equivalent weight） 
+6. **equivalent** [ /ɪˈkwɪvələnt/]( ) *adj.*等同的，等效的   *n.*对等的人（或事物），对应的人（或事物)
 
-7. [Remap](javascript:;)  重映射
+   当量 : equivalent weight
 
-8. **revoke**  *v.*撤回，撤销；（桥牌、惠斯特等牌戏中）有牌不跟  [revoke one's license](javascript:;) 吊销执照
+7. [Remap]( )  重映射
 
-9. **lethal**  *adj.*致命的，致死的；危害极大的，破坏性的；极成功的，极有效的 
+8. **revoke**  *v.*撤回，撤销；（桥牌、惠斯特等牌戏中）有牌不跟  [revoke one's license]() 吊销执照
 
-10. **pacemaker**   *n.*[基医] 起搏器；领跑者；标兵  [cardiac pacemaker](javascript:;)  心脏起搏器 
+9. **lethal**  [ /'liθəl/]( )  *adj.*致命的，致死的 危害极大的  n. 致死因子
+
+10. **pacemaker**   *n.*[基医] 起搏器；领跑者；标兵  [cardiac pacemaker]( )  (/ˈkɑːrdiæk/*adj.* 心脏(病)的)   心脏起搏器 
 
 ### JinShan
 
 #### 001组
 
-1. n.（名词） A mutual fund  [/ˈmjuːtʃuəl/](cmd://Speak/_us_/mutual)   信托基金   adj： 彼此相关的   相互的，彼此的 
+1. n.（名词） A mutual fund  [/ˈmjuːtʃuəl/]()   信托基金   adj： 彼此相关的   相互的，彼此的 
 
-2. logistic  [/lo'dʒɪstɪk/](cmd://Speak/_us_/logistic)  adj.（形容词） 象征派逻辑的  **后勤的**   **物流**
+2. logistic  [/lo'dʒɪstɪk/]()  adj.（形容词） 象征派逻辑的  **后勤的**   **物流**
 
-3. scroll [/skrol/](cmd://Speak/_us_/scroll)  *【计算机科学】* 卷动，翻滚 
+3. scroll [/skrol/]( )  *【计算机科学】* 卷动，翻滚 
 
-4. **diffusion** [ /dɪˈfjuːʒn/](cmd://Speak/_us_/diffusion)  扩散，传播；[物]漫射
+4. **diffusion** [ /dɪˈfjuːʒn/]( )  n. 扩散 ，传播；[物]漫射
 
-5. **reward** n. 报酬；酬谢；报答  vt. 奖赏；奖励 
+5. **reward**   [ /rɪˈwɔːrd/]()n. 报酬；酬谢；报答  vt. 奖赏；奖励 
 
 6. comparison *n.* 比较, 对照 
 
-7. placebo  [/pləˈsiːboʊ/](cmd://Speak/_us_/placebo)  n. 安慰剂；为死者所诵的晚祷词 
+7. placebo  [/pləˈsiːboʊ/]( )  n. 安慰剂；为死者所诵的晚祷词 
 
-8. **stakeholder**  [ /'stekholdɚ/](cmd://Speak/_us_/stakeholder)  *n.* 股东， 利益相关人
+8. **stakeholder**  [ /'stekholdɚ/]()  *n.* 股东， 利益相关人
 
-9. **demystify **[/ˌdiːˈmɪstɪfaɪ/](cmd://Speak/_us_/demystify)   *vt.* 使非神秘化  
+9. **demystify **[/ˌdiːˈmɪstɪfaɪ/]( )   *vt.* 使非神秘化  
 
-10. demarcate  [/ˈdiːmɑːrkeɪt/](cmd://Speak/_us_/demarcate)  *vt.* 定…的界线；区分   *[pressure demarcate](dic://pressure demarcate)* 压力标定 
+10. **demarcate**  [/ˈdiːmɑːrkeɪt/](cmd://Speak/_us_/demarcate)  *vt.* 定…的界线；区分   *[pressure demarcate]( )* 压力标定 
 
-11. vital  [vital part](javascript:;) 要害部位 *adj.*至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的  *n.*身体的重要内脏，维持生命的重要器官（vitals） 
+    The first border between the two countries was demarcated (or **drawn on a map**) in 1783.  这两个国家之间的第一条边界是在1783年划分的（或画在了地图上）
 
-12. evolvable [ /ɪ'vɒlvəbl/](cmd://Speak/_us_/evolvable)  adj.可开展的  **evolvable computer**: 演化计算机 
+11. vital [ /ˈvaɪtl/]( )   [vital part]( ) 要害部位 *adj.*至关重要的，必不可少的；生机勃勃的，充满活力的；生命的，维持生命所必需的  *n.*身体的重要内脏，维持生命的重要器官（vitals） 
+
+12. evolvable [ /ɪ'vɒlvəbl/]( )  adj.. 可发展的  **evolvable computer**: 演化计算机 
 
 13. buzzword  *n.*（报刊等的）时髦术语，流行行话 
 
-14. reap  [/riːp/](cmd://Speak/_us_/reap)  *vt. & vi.* 收割庄稼；收获  
+14. reap  [/riːp/]( )  *vt. & vi.* 收割庄稼；收获  
 
     *reap the benefits of* 获得益处 
 
-15. profitable  [/ˈprɑːfɪtəbl/](cmd://Speak/_us_/profitable)   *adj.* 有利可图的; 有益的   *[profitable organization](dic://profitable organization)* 营利组织 
+15. profitable  [/ˈprɑːfɪtəbl/]( )   *adj.* 有利可图的; 有益的   *[profitable organization]()* 营利组织 
 
 16. decision-making */*dɪˈsɪʒn meɪkɪŋ*/*  *adj.*决策的  *n.*决策 
 
-17. **flourish** [/ˈflɜːrɪʃ/](cmd://Speak/_us_/flourish)  *vi.* 茂盛, 繁荣  *vt.* 挥动  *n.*夸张动作；（讲话或文章的）华丽辞藻，修饰；花彩号声；（手写花体字的）花饰 
+17. **flourish** [/ˈflɜːrɪʃ/]()  *vi.* 茂盛, 繁荣  *vt.* 挥动  *n.*夸张动作；（讲话或文章的）华丽辞藻，修饰；花彩号声；（手写花体字的）花饰 
 
-18. anticipate  [/ænˈtɪsɪpeɪt/](cmd://Speak/_us_/anticipate)  *vt.* 先于…行动  预感, 期望 
+18. anticipate  [/ænˈtɪsɪpeɪt/]()  *vt.* 先于…行动  预感, 期望 
 
-    *[anticipated conditions](dic://anticipated conditions)* 预期的条件 
+    *[anticipated conditions]()* 预期的条件 
+
+    *[anticipated return]( )* 预期回报
+
+    *[anticipated profit]( )* 预期利润
 
     We **anticipate** hearing from you again  我们期待再接到你们的来信
 
-    They have **anticipated** us and seized the bridge   他们抢在我们之前占领了那座桥
+    Yes. Business picked up much faster than we anticipated   是的，生意步入正轨比我们预期的要快得多
 
-19. **eviction** *n.* 逐出,赶出 
+19. **eviction** [ /ɪˈvɪkt/]( )    *n.* 逐出,赶出 
 
-20. velocity  [ /vəˈlɑːsəti/](cmd://Speak/_us_/velocity)    n. 速率；迅速；周转率 
+20. velocity  [ /vəˈlɑːsəti/]( )    n. 速率；迅速；周转率 
+
+    *flow velocity* 流速
+
+    *linear velocity* 线速度
+
+    *critical velocity* 临界速度
+
+    critical state
 
 #### 002组
 
-1. bogus [ /ˈboʊɡəs/](cmd://Speak/_us_/bogus)   *adj.* 假的,假冒的,伪造的 
-2. **specific**  [/spəˈsɪfɪk/](cmd://Speak/_us_/specific) adj. 特殊的，特定的；明确的；详细的；具有特效的 
-3. alumni  */*əˈlʌmnaɪ*/*  *n.*校友，毕业生（alumnus 的复数）  alumni association 校友会
-4. **principle**  */*ˈprɪnsəp(ə)l*/*  *n.*（行为）准则，（道德）原则；道义，正直；基本原则，基本法则；（机器等或自然界的）原理，定律；（宗教或政治的）主义，信条；起源，本原；本质，实质；（化）成分，要素 
-5. **sketch** */*sketʃ*/*  *n.*素描，速写，草图；（任何作品的）粗样，初稿；简述，概述；幽默短剧，滑稽小品；<非正式，旧>滑稽的人（或物）  *v.*（给……）画速写，（给……）画素描；简述，概述；（用手或身体）做（姿势） sketch out 概述 草拟 [DESIGN SKETCH](javascript:;) 设计图 效果图 预设图 
-6.  **tackle**  */*ˈtæk(ə)l*/*  *v.*应付，解决（难题或局面）；与……交涉；（足球、曲棍球等比赛中）抢断；（橄榄球等比赛中）擒抱并摔倒（对方球员）；擒获；对付，打（尤指罪犯）；质问，责问；反对，反抗  *n.*（足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；（美式足球中的）阻截队员；体育器械，（尤指）渔具；（吊起重物用的）索具，滑轮；<英，俚>男性性器官 
-7.   misconception    */*ˌmɪskənˈsepʃ(ə)n*/*   *n.*错误想法，误解，错误印象 
+1. bogus [ /ˈboɡəs/]( )   *adj.* 假的,假冒的,伪造的 
+
+   *[bogus company]( )* 皮包公司，虚设的公司
+
+2. **specific**  [/spɪˈsɪfɪk/]() adj. 特殊的，特定的；明确的；详细的；具有特效的 
+
+3. alumni  */*əˈlʌmnaɪ*/*  *n.*校友，毕业生（alumnus 的复数）  alumni association 校友会 
+
+4. **principle**  */*ˈprɪnsəp(ə)l*/*  *n.*（行为）准则，（道德）原则;     原理，定律；（宗教或政治的）主义；起源（化）成分，要素 
+
+   *working principle* 工作原理
+
+   *in principle* 大体上，原则上
+
+   *first principle* 第一原理
+
+5. **sketch** */*skɛtʃ*/*  *n.*素描，速写，草图
+
+    sketch out 概述 
+
+   *sketch map* 示意图，草图
+
+    [DESIGN SKETCH]() 设计图 效果图 预设图 
+
+6. **tackle**  */*ˈtæk(ə)l*/*  *v.*应付，解决（难题或局面）
+
+7. **misconception**    */*ˌmɪskənˈsɛpʃ(ə)n*/*   *n.*错误想法，误解，错误印象 
+
 8. elite  */*ɪˈliːt*/*  *n.*权力集团，上层人士；尖子，精英  *adj.*出类拔萃的，精锐的 
+
 9. **deficiency**  */*dɪˈfɪʃ(ə)nsi*/*  *n.*缺乏，不足；缺陷，瑕疵；赤字 
 
 #### 003组
@@ -588,23 +632,25 @@
 
 2. serenely   */*səˈriːnli*/*  *adv.*安详地；沉着地；宁静地 
 
+   To the end his mind remained serene and undisturbed  到最后，他的心灵仍然是宁静的，不受干扰的
+
 3. cheese */*tʃiːz*/*  *n.*干酪，奶酪 
 
-4. **out of mind** 心不在焉；忘却；发狂  out of sight, out of mind   眼不见，心不烦
+4. **out of mind** 心不在焉；忘却；发狂  **out of sight, out of mind**   眼不见，心不烦
 
-5. **casually** [/ˈkæʒuəli/](cmd://Speak/_us_/casually)   *adv.* 偶然地;无意地  未经考虑地；漫不经心地 
+5. **casually** [/ˈkæʒuəli/]()   *adv.* 偶然地;无意地  未经考虑地；漫不经心地 
 
    **remark** *n.*言论，评述；（正式演讲时的）言论（remarks）；<正式> 引人注目，显耀   *v.*谈论，说起；注意到
 
    She **remarked** **casually** that she was changing her job  她当时漫不经心地说要换工作 
 
-6. pin  */*pɪn*/*  *n.*（尤指做衣服时固定布料用的）别针，大头针；<美>胸针，饰针  *v.*（用钉子）钉住，别住；按住，使不能动弹；（棋）牵制  [pins and needles](javascript:;) 如坐针毡 
+6. pin  */*pɪn*/*  *n.*（尤指做衣服时固定布料用的）别针，大头针；<美>胸针，饰针  *v.*（用钉子）钉住，别住；按住，使不能动弹；（棋）牵制  [pins and needles]( ) 如坐针毡 
 
 7. **scratch** */*skrætʃ*/*  v.tr.（及物动词） v.intr.（不及物动词）  （用指甲）挠，轻抓；（用指甲或利器）抓破，划破；划出，刮出（痕迹）  *n.*（某人皮肤上的）划痕，划伤；刮痕，划痕；抓，挠  
 
-   [from scratch](javascript:;) 白手起家；从头做起
+   [from scratch]( ) 白手起家；从头做起
 
-   [up to scratch](javascript:;) 达到标准 
+   [up to scratch]( ) 达到标准 
 
    The porters scratched up the desk  搬运工人们把桌子刮坏了 
 
@@ -618,15 +664,15 @@
 
 9. **acquisition** */*ˌækwɪˈzɪʃ(ə)n*/*    *n.*学得，习得；（金钱、财物等的）获取；购买，添置，增添物；收购，购置的产业 
 
-   [data acquisition](javascript:;) 数据采集
+   [data acquisition]( ) 数据采集
 
-   [language acquisition](javascript:;) 语言习得 
+   [language acquisition]( ) 语言习得 
 
    This **motor-scooter** [/'skutɚ/](cmd://Speak/_us_/scooter)   (踏板车) is my latest **acquisition** 这辆**摩托车**是我最新**购置**的 
 
 10. **salty** */*ˈsɔːlti*/*   *adj.*咸的，含盐的；<旧>有趣而略显粗俗的；<非正式>粗鲁的，爱闹事的 
 
-    [salty water](javascript:;) 盐水
+    [salty water]() 盐水
 
 11. **well up ** 涌出；流露；萌发
 
@@ -636,19 +682,19 @@
 
     **as well**  1. In addition; also 另外；也: *mentioned other matters as well  也提到了其它事情*   2. With equal effect 同样地:  *I might as well go*  我最好还是去
 
-13. **tease**  *v.tr.（及物动词）.*  v.intr.（不及物动词） 取笑，嘲笑；逗弄（动物）；（尤指性方面）挑逗，撩拨；哄，逗；拨，分离；梳理（羊毛、头发等）；<美>（为了使头发显厚）回梳  *n.*爱开玩笑的人，爱戏弄别人的人；玩笑，戏弄；卖弄风骚的人 
+13. **tease**  v.t   v.i   取笑，嘲笑；逗弄
 
-14.  macaroni  */*ˌmækəˈroʊni*/*  *n.* **通心粉 通心面条** ；纨绔子弟 
+14. macaroni  */*ˌmækəˈroni*/*  *n.* **通心粉 通心面条** ；纨绔子弟 
 
 15. **mutual**  */*ˈmjuːtʃuəl*/*  *adj.*相互的，彼此的；共同的，共有的；（保险公司、建筑协会等）互助的  *n.*互助公司 
 
-    [mutual fund](javascript:;) 共同基金互助基金互惠基金公共基金 
+    [mutual fund]() 共同基金互助基金互惠基金公共基金 
 
-    [Washington Mutual](javascript:;) 华盛顿互惠华盛顿互惠银行华盛顿互助银行华盛顿共同基金
+    [Washington Mutual]() 华盛顿互惠华盛顿互惠银行华盛顿互助银行华盛顿共同基金
 
     [mutual benefit](javascript:;) 互惠互利
 
-    [mutual understanding](javascript:;) 互相谅解，相互理解 
+    [mutual understanding]() 互相谅解，相互理解 
 
 #### 004组
 
@@ -656,13 +702,13 @@
 
 2. merge —— merger(*n.*（公司、组织的）合并 */*ˈmɜːrdʒər*/* )
 
-3. recipe */*ˈresəpi*/* *n.*烹饪法，食谱 
+3. recipe */*ˈrɛsəpi*/* *n.*烹饪法，食谱 
 
-4. irony  [/ˈaɪrəni/](cmd://Speak/_us_/irony)  *n.*（出乎意料的）奇异可笑之处，具有讽刺意味的情况；反语，讽刺  *adj.*铁的；含铁的；似铁的 （iron n. 铁 [/ˈaɪərn/](cmd://Speak/_us_/iron) ）
+4. irony  [/ˈaɪrəni/]()  *n.*（出乎意料的）奇异可笑之处，具有讽刺意味的情况；反语，讽刺  *adj.*铁的；含铁的；似铁的 （iron n. 铁 [/ˈaɪən/]() ）
 
    The irony, of course, is that Nigerians speak English.   当然，讽刺的是，尼日利亚人说英语 
 
-5. entire  [/ɪnˈtaɪər/](cmd://Speak/_us_/entire)  *adj.*全部的，整个的   I read the entire book  我阅读了全书
+5. entire  [/ɪnˈtaɪər/]()  *adj.*全部的，整个的   I read the entire book  我阅读了全书
 
 6. **strike** */*straɪk*/*  *v.*打，撞  *n.*罢工，罢市，罢课  
 
@@ -684,7 +730,7 @@
 
 9. routine */*ruːˈtiːn*/*  *n.*常规，惯例；生活乏味，无聊  *adj.*常规的，例行的；平常的，毫不特别的 
 
-10. **block**  */*blɑːk*/*  *n.*大块，一块（木料、石头等）；（四面临街的）街段，街区；大楼，大厦；栋，座，幢；障碍物，阻碍；（短时间的）思维停滞，思维中断；一组，一批，一叠；（连续的）一段时间；阻挡，拦截；积木；（古代斩首用的）垫头木；<美>一大片土地；（物体的）平面，纯色色块；滑轮，滑轮组           
+10. **block**  */*blɑːk*/*  *n.*大块，一块（木料、石头等）；（四面临街的）街段，街区；大楼，大厦；栋，座，幢  ；阻挡，拦截     滑轮，滑轮组           
 
      *v.*阻塞，堵塞（道路、管道等）；遮住（视线）；封锁，挡住（去路）；阻挠，阻止；阻截，拦截（对方的球）；对……进行块操作；用模具使（帽等）成形
 
@@ -698,50 +744,69 @@
 
     过去分词 blocked
 
-11. **motion** [ /ˈmoʊʃn/](cmd://Speak/_us_/motion)  n.（名词）  动；运动  v.tr.（及物动词）  打手势  v.intr.（不及物动词） 示意  motioned to her to enter 示意让她进来 
+11. **motion** [ /ˈmoʃn/]( )  n.  动；运动  v.tr.（及物动词）  打手势  v.i  示意  motioned to her to enter 示意让她进来 
 
-    复数 motions
+    *motion analysis* 运动分析；动作分析
 
-    第三人称单数 motions
+12. startle  *v.t*  *v.i* 使吓一跳，使惊奇  n. 惊愕；惊恐 
 
-    现在分词 motioning
-
-    过去式 motioned
-
-    过去分词 motioned
-
-12. startle  *v.tr.（及物动词） v.intr.（不及物动词）* 使吓一跳，使惊奇  n. 惊愕；惊恐 
-
-13. **retrieve** [ /rɪˈtriːv/](cmd://Speak/_us_/retrieve)    v.tr.（及物动词） v.intr.（不及物动词）  检索   取回；重新获得 
-14. polish  [/ˈpɑːlɪʃ/](cmd://Speak/_us_/polish)  v.tr.（及物动词）v.intr.（不及物动词）  磨光；擦亮  n.（名词） 光滑，光亮 **Polish** 波兰的 波兰语 
-15. hectic [/ˈhektɪk/](cmd://Speak/_us_/hectic)  adj.（形容词） 忙乱的  It was **hectic** at work today  今天的工作真紧张
+13. **retrieve** [ /rɪˈtriːv/]( )    v.t  v.i    检索   取回；重新获得 
+14. polish  [/ˈpɑːlɪʃ/]( )  v.t  v.i   磨光；擦亮  n.   光滑，光亮       **Polish** 波兰的 波兰语 
+15. hectic [/ˈhɛktɪk/]( )  adj.  忙乱的  It was **hectic** at work today  今天的工作真紧张
 
 #### 006组
 
-1. **advocate**  [ /ˈædvəkeɪt/](cmd://Speak/_us_/advocate)  v.tr.（及物动词）  拥护   n.（名词） 拥护者 
+1. **advocate**  [ /ˈædvəket/](  ) v.t   拥护   n.拥护者 
 
    Advocates argue these automated vehicles will change mining forever. 倡导者认为，这些自动驾驶车辆将永远地改变矿业
 
-2. **occasional**  adj.Abbr. **occas.**（形容词） 偶尔
+2. **occasional**    [/əˈkeʒənəl/]( )   adj.  偶尔  *[occasional cause]( )*   偶因
 
-3. disclaimer */*dɪsˈkleɪmər*/*  *n.*不承诺，**免责声明**；放弃，拒绝
+   He doesn't react (beyond(prep) asking an occasional question)(介词短语做补语)  除了偶尔问一下问题，他没有任何反应
+
+   **beyond**  [/bɪˈjɑːnd/]()  
+
+   表示空间或位置关系：
+
+   - The store is just beyond the park. 商店就在公园的那边
+
+   - The mountain range extends beyond the horizon. 山脉延伸至地平线之外
+
+   表示超出或超越某个范围、限制或条件：
+
+   - Her talent goes beyond what we expected. 她的才能超出了我们的预期
+   - The problem is beyond my ability to solve. 这个问题超出了我解决的能力
+
+   表示超出某个时间、阶段或情感上的范围：
+
+   - Beyond a certain age, it becomes harder to learn new languages.  超过一定年龄后，学习新语言变得更加困难  
+   - His actions are beyond forgiveness.  他的行为已经超出了可以原谅的范围 
+
+   表示超过某个程度或程度之外：
+
+   - The noise level is beyond acceptable limits.  噪音水平超过了可接受的限制 
+   - Her achievements are beyond impressive.  她的成就超乎想象 
+
+3. disclaimer */*dɪsˈklemər*/*  *n.* 不承诺，**免责声明**；放弃，拒绝
 
 4. **abundant** */*əˈbʌndənt*/*  *adj.*大量的，丰富的，充足的
 
 5. **retention** */*rɪˈtenʃ(ə)n*/*  *n.*保持，保留；保存，存放；保持力，持续力；记忆力 
 
    Information learned right before bed has greater rates of retention  睡前学到的信息保存率更高 
-   *retention rate* 保留率
+   ***retention rate* 保留率**
 
-6. **derive** [/dɪˈraɪv/](cmd://Speak/_us_/derive) v.tr.得到：从某一源泉得到（或取得）  v.intr 起源于，来自。 **derivation ** 发展;  、
+6. **derive** [/dɪˈraɪv/]( ) v.t  得到：从某一源泉得到（或取得）  v.i  起源于，来自 
+
+   **derivation ** 发展 
 
    *derive from* 源出 
 
-   The word derives from French 这个词来自法语 
+   The word derives from French [ /frɛntʃ/]( )这个词来自法语 
 
    Many English words are derived from Latin 许多英语词汇源于拉丁文 
 
-7. **lapse** [/læps/](cmd://Speak/_us_/lapse)  v.intr. （时间）流逝；（合同、协议等）失效，期满终止；（状态，活动）中止，结束；背弃，放弃（宗教信仰）；开始（以某种方式）说话、行事（lapse into）  *n.* 过失，小失误；（一时的）行为失检；（两件事发生的）间隔时间；（活动的）暂停，中断；开始说，开始做；（因未继续缴费而导致的）终止，结束
+7. **lapse** [/læps/]( )  v.i （时间）流逝；（合同、协议等）失效，期满终止；（状态，活动）中止，结束；背弃，放弃（宗教信仰）；开始（以某种方式）说话、行事（lapse into）  *n.* 过失，小失误；（一时的）行为失检；（两件事发生的）间隔时间；（活动的）暂停，中断；开始说，开始做；（因未继续缴费而导致的）终止，结束
 
    *lapse of time* 一段时间；时光的流逝
 
@@ -749,53 +814,74 @@
 
    The lapse of year will never efface that scene of ruins from my memory 时光的流逝绝不会把那废墟的景象从我的记忆中冲淡
 
-8. **tighten** [ /ˈtaɪtn/](cmd://Speak/_us_/tighten)  v.tr.intr. 变紧，绷紧 
+   **efface**  [ /ɪˈfes/]( )   vt. 抹去，抹掉 
 
-9. [stand on](javascript:;)[persist in](javascript:;) 坚持；粘住 
+8. **tighten** [ /ˈtaɪtn/]( )  v.t vi  变紧，绷紧 
 
-10. hatred  */*ˈheɪtrɪd*/*  *n.*仇恨，憎恨，敌意  [racial hatred](javascript:;) 种族仇恨 
+9. [stand on]( )        [persist in]( ) 坚持；粘住 
 
-11. self-interest *n.*私利；利己主义 
+10. hatred  */*ˈheɪtrɪd*/*  *n.*仇恨，憎恨，敌意  [racial hatred]( ) 种族仇恨 
 
-12. urge  [/ɜːrdʒ/](cmd://Speak/_us_/urge)  v.tr. 推进，驱策 催促，力劝  v.intr. 驱策，鼓动 
+11. self-interest    *n.*私利；利己主义 
 
-13. self-assurance  *n.*自信 *adj.*自信的 
+12. urge  [/ɜːrdʒ/]( )  v.t  推进，驱策 催促，力劝  v.i  驱策，鼓动 
 
-    **assurance** */*əˈʃʊrəns*/*  *n.*自信，把握；（人寿）保险；保证，确保 
+13. self-assurance  *n.*  自信   *adj.*  自信的  
 
-14. **psychological** */*ˌsaɪkəˈlɑːdʒɪk(ə)l*/* *adj.*心理的，精神的；心理学的 
+    **assurance** */*əˈʃʊrəns*/*  *n.*自信，把握；**（人寿）保险；保证，确保** 
 
-15. responsiveness */*rɪˈspɑːnsɪvnəs*/*  *n.*响应能力；有同情心 
+14. **psychological** */*ˌsaɪkəˈlɑːdʒɪk(ə)l*/* *adj.* 心理的，精神的；心理学的 
+
+15. responsiveness */*rɪˈspɑːnsɪvnəs*/*  *n.*响应能力；有同情心      
+
+    **responsive**   [ /rɪˈspɑːnsɪv/]( ) *adj.* 反应热烈或良好的；赞同的；支持的  回答的，答应的
+
+    *[responsive gene]( )* 应答基因
+
+    *[responsive environments]( )* 互动环境  反应环境 
+
+    "Responsive"是一个形容词，用来描述事物或人对外界的反应或回应能力。它通常用于描述技术、设计或布局上的特性，指能够根据不同的环境或需求做出适当调整或回应的能力。例如，**responsive design**"(响应式设计） 指的是能够根据不同设备和屏幕尺寸自动调整显示效果的网页或应用程序。
+
+    "Respond"是一个动词，表示对某种刺激或事件做出回应或反应。它强调对外界刺激或请求作出回应的行为。例如，"She responded to my question"（她回答了我的问题）指的是她对我的问题做出了回应。
+
+    总结：
+
+    - "Responsive"是形容词，表示适应环境或需求的能力。  
+    - "Respond"是动词，表示对刺激或请求做出回应的行为。
+
+    The new unified app runtime keeps your apps more **responsive**.   新的统一的应用程序运行时间使你的应用程序保持更高的**响应速度**
 
 #### 007组
 
-1. penguin [/ˈpeŋɡwɪn/](cmd://Speak/_us_/penguin) 企鹅
+1. penguin [/ˈpeŋɡwɪn/]( ) 企鹅
 
 2. **curious**  */*ˈkjʊriəs*/* *adj*  --- **curiosity** */*ˌkjʊriˈɑːsəti*/*  *n.* --- **curiously** */*ˈkjʊriəsli*/* *adv.*  好奇的；好奇心；好奇地
 
-3. agility  */*əˈdʒɪləti*/* *n.*（动作）敏捷，灵活；（思维）机敏  [AGILITY CONTROL](javascript:;) 敏捷操控 敏捷控制系统 
+3. agility  */*əˈdʒɪləti*/* *n.*（动作）敏捷，灵活；（思维）机敏  [agility control]( ) 敏捷操控 敏捷控制系统 
+
+    You'll sub breathing for bleeding, posture for pasture, agility for futility 你会用呼吸来代替出血，用姿势来代替牧场，用敏捷来代替无用
 
 4. mobility */*moʊˈbɪləti*/* *n.*  （住处、社会阶层、职业方面的）流动能力；活动性，灵活性
 
-    [Social mobility](javascript:;) 社会流动社会迁移
+    [Social mobility]( ) 社会流动  社会迁移
 
-5. **dexterity**  [ /dekˈsterəti/](cmd://Speak/_us_/dexterity) *n.* 灵巧;熟练;敏捷;聪敏   **dexterity** comes by **experience**   **熟练**来自**经验** 
+5. **dexterity**  [ /dɛkˈstɛrəti/]( ) *n.* 灵巧;熟练;敏捷;聪敏   **dexterity** comes by **experience**   [/ɪk'spɪrɪəns/]( ) **熟练**来自**经验** 
 
-6. **solidity**  [/sə'lɪdəti/](cmd://Speak/_us_/solidity) *n.*   1. The condition or property of being solid  **坚固**：牢固的状态或特性 2. Soundness of mind, moral character, or finances. **稳健**：头脑、品德、操行或财政良好的状态  （solid:固体)
+6. **solidity**  [/sə'lɪdəti/](c ) *n.*   1. The condition or property of being solid  **坚固**：牢固的状态或特性 2. Soundness of mind, moral character, or finances. **稳健**：头脑、品德、操行或财政良好的状态  （solid:固体)
 
-7. **overcommit** [/ˌovəkəˈmɪt/](cmd://Speak/_us_/overcommit)  v.tr. 使承担过多义务  v.intr.  处于或变得承担过多义务  **过量使用** 
+7. **overcommit** [/ˌovəkəˈmɪt/]( )  v.t  使承担过多义务  v.i   处于或变得承担过多义务  **过量使用** 
 
-8. **octonary** [/'ɑktə,nɛri/](cmd://Speak/_us_/octonary)  adj. 八的或与八有关的  *n.* 八进制
+8. **octonary** [/'ɑktə,nɛri/]( )  adj. 八的或与八有关的  *n.* 八进制
 
-9. **foe** */*foʊ*/*  [friend or foe](javascript:;) 朋友还是敌人
+9. **foe** */*fo*/*  [friend or foe]( ) 朋友还是敌人 
 
-10. **convey** */*kənˈveɪ*/*  *v.tr.* 传送，运输；表达，传递；<法律>转让（土地、财产等） *[conveying system](dic://conveying system)* 输送系统 
+10. **convey** */*kənˈveɪ*/*   v.t 传送，运输；表达，传递；<法律>转让（土地、财产等） *[conveying system]( )* 输送系统 
 
     Destroyers escorted a **convey** of merchant ships  驱逐舰护送一支商船队 
 
-11. **mature** */*məˈtʃʊr*/*  *adj.*成熟的，理智的  v.tr. 使长成；使成熟  v.intr. 变成熟  mature women 少妇 mature work 成熟的作品
+11. **mature** */*məˈtʃʊr*/*  *adj.*成熟的，理智的  v.tr. 使长成；使成熟  v.intr. 变成熟  mature women 熟女       mature work 成熟的作品
 
-12. **eager**  */*ˈiːɡər*/*  [be eager for](javascript:;) 渴望 想得到 巴望 
+12. **eager**  */*ˈiːɡər*/*  [be eager for]( ) 渴望 想得到 巴望 
 
 13. **but then again**   其次 还有  this is better, but then again it costs more 这个好一点，但是也贵一些
 
@@ -803,23 +889,23 @@
 
 15. dramatic *adj.*  巨大的；戏剧的 
 
-    **dramatic transformation 巨大转变**
+     **dramatic transformation 巨大转变**
 
-16. indefinitely [/ɪnˈdefɪnətli/](cmd://Speak/_us_/indefinitely)   A gas tends to expand **indefinitely** 气体具有**无限**膨胀的趋势 
+16. indefinitely [/ɪnˈdɛfɪnətli/]( )   A gas tends to expand **indefinitely** 气体具有**无限**膨胀的趋势 
 
-17. prematurely [/ˌpriməˈtjʊrlɪ/](cmd://Speak/_us_/prematurely)  adv 过早的 She was born prematurely 他是早产的
+17. prematurely [/ˌpriməˈtjʊrlɪ/]( )  adv 过早的 She was born prematurely 他是早产的
 
-18. potentially */*pəˈtenʃəli*/* *adv.* 潜在地
+18. potentially */*pəˈtɛnʃəli*/* *adv.* 潜在地
 
 19. fit the bill  符合要求
 
-    [He really fit the bill](javascript:;)  他完全符合我的设想
+     [He really fit the bill]( )  他完全符合我的设想
 
 20. figure out  计算出 想出 理解 
 
-    We must figure out how to solve the problem 我们必须想出解决这个问题的办法
+     We must figure out how to solve the problem 我们必须想出解决这个问题的办法
 
-    Can you figure out what I'm doing?  你知道我在做什么吗？ 
+     Can you figure out what I'm doing?  你知道我在做什么吗？ 
 
 21. plug  *n.*（电）插头；（电）插座  *v.*堵，塞；补足；插入 
 
@@ -947,7 +1033,9 @@
 
 11. It **unifies** `A` and `B`  他统一了A和B
 
-    **unify**  [/ˈjuːnɪfaɪ/](cmd://Speak/_us_/unify)  v.tr.intr.  统一 
+    **unify**  [/ˈjuːnɪfaɪ/](cmd://Speak/_us_/unify)  *vt. vi.*  统一 
+
+    **unification**  [ /ˌjuːnɪfɪˈkeɪʃn/]() *n.* 统一
 
 12. type **assertion** 类型断言  [/əˈsɜːrʃn/](cmd://Speak/_us_/assertion) 
 
@@ -1564,9 +1652,11 @@
     名 词: substitutability
     形容词: substitutable
 
-93. explanation  [ /ˌekspləˈneɪʃn/](cmd://Speak/_us_/explanation)   *n.* 解释, 说明 
+93. explanation  [ /ˌɛkspləˈneɪʃn/]()   *n.* 解释, 说明 
 
-    **explain**  [ /ɪk'splen/](cmd://Speak/_us_/explain) 
+    So I tossed off this drawing. And I threw out an explanation with it  所以我随手画了这个图，并附上了一个解释
+
+    **explain**  [ /ɪk'splen/]() 
 
     v. 说明，解释
 
@@ -1592,25 +1682,25 @@
 
    *clinical trial* 临床试验；诊治试验 
 
-   **clinical**  [ /ˈklɪnɪkl/](cmd://Speak/_us_/clinical) adj. 门诊的 临床的 
+   **clinical**  [ /ˈklɪnɪkl/]() adj. 门诊的 临床的 
 
-2. **chunk**  [ /tʃʌŋk/](cmd://Speak/_us_/chunk)    n. 大块；矮胖的人或物   a chunk of ice.  一块厚冰 
+2. **chunk**  [ /tʃʌŋk/]()    n. 大块；矮胖的人或物   a chunk of ice.  一块厚冰 
 
-3. unitary  [/'junɪtɛri/](cmd://Speak/_us_/unitary)  adj. 单位的；单一的；统一的  unit  n. 单位
+3. unitary  [/'junɪtɛri/]()  adj. 单位的；单一的；统一的  unit  n. 单位
 
-4. bypass   [ /ˈbaɪpæs/](cmd://Speak/_us_/bypass)   *vt.* 绕过, 避开  *n.* 旁道   
+4. bypass   [ /ˈbaɪpæs/]()   *vt.* 绕过, 避开  *n.* 旁道   
 
    *bypass surgery* 绕道手术；心脏搭桥手术 
 
    Let's bypass the town  我们绕过这座小镇子吧 
 
-5. **stochastic**  [ /sto'kæstɪk/](cmd://Speak/_us_/stochastic)  *adj.* 随机的 
+5. **stochastic**  [ /sto'kæstɪk/]()  *adj.* 随机的 
 
    *stochastic process* 随机过程 
 
    *stochastic model* 随机模型；随机模式
 
-6. **exhaustive** [ /ɪɡˈzɔːstɪv/](cmd://Speak/_us_/exhaustive)   *adj.* 全面的, 彻底的, 透彻的 
+6. **exhaustive** [ /ɪɡˈzɔːstɪv/]( )   *adj.* 全面的, 彻底的, 透彻的 
 
    副 词: exhaustively 
    名 词: exhaustivity 
@@ -1621,7 +1711,7 @@
 
    The paper contains an exhaustive evaluation section  这篇论文有很详尽的评估段落 
 
-7. **capitalize** [ /'kæpɪtəlaɪz/](cmd://Speak/_us_/capitalize)  
+7. **capitalize** [ /'kæpɪtəlaɪz/]( )  
 
    1. *vt.* 用大写字母写或印刷
    2. 将(某事物)转作资本、用作资本或资本化
@@ -1859,9 +1949,11 @@
 
 11. **transistor**  [ /trænˈzɪstər/](cmd://Speak/_us_/transistor)  *n.* 晶体管 
 
-12. **discrete**  [ /dɪˈskriːt/](cmd://Speak/_us_/discrete)  *adj.* 分离的, 不相关联的  不连续的 
+12. **discrete**  [ /dɪˈskriːt/]()  *adj.* 分离的, 不相关联的  不连续的 
 
     *discrete mathematics* 离散数学 
+
+    *discrete value* 不连续值，离散值
 
 13. **integrated circuit**  [ /ˈɪntɪˌɡretɪd/](cmd://Speak/_us_/integrated circuit)   集成电路 
 
@@ -2865,7 +2957,7 @@
 
     The onset of depression often follows a traumatic event  抑郁症发作常常发生在遭受创伤之后 
 
-**013G**
+#### **013G**
 
 1. I'm really looking forward to embracing whatever happens and whatever comes my way  我会继续向前看，无论未来会发生什么我都会面对 
 
@@ -3366,13 +3458,13 @@
 
 21. **lingo**  [ /'lɪŋgo/]()  *n.* 听不懂的话(指方言、术语等); 隐语;外语  
 
-    *[industry lingo]()* 行话；行业术话
+    *[industry lingo]()* 行话；行业术话      
 
 #### 016G
 
 1. **synopsis** [ /sɪˈnɑːpsɪs/]()  *n.* 摘要,梗概  大纲 
 
-   *[Exhibition synopsis]()* 展会简介 
+   *[Exhibition synopsis]()* 展会简介  [ /ˌɛksɪˈbɪʃn/]()
 
    *lecturer synopsis* 讲师资历；讲师简介
 
@@ -3426,7 +3518,7 @@
 
     The factory announced its removal to another town  这家工厂宣布迁往另一座城市 
 
-13.  **verifiable**  [ /ˈverəfaɪəbl/]()   *adj.* 能作证的,能证实的 
+13.  **verifiable**  [ /ˈvɛrəfaɪəbl/]()   *adj.* 能作证的,能证实的 
 
     Instead, the Russian strategy is to destroy the very idea of an objective, verifiable set of facts.  相反，俄罗斯的策略是破坏客观的、可验证的事实 
 
@@ -3438,7 +3530,7 @@
 
     The versatile worker was assigned to many different jobs  这个多才多艺的工人被分配了许多不同工作 
 
-16. dial [/ˈdaɪəl/]()  
+16. dial [/ˈdaɪəl/]()   *vt. & vi.* 打电话，拨电话号码  *n.* 钟(表)面；标度盘；拨号盘 
 
     Do you often **dial** home  你常给家里**打电话**吗  
 
@@ -3450,13 +3542,13 @@
 
     **Strive** for the best, prepare for the worst  作最坏的打算,争取最好的结果 
 
-18. **tempest**  [ /ˈtempɪst/]() 
+18. **tempest**  [ /ˈtɛmpɪst/]() 
 
     1. n. 暴风雨；骚动；动乱
     2. vt. 使狂怒；扰乱，使激动
     3. vi. 小题大作；起大风暴
 
-    The tempest forced the ship onto the rocks.  暴风雨迫使这这艘船撞上礁石 
+    The tempest forced the ship onto the rocks.  [/rɑːk/]() 暴风雨迫使这这艘船撞上礁石 
 
 19. **remainder**  [ /rɪˈmeɪndər/]()   *n.* 剩余物；残余部分 
 
@@ -3494,7 +3586,7 @@
 
     See explanatory notes at the foot of this page  参见本页下端的注解 
 
-22. invocation     ***n.***    
+22. invocation     ***n.***    [ /ˌɪnvə'keʃən/]()
 
     **[invocation stack]()** 调用堆栈
 
@@ -3636,7 +3728,7 @@
 
     "Redundancy" 更强调于事物的多余性，而 "Verbose" 更强调于语言表达的过度 
 
-38. **reclaim**  [ /rɪˈklem/]()
+38. **reclaim**  [ /rɪˈklem/]()   *vt.*  
 
     *[baggage reclaim](dic://baggage reclaim)* 行李提取处；领取行李处 
 
@@ -3655,37 +3747,869 @@
 
     disclaimer 免责声明
 
-39. 
+39.  **infer**  [ /ɪnˈfɜːr/]()    *vt.* 推断, 推知 
 
+    From your smile I infer that you're pleased  [ /pliz/]() 从你的笑容, 我断定你很高兴  
 
+40. **penetration**   [ /ˌpɛnɪ'treʃən/]()    *n.* 穿透;穿透能力;穿透深度  <军>突破;(空战中)深入敌方的飞行
 
-​	
+    *internet penetration* 互联网普及率 
 
+    *water penetration* 漏水；渗水；透水力 
 
+#### 017G
 
+1. **dedicated**  [ /'dɛdɪ'ketɪd/]()   *adj.* 专注的;献身的  <电脑>专用的 
 
+   *dedicated line* 专线；专用线路
 
+   *dedicated team* 特别小组；专门小组
 
+   *dedicated computer* 专用电脑
 
+   *dedicated channel* [计]专用信道
 
+   dedicated network 专用网络
 
+2. **badge** [ /bædʒ/]()   n. 徽章；标记；证章  vt. 授给…徽章 
 
+   **Badge reader**是一种设备，用于读取身份证件上的信息并验证身份。它通常用于安全门禁系统、会议室门禁系统、考勤系统等场合
 
+3. **encrypt**  [/ɪn'krɪpt/]()  *v.* 加密,将…译成密码 
 
+   Cryptocurrency  加密货币  [ /ˈkɜːrənsi/]() 
 
+4. **speculate**  [/ˈspɛkjuleɪt/]()    *vt. & vi.* 思索；猜测，推测  *vi.* 投机 
 
+   Scientists speculate on the origin of the universe  科学家们猜测宇宙的起源 
 
+5. **ordinal**  [ /'ɔrdənl/]()  *n.* 序数   比较  *adj.* 序数的 
 
+   And fiftieth is the correct way to write the ordinal number.  而 fiftieth 才是序数词的正确写法 
 
+6. **predominant**  [ /prɪˈdɑːmɪnənt/]()  *adj.* 占主导地位的, 显著的 
 
+   *[predominant use]()* 主要用途   
 
+   *[predominant frequency]()* 主频率; 优势频率;     
 
+7. reintroduce  [ /'ri:,intrə'dju:s/]()   *vt.* 再引入,再提出 
 
+   "reintroduce" 这个词通常表示将某个人、事物、想法、方法或产品重新引入到人们的视野中。 
 
+8. variant [/'vɛrɪənt/]()  *n.* 变体；变种；变型  *adj.* 不同的；差别的；变异的 
 
+   *[gene variant]()* 基因变种
 
+9. **compatibility**  [ /kəmˌpætəˈbɪlətɪ/]()   *n.* 适合，一致;互换性； 通用性， 兼容性
 
+10. **purge**  [ /pɜːrdʒ/]()   vi. 净化；通便  vt. 净化；清洗；通便  n. 泻药；净化 
 
+    *air purge*   空气净化 
+
+    And only **confession** can purge **sin**  只有忏悔才能净化罪孽 
+
+    The purges are not a **concession** to the **opposition**  不过清洗并不代表对**反对派**的**让步** 
+
+11. **yank**   [/jæŋk/]() vi. 猛地一拉  vt. 猛拉  n. 突然的猛拉 
+
+    He yanked out a loose tooth  他猛拔出一颗松动了的牙 
+
+12. **encapsulation**   [ /ɪnˌkæpsjuˈleɪʃn/]()   *n.* 封装
+
+    封装通常指将数据和代码打包在一起，隐藏其内部实现，并仅暴露必要的接口和功能。封装可以提高代码的可维护性、可读性和安全性，以及减少代码之间的耦合性。在面向对象编程中，封装是一种重要的概念，通常通过访问修饰符（如public、private、protected）来实现。
+
+    而"**Wrapper**" 通常指将一个对象或函数包装在另一个对象或函数中，以提供更高层次的抽象和功能。Wrapper的目的通常是扩展、定制或重载原始对象或函数的功能。Wrapper可以使用继承、接口、代理等技术来实现，也可以是一段代码或函数。
+
+13. deprecate  [ /ˈdɛprəkeɪt/]()   *vt.* 不赞成, 反对  (**注意读音**)
+
+14. **reside**  [/rɪˈzaɪd/]()   *vi.* 居住；定居 
+
+    He has resided abroad for over ten years  他住在国外已10年多了 
+
+    The **Constitution** has only three requirements, natural born citizen, at least 35 years old, 14 years **residing** in the United States.   宪法对总统只有三个要求，自然出生的公民，至少35岁，在美国居住有14年 
+
+15. **ingest**  [ /ɪnˈdʒest/]()   *vt.* <正>吃；吞下  获取(某事物)   
+
+    And I'm guessing that ingested means 'eaten'?  我猜“摄入”的意思就是“吃”吧 
+
+16. **resilient**  [ /rɪˈzɪliənt/]()  *adj.* (指物体或材料)能复原的;有弹性的;有弹力的  (指人的性格)能迅速恢复或重新振作的;达观的;适应性强的  
+
+    *[resilient material]()* 弹性材料 
+
+17. **acyclic**  [ /e'saɪklɪk/]()   adj. 非循环的；非周期的 
+
+    *acyclic graph* 非循环图；无圈图
+
+    **cycle**  [/ˈsaɪkl/]()   n. 循环；周期；整套；自行车；一段时间  vt. 使循环；使轮转  vi. 骑自行车；循环；轮转 
+
+    **cyclic**  [ /'saɪklɪk/]()   adj. 环的；循环的；周期的
+
+    **cyclical**   [ /ˈsaɪklɪkl/]()   adj. 周期的，循环的 
+
+    Directed acyclic graph GAG
+
+18. **bearer**  [/'bɛrɚ/]() 
+
+    1. 金融领域：在金融领域，"bearer" 通常指代持有某种证券或债券的人。例如，**Bearer Bonds**（持有人债券）是一种无记名债券，任何人都可以持有、交易和兑现。
+    2. 移动通信：在移动通信领域，"bearer" 指代数据通信连接的承载方式。例如，4G移动网络通常使用 **LTE bearer（长期演进承载）**，来传输不同类型的数据。
+    3. 物流和配送：在物流和配送领域，"bearer" 通常指代某个人或实体所持有的货物运输证明或提单。例如，海运货物通常需要提供"**bearer bill of lading"（提单），以证明持有人有权领取货物**。
+
+    She is the bearer of good news.  她带来了好消息。 
+
+    I'm sorry to be the bearer of bad tidings  很抱歉，我带来了坏消息 
+
+19. **credential**  [ /krɪˈdenʃl/]() *n.* 外交使节所递的国书,信任状
+
+    *[credentials]()* n. [管理] 证书；文凭  
+
+    The third reason why managers use jargon is to establish their credentials  管理者使用行话的第三个原因是为了证明他们的资历 
+
+20. **alias** [/'elɪəs/]() n. 别名，化名  
+
+#### 018G
+
+1. **fragment**  [/ˈfræɡmənt/]()  *n.* 分段
+
+2. **outgoing** [ /ˈaʊtɡoɪŋ/]()  *adj.* 对人友好的;开朗的  即将离职的 
+
+3. **warranty**  [/ˈwɔːrənti/]()  n. 担保；保证；授权；（正当）理由  
+
+   *warranty period* 保修期；保证期间 
+
+   *[warranty of merchantability]()* 商品性能保证 
+
+   Our products are very reliable but we recommend you take out an extended warranty.  我们产品的质量非常可靠，但是我们建议你购买延长质保 
+
+4. **avatar**  [/'ævətɑr/]()  阿凡达  
+
+5. **merchant**  [ /ˈmɜːrtʃənt/]()  *n.* 商人  
+
+   *merchant ship* 商船 
+
+   *merchant **marine*** （一个国家的）商船，商船队 
+
+   *merchant bank* 商业银行 
+
+   *retail merchant* 零售商 
+
+   ***commission** merchant* n. 代销商，掮客    [ /kəˈmɪʃn/]()   *n.* 授权, 委托  委员会 
+
+   *merchant fleet* 商船队
+
+6. **glossary** [ /ˈɡlɑːsəri/]()  *n.* (书尾的)词汇表
+
+7. **directive**  [ /dɪˈrektɪv/]()  *n.* 正式的指示，官方的指示；指令 
+
+   This is a directive from the federal government  这一指令是由联邦政府直接下达 
+
+8. **stash**  [/stæʃ/]()  *vt.* 贮藏；隐藏；藏匿 
+
+   *[file stash]()* 存储文件  
+
+9. **span**    [ /spæn/]()   *n.* 跨度，跨径  
+
+   *time span* 时间跨度
+
+   *life span* 寿命；使用期限 
+
+10. solely  [ /ˈsoʊlli/]()  *adv.* 唯一地;仅仅;独一无二地
+
+    *[Solely Owned]()* 港; 外资企业;
+
+    *[solely state-owned]()* 国有独资 
+
+    He is solely responsible  他独自负责 
+
+11. diverse  [/daɪˈvɜːrs/]()  *adj.* 不同的, 多种多样的 
+
+    *[diverse cultures]()* 多元文化; 不同的文化
+
+    Commodities and art? You've got diverse interests.  商品和艺术？你有着多元化的兴趣。
+
+    **commodity** *n.* 商品, 货物  
+
+    futures 期货
+
+12. **alternate**  [ /ˈɔːltərnet/]()  *adj.* 轮流的, 交替的  间隔的  代替的  *vt. & vi.* (使)交替, (使)轮换 
+
+    *alternate current* 交流电  < == > *direct current* 直流；[电]直流电 
+
+    *alternate energy* 替代能源 
+
+    *alternate route* 替换路线 
+
+    *alternate stress* 交变应力 
+
+13. **symbolic**  [ /sɪmˈbɑːlɪk/]()  *adj.* 象征的, 象征性的 
+
+    symbolic link 符号链接（软连接）
+
+14. **offend**  [/əˈfend/]()   vt. 冒犯；使…不愉快  vi. 违反；进攻；引起不舒服 
+
+    That sound offends my ear  那声音使我感到刺耳 
+
+15. **dispute** [ /dɪˈspjuːt/]()   vt. 辩论；阻止；抗拒；怀疑  n. 辩论；争吵  vi. 争论 
+
+    *settle dispute* 解决争端；解决争议 
+
+16. **consul**  [ /ˈkɑːnsəl/]() *n.* 领事  
+
+17. **spell**  [ /spɛl/]()  *vt. & vi.* 拼写，拼读 
+
+18. **weird** [ /wɪrd/]()   *adj.* 怪诞的；神秘而可怕的；超然的 
+
+    She has some weird ideas.
+
+19. **whirl** [ /wɜːrl/]()  *vt. & vi.* (使)飞快移动，使旋转  *n.* 迅速的活动；混乱 
+
+20. **exclusively**  [/ɪkˈskluːsɪv/]()   *adj.* 高级的，奢华的  专用的；独家的  *n.* 独家新闻，独家报道 
+
+    *exclusive dealing* 独家销售；专卖；独家交易；独家经营 
+
+    *exclusive interview* 独家采访 
+
+    This was an **exclusive report** by CNN  这是CNN的独家报道
+
+21. **governance**  [ /ˈɡʌvərnəns/]()  *n.* 统治;管理;治理;统治方式;管理方法 
+
+    *corporate governance* 公司治理；企业管治，企业治理；公司管治
+
+    *governance structure* 治理结构；统治结构；规制结构
+
+    Primary-level governance in urban and rural areas was enhanced.  完善城乡基层治理 
+
+22. **adhere**  [/ədˈhɪr/]()  *vi.* 黏附, 附着  坚持, 支持 
+
+    1. 遵守规定或法律：在法律、规定或政策方面，"adhere" 可用于描述人们或组织遵守法律要求、规章制度或政府指导方针的行为。例如，"**adhere to traffic regulations**" 意味着遵守交通规则。
+
+    2. 遵循准则或原则："adhere" 可用于描述人们在道德、伦理或价值观方面的行为。例如，"**adhere to ethical standards**" 意味着遵循道德准则。
+
+       **ethical**  [ /'ɛθɪkl/]() adj. 道德的；伦理的
+
+    3. 黏附或粘合："adhere" 还可以用于描述物体或材料之间的粘附或黏合。例如，"The sticker adheres to the surface" 意味着贴纸粘附在表面上。
+
+    4. 遵循指示或指导："adhere" 也可以表示遵循指示或指导进行行动。例如，在工作环境中，"adhere to the supervisor's instructions" 意味着按照主管的指示行事。
+
+    prescription medicine 处方药
+
+    Over-the-counter drugs 非处方药
+
+23.  **wrench**  [/rɛntʃ/]()   *vt.* (猛力地)扭，拧，扳  *n.* 一拧；一扳；猛扭，猛拉 
+
+    ***socket wrench* [机械]套筒扳手** 
+
+24. **quirk**  [ /kwɜːrk/]()  n. 怪癖；急转；借口 
+
+    All men have their own quirks  人人都有他们自己的怪癖
+
+25. tier [ /tɪr/]()
+
+    *top tier* 顶层；高层 
+
+26. **canary**  *n.* 金丝雀 
+
+    canary release 金丝雀发布
+
+#### 019G
+
+1. **nucleus**  [/ˈnuːkliəs/]()  n. 核，核心；原子核 
+
+   *atomic nucleus* n. [化]原子核
+
+2. **abide** [ /əˈbaɪd/]()  *vt.* 容忍, 忍受  等候  *vi.* 逗留, 居住 
+
+   Abide with me.  和我住在一起吧 
+
+3. **majority** [ /məˈdʒɔːrəti/]() n. 多数；[律]成年 
+
+   *majority of votes* 多数票；表决多数 
+
+   The great majority approved  绝大多数同意了 
+
+4. **observability**   [ /əb'zə:vəbiliti/]()  n. [数] 可观察性 
+
+5. **pathetic**  [ /pəˈθɛtɪk/]()   adj. 可怜的，悲哀的；感伤的；乏味的 
+   I think the way you're trying to rationalize your behavior is pathetic  你想把自己的行为合理化，真可悲
+
+   **rationalize**  [/'ræʃnə'laɪz/]()   *vt.* 使合理化  *vt. & vi.* 为错误的或有害的行为找理由 
+
+3. **consensus**  [/kənˈsensəs/]()   *n.* (意见等)一致, 一致同意 
+
+   *reach a consensus* 达成共识
+
+4. **increment**  [ /ˈɪŋkrəmənt/]()  *n.* 增长  递增
+
+   "augment" 和 "increment" 都表示增加或增量的意思，但在使用上有一些区别：
+
+   1. "Augment" 指的是通过添加、扩大或增加来增加某物的数量、规模或价值。它强调通过增加额外的元素或资源来扩展或丰富现有的事物。例如，"augment the team with new members" 意味着通过增加新成员来扩大团队的规模。
+   2. "Increment" 则强调按递增或递增步骤增加某物的数量或价值。它通常表示在已有的基础上进行逐步增加或增量操作。例如，"increment the counter by one" 意味着将计数器逐步增加一个单位。
+
+   总的来说，"augment" 更强调通过添加额外元素来增加整体数量或价值，而 "increment" 更侧重于逐步增加或递增操作。
+
+5. **momentary**  [ /'moməntɛri/]()  *adj.* 瞬间的；短暂的；随时会发生的 
+
+   *[momentary current]()* 瞬时电流
+
+   *[momentary value]()* 瞬时值
+
+6. **substitution**  [/ˌsʌbstɪˈtuːʃn/]()   *n.* 代替；代用；替换  代替物；代用品；替换物 
+
+   *substitution method* 代入法；替换法 
+
+7. **agile**  [ /ˈædʒl/]()  *adj.* 灵巧的，轻快的，活跃的 
+
+   *agile manufacturing* 敏捷制造
+
+   *agile development* 敏捷开发；敏捷式软体开发
+
+   He was coordinated and agile, and he became adept in sports  由于协调性好，动作敏捷，他很快就成了运动高手 
+
+   adept  [ /əˈdɛpt/]()  adj. 熟练的；擅长…的  n. 内行；能手
+
+8. **notary**  [/'notəri/](\)  n. 公证人 
+
+   You also find notaries no matter what country you're in  无论身处哪个国家都会有公证员 
+
+9. **ransom**  [ /ˈrænsəm/]()   vt. 赎回，赎；勒索赎金；得赎金后释放；[宗]救赎  n. 赎金；赎身，赎回 
+
+   *[a king's ransom]()* 一笔巨款
+
+   In addition, the Qing Dynasty had to pay a huge ransom in cash  除此之外 清政府还签下巨额赔款 
+
+10. signed integer 带符号整数
+
+11. **headquarters**  [ /ˈhɛdˈkwɔrtɚz/]()     *n.* (机构, 企业等的)总部, 总店  司令部, 指挥部 
+
+12. **familiarize**  [/fə'mɪlɪəraɪz/]()   *vt.* 使(某人)熟悉,使通晓 
+
+    Speaking of priming, it's important that you familiarize yourself with the exam room   说到备考，熟悉考场是非常重要的。 
+
+13. **prime**  [ /praɪm/]()  
+
+    adj. 基本的；最好的；主要的  adv. 极好地 n. 初期；青年；全盛时期；精华 vt. 填装；使准备好 vi. 作准备
+
+    *prime minister* 首相，总理 
+
+    *prime number* 素数 
+
+14. **defunct**  [ /dɪˈfʌŋkt/]()  adj. 非现存的；死的  n. 死者 
+
+    *[defunct company]()* 已倒闭的公司
+
+15. **premise**  [/ˈpremɪs/]()   vt. 引出，预先提出；作为…的前提  n. 前提；上述各项；房屋连地基  vi. 作出前提 
+
+    We have a warrant to search the premises.  我们有搜索这栋宅邸的授权令。 
+
+    Are the inferences valid? Does the conclusion follow the premises?  推断有效吗？结论与前提一致吗？ 
+
+16. **emulate**   [ /ˈɛmjuleɪt/]()   *vt.* *【计算机科学】* 仿真，仿效  竞争  看齐
+
+    *[Emulates forward]()* 向前看齐
+
+    *[emulate simulation]()* 仿真模拟
+
+    *[Simulink emulates]()* Simulink仿真
+
+17. **concrete**  [ /ˈkɑːŋkriːt/]() 
+
+    1. "Concrete" 作为名词，指的是一种用于建筑和构造的建材，通常由水泥、沙子、石子和水混合而成。它用于建造房屋、桥梁、道路等结构。例如：
+       - "The workers **poured** the concrete for the foundation of the building."（翻译：工人们倒入混凝土以建造建筑物的基础。）[出处：实际情境]
+    2. "Concrete" 作为形容词，意为具体的、实际的或明确的。它用于描述具体的事物、观念或想法。例如：
+       - "We need to come up with concrete solutions to the problem."（翻译：我们需要提出具体的解决方案来解决这个问题。）[出处：商务会议]
+       - "She has concrete evidence to support her claims."（翻译：她有确凿的证据来支持她的主张。）[出处：法庭辩论]
+    3. "Concrete" 还可以作为动词使用，表示使具体化或实体化。例如：
+       - "He struggled to concrete his abstract ideas into a **coherent** plan."（翻译：他努力将抽象的想法具体化为一个连贯的计划。）
+
+#### 020G
+
+1. **terminology**  [ /ˌtɝmɪ'nɑlədʒi/]()  *n.* 专门用语；术语；术语学
+
+   *scientific terminology* 科学术语 
+
+2. **specification** 
+
+   1. 产品规格（Product Specifications）
+   2. 技术规范（Technical Specifications）
+   3. 建筑规范（Building Specifications）
+   4. 标准规范（Standard Specifications）
+   5. 软件规范（Software Specifications）
+
+3. **fulfill**  [ /fʊlˈfɪl/]()  vt. 履行；满足；实现 
+
+   *fulfill oneself*  v. 完全实现自己的抱负
+
+   I just want to fulfill my young dream  只想实现年轻时的梦想  
+
+4. **affinity**   [ /əˈfɪnəti/]()  n. 吸引力；姻亲关系；密切关系；类同 
+
+   English has a close affinity to French.  英语同法语很相近 
+
+   All the elements in the periodic table have a different affinity for electrons.   元素周期表中的所有元素对电子都有不同的亲和力。 
+
+5. **semantic**  [/sɪ'mæntɪk/]()    adj. 语义的；语义学的 
+
+6. **compliant**  [ /kəmˈplaɪənt/]()  *adj.* 遵从的,依从的,顺从的,屈从的 
+
+   I don’t **respect** people who are too **compliant**.  我不尊重那些太顺从的人。 
+
+7. **ideally**  [ /aɪ'diəli/]()   adv. 理想地；观念上地 
+
+   *[Ideally offsite]()* 理想的隔离点  
+
+   *[No offsite Data]()* 无异地数据备份
+
+   Ideally,I would like to start at the beginning.  要是有可能,我们真想从头开始
+
+8. **promiscuous**  [/prə'mɪskjuəs/]()  *adj.* 混杂的，杂乱的；（人）滥交的 
+
+   *[Promiscuous life]()* 放荡生活  
+
+   promiscuous mode 混杂模式
+
+9. **caveat**  [/'kævɪ'at/]()   "caveat" 用于引起注意、警告或提醒 
+
+   "caveat emptor" 意味着“买方自负风险” 
+
+   "caveat investor" 意味着“投资者需谨慎” 
+
+10. *[for the sake of convenience]()* 为了方便起见
+
+    **Nevertheless**, students should not study merely **for the sake of** passing exams   但是，学生不应该仅仅为了通过考试而学习
+
+    [ /ˌnɛvərðəˈlɛs/]()  *adv.* 仍然, 然而, 不过  *conj.* 尽管如此, 然而 
+
+11. **opaque**  [/oˈpeɪk/]()   *adj.* 不透明的  难理解的, 晦涩的 
+
+    *opaque glass* 不透明玻璃 
+
+12. **pertinent**  [ /ˈpɜːrtnənt/]()  *adj.* 有关的; 中肯的; 恰当的 
+
+    The second step is all about finding **pertinent information**  第二步就是寻找**相关信息** 
+
+13. **recursive**  [ /rɪ'kɝsɪv/]()  
+
+    递归方程可以用英语表示为 "recursive equation" 或 "recurrence relation" 
+
+    回归（Regression）和递归（Recursion） 
+
+    **equation** [ /ɪˈkweɪʒn/]()   n. 方程式，等式；相等；反应式 
+
+    *differential equation* 微分方程
+
+    *wave equation* 波动方程
+
+    *regression equation* 回归方程
+
+    *integral equation* 积分方程
+
+    *partial differential equation* 偏微分方程
+
+    *constitutive equation* 本构方程
+
+    *equation of state* 状态方程式
+
+    *difference equation* [计]差分方程，差分方程式
+
+    *linear equation* n. 线性方程
+
+    *ordinary differential equation* 常微分方程
+
+    *governing equation* 控制方程
+
+    *equation of motion* 运动方程
+
+    integral <==> differential 
+
+14. **tweak**  [ /twiːk/]()  n. 拧；扭；焦急  vt. 扭；用力拉；开足马力  
+
+    Tweaking the constitution is not the answer.  修宪不是解决问题的办法 
+
+    But we could tweak the case  但是我们可以将这个例子稍作调整
+
+15. **precedence**  [ /ˈpresɪdəns/]()  
+
+    *take precedence over* 优先于；地位高于；比…重要
+
+    *operator precedence* 算符优先；[计]操作优先
+
+    *order of precedence* 优先顺序
+
+    Suddenly thoughts started taking precedence over feelings   于是突然之间 理性战胜了情感 
+
+16. **massage**  [ /məˈsɑːʒ/]()   *n.* 按摩, 推拿
+
+17. fan-out n. 扇出；展开；分列（账户）
+
+    The fan-out operation distributes the workload across multiple nodes in the distributed computing system.     fan-out 操作将工作负载分布到分布式计算系统中的多个节点
+
+18. **decentralize**  [ /ˌdiːˈsɛntrəlaɪz/]()  *vt.* 权力下放；将(权力等)自中央政府转到地方政府  n. 分散 
+
+    *[Decentralized]()* 去中心化; 分散管理的; 分散化; 分散的;
+
+    **European** countries were trying to **decentralize** and **devolve**  欧洲国家尝试着分权和移交权力
+
+​		**devolve**  [ /dɪ'vɑlv/]()  vi. 被移交；转让  vt. 转移；移交；使滚下；衰落
+
+19. **counterpart**  [ /ˈkaʊntərpɑːrt/]()  *n.* 与对方地位相当的人; 副本
+
+    It has no counterpart in the world  举世无双
+
+20. **prefetch** [ /'pri:'fetʃ/]()  v. 预取     **Link prefetch**: 预加载
+
+21. **customise**  [/ˈkʌstəˌmaɪz/]()  *vt.* 定制,定做 
+
+    *[Customise text]()* 自定义文字
+
+22. "override" 表示子类重写或覆盖父类的方法
+
+    在软件和应用程序中，"override" 可用于指定特定设置或配置项覆盖默认值或全局设置 
+
+23. **iterate** [ /ˈɪtəret/]() vt 迭代
+
+24. upstream [/ˌʌp'strim/]() 
+
+    the upstream region 上游地区
+
+25. **quorum** [/'kwɔrəm/]() n. 法定人数 
+
+#### 021G
+
+1. **bottleneck** [ /'bɑtlnɛk/]()   *n.* 瓶颈  瓶颈路段(常引起交通堵塞)  (尤指工商业发展的)瓶颈；阻碍；障碍 
+
+   Roadworks are causing bottlenecks in the city centre  道路施工导致市中心交通阻塞 
+
+2. bastion [ /ˈbæstʃən/]()  n.  堡垒
+
+   *[bastion host]()* 堡垒机
+
+3. **mandatory**  [ /'mændətɔri/]()  *adj.* 命令的;强制的;义务的 
+
+   *mandatory requirement* 强制性要求；必须遵循的要求
+
+4. **be bound to**  必然，必定 
+
+   It's bound to rain soon.  不久就会下雨的  
+
+   **I'm bound to succeed in my enterprise**  他在事业上一定会成功
+
+5. **degrade**  vt. 使……丢脸；使……降级；使……降解；贬低  vi. 退化；降级，降低 
+
+   *[degrading enzyme]()* 降解酶 **enzyme**  [ /ˈɛnzaɪm/]()  *n.* 酶
+
+6. **vagrant**  [ /ˈveɡ rənt/]()  *n.* 流浪者，漂泊者  <律>无业游民；乞丐；无赖  *adj.* 流浪的，漂泊不定的
+
+   A vagrant is everywhere at home  流浪者四海为家
+
+   Police seek help in identifying mystery [/ˈmɪstəri/]()  vagrant.  警方寻求协助指认神秘流浪汉 
+
+7. **hexadecimal** [ /ˌhɛksə'dɛsəml/]() *n.,adj.* 十六进制(的)  
+
+   **octonary** [ /'ɑktə,nɛri/]()  n. adj. 八进制的 
+
+   **binary** [/'baɪnəri/]() n. adj. 二进制的 
+
+   **decimal** [/ˈdɛsəml/]()  *adj.* 十进位的, 小数的  ***n.* 小数**  
+
+8. **clutter**  [ /ˈklʌtər/]()  n. 杂乱，混乱  vt. 使凌乱；胡乱地填满 
+
+   Her belongings clutter up my bedroom  她的东西乱七八糟堆满在我臥室里 
+
+   The clutter of the similar photos is gone  类似照片的杂乱已经消失了 
+
+9. **rancher**  [/ˈræntʃər/]()  n. 农场主；大农场工人 
+
+10. relevance  [ /ˈreləvəns/]()  *n.* 关联；切题 
+
+    Finally, I would appreciate it if you could grant me an interview so that I could explain in more details in person the relevance of my educational background and working experiences  最后，如果您能给我一个面试机会，以便我可以亲自更详细地解释我的教育背景和工作经验的相关性，我将不胜感激。 
+
+11. **coaxial**  [/ko'æksɪəl/]()   *adj.* 同轴的,共轴的
+
+12. **latter**  [ /ˈlætər/]()  adj. 后者的；较后的；近来的；后面的
+
+    The **former** is a scale shift. The **latter** is a **perceptual** shift  前者是转变比例， 后者是改变看法 
+
+13. intent  [ /ɪnˈtɛnt/]()  n. 意图；目的；含义  adj. 专心的；急切的；坚决的  
+
+    *letter of intent* n. 意向书 
+
+    *intent on* 专心致志于  
+
+    |   vocu    |                       translate                        |                      sample of sentence                      |
+    | :-------: | :----------------------------------------------------: | :----------------------------------------------------------: |
+    |  intent   |            法律用词，常指某人怀有歹意而犯罪            | It was not his intent to hurt anyone 他的本意并不是想伤害谁  |
+    | intention | 普通用词，指某人内心产生的想做某事的想法，侧重内心活动 | It wasn't my intention to exclude her from the list - I just forgot her 我并不是故意将她排除在名单之外——只是把她忘了而已 |
+    |  design   |         多用复数形式，含贬义多指行为不轨的意图         | I think Alan has designs on your job/wife! 我觉得艾伦对你的工作／妻子有不良企图 |
+
+14. **advertise**  [ /ˈædvərtaɪz/]()  *vt.* 公布, 宣传  *vt. & vi.* (给…)做广告宣传  做广告 
+
+    It pays to advertise  做广告是值得的 
+
+15. **imagine**  [ /ɪˈmædʒɪn/]()  *vt.* 想象, 设想  料想, 猜想 
+
+    You can imagine how the idea would torment him.  你们可以想象得到，知道这一点会折磨他到什么程度
+
+    **torment**  [/ˈtɔːrmɛnt/]()  vt. 折磨，使痛苦；纠缠，作弄  n. 痛苦，苦恼；痛苦的根源 
+
+16. **aggregate** [ /ˈæɡrɪɡət/]()  [ /ˈæɡrɪɡɪt/]()  adj.  聚集的   n. 总数；合计  *vt.* 总计达… 
+
+    But in the aggregate, trade does improve the global standard of living  但总的来说，贸易确实提高了全球的生活水平
+
+    aggregation switch  汇聚交换机
+
+    core switch
+
+17. "vendor"（供应商）一词通常用来指代提供或销售软件、库、框架、组件或其他技术产品的公司、团队或个人。供应商提供的产品可以包括操作系统、开发工具、数据库管理系统、应用程序接口（API）等。"vendor"还可以指代为特定技术或平台提供支持和服务的组织或个人。在编程领域，与供应商相关的概念还包括供应商锁定（vendor lock-in），即使用某个供应商的产品或技术后难以轻易切换到其他供应商。
+
+18. **synch**  [ /sɪŋk/]()  n. 同时，同步  *[synch precision]()*  [/prɪˈsɪʒn/]() *n.* 精确度, 准确(性) 同步精度
+
+19. grit [ /ɡrɪt/]()  *n.* 砂砾；勇气，决心；粗砂岩  *v.* 在……上铺砂砾；咬紧牙关；吱嘎吱嘎地移动 
+
+    400 grit paper.  细度为400的砂纸 
+
+    *steel grit* 钢砂；钢丸；钢粒 
+
+    **It was grit. Grit is passion and perseverance for very long-term goals. Grit is having stamina**  是耐力，耐力是对长期目标的热情和坚持，耐力就是持久力
+
+    Hard work, determination, and perseverance always win out  努力 决心 坚持 就是成功三秘诀 
+
+    **perseverance** [ /ˌpɜːrsəˈvɪrəns/]()  n. 坚持不懈；不屈不挠 
+
+    **stamina** [ /'stæmɪnə/]()  *n.* 耐力，持久力，毅力 
+
+20. **opinionated**  [ /əˈpɪnjənetɪd/]()  *adj.* <贬>固执己见的,武断的 
+
+    He is the most opinionated man I know  他是我所认识的最固执己见的人
+
+    I'm 2 minutes late  我迟到了2分钟 
+
+21. **reconciliation**  [ /ˌrekənsɪliˈeʃn/]()   *n.* 和解，调和；一致；勉强接受  (争吵等的)止息；和解 
+
+    They informed him that they wished *[wɪʃt]*  reconciliation  他们告诉他, 他们愿意和解
+
+22. **accommodate**  [ /əˈkɑːmədet/]()  *vt.* 容纳  向…提供住处  
+
+    Consider my coffee table, it increases in size to accommodate 10  以我的咖啡桌为例，它的大小可以增加到供十人围坐
+
+23. **propagate** [/ˈprɑːpəɡet/]()  *vt. & vi.* 繁衍，增殖  *vt.* 传播；宣传，普及 
+
+    Most plants propagate by seed  大部分植物用种子繁殖 
+
+    But in the age of social media, ISIS has been able to propagate their ideas.  但是在社交媒体时代，ISIS得以在全球范围内传播他们的言论
+
+24. High Availability Considerations  高可用性注意事项
+
+#### 022G
+
+1. **restrictive**  [/rɪˈstrɪktɪv/]()  *adj.* 限制(性)的,约束(性)的  *adv.* 限制(性)地,约束(性)地  *n.* 限制(性),约束(性) 
+
+   *[restricts corrupt]()* 抑制腐败 
+
+   *restrictive condition* 限制条件
+
+2. **telemetry**  [ /tə'lɛmɪtri/]()  *n.* 遥感勘测,自动测量记录传导 
+
+   *telemetry data* 遥测数据 
+
+   We finished an initial look at our telemetry data  我们对遥测数据进行了初步的查看
+
+3. **traverse**  [ /trəˈvɜːrs/]()  旅行和探险 横穿或横越 
+
+   The algorithm recursively traverses the binary tree to find the target node  该算法通过递归遍历二叉树以找到目标节点
+
+   The hikers plan to traverse the entire mountain range   这些徒步旅行者计划横穿整个山脉
+
+4. **facilitate**  [ /fəˈsɪlɪteɪt/]()  *vt.* 使便利, 减轻…的困难 
+
+   The great cultural impact of printing was that it facilitated the growth of national languages    印刷术的巨大文化影响在于促进了民族语言的发展
+
+5. *[get rid of pollution]()* 摆脱污染; 清除污染 
+
+6. **complementary**  [ /ˌkɑːmplɪˈmɛntri/]()   *adj.* 互补的
+
+   Collaborate with people who have complementary expertise [ /ˌɛkspɜːrˈtiːz/]()  与具有互补**专业知识**的人合作
+
+7. **entertain**   [ /ˌɛntərˈten/]()   *vt. & vi.* 款待, 招待  *vt.* 使欢乐, 使娱乐 
+
+   When you are in town you entertain yourself  当你进城的时候你自娱自乐
+
+8. **deduplication** *n.* 去重 [ /ˌdidjʊplɪ'keʃən/]() 
+
+9. **definitive** [ /dɪˈfɪnətɪv/]()  *adj.* 决定性的, 明确的, 权威性的, 不能或不必改变的
+
+   *definitive edition* 最终版
+
+   We got a definitive victory  我们取得了决定性的胜利
+
+10. also known as ==> 又叫做 ==>  AKA
+
+11. **scenario**  [ /sɪˈnɛrioʊ/]()  n. 情节；剧本；方案 
+
+    *scenario analysis* 情境分析 
+
+    This scenario is the most common scenario  这种情景是最常见的情况
+
+12. rolling out 推出
+
+13. **scratch**  [/skrætʃ/]()  n. 抓痕；擦伤；划线   vt. 抓；刮 vi. 抓；搔 
+
+    *from scratch* 白手起家；从头做起 
+
+    *up to scratch* 达到标准
+
+    *on scratch* 准时，正点 
+
+    *scratch line* n. 起跑线
+
+14. **anew** [ /əˈnju]()  *adv.* 再, 重新
+
+    These days are about the coming of the light -- warmth, illumination, **life anew**.  这些日子是关于光的降临--温暖、光亮、**新生**。
+
+    **illumination**  [/ɪ'lʊmə'neʃən/]()  *n.* 照明   
+
+15. **Jewish**  [/'dʒʊɪʃ/]()  *adj.* 犹太人的;犹太教徒的 
+
+16. **abbreviation**   [ /əˌbriːviˈeʃn/]() *n.* 缩写; 缩写词 
+
+    *[in the context of]()* 在…情况下；在…背景下
+
+17. **refactoring** [/ri fæk tə riŋ/]() *n. 重构；重整*  **software refactoring** 
+
+18. consist  [ /kənˈsɪst/]()   *vi.* 组成, 构成
+
+    New York City consists of five boroughs [ /'bɝro/]()  纽约市由五个行政区组成
+
+19. [little]() 指在体积、数量、距离、年龄、身材等方面比正常的小，多带主观感情色彩，含小而可爱或小巧的意味。
+    [small]() 多指数量、面积、体积、价值、数字或意义等的小或少，指略小于正常的大小。
+    [tiny]() 强调与同类或其他物体比较，小得超出正常比例，有时带强烈的感情色彩。
+    [minute]() 指小得难看见，有时需用显微镜才看得见。
+    [miniature]() 指由正常体积微缩的物体。
+
+20. **invalidate**  [ /ɪnˈvælɪdet/]()  *vt.* 使无效；使作废 
+
+    **invalidate a license**: 吊销驾照 
+
+    And for that reason, a Florida judge may now invalidate that **plea deal**  基于此，一名佛罗里达法官现在可能会废除这一**认罪协议**
+
+    **plea deal**  认罪协议 
+
+21. **amateur**  [/ˈæmətər/]()   [/ˈæmɪtʃər/]()    *adj.* 业余的, 非职业的  *n.* 业余爱好者
+
+22. stagger   [ /ˈstæɡər/]()
+
+    1. 行走或移动时踉跄或摇晃：
+
+       He staggered and nearly fell after tripping on the uneven pavement. （他踉跄了一下，差点在不平整的人行道上摔倒。）
+
+    2. 时间或顺序的错开或错位：
+
+       The classes are staggered throughout the day to accommodate different schedules. （为了适应不同的时间安排，这些课程在一天中错开了。）
+
+    3. 使吃惊、震惊或困惑：
+
+       The news of his sudden resignation staggered everyone in the office. （他突然辞职的消息让办公室里的每个人都感到震惊。）
+
+    4. 分阶段进行或分批处理：
+
+       The construction project will be staggered over several months to minimize disruptions. （为了减少干扰，这个建筑项目将分阶段进行数个月。）
+
+    The notion hung [ /hʌŋ/]() (v. 悬挂；垂落（hang的过去式和过去分词） )in his mind for months  这个念头在他心里有几个月了
+
+23. *[Somewhat Thicker](d)* 有点厚 
+
+    **somewhat**  *adv.* 稍微, 有点, 达到某种程度 
+
+24. **vibration**  [ /vaɪ'breʃən/]()  *n.* 震动
+
+25. **scandal** [ /ˈskændl/]()  *n.* 丑事，丑闻
+
+    *sex scandal* 性丑闻；桃色新闻
+
+    *watergate scandal* 水门事件；水门丑闻
+
+26. approximation  [ /ə'prɑksə'meʃən/]()  *n.* 接近  近似额;概算
+
+27. **pertain**  [/pərˈten/]()   vi. 适合；属于；关于
+
+    His remark did not pertain to the question  他的话同这个问题不相干
+
+    主语：His remark (他的评论) 谓语动词：did not pertain (不适用) 介词短语：to the question (与问题有关)
+
+    "to the question" 在这个句子中充当介词短语，用来表示与哪个问题相关。作为介词短语，它在句子中充当了一个修饰成分，对动词 "pertain" 的对象进行了限定。
+
+28. **transform**  [/trænsˈfɔːrm/]()  *vt. & vi.* 改变
+
+    *integral transform* 积分变换；积分转换
+
+    *fourier  [/ˈfʊriˌe/]()  transform* 傅里叶变换
+
+29. **deflate**  [/dɪ'flet/]()  vt. 放气；使缩小；紧缩通货； vi. 缩小；物价下降 
+
+    *[deflating]()* [金融] 紧缩通货； 通缩
+
+    **inflation**  通货膨胀 <==> **deflation**  通缩
+
+30. **stretch**  [/strɛtʃ/]()  vt. 伸展,张开  vi. 伸展 adj. 可伸缩的 n. 伸展，延伸 **拉伸**
+
+    Why do athletes always stretch or jog before practice   为什么运动员在训练前总是伸展或慢跑
+
+31. **envelope** [ /ˈɛnvəlop/ ]() 信封
+
+32. **multidimensional**  [ /ˌmʌltɪdɪˈmɛnʃənəl/]()  *adj.* 多面的,多维的
+
+    *multidimensional array* 多维数组
+
+33. **expiration**  [ /ˌɛkspə'reʃən/]()   *n.* 满期，届期；截止，告终  呼气，吐气；(气的)呼出；呼出物；嘘出的声音
+
+    ***expiration date* 截止日期** 
+
+34. **originate**  [/əˈrɪdʒɪneɪt/]()  *vi.* 起源于，来自，产生  *vt.* 创造，创始，开创；发明
+
+35. **substantial** [ /səbˈstænʃl/]()   *adj.* 坚固的；结实的  大量的，可观的
+
+    *substantial shareholder* 大股东；主要股东 
+
+    *substantial order* 大宗订单
+
+    John has made a substantial improvement in his health  约翰的健康状况已有了相当大的改善
+
+36. **mitigate**  [ /ˈmɪtɪɡet/]()   vt. 使缓和，使减轻  vi. 减轻，缓和下来 
+
+    Governments should endeavour to mitigate distress.  政府应努力缓解贫困问题
+
+    **endeavour**  [ /ɛnˈdɛvɚ/]()   *v.n.* 〈英〉尽力,竭力 
+
+    **distress**  [ /dɪˈstres/]()   *n.* 悲痛, 痛苦, 忧伤, 苦恼  贫困, 窘迫 
+
+37. **proportion**  [ /prəˈpɔːrʃn/]()  *n.* 均衡；相称，协调
+
+    *direct proportion* n. 正比；正比例 
+
+    *geometric proportion* 等比
+
+    **geometric**  [ /ˌdʒiə'mɛtrɪk/]()   *adj.* 几何(学)的 成几何级数增加的
+
+38. I can deactivate if you say 'you are satisfied with your care'   只要你对我的照顾表示满意，我就可以结束工作了
+
+39. **tenancy**  [/'tɛnənsi/]()  *n.* 租用, 租赁 
+
+40.  **proliferation**  [ /prə-,lifə'reʃən/]()  *n.* 增殖,分芽繁殖
+
+    *cell proliferation* 细胞增殖，细胞增生
+
+    *nuclear proliferation* 核扩散
+
+    **proliferate**  [ /prəˈlɪfəret/]()   *vi.* 激增；(迅速)繁殖；增生
+
+41. **circumstance**  [ /ˈsɜːrkəmstæns/]()*n.* 环境, 条件, 情况  境遇, 经济状况 
+
+    *in the circumstances* 在这种情况下；既然这样
+
+    *under the circumstance* 在这种情况下
+
+    He was there, in the essential, classic circumstance  他在那里，处于基本的、经典的情况下
+
+    
 
 
 
