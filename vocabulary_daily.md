@@ -548,7 +548,7 @@
 
 9. **demystify **[/ˌdiːˈmɪstɪfaɪ/]( )   *vt.* 使非神秘化  
 
-10. **demarcate**  [/ˈdiːmɑːrkeɪt/](cmd://Speak/_us_/demarcate)  *vt.* 定…的界线；区分   *[pressure demarcate]( )* 压力标定 
+10. **demarcate**  [/ˈdiːmɑːrket/]( )  *vt.* 定…的界线；区分   *[pressure demarcate]( )* 压力标定 
 
     The first border between the two countries was demarcated (or **drawn on a map**) in 1783.  这两个国家之间的第一条边界是在1783年划分的（或画在了地图上）
 
@@ -564,11 +564,11 @@
 
 15. profitable  [/ˈprɑːfɪtəbl/]( )   *adj.* 有利可图的; 有益的   *[profitable organization]()* 营利组织 
 
-16. decision-making */*dɪˈsɪʒn meɪkɪŋ*/*  *adj.*决策的  *n.*决策 
+16. decision-making */*dɪˈsɪʒn mekɪŋ*/*  *adj.*决策的  *n.*决策 
 
 17. **flourish** [/ˈflɜːrɪʃ/]()  *vi.* 茂盛, 繁荣  *vt.* 挥动  *n.*夸张动作；（讲话或文章的）华丽辞藻，修饰；花彩号声；（手写花体字的）花饰 
 
-18. anticipate  [/ænˈtɪsɪpeɪt/]()  *vt.* 先于…行动  预感, 期望 
+18. anticipate  [/ænˈtɪsɪpet/]()  *vt.* 先于…行动  预感, 期望 
 
     *[anticipated conditions]()* 预期的条件 
 
@@ -684,7 +684,7 @@
 
 13. **tease**  v.t   v.i   取笑，嘲笑；逗弄
 
-14. macaroni  */*ˌmækəˈroni*/*  *n.* **通心粉 通心面条** ；纨绔子弟 
+14. macaroni  */*ˌmækəˈroni*/*  *n.* **通心粉 通心面条** ；纨绔子弟  *[Baked macaroni]( )*  烤通心粉
 
 15. **mutual**  */*ˈmjuːtʃuəl*/*  *adj.*相互的，彼此的；共同的，共有的；（保险公司、建筑协会等）互助的  *n.*互助公司 
 
@@ -867,7 +867,7 @@
 
 5. **dexterity**  [ /dɛkˈstɛrəti/]( ) *n.* 灵巧;熟练;敏捷;聪敏   **dexterity** comes by **experience**   [/ɪk'spɪrɪəns/]( ) **熟练**来自**经验** 
 
-6. **solidity**  [/sə'lɪdəti/](c ) *n.*   1. The condition or property of being solid  **坚固**：牢固的状态或特性 2. Soundness of mind, moral character, or finances. **稳健**：头脑、品德、操行或财政良好的状态  （solid:固体)
+6. **solidity**  [/sə'lɪdəti/](c )  *n.*   1. The condition or property of being solid  **坚固**：牢固的状态或特性 2. Soundness of mind, moral character, or finances. **稳健**：头脑、品德、操行或财政良好的状态  （solid:固体)
 
 7. **overcommit** [/ˌovəkəˈmɪt/]( )  v.t  使承担过多义务  v.i   处于或变得承担过多义务  **过量使用** 
 
@@ -881,9 +881,9 @@
 
 11. **mature** */*məˈtʃʊr*/*  *adj.*成熟的，理智的  v.tr. 使长成；使成熟  v.intr. 变成熟  mature women 熟女       mature work 成熟的作品
 
-12. **eager**  */*ˈiːɡər*/*  [be eager for]( ) 渴望 想得到 巴望 
+12. **eager**  */*ˈiːɡər*/*  [be eager for]( ) 渴望 想得到
 
-13. **but then again**   其次 还有  this is better, but then again it costs more 这个好一点，但是也贵一些
+13. **but then again**   **其次 还有**       this is better, but then again it costs more 这个好一点，但是也贵一些
 
 14. synchronize  */*ˈsɪŋkrənaɪz*/* *vt.*  （使）同步 
 
@@ -893,9 +893,9 @@
 
 16. indefinitely [/ɪnˈdɛfɪnətli/]( )   A gas tends to expand **indefinitely** 气体具有**无限**膨胀的趋势 
 
-17. prematurely [/ˌpriməˈtjʊrlɪ/]( )  adv 过早的 She was born prematurely 他是早产的
+17. prematurely [/ˌpriməˈtjʊrlɪ/]( )  adv 过早的           She was born prematurely 他是早产的
 
-18. potentially */*pəˈtɛnʃəli*/* *adv.* 潜在地
+18. potentially */*pəˈtɛnʃəli*/* *adv.* 潜在地 
 
 19. fit the bill  符合要求
 
@@ -905,7 +905,7 @@
 
      We must figure out how to solve the problem 我们必须想出解决这个问题的办法
 
-     Can you figure out what I'm doing?  你知道我在做什么吗？ 
+     Can you figure out what I'm doing?  你知道我在做什么吗？  
 
 21. plug  *n.*（电）插头；（电）插座  *v.*堵，塞；补足；插入 
 
@@ -913,37 +913,50 @@
 
 1. lousy */*ˈlaʊzi*/*  *adj.*<非正式>极坏的，恶劣的；<非正式>令人厌恶的，讨厌的；<非正式>（让人不快的事物）很多的
 
+   No, he was lousy in bed. I had to fake a lot of orgasms.  不是，他床上功夫很差。我得不断假装性高潮
+
 2. **venture** */*ˈventʃər*/*  *n.*风险项目，冒险事业；冒险旅行，冒险行动  *vt. vi.*敢于去（未知或危险等地方）；冒险 
 
-3. **anthropology**  */*ˌænθrəˈpɑːlədʒi*/*  *n.*人类学  anthropologist 人类学家
+3. **anthropology**  */*ˌænθrəˈpɑːlədʒi*/*  *n.*人类学   anthropologist 人类学家
 
-4.  ethic  [/ˈeθɪk/](cmd://Speak/_us_/ethic)  *n.* 道德规范,伦理  
+   I applied to read anthropology at university  我在大学里申请攻读人类学
 
-   [work ethic](javascript:;) 职业道德；职业伦理 
+4. ethic  [/ˈɛθɪk/]( )  *n.* 道德规范,伦理  
 
-5. liaise [/lɪ'ez/](cmd://Speak/_us_/liaise)  *vi.* 做联络人；联络  *[to liaise](dic://to liaise)* 串联 
+   [work ethic]( ) 职业道德；职业伦理 
+
+5. liaise [/lɪ'ez/](cmd://Speak/_us_/liaise)  *vi.* 做联络人；联络  *[to liaise]( )* 串联 
 
 6. **nutshell**  坚果外壳；简要地说，概括地说（in a nutshell) 
 
-   [in a nutshell](javascript:;) 简言之 总而言之 简而言之 概括地说
+   [in a nutshell]() 简言之 总而言之 简而言之 概括地说
 
-7. protagonist *n.*<正式>（戏剧、电影、小说等的）主人公 
+7. protagonist    [ /proˈtæɡənɪst/]()   *n.*   <正式>（戏剧、电影、小说等的）主人公  
 
 8. screenwriter  *n.*编剧家；电影剧本作家
 
-9. trophy  */*ˈtroʊfi*/*  *n.*奖杯，奖品； 
+9. trophy  */*ˈtrofi*/*  *n.*奖杯，奖品；  战利品 
 
 10. **resurgent**  */*rɪˈsɜːrdʒənt*/*  *adj.* 复活的,复兴的
 
-    **Geopolitics** aside, the bull case rests on resurgent demand  撇开地缘政治不谈，看涨的理由在于需求的复苏
+    **Geopolitics **[ /ˌdʒioˈpɑlɪtɪks/]()  aside, the bull case rests on resurgent demand  撇开地缘政治不谈，牛市的理由是需求的复苏
+
+    "rest on"这个短语通常可以翻译为"基于"、"依赖于"、"取决于"。它表示某个事物或观点的支持、依赖或基础。在原句中，"the bull case rests on resurgent demand"可以理解为"看涨的观点依赖于需求的复苏"。
+
+    除了这个常见的含义，"rest on"还可以有其他一些含义，具体根据上下文会有不同的解释，以下是一些常见的含义：
+
+    1. 靠在、放在：表示某物以静止或支撑的方式放在另一个物体上。例如："He rested the book on the table."（他把书放在桌子上。）
+    2. 依赖、信任：表示某人或某物依赖或信任另一个人或事物。例如："I rest my faith on his words."（我对他的话深信不疑。）
+    3. 基于、根据：表示某个决定、行动或判断是基于某个原因、依据或事实的。例如："Her decision rested on careful consideration."（她的决定基于仔细的考虑。）
+    4. 休息、放松：表示某人或某物处于休息、放松或不活动状态。例如："I'm tired. I need to rest."（我累了，需要休息。）
 
 11. backdrop  *n.*（舞台的）背景幕布；周围景物；（事件的）背景 
 
-    [Backdrop Design](javascript:;) 背景幕设计 背景设计 展板设计
+    [Backdrop Design]( ) 背景幕设计 背景设计 展板设计
 
 12. **sympathy**  *n.*同情（心），理解；赞同，支持；（与某人的）同感，共鸣；和应 
 
-13. **complaint** [/kəmˈpleɪnt/](cmd://Speak/_us_/complaint)  n.  **抱怨**  控告 
+13. **complaint** [/kəmˈplent/]( )  n.  **抱怨**  控告     
 
     Several of his colleagues **trumped up** a **complaint** to get him removed from the job 他的几位同事诬告他,使他丟掉了工作 
 
@@ -951,7 +964,11 @@
 
     In fact, the top complaint was people speaking too loudly – another of my pet hates  事实上，最大的抱怨是人们说话声音太大——这也是我最讨厌的事情之一 
 
-14. **obstacle**  [/ˈɑːbstəkl/](cmd://Speak/_us_/obstacle)  *n.*障碍，阻碍；障碍物 
+    **complain**  [ /kəmˈplen/]( )  vi. 发牢骚；投诉    ====> <font style="color: green;"> explain </font>  
+
+    You have no reason to complain  你没有理由抱怨 
+
+14. **obstacle**  [/ˈɑːbstəkl/]()  *n.*障碍，阻碍；障碍物 
 
     I think most of these obstacles can be surmounted(*vt. 克服*) 我认为这些障碍大多数都是可以克服的 
 
@@ -973,7 +990,7 @@
 
 18. **internship** *n.*实习生 
 
-19. **specialize** [/ˈspeʃəlaɪz/](cmd://Speak/_us_/specialize)  *vi.* 专门从事；详细说明；特化  *vt.* 使专门化；使适应特殊情况；详细说明 
+19. **specialize** [/ˈspeʃəlaɪz/]( )  *vi.* 专门从事；详细说明；特化  *vt.* 使专门化；使适应特殊情况；详细说明 
 
     Many students specialize in engineering  许多学生专攻工程学 
 
@@ -981,9 +998,9 @@
 
 20. specialism  */*ˈspeʃəlɪzəm*/*  *n.*专长；专攻；专门研究 
 
-    [computer specialism](javascript:;) 计算机专业
+    [computer specialism]( ) 计算机专业
 
-    [chinese specialism](javascript:;) 汉语专业
+    [chinese specialism]( ) 汉语专业
 
 21. whizz  *n.*专家；精明的人 *vt.vi.* 飕飕作声 
 
@@ -1007,15 +1024,15 @@
 
 3. underscore or mixedCaps  下划线或混合大写            
 
-4. Err on the side of brevity, since everyone using your package will be **typing** that name 倾向于简洁的一面，因为每个使用你的包的人都会输入这个名字
+4. Err on the side of brevity, since everyone using your package will be **typing** that name 倾向于简洁的一面，因为每个使用你包的人都会输入这个名字
 
-5. in the rare case of   在罕见的情况下 
+5. in the rare [/rɛr/]( ) case of   在罕见的情况下 
 
 6. **confusion**  n.（名词）混乱   *chaos and confusion* 混乱与浑沌 
 
    There have been some of confusion names  有些名字弄混了
 
-7. **repetition** [ /ˌrepəˈtɪʃn/](cmd://Speak/_us_/repetition)    n.Abbr  重复： 背诵： 
+7. **repetition** [ /ˌrɛpɪˈtɪʃn/]()    n.   重复： 背诵： 
 
    *repetition rate* 重复率 
 
@@ -1025,35 +1042,35 @@
 
 9. and it's often appropriate to do so  而且这样做往往是合适的 
 
-   **appropriate**  [ /əˈproʊpriIt/](cmd://Speak/_us_/appropriate)  adj.  **适宜的**  v.tr.  挪用 拨出 
+   **appropriate**  [ /əˈpropriIt/](c)  adj.  **适宜的**  v.t.  挪用 拨出 
 
 10. it's  **neither** **idiomatic** **nor** necessary to do 既不习惯也没有必要 
 
-    **idiomatic** [/ˌɪdiəˈmætɪk/](cmd://Speak/_us_/idiomatic)  adj 习惯 惯用方法  符合语言习惯的 
+    **idiomatic** [/ˌɪdiəˈmætɪk/]( )  adj 习惯 惯用方法  符合语言习惯的 
 
 11. It **unifies** `A` and `B`  他统一了A和B
 
-    **unify**  [/ˈjuːnɪfaɪ/](cmd://Speak/_us_/unify)  *vt. vi.*  统一 
+    **unify**  [/ˈjuːnɪfaɪ/]( )  *vt. vi.*  统一 
 
-    **unification**  [ /ˌjuːnɪfɪˈkeɪʃn/]() *n.* 统一
+    **unification**  [ /ˌjuːnɪfɪˈkeʃn/]() *n.* 统一
 
-12. type **assertion** 类型断言  [/əˈsɜːrʃn/](cmd://Speak/_us_/assertion) 
+12. type **assertion** 类型断言  [/əˈsɜːrʃn/]() 
 
 13. they can **simplify** as well as **clarify**  他们可以简化以及澄清 
 
-    **simplify** [/ˈsɪmplifaɪ/](cmd://Speak/_us_/simplify)   *v.tr.*  使变得简单或更简单 
+    **simplify** [/ˈsɪmplifaɪ/]( )   *v.tr.*  使变得简单或更简单 
 
     **clarify**   *v.i v.t*  使清晰或易懂；详细阐明  澄清混乱或疑惑 
 
 14. **canonical** examples 典型的例子 
 
-    canonical [/kəˈnɑːnɪkl/](cmd://Speak/_us_/canonical)  *adj.*
+    canonical [/kəˈnɑːnɪkl/](cmd://Speak/_us_/canonical)  *adj.*  依教规的 真经的 权威的 圣典的 
 
 15. further initialization 进一步初始化
 
-    further  *adj adv v.t*  [/ˈfɜːrðər/](cmd://Speak/_us_/further)  
+    further  *adj adv v.t*  [/ˈfɜːrðər/]()  
 
-    initialization [/i,niʃəlai'zeiʃən/](cmd://Speak/_us_/initialization) 
+    initialization [/i,niʃəlai'zeʃən/]() 
 
 16. get right to work 直接工作
 
@@ -1067,19 +1084,19 @@
 
     snippet  [/ˈsnɪpɪt/](cmd://Speak/_us_/snippet) 代码段 
 
-21. The *capacity* of a slice, **accessible** by the built-in function `cap`, reports the maximum length the slice may **assume**  一个切片的容量，可通过内置函数cap访问，报告该切片可能承担的最大长度 
+21. The *capacity* of a slice, **accessible** by the **built-in** function `cap`, reports the maximum length the slice may **assume**  一个切片的容量，可通过内置函数cap访问，报告该切片可能承担的最大长度 
 
-    capacity  [ /kəˈpæsəti/](cmd://Speak/_us_/capacity)  *n. adj.* 
+    capacity  [ /kəˈpæsəti/]( )  *n. adj.* 
 
     accessible  *adj.* 访问
 
-    assume   [ /əˈsuːm/](cmd://Speak/_us_/assume)  *vt.*   *assume responsibility* 承担责任  
+    assume   [ /əˈsuːm/]( )  *vt.*   *assume responsibility* 承担责任  
 
     He assumed full authority as tsar in 2023  2023年他全面掌权做了沙皇 
 
 22. if `tz` is **present**  如果TZ存在 
 
-23. presence   *n.* [ /ˈprezns/](cmd://Speak/_us_/presence)  出席，出场     反义词 *n.* [absence](dic://absence)
+23. presence   *n.* [ /ˈprɛzns/]()  出席，出场     反义词 *n.* [absence]( )
 
 24. richer and more general 更丰富、更普遍 
 
