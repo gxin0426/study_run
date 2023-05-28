@@ -2849,7 +2849,7 @@
    [substance]( ) 多指某一种形式的物质，既可指元素也可指化合物。
    [stuff]( ) 多用于日常生活中，非正式用词。常指构成整体的所有部分、物体或项目。有时指劣等材料，含轻蔑意味。
 
-4. **astute**  [ /əˈstuːt/](cmd://Speak/_us_/astute)   *adj.*  精明的   狡猾的  *adv.* 敏锐地,精明地  *n.* 敏锐,精明 
+4. **astute**  [ /əˈstuːt/]( )   *adj.*  精明的   狡猾的  *adv.* 敏锐地,精明地  *n.* 敏锐,精明 
 
 5. **indisputable**  [ /ˌɪndɪˈspjutəbəl/]( )   *adj.* 无可争辩的, 不容置疑的  
 
@@ -2865,45 +2865,45 @@
 
    The car tipped into the ditch  汽车翻进水沟里 
 
-7. cursor [ /'kɝsɚ/](cmd://Speak/_us_/cursor)   *n.* 光标 
+7. cursor [ /'kɝsɚ/]( )   *n.* 光标 
 
 8. come with   与……一起供给；伴随……发生；从……开始 伴随着
 
-9. **arithmetic**  [ /əˈrɪθmətɪk/](cmd://Speak/_us_/arithmetic)  *n.* 算术  计算 
+9. **arithmetic**  [ /əˈrɪθmətɪk/]()  *n.* 算术  计算 
 
-10. sparse matrix < == >  [dense](link:dense) [matrix](link:matrix)   [ /spɑːrs/](cmd://Speak/_us_/sparse)  [ /dɛns/](cmd://Speak/_us_/dense) 
+10. sparse matrix < == >  [dense]() [matrix]()   [ /spɑːrs/]()  [ /dɛns/]()          
 
-11. failover   [ /feil'əuvər/](cmd://Speak/_us_/failover)  故障转移; 故障切换; 容错; 失效接管 
+11. failover   [ /fel'ovər/]()  故障转移; 故障切换; 容错; 失效接管 
 
-12. naive bayes  [ /naɪˈiːv/](cmd://Speak/_us_/naive)  朴素贝叶斯
+12. naive bayes  [ /naɪˈiːv/]( )    [beɪz] 朴素贝叶斯
 
-13. width  [/wɪdθ/](cmd://Speak/_us_/width)   *n.* 宽度, 阔度, 广度  宽, 广  **bandwidth**   [ /'bændwɪdθ/](cmd://Speak/_us_/bandwidth)    *n.* 带宽 
+13. width  [/wɪdθ/]( )   *n.* 宽度, 阔度, 广度  宽, 广  **bandwidth**   [ /'bændwɪdθ/]( )    *n.* 带宽 
 
-14.  **lineage**  [/ˈlɪniɪdʒ/](cmd://Speak/_us_/lineage)   n. 血统；家系，世系  
+14.  **lineage**  [/ˈlɪniɪdʒ/]( )   n. 血统；家系，世系  
 
     And now those lineages are essentially gone  但是现在这些血脉基本断绝了 
 
-15. refinement  [/rɪˈfaɪnmənt/](cmd://Speak/_us_/refinement)  *n.*    改进 改良 精细的  提炼  优雅：高雅的状态或性质 
+15. refinement  [/rɪˈfaɪnmənt/]( )  *n.*    改进 改良 精细的  提炼  优雅：高雅的状态或性质 
 
-    A greater refinement of the categorization is possible  进行更加精细的分类是可能的 
+    A greater refinement of the categorization   /ˌkætigəri'zeiʃən/ is possible  进行更加精细的分类是可能的 
 
-16.  **pitfall**   [ /ˈpɪtfɔːl/](cmd://Speak/_us_/pitfall)  *n.* (捕猎野兽用的)陷阱  2. 意想不到的困难; 易犯的错误 
+16.  **pitfall**   [ /ˈpɪtfɔːl/]( )  *n.* (捕猎野兽用的)陷阱  2. 意想不到的困难; 易犯的错误 
 
-    *[Potential pitfall](dic://Potential pitfall)* 潜在危险 
+    *[Potential pitfall]( )* 潜在危险 
 
-    The wolf was caught in a pitfall  那只狼是利用陷阱捉到的 
+    The wolf was caught in a pitfall  那只狼是利用陷阱捉到的  
 
 17. **ware**  [ /wɛr/](cmd://Speak/_us_/ware)   n. 器具；货物；制品；陶器，器皿   vt. 留心；小心 
 
-    **warehouse**  [ /ˈwɛrhaʊs/](cmd://Speak/_us_/warehouse)    *n.* 仓库, 货栈 
+    **warehouse**  [ /ˈwɛrhaʊs/]( )    *n.* 仓库, 货栈 
 
-18. indice   *[classific indices](dic://classific indices)* 分类指标  == index
+18. indices   *[classific indices]( )* 分类指标  == index   /kla:'sifik/   /'ɪndɪsiz/ 
 
-19. **internally ** [ /ɪnˈtə..nəlɪ/](cmd://Speak/_us_/internally)   *adv.* 内地；内部地   == >  **externally ** [ /ɪkˈstə..n l..ɪ/](cmd://Speak/_us_/externally)  外部地  
+19. **internally ** [ /ɪnˈtə..nəlɪ/]( )   *adv.* 内地；内部地   == >  **externally ** [ /ɪkˈstə..n l..ɪ/]( )  外部地  
 
 20. **stand for**  代表；支持；象征；担任…的候选人 
 
-21. cultivated  [/ˈkʌltɪveɪtɪd/](cmd://Speak/_us_/cultivated) 
+21. cultivated  [/ˈkʌltɪvetɪd/]( )  
 
     1. *adj.* 耕种的
     2. 栽培的，非野生的
@@ -2913,17 +2913,19 @@
 
 1. Both inspired on Django-Admin  两者的灵感都来自于Django-Admin 
 
-   **inspire**  [ /ɪnˈspaɪər/](cmd://Speak/_us_/inspire)  vt. 鼓舞；激发；启示；产生；使生灵感 
+   **inspire**  [ /ɪnˈspaɪər/]( )  vt. 鼓舞；激发；启示；产生；使生灵感 
 
 2. Pros for Flask-AppBuilder  Flask-AppBuilder的优点 
 
+   pros and cons  利弊  
+
 3. Granular permissions, creates one permission for each web exposed method and action (you have to try it). 细致的权限，为每个网络暴露的方法和动作创建一个权限（你必须尝试)
 
-   **granular**  [ /'grænjəlɚ/](cmd://Speak/_us_/granular)   *adj.* 颗粒状的 
+   **granular**  [ /'grænjəlɚ/]( r)   *adj.* 颗粒状的   
 
-4. but some things can get on your way if your building very specific security models.  但是，如果你建立了非常具体的安全模型，有些东西会妨碍你的工作 
+4. but some things can **get on your way** if your building very **specific** security models.  但是，如果你建立了非常具体的安全模型，有些东西会妨碍你的工作 
 
-5. **discord**  [ /ˈdɪskɔːrd/](cmd://Speak/_us_/discord)   *n.* 不和, 纷争   不一致, 不和谐  争吵, 冲突 
+5. **discord**  [ /ˈdɪskɔːrd/]( )   *n.* 不和, 纷争   不一致, 不和谐  争吵, 冲突 
 
    There are many **discords** in this family  在这个家庭里有许多**争吵** 
 
@@ -2944,33 +2946,33 @@
       - Relationship: 表示人与人之间的联系或关系。
    ```
 
-6. destiny  [/ˈdestəni/](cmd://Speak/_us_/destiny)   *n.* 命运; 天命; 天数 
+6. destiny  [/ˈdɛstəni/]( )   *n.* 命运; 天命; 天数 
 
-7. encourage [ /ɪnˈkɜːrɪdʒ/](cmd://Speak/_us_/encourage)  *vt.* 鼓励, 激励 
+7. encourage [ /ɪnˈkɜːrɪdʒ/]( )  *vt.* 鼓励, 激励 
 
-8. **simplify**  [ /ˈsɪmplɪfaɪ/](cmd://Speak/_us_/simplify)  vt. 简化；使单纯；使简易 
+8. **simplify**  [ /ˈsɪmplɪfaɪ/]( )  vt. 简化；使单纯；使简易 
 
    Models are just visuals to help us **simplify** and explain concepts  模型只是视觉性地帮助我们简化和解释概念 
 
-9. **latency**  [ /'letnsi/](cmd://Speak/_us_/latency)   *n.* 潜伏  潜在因素  *latency time* 延迟时间，等待时间 
+9. **latency**  [ /'lɛtnsi/]( )   *n.* 潜伏  潜在因素  *latency time* 延迟时间，等待时间 
 
 10. **cutting edge**  （处于某事物发展的）领先地位，尖端，最前沿；优势，有利方面 
 
 11. **composite**  [ /kəmˈpɑːzət/](cmd://Speak/_us_/composite)  *adj.* 混合成的, 综合成的 
 
-12. **crawl**    [/krɔːl/](cmd://Speak/_us_/crawl) 
+12. **crawl**    [/krɔːl/]( ) 
 
     1. vi. 爬行；匍匐行进
     2.  vt. 爬行；缓慢地行进
     3. n. 爬行；养鱼池；匍匐而行
 
-    **crawler**  [ /ˈkrɔlɚ/](cmd://Speak/_us_/crawler)  n. 爬行者；履带牵引装置
+    **crawler**  [ /ˈkrɔlɚ/]( r)  n. 爬行者；履带牵引装置
 
     *crawler crane* 履带起重机；履带吊
 
     *crawler tractor* 覆带式拖拉机
 
-13. **predecessor**  [ /ˈpredəsesər/](cmd://Speak/_us_/predecessor)   *n.* 前任, 前辈  (被取代的)原有事物, 前身 
+13. **predecessor**  [ /ˈprɛdəsɛsər/]( )   *n.* 前任, 前辈  (被取代的)原有事物, 前身 
 
     *predecessor company* 被接管公司
 
@@ -2978,15 +2980,15 @@
 
     undo   vt. 解开；取消；破坏；扰乱 
 
-    *[undo typing](dic://undo typing)* 撤消键入
+    *[undo typing]( )* 撤消键入
 
-14. **hallmark**  [ /ˈhɔlˌmɑrk/](cmd://Speak/_us_/hallmark)  n. 品质证明；特点  vt. 给…盖上品质证明印记；使具有…标志 
+14. **hallmark**  [ /ˈhɔlˌmɑrk/]( )  n. 品质证明；特点  vt. 给…盖上品质证明印记；使具有…标志 
 
-    *[hallmark event](dic://hallmark event)* 标志性事件 
+    *[hallmark event]( )* 标志性事件 
 
     One hallmark of a good politician is his ability to influence people.  衡量一个优秀政治家的标志之一就是他影响大众的能力 
 
-15. **asynchronous**  [ /ei'siŋkrənəs/](cmd://Speak/_us_/asynchronous)  *adj.* 异步的 
+15. **asynchronous**  [ /ei'siŋkrənəs/]( )  *adj.* 异步的 
 
     *asynchronous motor* 异步电动机，异步马达；感应电动机
 
@@ -3006,11 +3008,11 @@
 
 16. **mutate**  *vt. & vi.* (使某物)变化, 转变, 突变, 变异 
 
-    *[mutated gene](dic://mutated gene)* 突变基因
+    *[mutated gene]( )* 突变基因
 
 17. Perspective matters 视角很重要
 
-18. **nostalgic**  [ /nə'stældʒɪk/](cmd://Speak/_us_/nostalgic)   *adj.* 对往事怀恋的, 怀旧的  
+18. **nostalgic**  [ /nə'stældʒɪk/]( )   *adj.* 对往事怀恋的, 怀旧的  
 
 19. takeoff 
 
@@ -3023,9 +3025,13 @@
     5. <喻>(经济的)起飞
     6. <非正>(对某人习惯动作的)滑稽模仿
 
-20.  onset  [/ˈɑːnset/](cmd://Speak/_us_/onset)  *n.* 开始  攻击,袭击 
+20. onset  [/ˈɑːnsɛt/]( )  *n.* 开始  攻击,袭击 
 
-    The onset of depression often follows a traumatic event  抑郁症发作常常发生在遭受创伤之后 
+    The onset of depression often follows a traumatic event  抑郁症发作常常发生在遭受创伤之后  
+
+    /traʊ'mætɪk/ 
+
+    traumatic experience 惨痛的经历 
 
 #### **013G**
 
