@@ -588,9 +588,19 @@
 
     *linear velocity* 线速度
 
-    *critical velocity* 临界速度
+    ***critical velocity* 临界速度**
 
-    critical state
+    **critical state 临界状态**
+    
+    **critical section 临界区**
+    
+    Critical Thinking   批判性思维
+    
+    Choice, in other words, dulls the critical faculties 换言之，太多选择会钝化人的批判思维
+    
+    the faculty of law  法学院
+    
+    A guaranteed job for life only encourages the faculty to become complacent   /kəmˈplesnt/ 一个终身有保障的工作只会让那些人变得过于自满
 
 #### 002组
 
@@ -2711,7 +2721,9 @@
 
 17. A Range of Features 一系列特点
 
-18. precedence  [ /ˈprɛsɪdəns/]( )   *n.* 领先于…的权利;优先权  operator precedence 算符优先；[计]操作优先
+18. precedence  [ /ˈprɛsɪdəns/]( )   *n.* 领先于…的权利;优先权  
+
+    operator precedence 算符优先；[计]操作优先
 
 19. **slightly**  [ /ˈslaɪtli/]( )   *adv.* 轻微地;稍稍  细长;苗条;微小  
 
@@ -2721,13 +2733,25 @@
 
 #### 010G
 
-1.  *[Show dropdown]( )* 显示下拉框 
+名词：  noun /naʊn/ 
 
-2. unload [ /'ʌn'lod/]( )  vt. 卸；摆脱…之负担；倾销 
+形容词：  adjective  /ˈædʒɪktɪv/
 
-3.  **aligned**   [ /əˈlaɪnd/]( )  adj.对齐的, 均衡的   @动词align的过去式和过去分词  
+动词： Verb  /vɜːrb/ 
 
-4.  **hierarchy**   [ /ˈhaɪərɑːrki/]()   *n.* 等级制度   统治集团, 领导层 
+介词：preposition   /ˌprɛpəˈzɪʃn/  
+
+1. dropdown menus 下拉式菜单  /'mɛnju/ 
+
+2. Smile at setbacks n. 挫折; 阻碍  Learn from your mistakes Keep moving forward   笑对挫折 从错误中学习 继续前进 
+
+3. unload [ /'ʌn'lod/]( )  vt. 卸；摆脱…之负担；倾销 
+
+4. **aligned**   [ /əˈlaɪnd/]( )  adj.对齐的, 均衡的   动词align的过去式和过去分词   
+
+   The troops aligned  士兵们列队了 
+
+5. **hierarchy**   [ /ˈhaɪərɑːrki/]()   *n.* 等级制度   统治集团, 领导层 
 
    *social hierarchy* 社会等级；社会阶层 
 
@@ -2735,29 +2759,31 @@
 
    *knowledge hierarchy* 知识体系
 
-5. loosely  [ /ˈluslɪ/]( )   adv. 宽松地；放荡地；轻率地 
+6. loosely  [ /ˈluslɪ/]( )   adv. 宽松地；放荡地；轻率地 
 
-6.  bullet  [ /ˈbʊlɪt/]( )  n. 子弹  vi. 射出；迅速行进 
+7. bullet  [ /ˈbʊlɪt/]( )  n. 子弹  vi. 射出；迅速行进 
 
    *silver bullet* 银弹
 
    bullet wounds 枪伤
 
-7.  **functionality**   [ /ˌfʌŋkʃə'næləti/]( )    *n.*功能性；[数]泛函性，函数性 
+   **side effect 副作用 **  /ɪˈfɛkt/
+
+8. **functionality**   [ /ˌfʌŋkʃə'næləti/]( )    *n.*功能性；[数]泛函性，函数性 
 
    *[Provides Basic Functionality]( )* 提供基本功能 
 
    *[Functionality Doctrine]( )* 功能原则   [ /ˈdɑːktrɪn/]( )   *n.* 教条, 教义, 学说 
 
-8. portable  [ /ˈpɔːrtəbl/](c )   *adj.* 便于携带的; 手提式的; 轻便的 
+9. portable  [ /ˈpɔːrtəbl/](c )   *adj.* 便于携带的; 手提式的; 轻便的 
 
    *portable computer* 便携式计算机
 
-9. **inscrutable**    [ /ɪnˈskruːtəbl/]( )   *adj.* 不可理解的;谜一样的 
+10. **inscrutable**    [ /ɪnˈskruːtəbl/]( )   *adj.* 不可理解的;谜一样的 
 
    *[an inscrutable smile]( )* 神秘的微笑 
 
-10. bloat  [ /blot/]( ) 
+11. bloat  [ /blot/]( ) 
 
     1. vt. （使）肿胀；使膨胀；腌制
     2. vi. 膨胀；肿起；得意
@@ -2765,23 +2791,19 @@
 
     *[curbing code bloat]( )* 抑止代码膨胀 
 
-11. **fine grained**   *adj.* 有细密纹理的 
+12. **fine grained**   *adj.* 有细密纹理的 
 
-12. **irrespective**  [/ˌɪrɪˈspɛktɪv/](c )  *adj.* 不考虑的, 不问的, 不顾的 
+13. **irrespective**  [/ˌɪrɪˈspɛktɪv/](c )  *adj.* 不考虑的, 不问的, 不顾的 
 
-    He is going to buy it irrespective of what you say  不管你说什么, 他是买定了
+    This is irrespective of how much you earn  这个数目与你赚多少钱无关 
 
-    Irrespective of the weather, we will go hiking  无论天气如何，我们都会去徒步旅行 
+    **In their respective fields, they are experts 在各自的领域中，他们都是专家**
 
-    In their respective fields, they are experts 在各自的领域中，他们都是专家
+14. **descendant** [ /dɪˈsɛndənt/]( )    *n.* 后代, 后裔 
 
-13.  **descendant** [ /dɪˈsɛndənt/]( )    *n.* 后代, 后裔 
-
-14. realtime 实际时间  adj. 实时的；适时的 
+15. realtime 实际时间  adj. 实时的；适时的 
 
     *[realtime mode]( )* 实时状态; 即时模式;
-
-    *[realtime shadow]( )* 实时阴影
 
     *[realtime communications]()* 实时通信
 
@@ -2793,17 +2815,17 @@
 
     *[realtime push]( )* 即时推送
 
-15. **diagnosis**  [/ˌdaɪəɡˈnosɪs/]( s)  *n.* 〈医〉诊断法; 诊断结论 
+16. **diagnosis**  [/ˌdaɪəɡˈnosɪs/]( s)  *n.* 〈医〉诊断法; 诊断结论 
 
     *fault diagnosis* 故障诊断
 
     *early diagnosis* 早期诊断
 
-16. **spawn**  [/spɔn/](cmd://Speak/_us_/spawn) 
+17. **spawn**  [/spɔn/](cmd://Speak/_us_/spawn) 
 
-    Every investment boom reflects the society that spawned it.  每次投资热潮都是社会催生 
+    Every investment boom reflects the society  /sə'saɪəti/  that spawned it.  每次投资热潮都是社会催生 
 
-17. **consort**  [/ˈkɑːnsɔːrt/]( ) 
+18. **consort**  [/ˈkɑːnsɔːrt/]( ) 
 
     1. vi. 结交；陪伴；符合
     2. vt. 使结合；使联系
@@ -2811,7 +2833,7 @@
 
 ​		They went in consort two or three together  他们三三两两结伴前往 
 
-​		**consortium**  [ /kən'sɔrtɪəm/]()   *n.* (数家公司或银行联合组成的)财团, 联营企业 
+​		**consortium**  [ /kən'sɔrtɪəm/]()   *n.* 财团, 联营企业 
 
 18. **arena**  [ /əˈriːnə/]( )  n. 竞技场；舞台 
 
@@ -2819,7 +2841,7 @@
 
 19. **monolith**  [ /ˈmɑːnəlɪθ/]( )   n. 整块石料；庞然大物 
 
-    *[Silica monoliths]( )* 二氧化硅单块    /'sɪlɪkə/
+    *[Silica monoliths]( )* 二氧化硅单块    /'sɪlɪkə/     silicon  /ˈsɪlɪkən/ 硅
 
 20. **daunting**  [/'dɔntɪŋ/]( )  adj. 使人畏缩的；使人气馁的；令人怯步的 
 
@@ -2832,13 +2854,13 @@
 #### 011G
 
 1. [indeed]( ) 一般用于肯定或证实对方所说的话，多承接前言，也用来加强或肯定自己说话的语气。
-   [really]( ) 主要用于强调与事实或现实不相违背，也可表示不快、惊奇或某种含蓄的怀疑。
+   [really]( ) 主要用于强调与事实或现实不相违背，也可表示不快、惊奇或某种含蓄的怀疑。  /'rili/ 
    [truly]( ) 强调客观存在的真实性，没有任何虚假。
-   [actually]( ) 侧重于实际的事，而不是凭空想象或推测的事。
+   [actually]( ) 侧重于实际的事，而不是凭空想象或推测的事。  /ˈæktʃuəli/ 
 
 2. **sticky**  [ /ˈstɪki/]( )   *adj.* 粘性的；粘的 
 
-   *sticky rice* n. 糯米
+   *sticky rice* n. 糯米  /raɪs/ 
 
    *sticky tape* 胶带
 
@@ -2863,7 +2885,7 @@
 
    *last ditch* 最后防线，最后手段 
 
-   The car tipped into the ditch  汽车翻进水沟里 
+   The car tipped  倾斜, 翻倒  into the ditch  汽车翻进水沟里 
 
 7. cursor [ /'kɝsɚ/]( )   *n.* 光标 
 
@@ -2871,23 +2893,27 @@
 
 9. **arithmetic**  [ /əˈrɪθmətɪk/]()  *n.* 算术  计算 
 
+   mental arithmetic  心算
+
 10. sparse matrix < == >  [dense]() [matrix]()   [ /spɑːrs/]()  [ /dɛns/]()          
 
-11. failover   [ /fel'ovər/]()  故障转移; 故障切换; 容错; 失效接管 
+11. failover   [ /fel'ovər/]()  *n.* 故障转移; 故障切换; 容错; 失效接管 
 
 12. naive bayes  [ /naɪˈiːv/]( )    [beɪz] 朴素贝叶斯
 
 13. width  [/wɪdθ/]( )   *n.* 宽度, 阔度, 广度  宽, 广  **bandwidth**   [ /'bændwɪdθ/]( )    *n.* 带宽 
 
-14.  **lineage**  [/ˈlɪniɪdʒ/]( )   n. 血统；家系，世系  
+14. **lineage**  [/ˈlɪniɪdʒ/]( )   n. 血统；家系，世系  
 
     And now those lineages are essentially gone  但是现在这些血脉基本断绝了 
 
-15. refinement  [/rɪˈfaɪnmənt/]( )  *n.*    改进 改良 精细的  提炼  优雅：高雅的状态或性质 
+    She's essentially kind  她本质上是善良的 
 
-    A greater refinement of the categorization   /ˌkætigəri'zeiʃən/ is possible  进行更加精细的分类是可能的 
+15. refinement  [/rɪˈfaɪnmənt/]( )  *n.*    改进 改良 精细的  提炼  优雅
 
-16.  **pitfall**   [ /ˈpɪtfɔːl/]( )  *n.* (捕猎野兽用的)陷阱  2. 意想不到的困难; 易犯的错误 
+    A greater refinement of the categorization   /ˌkætigəri'zeʃən/ is possible  进行更加精细的分类是可能的 
+
+16. **pitfall**   [ /ˈpɪtfɔːl/]( )  *n.* (捕猎野兽用的)陷阱  2. 意想不到的困难; 易犯的错误 
 
     *[Potential pitfall]( )* 潜在危险 
 
@@ -2897,7 +2923,7 @@
 
     **warehouse**  [ /ˈwɛrhaʊs/]( )    *n.* 仓库, 货栈 
 
-18. indices   *[classific indices]( )* 分类指标  == index   /kla:'sifik/   /'ɪndɪsiz/ 
+18. indices   *[classific indices]( )*    分类指标  ==   A plural of index   /kla:'sifik/   /'ɪndɪsiz/ 
 
 19. **internally ** [ /ɪnˈtə..nəlɪ/]( )   *adv.* 内地；内部地   == >  **externally ** [ /ɪkˈstənəlɪ/]( )  外部地  
 
@@ -2911,7 +2937,7 @@
 
 #### 012G
 
-1. Both inspired on Django-Admin  两者的灵感都来自于Django-Admin 
+1. Both  /boθ/ inspired on Django-Admin  两者的灵感都来自于Django-Admin 
 
    **inspire**  [ /ɪnˈspaɪər/]( )  vt. 鼓舞；激发；启示；产生；使生灵感 
 
@@ -2946,15 +2972,21 @@
       - Relationship: 表示人与人之间的联系或关系。
    ```
 
+   creep   /kri p/  vi. 爬行  n. 爬行
+
+   crept   /krɛpt/  
+
 6. destiny  [/ˈdɛstəni/]( )   *n.* 命运; 天命; 天数 
+
+   You have to trust in something, your gut, destiny, life, karma, whatever  你必须相信点什么，你的勇气、命运、生活、因缘，什么都可以
 
 7. encourage [ /ɪnˈkɜːrɪdʒ/]( )  *vt.* 鼓励, 激励 
 
 8. **simplify**  [ /ˈsɪmplɪfaɪ/]( )  vt. 简化；使单纯；使简易 
 
-   Models are just visuals to help us **simplify** and explain concepts  模型只是视觉性地帮助我们简化和解释概念 
+   So, we're simplifying this stuff a lot  我们把这些东西简化了很多
 
-9. **latency**  [ /'lɛtnsi/]( )   *n.* 潜伏  潜在因素  *latency time* 延迟时间，等待时间 
+9. **latency**   /'letnsi/  *n.* 潜伏  潜在因素  *latency time* 延迟时间，等待时间 
 
 10. **cutting edge**  （处于某事物发展的）领先地位，尖端，最前沿；优势，有利方面 
 
@@ -3006,9 +3038,11 @@
 
     *asynchronous transmission* 异步传输，异步发送
 
-16. **mutate**  *vt. & vi.* (使某物)变化, 转变, 突变, 变异 
+16. **mutate**   /ˈmjuːtet/ *vt. & vi.* (使某物)变化, 转变, 突变, 变异 
 
     *[mutated gene]( )* 突变基因
+
+    If the virus mutates further, it might become airborne   如果该病毒进一步变异，那么它有可能通过空气传播
 
 17. Perspective matters 视角很重要
 
@@ -3023,7 +3057,6 @@
     3. 发射
     4. 开始;出发;起点;出发点
     5. <喻>(经济的)起飞
-    6. <非正>(对某人习惯动作的)滑稽模仿
 
 20. onset  [/ˈɑːnsɛt/]( )  *n.* 开始  攻击,袭击 
 
@@ -3031,13 +3064,17 @@
 
     /traʊ'mætɪk/ 
 
-    traumatic experience 惨痛的经历 
+    traumatic experience 惨痛的经历   /ɪk'spɪrɪəns/
 
 #### **013G**
 
-1. I'm really looking forward to embracing whatever happens and whatever comes my way  我会继续向前看，无论未来会发生什么我都会面对 
+1. I'm really looking forward to embracing  /ɪmˈbres/ whatever happens and whatever comes my way  我会继续向前看，无论未来会发生什么我都会面对 
 
-2. Looking to the future instead of the past  我们要向前看而不是向后看 
+   look forward to do  表示期待去做某件事情，强调的是对将来行动的期待
+
+   look forward to doing 表示期待正在做某件事情，强调的是对正在进行的行动的期待和兴奋
+
+2. Looking to the future  /'fjʊtʃɚ/ instead of the past  我们要向前看而不是向后看 
 
 3. ***elapsed time*** 运行时间，经过时间  
 
@@ -3049,7 +3086,19 @@
 
    *gauss theorem* 高斯定理 
 
+   uniqueness theorem /juːˈniknəs/  唯一性定理；单值定理
+
+   phonetic  /fəˈnɛtɪk/  adj. 语音的，语音学的；音形一致的；发音有细微区别的 
+
+   phonetic symbol 音标 
+
 5. **coworker**  [ /ˈkəʊ wɜːrkər/]( )   n. 同事；合作者 
+
+   Spend time with family instead of coworkers, meditation instead of aggravation  花时间陪伴家人而非同事、花时间沉思而非恼怒 
+
+   meditation  /ˌmɛdɪˈteʃn/ n. 默想, 默念  沉思, 思考；冥想
+
+   aggravation   /ˌægrə'veʃən/   n. 加重(病情、负担、罪行、危机等的),更恶化,恼怒 
 
 6. **crummy**  [ /ˈkrʌmi/]( )  adj. 微不足道的；寒酸的；肮脏的  
 
@@ -3057,29 +3106,33 @@
 
    *[what a crummy day]( )* 多糟糕的一天啊; 多倒霉的一天; 今天真倒霉;
 
-   George knew it mocking rival musicians as being **crummy**   乔治知道嘲笑竞争对手音乐家是很糟糕的事情 
+   George knew it mocking rival   /ˈraɪvl/ musicians as being **crummy**   乔治知道嘲笑竞争对手音乐家是很糟糕的事情 
 
-7. **backoff**  [ /'bækɔf/](cmd://Speak/_us_/backoff)  n. 铲背；倒扣，补偿；备值 
+7. **backoff**  [ /'bækɔf/](cmd://Speak/_us_/backoff)  n.倒扣，补偿；备值 
 
-   *[backoff algorithm]()* 退避算法  
+   *[backoff algorithm]()* 退避算法   /'ælgə'rɪðəm/ 
 
    *[input backoff]( )* 输入回退 
 
    *[backoff value]( )* 回退数
 
+   MAC addresses, collision detection, exponential backoff and similar low level protocols that mediate access to the physical layer are part of the Data Link Layer.  MAC 地址、冲突检测、指数退避和调解对物理层的访问的类似低级协议是数据链路层的一部分
+
 8. **outdate**  [/aʊtˈdet/]( )  vt. 使过时；使废弃；使陈旧 
 
    *[Brand Outdated]( )* 品牌老化 
 
-   *[private String outDate]( )* 出厂日期 
+   date of manufacture 出厂日期 
+
+   Dr. Stacey Brethauer at Ohio State University says the criteria for the surgery is outdated  俄亥俄州立大学的史黛西·布莱斯奥尔博士说，这项手术的标准已经过时
 
 9. **wallpaper**  [/'wɔlpepɚ/](cmd://Speak/_us_/wallpaper)  *n.* 壁纸；墙纸  *vt.* 往 (屋里墙上)贴壁纸  *vi.* 贴壁纸 
 
    *[google wallpapers]( )* 谷歌壁纸 
 
-10. enroll [ /ɪnˈrol/]( )  （使）加入；注o册；登记；招收（成员）；招（生）登记入学；注册（课程） 
+10. enroll [ /ɪnˈrol/]( )  （使）加入；注册；登记；招收（成员）；招（生）登记入学；注册（课程） 
 
-    We enroll at least a year out  我们这里注册起码排到隔年 
+    We enroll at least a year out  我们至少要在一年后才能报名
 
     **Two out of three people who enroll are not going to find an adequate job** 
 
@@ -3096,6 +3149,8 @@
 
     **adequate**    /ˈædɪkwɪt/   adj. 充分的, 足够的  适当的, 胜任的
 
+    adequate preparation 充分准备  /ˌprɛpəˈreʃn/
+
 11. **corrupt**  [ /kəˈrʌpt/]( )  
 
     1. adj. 腐败的，贪污的；堕落的
@@ -3108,19 +3163,23 @@
 
 12. **canonical**  [/kəˈnɑːnɪkl/]( )  
 
-    *canonical correlation* 典型相关
+    *canonical correlation*  /ˌkɔrə'leʃən/ 典型相关
 
-    *canonical correlation analysis* 典型相关分析；典范相关分析
+    *canonical correlation analysis* 典型相关分析
 
     *canonical form* 规范形式；[语]语言的语音典型
 
     *canonical transformation* 正则变换
 
-    *canonical ensemble* 正则系综，典范系综
+    *canonical ensemble* 正则系综，典范系综  /ɑn'sɑmbl/ 
 
     *canonical analysis* 典型相关分析；典型分析；双复式分析
 
     The periods during which they worshipped were called the canonical hours  他们做礼拜的时候通常被称为祷告时刻 
+
+    worship   /ˈwɜːrʃɪp/   礼拜
+
+    worshipped /ˈwɜːrʃɪpt/   礼拜
 
 13. **ensemble**  [/ɑn'sɑmbl/]( )  n. 全体；总效果；全套服装；全套家具；合奏组 
 
@@ -3130,11 +3189,11 @@
 
     *[protocol to encapsulate]( )* 协议封装
 
-    **encapsulate**  [/ɪn'kæpsjə'let/]()   *vt.* 装入胶囊  
+    **encapsulate**  [/ɪn'kæpsjə'let/]()   *vt.* 封装
 
     **polymorphism**  [/ˌpɑlɪ'mɔrfɪzm/]( )  *n.* 多型现象, 多态性 
 
-    **inheritance**  [ /ɪnˈherɪtəns/]( ) 
+    **inheritance**  [ /ɪnˈhɛrɪtəns/]( )  继承
 
 15. **laptop**  [ /ˈlæptɑːp/]( )   n.  轻便电脑 
 
@@ -3142,7 +3201,7 @@
 
     He is proud that his wife is **amenable** to reason  他的妻子是个通情达理的人,为此他引以为豪 
 
-    People living in a country are **amenable** to its laws  一个国家的人民有服从法律的义务 
+    People living in a country are **amenable** to its laws  /lɔː/  一个国家的人民有服从法律的义务 
 
     1. 意愿或态度上易于接受、遵从或合作的：be amenable to suggestions（愿意接受建议），be amenable to change（易于接受变化）。
     2. 可以被管辖或受到约束的：be amenable to the law（受法律约束）。
@@ -3151,11 +3210,11 @@
 
     总的来说，"amenable" 表示某种事物能够被影响、控制、处理或适应，通常用于描述人、行为、政策、问题等。
 
-    1. "He seemed amenable to my suggestion."（他似乎很愿意接受我的建议。）——出自《纽约时报》（The New York Times）。
-    2. "The question of whether the Supreme Court is amenable to the public will is at the forefront of the political debate."（最高法院是否受公众意愿的影响成为政治辩论的焦点。）——出自《大西洋月刊》（The Atlantic）。
-    3. "Some children are more amenable to discipline than others."（有些孩子比其他孩子更容易受到纪律的约束。）——出自《牛津高阶英汉双解词典》（Oxford Advanced Learner's Dictionary）。
-    4. "**Our approach is amenable to automation and scaling**."（我们的方法适合自动化和扩展。）——出自《自然》（Nature）。
-    5. "The disease is amenable to treatment if caught early."（如果早期发现，这种疾病是可以治疗的。）——出自《医学新闻今日》（Medical News Today）。
+    1. He seemed amenable to my suggestion 他似乎很愿意接受我的建议
+    2. "The question of whether the Supreme Court is amenable to the public will is at the forefront of the political debate.  最高法院是否受公众意愿的影响成为政治辩论的焦点
+    3.  Some children are more amenable to discipline than others. 有些孩子比其他孩子更容易受到纪律的约束 
+    4. **Our approach is amenable to automation and scaling** 我们的方法适合自动化和扩展 
+    5. The disease is amenable to treatment if caught early. 如果早期发现，这种疾病是可以治疗的 
 
 17. **errand**  [ /ˈerənd/]( )  n. 差事；差使；使命 
 
