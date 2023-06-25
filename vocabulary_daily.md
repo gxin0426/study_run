@@ -2,7 +2,7 @@
 
 #### 001组
 
-1. platform agnostic 与平台无关
+1. platform agnostic 与平台无关  /æɡˈnɑːstɪk/
 
    cloud agnostic 与云无关
 
@@ -16,7 +16,7 @@
 
 3. Feel free to join us  欢迎加入我们
 
-4. Community blogs and presentations  社区博客和演讲
+4. Community blogs and presentations  社区博客和演讲  /ˌpriːzənˈteʃn/
 
 5. parameter substitution 参数替换
 
@@ -29,6 +29,12 @@
    "the parameters must be enclosed in double quotes to escape the curly braces in YAML."
 
    该句是在讨论YAML语法中的一种情况，提到了参数必须用双引号括起来，以避免花括号（curly braces）的特殊处理。
+
+   '{' - curly braces 或者 curly brackets 
+
+   '[' - square brackets 或者 brackets 
+
+   '(' - parentheses 或者 round brackets
 
 9. in case of  **在... 情况下** 防备, 假如, 如果发生 
 
@@ -51,11 +57,11 @@
    4. **站立或扔**：  "pitch a tent"（搭帐篷），"pitch a ball"（扔球）
    5. **扔掉或抛弃**：  "pitch the old magazines"（扔掉旧杂志）
 
-   总的来说，‘pitch’这个词多用在与音乐、销售、体育运动、建筑和自然界等相关的场合。根据具体的上下文，"pitch" 这个词也可以有其他不同的意义 
+   总的来说，pitch这个词多用在与音乐、销售、体育运动、建筑和自然界等相关的场合。根据具体的上下文，"pitch" 这个词也可以有其他不同的意义 
 3. the mlops **landscape** is frequence evolving  (MLOPS的格局在不断变化)
 4. **tangible**  /ˈtændʒəbl/  adj: 通过触摸可以感知的；可触知的; 确实的，真实的：有可能被当作事实来对待的；真实的或具体的; 实际的：有可能被理解或实现的;  **tangible property**: 有形财产
 
-​		n:  tangibles 有形资产; 可触知的或具体的某事物
+​		*n.*  tangibles 有形资产; 可触知的或具体的某事物
 
 6. **relevant** /ˈreləvənt/ adj: 相关联的：和手头的事务有关系或关联的
 
@@ -63,7 +69,7 @@
 
    **along with** : 与...一道(又), 连同...一起, 随同...一起, 沿[顺]着
 
-8. Monitoring the  model parameters in real-world post-production **is essential to** *adjust*  various                [/ˈvɛriəs/]() components to ensure that the **feedback loop** is met and the  expected  [ /ɪkˈspekt/]() output is delivered in production **consistently**  (在现实世界的后期生产中，监测模型参数对于调整各种组件以确保满足反馈回路并在生产中持续交付预期产出是至关重要的)
+8. Monitoring the  model parameters in real-world post-production **is essential to** *adjust*  various                [/ˈvɛriəs/]() components to ensure that the **feedback loop** is met and the  expected  [ /ɪkˈspɛkt/]() output is delivered in production **consistently**  (在现实世界的后期生产中，监测模型参数对于调整各种组件以确保满足反馈回路并在生产中持续交付预期产出是至关重要的)
 
    **consistently**     */*kənˈsɪstəntli*/* *adv.* 一贯地;坚持地；固守地; 持续的
 
@@ -71,7 +77,7 @@
 
    **nuance** v/n  */*ˈnuːɑːns*/*  使产生细微差别 细微差别
 
-   **nascent** adj  /ˈneɪs(ə)nt/  新兴的，初期的，开始存在的，发生中的
+   **nascent** adj  /ˈne sənt/  新兴的，初期的，开始存在的，发生中的
 
 10. **production-ready**   [/ˈrɛdi/]() 生产级别的
 
@@ -95,39 +101,39 @@
 
 ​		**collaborate ** */*kəˈlæbəret*/*  *v.*合作，协作；勾结，通敌
 
-​		orchestrate  [ /ˈɔːrkɪstreɪt/]()   *vt.* 把(乐曲)编成管弦乐  和谐地安排；精心策划 
+​		orchestrate  [ /ˈɔːrkɪstret/]()   *vt.* 把(乐曲)编成管弦乐  和谐地安排；精心策划 
 
-​		**leverage ** */*ˈlevərɪdʒ*/* *n.*影响力，手段；杠杆力，杠杆作用；<美>杠杆比率   *v.*<英>举债经营；**充分利用			（资源、观点等）**
+​		**leverage ** */*ˈlɛvərɪdʒ*/* *n.*影响力，手段；杠杆力，杠杆作用；<美>杠杆比率   *v.*<英>举债经营；**充分利用			（资源、观点等）**
 
-2. **explainable**  */*ɪkˈsplenəbl*/*  *adj.*可辩解的；可说明的
+2. **explainable**  */*ɪkˈsplenəbl*/*  *adj.*可辩解的；可说明的 --> explain  /ɪk'splen/ --> explanation /ˌɛkspləˈneʃn/
 
 3. Where Feature  Selection **tackles** the issue of the selection of essential columns for  modeling, Explanable AI focuses on the micro-decisions that lead to the final **macro** decision （特征选择解决的是为建模选择基本列的问题，而可解释的人工智能关注的是导致最终的宏观决策的微观决定。）
 
    **micro - macro**  */*ˈmaɪkroʊ*/* - */*ˈmækroʊ*/*  微观 - 宏观
 
-   **tackle**  *v.*应付，解决（难题或局面）；与……交涉；（足球、曲棍球等比赛中）抢断；（橄榄球等比赛中）擒抱并摔倒（对方球员）；擒获；对付，打（尤指罪犯）；质问，责问；反对，反抗
+   **tackle**  vt. 解决；应付  n. 拦截 
 
-   *n.*（足球等中的）抢断球；（橄榄球或美式足球）擒抱摔倒；（美式足球中的）阻截队员；体育器械，（尤指）渔具；（吊起重物用的）索具，滑轮；<英，俚>男性性器官
+4. **model-diagnostic** 模型诊断 [/ˌdaɪəɡˈnɑːstɪk/](cmd://Speak/_us_/diagnostic)   
 
-4. **model-diagnostic** 模型诊断 [/ˌdaɪəɡˈnɑːstɪk/](cmd://Speak/_us_/diagnostic)  
+5. First, make a **supervised model** along with the **stated** **pre-requisites** and launch the web app to visualize [ /'vɪʒuəlaɪz/]( ) the data. 首先，按照规定的前提条件制作一个监督模型，并启动网络应用，使数据可视化
 
-5. First, make a **supervised model** along with the **stated** **pre-requisites** and launch the web app to visualize [ /'vɪʒuəlaɪz/]( ) the data. （ 首先，按照规定的前提条件制作一个监督模型，并启动网络应用，使数据可视化）
+​		**supervised model** 监督模型 
 
-​		**supervised model** 监督模型
+​		**pre-requisites** 前提条件  requisite  /ˈrɛkwɪzɪt/ *adj.*  必需的  必要的  *n.* 必需品 必要条件
 
-​		**pre-requisites** 前提条件  requisite *adj.*<正式>必需的，必要的  *n.*<正式>必需品，必要条件
+​		**stated** adj. 定期的；规定的；**阐明的** 
 
-​		**stated** adj. 定期的；规定的；**阐明的**
+6. **essentially**  [/ɪˈsɛnʃəli/]( )  *adv.*本质上，根本上；大体上，基本上
 
-6. **essentially**  [/ɪˈsenʃəli/](cmd://Speak/_us_/essentially)  *adv.*本质上，根本上；大体上，基本上
+   She's essentially kind  她本质上是善良的
 
 7. an **intermediate** to an **advanced** **implementation** 从中级到高级的实现
 
 ​		**intermediate**   */*ˌɪntərˈmiːdiət*/*   *adj.*居中的，中间的；中等程度的，中级的  *n.*中级水平者，中级学生；中		间事物；（化合物）中间体   *v.*充当调解人，斡旋   
 
-​		**advanced**   */*ədˈvænst*/*  *adj.*先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未			  		被广泛接受）的     *v.*  行进；发展，进步；预付（advance 的过去式和过去分词形式）
+​		**advanced**   */*ædˈvænst*/*  *adj.*先进的；高级的，高等的；晚期的，状况不佳的；高龄的；新提出（尚未			  		被广泛接受）的     *v.*  行进；发展，进步；预付（advance 的过去式和过去分词形式）
 
-​		**implementation **   */*ˌɪmplɪmenˈteɪʃ(ə)n*/*   *n.*实施，执行 
+​		**implementation **   */*ˌɪmplɪmɛnˈteɪʃ(ə)n*/*   *n.*实施，执行 
 
 8. Biden **approval rating** **ticks up** after midterms （拜登的支持率在中期选举后逐步上升）
 
@@ -141,9 +147,9 @@
 
    **intuitive**  */*ɪnˈtuːɪtɪv*/*  *adj.*直觉的；有直觉力的；易懂的，使用简便的
 
-   **flexible**  */*ˈfleksəb(ə)l*/*  *adj.*灵活的；柔韧的，易弯曲的
+   **flexible**  */*ˈflɛksəb(ə)l*/*  *adj.*灵活的；柔韧的，易弯曲的
 
-   **elegant**  */*ˈelɪɡənt*/*   *adj.*（人）高雅的，举止优雅的；精美的，雅致的；简练的，巧妙的
+   **elegant**  */*ˈɛlɪɡənt*/*   *adj.*（人）高雅的，举止优雅的；精美的，雅致的；简练的，巧妙的
 
 10. **expressive diagnostic** (表达诊断) 
 
@@ -346,64 +352,64 @@
 
 ​        adj. 预先的，事先的；先行的，先遣的
 
-
-
-
-
 ### YouDao
 
 #### 001组
 
-1. **propose**   [ /prəˈpoʊz/]() v.t 提议：提出以供考虑、讨论或采纳；建议： v.i  提议，求婚：提出一个建议，尤指求婚
+1. **propose**   [ /prəˈpoʊz/]() vt.  提议：提出以供考虑、讨论或采纳；建议： vi.  提议，求婚：提出一个建议，尤指求婚
 
    I **propose** that he should leave now. 我建议他现在就走 
 
 2. **approval**  [/əˈpruːvl/]( )  n  赞成；批准；认可 
 
-   May I take your smile as an indication of approval? 你的微笑表明你已经同意了吗?
+   certificate of approval 合格证 
 
-3. **voucher** [/ˈvaʊtʃər/]  n. 证人；保证人；证明者；收据；**补贴**    *gift voucher* 礼**券**  
+   May I **take** your smile **as** an indication of approval? 我可以把你的微笑看作是赞同的表示吗
 
-4. **enact**  v.t  *1*.To make into law:  制定：制订成法律：  *2*. To act (something) out, as on a stage:  扮演（某物），如在舞台上：
+3. **voucher** [/ˈvaʊtʃər/]  n. 证人；保证人；证明者；收据；**代金券**    *gift voucher* 礼**券**  
+
+4. **enact**  vt.  *1*.To make into law:  制定：制订成法律：  *2*. To act (something) out, as on a stage:  扮演（某物），如在舞台上：
 
    Congress **enacted** a tax reform bill. 国会**使**税收改革提案成为**法律**
 
    enacted the part of the parent. **扮演**家长的角色
 
-5. sidekick  [/ˈsaɪdˌkɪk/]()  A close companion or comrade  密友：关系密切的朋友或同志 
+5. sidekick  [/ˈsaɪdˌkɪk/]()  A close companion  /kəmˈpænjən/  or comrade  /ˈkɑːmræd/  密友：关系密切的朋友或同志 
 
-6. **engage** [/ɪnˈɡeɪdʒ/]( )   vt.  vi.  *engage in* 从事于（参加） *engage with* 交战；与…接洽 
+6. **engage** [/ɪnˈɡedʒ/]( )   *vt.  vi.*  *engage in* 从事于  *engage with* 交战；与…接洽 
 
    1. It is difficult to **engage** teachers of quality 很难**招聘**到优秀教师
    2. They are engaged in import and export  他们**做**(**从事**)进出口贸易 
 
 7. **rephrase  **[ /ˌri'frez/]( )   *vt*  重新措辞
 
-8. **phrase **[/freɪz/]( )  n.  缩写 **phr.**  简洁的语句  v.t  措辞，表意：口头或书面表达：  v.i    措辞，念辞：制造或说出短语，如朗读时
+8. **phrase **[/frez/]( )  n. 〈语〉短语 
 
-9. **fingerprint**  n.（名词）   指纹
+9. **fingerprint**  n. 指纹
 
-10. **transcription**  [/trænˈskrɪpʃn/]( )  n.（名词）  抄写  *【生物学】* 转移 转录  
+10. **transcription**  [/trænˈskrɪpʃn/]( )  n.   抄写  *【生物学】* 转移 转录  
 
     **reverse transcription** 反转录，逆转录 
 
-11. **treachery**  n.（名词）  背叛  [/ˈtrɛtʃəri/]( )   对比 <==> treasury [/ˈtrɛʒəri/]( )   财政部
+11. **treachery**  *n.*    背叛  [/ˈtrɛtʃəri/]( )   对比 --> treasury [/ˈtrɛʒəri/]( )   财政部
 
     I can't **stand** your **treachery** and deceit[/dɪˈsiːt/]( )(欺诈).
 
 12. villa [ /'vɪlə/]() 别墅
 
-13. **secretary**   [/ˈsɛkrətɛri/]() 秘书  *under secretary* （美）副国务卿  *secretary general* 秘书长 
+13. **secretary**   [/ˈsɛkrɪtɛri/]() 秘书  
+
+    *under secretary* （美）副国务卿  *secretary general* 秘书长  treasury  secretary 财政部长 treasury bonds 国债
 
 14. chimpanzee */*ˌtʃɪmpænˈziː*/*  *n.*黑猩猩 
 
-15. **antique**  [/ænˈtiːk/]( )adj.（形容词） 古时的，古老的  n.（名词） 古董  v.tr.（及物动词） 使古色古香 
+15. **antique**  [/ænˈtiːk/]( )   adj.古时的，古老的  n. 古董  vt.使古色古香 
 
-    The palace is full of priceless antiques  宫殿里到处都是无价的古玩
+    The palace /'pæləs/ is full of priceless  /ˈpraɪsləs/ antiques  宫殿里到处都是无价的古玩
 
 16. occupancy  [/'ɑkjəpənsi/]( )  *n.* 占有, 使用, 居住  
 
-    occupy [/ˈɑːkjupaɪ/]( )   v.tr.（及物动词） 占用：占用（时间或空间）  To dwell or reside in 居住 
+    occupy [/ˈɑːkjupaɪ/]( )   vt 占用 
 
 17. **subjunctive**  */*səbˈdʒʌŋktɪv*/*    虚拟语气
 
@@ -414,59 +420,105 @@
     1. **imperative mood**: 祈使语气；命令式 
     2. **imperative sentence**: 祈使句
 
-19. **indicative** *adj.*指示的，表明的，象征的；陈述（语气）的  *n.*陈述语气的动词形式，陈述语气 
+19. **indicative** *adj.*指示的，表明的，象征的；陈述（语气）的  *n.* 陈述语气 
 
-20. **irrevocable**  */*ɪˈrɛvəkəb(ə)l*/*  *adj.*<正式>不可更改的，不可取消的，无法挽回的 
+20. **irrevocable**  */*ɪˈrɛvəkəbəl*/*  *adj.*  不可更改的，不可取消的，无法挽回的 
 
     My life was set on an **irrevocable** course  我的生活道路不可改变
 
+    He tells his generals: " My decision is irrevocable."  他告诉他的将军们： "我的决定是不可改变的"
+
+    General Motor  /ˈmotər/  Corporation 通用汽车 
+
 #### 002组
 
-1. spawn  */*spɑːn*/* *v.*（鱼、青蛙、软体动物、甲壳类等）产卵；引发，促生；大量生产  *n.*（鱼、青蛙、软体动物、甲壳 类等的）卵；产卵 
+1. spawn  */*spɑːn*/*   *v.*（鱼、青蛙、软体动物、甲壳类等）产卵；引发，促生；大量生产  *n.*（鱼、青蛙、软体动物、甲壳 类等的）卵；产卵 
 
 2. **disposition**  [ /ˌdɪspəˈzɪʃn/]( )  n.（名词）  *n.* 气质, 天性, 性格  
 
-   The writings make use of the artificial nerve net (ANN) that possesses many merits the **parallel** **disposition** and studying oneself of the problem of unline shape.  本文利用人工神经网络(ANN)具有**并行处理**、自学习等诸多优点，特别适于处理非线形问题 
+   *个人特质和性格*： 
+
+   - She has a calm disposition and rarely gets angry  她性格沉稳，很少发脾气
+   - Hence the importance of cultivating a good disposition   因此培养良好的性格非常重要 
+
+   *态度和倾向*：
+
+   - The company has a disposition to invest in innovative technologies  该公司有投资创新技术的倾向
+
+   *处理和处理方式*：
+
+   - The writings make use of the artificial nerve net (ANN) that possesses many merits the **parallel** **disposition** and studying oneself of the problem of unline shape.  本文利用人工神经网络(ANN)具有**并行处理**、自学习等诸多优点，特别适于处理非线形问题 
 
 3. disclosure  */*dɪsˈkloʊʒər*/*  *n.*披露，泄密；透露的秘闻，公开的事情  
 
-   [information disclosure]() 信息披露；信息暴露
+   information disclosure  信息披露；信息暴露
 
 4. **brevity** [ /ˈbrɛvəti/]()  n. 短暂，短促；简洁，简短  
 
-   *[for brevity]( )* 为简洁起见
+   *for brevity* 为简洁起见
 
-5. **superior**    */*suːˈpɪriər*/*   *adj.*（规模或实力）更大的，更强的   *n.*上级，上司；<正式>优胜者，高手 
+5. **superior**    */*suːˈpɪriər*/*   *adj.*（规模或实力）更大的，更强的   *n.*上级，上司  优胜者，高手 
 
 6. **vastly**  [/væst/](cmd://Speak/_us_/vast) *adv.*非常，极大地 
 
-7. **extensively**  */*ɪkˈstensɪvli*/*  *adv.*广阔地；广泛地；巨大地 
+7. **extensively**  */*ɪkˈstɛnsɪvli*/*  *adv.*广阔地；广泛地；巨大地 
 
 8. **granularity**   [ /ˌgrænju'læriti/]()  *n.*间隔尺寸，[岩] 粒度
 
-9. **primitive** [ /ˈprɪmətɪv/]()   *adj.*原始的，远古的；（器物等）粗糙的  *n.*<旧>原始人，未开化的土人；原始派艺术家（或其作品）；
+   finer granularity 更细的粒度 
 
-10. **oblige** [ /əˈblaɪdʒ/]()   vt. 强制  vi. 帮忙 *[be obliged to]()* 不得不；有义务；感谢；被迫做 
+9. **primitive** [ /ˈprɪmətɪv/]()   *adj.*原始的，远古的  *n.* 原始人，未开化的土人
 
-11. **enumerate** [ /ɪˈnuːməreɪt/]()  *vt.*列举；枚举；计算
+   primitive type 原始类型；原语类型  
 
-12. juicy  *adj.*多汁的，汁液丰富的；生动有趣的，妙趣横生的；值很多钱的，报酬丰厚的；<非正式>充满诱惑的，吸引人的 
+   原语 （Primitives）是指在计算机科学和编程领域中，由编程语言提供的最基本的操作或函数。原语是编程语言的核心构建块，它们通常是预定义的、内置的，直接由编程语言的运行时环境支持。
 
-13. **granular**  [ /'grænjəlɚ/](cmd://Speak/_us_/granular)  adj.（形容词）   细粒状的，颗粒状的 
+   原语执行简单的任务，通常是原子级别的操作，不能再细分为更小的操作。它们通常是高度优化和高效的，用于执行常见的、基本的计算、操作和控制流程。
 
-    The **substance** is **hard** and **granular**  该物质地坚硬, 呈颗粒状
+   具体来说，原语可以包括以下内容：
 
-14. **present**  [ /ˈprɛznt/]()n.（名词） 现在，目前  adj.（形容词） 现在的，目前的  v.tr.（及物动词） 引见，介绍  呈献  礼物；赠品(名词，读音和动词一样)
+   1. 基本运算符（例如加法、减法、乘法、除法）：这些是执行基本数学运算的原语。
+   2. 数据类型操作（例如赋值、比较、转换）：这些原语用于处理和操作变量和数据类型，如赋值操作符、等于操作符、类型转换函数等。
+   3. 控制流程（例如条件语句、循环语句）：这些原语用于控制程序的执行流程，如if语句、for循环、while循环等。
+   4. 输入和输出操作：这些原语用于从用户获取输入或将结果输出到屏幕或文件中。
 
-    adj： There is no isoprene rubber production industry in China at present which shows properous business opportunity in isoprene rubber production.  目前国内尚没有异戊橡胶生产企业，异戊橡胶产品商机无限
+10. **oblige** [ /əˈblaɪdʒ/]()   *vt.* 强制  *vi.* 帮忙 
 
-    n：Everyone present admitted that the judge's decision was eminently fair  每个到场的人都承认法官的判决非常公正 
+    *[be obliged to]()* 不得不；有义务 
 
-    v：The baker presented his bill.  面包师呈上帐单 
+    I should be **immensely**  /ɪˈmɛnsli/ adv. 非常, 极大地 obliged to you  那就太感谢您了！
 
-    *the present day* 目前；当代  *at present* 目前，现在 
+    Well, I have been obliged to reconsider it.  好吧，我不得不重新考虑这个问题了 
+
+11. **enumerate** [ /ɪˈnuːməret/]()  *vt.*列举；枚举；计算
+
+12. juicy  /'dʒusi/  *adj.* 多汁的
+
+    juicy peach 水蜜桃 
+
+    It is juicy. How does it taste?  有很多果汁。味道怎么样？
+
+13. **granular**  [ /'grænjəlɚ/](cmd://Speak/_us_/granular)  adj.  细粒状的，颗粒状的 
+
+    The **substance** is **hard** and **granular**  该物质质地坚硬, 呈颗粒状
+
+14. **present**  [ /ˈprɛznt/]()n. 现在，目前  adj.  现在的，目前的  vt.  引见，介绍  呈献  礼物；赠品
+
+    做演讲或展示: I have to present my project to the class tomorrow  明天我必须向班级展示我的项目
+
+    礼物或赠品：I bought a present for my sister's birthday  我给我姐姐的生日买了一份礼物
+
+    出席或出现： He will be presenting himself as a candidate for the job  他将以应聘者的身份出席这个职位
+
+    展示或展览：The museum is presenting a new art exhibition  博物馆正在展示一场新的艺术展览
+
+    *the present day* 目前；当代
+
+    *at present* 目前，现在 
 
 15. **idempotent**  */*aɪˈdɛmpətənt*/*  *adj.*幂等的  *n.*[数] 幂等 
+
+    幂函数 power function 
 
 16. **compliant** [/kəmˈplaɪənt/](cmd://Speak/_us_/compliant)  adj.（形容词） 服从的 
 
@@ -476,41 +528,71 @@
 
     **compulsory** 必须做的, 强制性的
 
-18. **scaffold **  [/'skæfold/]()  *n.*脚手架；鹰架；绞刑台  *vt.*给……搭脚手架；用支架支撑 
+18. **scaffold **  [/'skæfold/]()  *n.*脚手架；鹰架；绞刑台  *vt.* 给……搭脚手架；用支架支撑 
 
-19. aftermath  [ /ˈæftərmæθ/]()   *n.*（战争、风暴、事故的）后果，余波；再萌草，再生草 
+    There was scaffolding around the building as renovations were being done  由于正在进行装修，大楼周围有脚手架 
 
-20. **deliver** *v.*投递，运送；履行，兑现；交付，移交； 
+    renovation   /ˌrɛnəˈveʃn/  n. 翻新;修复;整修
+
+19. aftermath  [ /ˈæftərmæθ/]()   *n.*（战争、风暴、事故的）后果，余波
+
+    A few weeks ago, The Prince of Wales visited the Caribbean in the aftermath of hurricanes that destroyed entire communities  几周前，威尔士亲王探访了加勒比海地区，那里飓风肆虐，摧毁了人们赖以生存的家园
+
+20. **deliver**  /dɪˈlɪvər/  *v.*投递，运送；履行，兑现；交付，移交
 
 #### 003组
 
-1. **adhere** v.intr.（不及物动词） 粘附，附着 
+1. **adhere** *vi.*  粘附，附着 
 
 2. fine tuning 微调 （模型调参相关）
 
-3. **roughly** *adv.*粗略地，大约；粗暴地，粗鲁地；粗糙地，不精细地 
+3. **roughly**   *adv.*粗略地，大约；粗暴地，粗鲁地；粗糙地，不精细地 
 
 4. **throttle** [/'θrɑtl/]()  n.（名词） 节流阀 v.tr.（及物动词） 节流 
 
-5. **catalog** *n.*[图情]()  目录；登记 
+5. **catalog** *n.* 目录；登记 
 
-6. **bespeak**   *v.*证明，表明；预订；<古>对……说  预约 预订 证明 显示 
+6. **bespeak**   *vt.*证明，表明；预订； 预约 预订 证明 显示 
 
-7. **renewable**   */*rɪˈnuːəb(ə)l*/* *adj.*（合同、协议等）可延期的，可续期的；（能源）可更新的，可再生的  *n.*再生性能源，可再生资源 
+7. **renewable**   */*rɪˈnuːəbəl*/* *adj.*（合同、协议等）可延期的，可续期的；（能源）可更新的，可再生的  *n.*再生性能源，可再生资源 
 
-8. **heed** */*hiːd*/*  *v.*<正式>注意，留心  *n.*<正式>注意，留心  == [take care of]()
+   renewable energies 再生能源 
+
+8. **heed** */*hiːd*/*  *vt.* 注意，留心  *n.*注意，留心  == > take care of 
+
+   What do you mean? Heed my words, Merlin  你是什么意思？听从我的话，梅林 
 
 9. **charisma**  */*kəˈrɪzmə*/*  *n.*个人魅力，感召力；神赐的力量，神授的能力；非凡的领导力 
 
-   *[natural charisma]()* 自然魅力; 天生丽质
+   natural charisma 自然魅力; 天生丽质
 
-10. **impersonation** [/im,pə:sə'neiʃən/]( )  *n.* 扮演 
+   He had a rich, chocolatey  /'tʃɑ kə lɪt/  voice and genuine /ˈdʒɛnjuɪn/ charisma  他有一个丰富的、巧克力色的声音和真正的魅力
 
-    **imitation**模仿, 仿效
+   genuine /ˈdʒɛnjuɪn/  adj. 真实的，真正的；诚恳的 
 
-11. **determine**   [/dɪˈtɜːrmɪn/](cmd://Speak/_us_/determine)   v.t 判定：结论性、权威性地决定或解决（纠纷等）  判决：通过司法行动终结或决定  确定：在考虑，调查或计算之后， 
+10. **impersonation** [/im,pə:sə'neʃən/]( )  *n.* 扮演  模仿
 
-     v.i 解决，决定：作出决定  
+    What might account for this strange phenomenon  什么可以解释这一奇怪的现象呢？
+
+    **imitation**   /ˌɪmɪˈteʃn/ *n.*  模仿, 仿效
+
+    imitation 指的是模仿或复制某人的行为、声音、风格或特征，通常是为了学习或模仿其特点。它强调的是模仿的动作或行为本身 
+
+    - The child imitated her favorite singer's dance moves  孩子模仿她最喜欢的歌手的舞蹈动作
+    - He's good at imitating different accents and voices.  他擅长模仿不同的口音和声音
+
+    impersonation指的是伪装成某人或冒充某人的行为，通常是为了欺骗、骗取或达到某种目的。它强调的是扮演或伪装成他人的意图和动机
+
+    - The criminal was arrested for impersonating a police officer.  这名罪犯因冒充警察被逮捕
+
+    imitation侧重于模仿行为或特征，而 impersonation侧重于冒充他人的行为或意图
+
+11. **determine**   [/dɪˈtɜːrmɪn/]()   vt. & vi. (使)下决心，(使)做出决定  vt. 确定，测定
+
+     decide 侧重指经过思考、比较、讨论或询问之后做出的决定
+    determine 指经过深思熟虑，决心去做某事并坚持施行
+    resolve 语气较强，强调以坚定不移的信念去做或不做某事，暗含有远大抱负和坚强决心
+    settle 指排除犹豫、怀疑和争论之后作出明确的最终结论
 
     Tree rings and seasonal sedimentary deposits called varves can be counted to determine absolute age  
 
@@ -524,15 +606,21 @@
 
     那总结一下就是，通常情况下，people是person的复数形式：一个人是one person，三个人是three people
 
-13. [Render View]() 渲染视图 渲染窗口 渲染视窗 染视图 
+13. [Render View]() 渲染视图 渲染窗口
 
-14. porting  *n.*移植，出口商品  *v.*携带；搬运（port 的现在分词） 
+14. porting  *n.*移植，出口商品  *v.* 携带；搬运（port 的现在分词） 
 
-15. preflight *adj.*起飞前的；为起飞作准备的  [preflight checks]( ) 飞行前检查 
+15. preflight *adj.*起飞前的；为起飞作准备的 
+
+    [preflight checks]( ) 飞行前检查 
 
 16. **viewpoint** */*ˈvjuːpɔɪnt*/*  *n.*观点，看法；视角，观察点 
 
-17. anatomy [ /əˈnætəmi/]() *n.*解剖学；（动植物的）组成结构，解剖构造；人体；剖析，详细分析；原因，成因；骨骼 
+17. anatomy [ /əˈnætəmi/]() *n.*解剖学；（动植物的）组成结构，解剖构造；人体；剖析 骨骼 
+
+    It was all down to our unique anatomy  原因在于我们独特的生理结构
+
+    gross domestic product (gdp) 国内生产总值 
 
 18. gatherer [/'ɡæðərɚ/]( ) *n.*采集者，收集器 
 
@@ -542,29 +630,37 @@
 
 #### 004组
 
-1. **Premium** *n.*保险费；（正常价格或费用以外的）加付款，加价；很高的价值，额外价值；额外补贴，津贴；奖品，奖金；<美> 优质汽油（ premium gas）  
+1. **premium**   /ˈpriːmiəm/ *n.*保险费；加价，额外价值；额外补贴，津贴；奖品，奖金；<美> 优质汽油（ premium gas）  
 
    [insurance premium]( ) 保险费
 
-2. **interfere** [/ˌɪntərˈfɪr/]( )  v.i   妨碍 *【体育运动】* 掩护， 阻挡  介入，干涉 
+2. **interfere** [/ˌɪntərˈfɪr/]( )  *vi.*   妨碍 *【体育运动】* 掩护， 阻挡  介入，干涉 
 
 3. **decouple**  解耦
 
-4. **donate**  [ /ˈdonet/]( ) v.t  vi 捐赠 
+4. **donate**  [ /ˈdonet/]( ) *vt.  vi. 捐赠*  
 
-5. **thrust**   */*θrʌst*/*  *v.*猛推，猛塞；刺，扎；  *n.*要点，要旨；猛推，刺   [thrust force]( ) 推力
+   I really appreciate you donating this stuff.  我真的很感激你能捐献这些东西
 
-6. **equivalent** [ /ɪˈkwɪvələnt/]( ) *adj.*等同的，等效的   *n.*对等的人（或事物），对应的人（或事物)
+5. **thrust**   */*θrʌst*/*  *v.* 猛推，猛塞；刺，扎   *n.* 要点，要旨；猛推，刺 
+
+   [thrust force]( ) 推力
+
+6. **equivalent** [ /ɪˈkwɪvələnt/]( )   *adj.*等同的，等效的   *n.*对等的人（或事物），对应的人（或事物)
 
    当量 : equivalent weight
 
-7. [Remap]( )  重映射
+7. [remap]( )   重映射
 
-8. **revoke**  *v.*撤回，撤销；（桥牌、惠斯特等牌戏中）有牌不跟  [revoke one's license]() 吊销执照
+8. **revoke**  *v.* 撤回，撤销；（桥牌、惠斯特等牌戏中）有牌不跟  
 
-9. **lethal**  [ /'liθəl/]( )  *adj.*致命的，致死的 危害极大的  n. 致死因子
+   [revoke one's license]() 吊销执照
 
-10. **pacemaker**   *n.*[基医] 起搏器；领跑者；标兵  [cardiac pacemaker]( )  (/ˈkɑːrdiæk/*adj.* 心脏(病)的)   心脏起搏器 
+9. **lethal**  [ /'li θəl/]( )  *adj.*致命的，致死的 危害极大的  n. 致死因子
+
+10. **pacemaker**   *n.*[基医] 起搏器；领跑者；标兵  
+
+    [cardiac pacemaker]( )  (/ˈkɑːrdiæk/*adj.* 心脏(病)的)   心脏起搏器 
 
 ### JinShan
 
