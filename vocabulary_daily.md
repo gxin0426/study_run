@@ -69,7 +69,7 @@
 
    **along with** : 与...一道(又), 连同...一起, 随同...一起, 沿[顺]着
 
-8. Monitoring the  model parameters in real-world post-production **is essential to** *adjust*  various                [/ˈvɛriəs/]() components to ensure that the **feedback loop** is met and the  expected  [ /ɪkˈspɛkt/]() output is delivered in production **consistently**  (在现实世界的后期生产中，监测模型参数对于调整各种组件以确保满足反馈回路并在生产中持续交付预期产出是至关重要的)
+8. Monitoring the  model parameters in real-world post-production **is essential to** *adjust*  various                [/ˈvɛriəs/]() components to ensure that the **feedback loop** is met and the  expected  [ /ɪkˈspɛkt/]() output is delivered in production **consistently**  在现实世界的后期生产中，监测模型参数对于调整各种组件以确保满足反馈回路并在生产中持续交付预期产出是至关重要的
 
    **consistently**     */*kənˈsɪstəntli*/* *adv.* 一贯地;坚持地；固守地; 持续的
 
@@ -81,9 +81,9 @@
 
 10. **production-ready**   [/ˈrɛdi/]() 生产级别的
 
-11. So **adopting** these in your personal GitHub projects will make you **stand out** (脱颖而出)as an expert       [/ˈɛkspɜːrt/]() in MLOps （因此，在你的个人GitHub项目中**采用**这些将使你作为MLOps的专家脱颖而出）
+11. So **adopting** these in your personal GitHub projects will make you **stand out** (脱颖而出)as an expert       [/ˈɛkspɜːrt/]() in MLOps  因此，在你的个人GitHub项目中**采用**这些将使你作为MLOps的专家脱颖而出 
 
-12. **Head over to** the Kaggle Titanic EDA to ML **Challenge** and focus on building the project using cookiecutter and high-quality documentation **as** **expected from** a production machine learning **perspective** （**前往**Kaggle Titanic EDA to ML挑战赛，专注于使用cookiecutter和高质量的文档构建项目，这是从生产机器学习的角度所期望的）
+12. **Head over to** the Kaggle Titanic EDA to ML **Challenge** and focus on building the project using cookiecutter and high-quality documentation **as** **expected from** a production machine learning **perspective** **前往**Kaggle Titanic EDA to ML挑战赛，专注于使用cookiecutter和高质量的文档构建项目，这是从生产机器学习的角度所期望的
 
 13. **Rather**(相反)  the way we **approach**(处理) solution design evolves （相反，我们处理方案设计的方式会发生变化）
 
@@ -155,77 +155,87 @@
 
     **diagnostic**   *adj.*诊断的，判断的；（因症状特异而）能指示某种疾病性质的；（生物学上的某一物种、属类或现象所）特有的  *n.*诊断程序, 诊断程式 （诊断计算机的错误）； 诊断提示（计算机错误的显示）；（特有的）症状（或特征）；诊断学，诊断法
 
-11. **coarse-grained**(function call) and **fine-grained**(operations on objects) (粗粒度（函数调用）和细粒度（对对象的操作）)
+11. **coarse-grained**(function call) and **fine-grained**(operations on objects)  粗粒度（函数调用）和细粒度（对对象的操作）
 
     **coarse** */*kɔːrs*/*  
 
-12. **bias**   */*ˈbaɪəs*/*  **偏置**  *n.* *v.* *adj.* *adv.* 
+12. **bias**   */*ˈbaɪəs*/*  **偏置**  *n.* *v.* *adj.* *adv.*  
 
-13. **For the time being**, we recommend to work around it by limiting the visible devices.（**就目前而言**，我们建议通过限制可见设备来解决这个问题）
+13. **For the time being**, we recommend to work around it by limiting the visible devices. **目前**，我们建议通过限制可见设备来解决这个问题
 
-14. **To do so**, we adopt a two-layer **approach** （**为此**，我们采用了一种两层的**方法**）
+14. **To do so**, we adopt a two-layer **approach**  **为此**，我们采用了一种两层的**方法**
 
-15. if you remain **steadfast** in your belief, you have a higher chance of succeeding (只要你坚持信念， 就更可能成功)
+15. if you remain **steadfast** in your belief, you have a higher chance of succeeding  只要你坚持信念， 就更可能成功
 
 ​		**steadfast** */*ˈstɛdfæst*/*   *adj.*忠诚的，坚定的 
 
 #### 003组
 
-1. **In doing so** （这样一来）
+1. **In doing so**  这样一来
 
-2. this should work out of box （开箱即用）
+2. this should work out of box  开箱即用
 
 3. back-propagation 反向传播
 
    **propagation**  */*ˌprɑːpəˈɡeʃn*/*   *n.*（动植物等的）繁殖，增殖，；（观点、理论等的）传播；（运动、光线、声音等的）传送
 
-4. A "slot" is the Open MPI **term** for an allocatable  [ /ˈæləket/]( ) unit where we can launch a process （槽 "是开放的MPI术语，指的是可分配的单元，我们可以在这里启动一个进程。）
+4. A "slot" is the Open MPI **term** for an allocatable  [ /ˈæləket/]( ) unit where we can launch a process  槽 "是开放的MPI术语，指的是可分配的单元，我们可以在这里启动一个进程
 
 5. I'm sure it's **authentic** (我敢保证它是真的)
 
-   **authentic**  */*ɔːˈθentɪk*/*   *adj.*原作的，真迹的；传统的，正宗的；逼真的，仿真的；真实的，可靠的
+   **authentic**  */*ɔːˈθɛntɪk*/*   *adj.*原作的，真迹的；传统的，正宗的；逼真的，仿真的；真实的，可靠的
 
 6. You may watch TV, **provided** your homework is finished first (如果你先把作业做完，你就可以看电视了)
 
-   **provided** */*prəˈvaɪdɪd*/*   *conj.*假如，只要，在……条件下  *v.*提供；规定；为（可能事件）作充分准备（provide 的过去式和过去分词形式）
+   **provided** */*prəˈvaɪdɪd*/*   *conj.*假如，只要，在……条件下  
+
+   *v.*   提供；规定；为...作充分准备（provide 的过去式和过去分词形式）
 
 7. **serial** simulation codes （串行模拟代码） /ˈsɪriəl/ 
 
-   **serial** /ˈsɪriəl/  *adj.*顺序排列的，一连串（系列）的；（重罪案犯或重案）连环的，连续的；连续播放的，连载的；串行的，单行的；（语言学）（动词）序列的；（乐）序列的；（计算机）（处理器）单任务的  *n.*（电视或广播）连续剧，（报纸上的）连载故事；（图书馆的）期刊
+   **serial** /ˈsɪriəl/  *adj.*顺序排列的，一连串（系列）的；串行的，单行的；（（计算机）（处理器）单任务的  *n.*（电视或广播）连续剧，（报纸上的）连载故事；（图书馆的）期刊
 
-8. **transpiling**是一个特定的术语，用于将一种语言编写的源代码转换为另一种具有相同抽象层次的语言。**transpiler**  转译器（计算机）
+   serial number 序号，编号 
+
+   parallel    /ˈpærəlɛl/   n. 平行  vt. 使…与…平行  adj. 平行
+
+8. **transpiling** [ˈtrænspaɪlɪŋ] 是一个特定的术语，用于将一种语言编写的源代码转换为另一种具有相同抽象层次的语言
+
+   **transpiler**   [trænˈspaɪlər]   转译器 
 
 9. so to do (所以要干 啥....)
 
-10. it is recommended to **explicitly** set them (建议**明确**设置它们) 
+10. it is recommended to **explicitly** set them   建议**明确**设置它们
 
     **explicit**  */*ɪkˈsplɪsɪt*/*  *adj.*清楚明白的，明确的，详述的；直截了当的，坦率的；赤裸裸表现性爱（或暴力）的，露骨的  
 
-11. **streetlights** **illuminate** the street at night (夜晚，路灯照亮整条街)
+11. **streetlights**  /'strit,laɪt/ **illuminate**  /ɪˈluːmɪnet/ the street at night   夜晚，路灯照亮整条街
 
-12. Instruction set 指令集 
+12. instruction set 指令集  /ɪnˈstrʌkʃn/ 
 
 13. For convenience 为了方便  */*kənˈviːniəns*/*   *n.*方便，便利；便利的事物，便利设施；公共厕所
 
-14. split through MLP **by column then by row**, split the tensor operations by attention heads then by row (通过MLP按列然后按行拆分，按注意头然后按行拆分张量操作)
+14. split through MLP **by column then by row**, split the tensor operations by attention heads then by row 通过MLP按列然后按行拆分，按注意头然后按行拆分张量操作
 
-15. **communication intensive**, better only **intra-node**, to leverage NVlink high bandwidth [ /'bændwɪdθ/]() (通信密集型，最好只在节点内进行，以利用NVlink的高带宽 )
+15. **communication intensive**, better only **intra-node**, to leverage NVlink high bandwidth [ /'bændwɪdθ/]() 
 
-    **intensive**   */*ɪnˈtensɪv*/*   *adj.*加强的，集中的，深入细致的；精耕细作的，集约的；加强词意的；以强度测量的
+    通信密集型，最好只在节点内进行，以利用NVlink的高带宽
 
-    **intra** 在一个点上  *n.*内部；在内 *pref.*在内
+    **intensive**   */*ɪnˈtɛnsɪv*/*   *adj.*加强的，集中的，深入细致的；精耕细作的，集约的；加强词意的；以强度测量的
+
+    **intra** 在一个点上  *n.*内部；在内   *pref.*在内 
 
 #### 004组
 
 1. from pilot [ /ˈpaɪlət/]() to production 从试验到生产
 
-2. formed under the auspices of the Linux Foundation (在Linux基金会的主持下成立的)
+2. formed under the auspices of the Linux Foundation  在Linux基金会的主持下成立的 
 
    **auspice** (/ˈɔːspɪs/)  *n.*赞助，主办；吉兆 
 
-   **formed** */*fɔːrmd*/*   *adj.*成形的    *v.*构成；创立；使成形；制作（form 的过去式和过去分词）
+   **formed** */*fɔːrmd*/*   *adj.*成形的    *v.*  构成；创立；使成形 制作    form 的过去式和过去分词 
 
-3. The **Runtime Specification**  **outlines** how to run a “filesystem **bundle**” that is unpacked on disk. **运行时规范 概述 **  了如何运行一个在磁盘上解包的 "文件系统包"。
+3. The **Runtime Specification**  **outlines** how to run a “filesystem **bundle**” that is unpacked on disk.   **运行时规范 概述 **  了如何运行一个在磁盘上解包的 文件系统包 
 
    **specification**   */*ˌspɛsɪfɪˈkeʃ(ə)n*/*  *n.*规格，规范，明细单，说明书；明确说明，详述；（申请专利用的）发明物说明书
 
@@ -255,9 +265,9 @@
 
    **mean** *v.*意味着；表示……的意思，作……的解释；打算，意欲；使专门用于；导致，结果是；十分熟识；当真，说到做到；对某人重要 
 
-   【复数 means 第三人称单数 means 现在分词 meaning 过去式 meant  过去分词 meant 】
+   复数 means 第三人称单数 means 现在分词 meaning 过去式 meant  过去分词 meant
 
-   *adj.*吝啬的，小气的；不善良的，刻薄的；要发怒的；熟练的，出色的；平均的；简陋的，破旧的；微薄的；<旧>出身卑贱的，社会地位低下的；中庸的，中等的；<美>凶狠的，好斗的
+   *adj.*吝啬的，小气的；不善良的，刻薄的；要发怒的；熟练的，出色的；平均的；简陋的，破旧的；微薄的；<旧>出身卑贱的，社会地位低下的；中庸的，中等的 
 
    *n.*中庸，折衷；平均数，中数；中间点
 
@@ -276,11 +286,11 @@
 
 8. instrumentation *n.*使用仪器；乐器法；仪表化   **工具**   /ˌɪnstrəmɛn'teʃən/ 
 
-9. with a minimal **footprint** on the system (对系统的影响最小)
+9. with a minimal **footprint** on the system 对系统的影响最小
 
-10. head over to  (前往)
+10. head over to   前往
 
-11. Carreta **leverages** eBPF to **efficiently** map all service network **interactions** in a K8s  cluster.  Carreta**利用**eBPF**有效地**映射K8s集群中的所有服务网络**互动**
+11. Carreta **leverages** eBPF to **efficiently**   /ɪˈfɪʃəntlɪ/ map all service network **interactions** in a K8s  cluster.  Carreta**利用**eBPF**有效地**映射K8s集群中的所有服务网络**互动** 
 
 12. **Thanks to** LLVM, EM and asm.js, code runs at near-native speed   **得益于**  LLVM、EM和asm.js，代码的运行速度接近原生速度 
 
@@ -288,35 +298,39 @@
 
     **acquired**  */*əˈkwaɪrd*/*   *adj.*[医]后天的；已获得的；已成习惯的    *v.*取得；捕获; 被收购（acquire 的过去分词） 
 
-14. Tho(though) i will say  但我想说  
+14. Tho(though) i will say  但我想说    /ðo/
 
 15. Keep in mind    请记住 
 
 #### 005组
 
-1. Vertical partitioning   垂直分区 
+1. vertical partitioning   垂直分区   /ˈvɜːrtɪkl/   /pɑːrˈtɪʃn/
 
-2. mixin audit  (混合审核)
+2. mixin audit  (混合审核) 
 
 3. standup comedy routine  单口相声     脱口秀
 
-   **routine**  *n.*常规，惯例；生活乏味，无聊；（演出中的）一套动作，一系列笑话（等）；（为达到特定目的的）老一套，俗套；（计算机）例行程序  *adj.*常规的，例行的；平常的，毫不特别的；平淡乏味的 
+   **routine**  *n.*常规，惯例
 
-4. **arbitrary** role    任意角色的 
+   subroutine   /'sʌbrutin/  n. 子程序 
+
+   procedure   /prəˈsiːdʒər/  n. 程序, 步骤
+
+4. **arbitrary** role    任意角色
 
 5. represent --- present (前者是代表，后者是提出)词性动词 其他词性看词典
 
-6. Although you’re not obliged to (虽然你没有义务这么做)
+6. Although you’re not obliged to 虽然你没有义务这么做
 
-7. it may seem(*v.*) a bit **overboard** (有点过头了)
+7. it may seem(*v*) a bit **overboard**  有点过头了
 
-   [go overboard]() 过火；鲁莽从事
+   go overboard  过火；鲁莽从事
 
 8. back and forth   来回    反复地
 
    **forth**  */*fɔːrθ/   adv. **向前**，向外；自…以后
 
-9. be subject to  受制于    
+9. be subject to  受制于 
 
    **subject** *n.*主题，话题；学科，科目，课程；主语；  *v.*使臣服，征服，压服；使经受，使遭受     *adj.*隶属的，臣服的；可能受……影响的，易遭受……的；受……支配的，服从于……的；取决于，视……而定   
 
@@ -340,9 +354,9 @@
 
 12. is no **exception**  [ /ɪkˈsɛpʃn/]( )  也不例外    *n.*例外，除外
 
-13. **As such**  it is the perfect place to store database connection information and other things (**因此**，它是存储数据库连接信息和其他东西的完美场所)
+13. **As such**  it is the perfect place to store database connection information and other things  **因此**，它是存储数据库连接信息和其他东西的完美场所
 
-14. Franco is fighting to **advance** their **shared dream**(共同梦想) of a fairer Brazil    佛朗哥正在为推进他们的共同梦想--一个更公平的巴西而奋斗  
+14. Franco  /ˈfræŋko/ is fighting to **advance** their **shared dream**(共同梦想) of a fairer Brazil    佛朗哥正在为推进他们的共同梦想--一个更公平的巴西而奋斗  
 
 ​		**advance**  
 
