@@ -4,27 +4,31 @@
 
 1. platform agnostic 与平台无关  /æɡˈnɑːstɪk/
 
-   cloud agnostic 与云无关
+   cloud agnostic 与云无关  /æɡˈnɑːstɪk/ 
 
-2.  Designed **from the ground up** for containers without the **overhead** and limitations of **legacy** VM and server-based environments.   从一开始就专为容器设计，避免了传统虚拟机和基于服务器的环境所带来的开销和限制。
+2. quantized analysis 量化分析   /'kwɒntaɪzd/ 
+
+   Quantization is the **procedure** of **constraining** something from a continuous set of values (such as the real numbers) to a **relatively** small discrete set (such as the integers).  量化是将某物从一个连续的数值集（如实数）约束到一个相对较小的离散集（如整数）的程序
+
+3.  Designed **from the ground up** for containers without the **overhead** and limitations of **legacy** VM and server-based environments.   从一开始就专为容器设计，避免了传统虚拟机和基于服务器的环境所带来的开销和限制。
 
    from the ground up 从头开始；彻底
 
    **overhead**  *adj. 上面的，高架的*   ***n.  费用； 开销*** 
 
-   legacy  n. 遗产, 遗赠物； **传统的**
+   legacy  n. 遗产, 遗赠物； **传统的**    /ˈlɛɡəsi/
 
-3. Feel free to join us  欢迎加入我们
+4. Feel free to join us  欢迎加入我们
 
-4. Community blogs and presentations  社区博客和演讲  /ˌpriːzənˈteʃn/
+5. Community blogs and presentations  社区博客和演讲  /ˌpriːzənˈteʃn/
 
-5. parameter substitution 参数替换
+6. parameter substitution 参数替换
 
-6. **In case**  conj. 如果,万一 
+7. **In case**  conj. 如果  万一 
 
-7. "spec" 是 "specification"（规范、规格）
+8. "spec" 是 "specification"（规范、规格）
 
-8. curly brace 花括号
+9. curly brace 花括号
 
    "the parameters must be enclosed in double quotes to escape the curly braces in YAML."
 
@@ -36,17 +40,17 @@
 
    '(' - parentheses 或者 round brackets
 
-9. in case of  **在... 情况下** 防备, 假如, 如果发生 
+10. in case of  **在... 情况下** 防备, 假如, 如果发生 
 
-10. nested  /'nɛstid/ adj. 嵌套的
+11. nested  /'nɛstid/ adj. 嵌套的
 
-11. double dash => run after previous step 双短横线 => 在上一步之后运行
+12. double dash => run after previous step 双短横线 => 在上一步之后运行
 
-12. in sequence 按顺序 依次
+13. in sequence 按顺序 依次
 
     The `hello-hello-hello` template consists of three `steps`. The first step named `hello1` will be run in sequence whereas the next two steps named `hello2a` and `hello2b` will be run in parallel with each other. hello-hello-hello模板由三个步骤组成。第一个步骤名为hello1，将按顺序运行，而接下来的两个步骤名为hello2a和hello2b，将相互平行运行。 
 
-13. As an **alternative** to **specifying** sequences of steps  作为指定步骤序列的一种替代方法
+14. As an **alternative** to **specifying** sequences of steps  作为指定步骤序列的一种替代方法
 
 1. **coronavirus** 冠状病毒 /kəˈronə vaɪrəs/ 
 2. **pitch** /pɪtʃ/ n: 沥青 树油子 v.t 投 扔 (To throw)
@@ -63,7 +67,7 @@
 
 ​		*n.*  tangibles 有形资产; 可触知的或具体的某事物
 
-6. **relevant** /ˈreləvənt/ adj: 相关联的：和手头的事务有关系或关联的
+6. **relevant** /ˈrɛləvənt/ adj: 相关联的：和手头的事务有关系或关联的
 
 7. **Output-focused** experimentation along with domain knowledge can help select the relevant **toolset** （以产出为重点的实验以及领域知识可以帮助选择相关的工具集）
 
@@ -85,7 +89,7 @@
 
 12. **Head over to** the Kaggle Titanic EDA to ML **Challenge** and focus on building the project using cookiecutter and high-quality documentation **as** **expected from** a production machine learning **perspective** **前往**Kaggle Titanic EDA to ML挑战赛，专注于使用cookiecutter和高质量的文档构建项目，这是从生产机器学习的角度所期望的
 
-13. **Rather**(相反)  the way we **approach**(处理) solution design evolves （相反，我们处理方案设计的方式会发生变化）
+13. **Rather**(相反)  the way we **approach**(处理) solution design evolves   /iˈvɑːlv/ 相反，我们处理方案设计的方式会发生变化
 
     **approach** *v*/*n*  对付，处理；近似    方法，态度, 近似物
 
@@ -4210,9 +4214,9 @@ than（比）：taller than her（比她高）
 
 #### 016G
 
-1. **synopsis** [ /sɪˈnɑːpsɪs/]()  *n.* 摘要,梗概  大纲 
+1. **synopsis** [ /sɪˈnɑːpsɪs/]()  *n.* 摘要 梗概  大纲 
 
-   *[Exhibition synopsis]()* 展会简介  [ /ˌɛksɪˈbɪʃn/]()
+   *exhibition synopsis* 展会简介  [ /ˌɛksɪˈbɪʃn/]()
 
    *lecturer synopsis* 讲师资历；讲师简介 /ˈlɛktʃərər/
 
@@ -5174,13 +5178,13 @@ than（比）：taller than her（比她高）
 
     But in the age of social media, ISIS has been able to propagate their ideas.  但是在社交媒体时代，ISIS得以在全球范围内传播他们的言论
 
-24. High Availability **Considerations**  高可用性 **注意事项**
+24. high availability **considerations**  高可用性 **注意事项**
 
 #### 022G
 
 1. **restrictive**  [/rɪˈstrɪktɪv/]()  *adj.* 限制(性)的,约束(性)的  *adv.* 限制(性)地,约束(性)地  *n.* 限制(性),约束(性) 
 
-   *[restricts corrupt]()* 抑制腐败 
+   restricts corrupt 抑制腐败 
 
    *restrictive condition* 限制条件
 
@@ -5189,6 +5193,8 @@ than（比）：taller than her（比她高）
    *telemetry data* 遥测数据 
 
    We finished an initial look at our telemetry data  我们对遥测数据进行了初步的查看
+
+   通过远程收集、测量和传输数据的过程。它通常用于描述将传感器或仪器安装在远程位置，然后通过无线或有线连接将数据传输回中央系统或控制中心的过程
 
 3. **traverse**  [ /trəˈvɜːrs/]()  旅行和探险 横穿或横越 
 
@@ -5207,13 +5213,13 @@ than（比）：taller than her（比她高）
 
 4. **facilitate**  [ /fəˈsɪlɪtet/]()  *vt.* 使便利, 减轻…的困难 
 
-   The great cultural impact of printing was that it facilitated the growth of national languages            印刷术的巨大文化影响在于促进了民族语言的发展
+   The great cultural impact of printing was that it facilitated the growth of national languages   印刷术的巨大文化影响在于促进了民族语言的发展
 
 5. *[get rid of pollution]()* 摆脱污染; 清除污染 
 
 6. **complementary**  [ /ˌkɑːmplɪˈmɛntri/]()   *adj.* 互补的
 
-   Collaborate with people who have complementary expertise [ /ˌɛkspɜːrˈtiːz/]()  与具有互补**专业知识**的人合作
+   Collaborate with people who have complementary expertise [ /ˌɛkspɜːrˈtiːz/]()  与具有互补专业知识的人合作
 
 7. **entertain**   [ /ˌɛntərˈten/]()   *vt. & vi.* 款待, 招待  *vt.* 使欢乐, 使娱乐 
 
@@ -5221,7 +5227,7 @@ than（比）：taller than her（比她高）
 
 8. **deduplication** *n.* 去重 [ /ˌdidjʊplɪ'keʃən/]() 
 
-9. **definitive** [ /dɪˈfɪnətɪv/]()  *adj.* 决定性的, 明确的, 权威性的, 不能或不必改变的
+9. **definitive** [ /dɪˈfɪnətɪv/]()  *adj.* 决定性的, 明确的, 权威性的
 
    *definitive edition* 最终版
 
@@ -5237,7 +5243,7 @@ than（比）：taller than her（比她高）
 
 12. rolling out 推出
 
-13. **scratch**  [/skrætʃ/]()  n. 抓痕；擦伤；划线   vt. 抓；刮 vi. 抓；搔 
+13. **scratch**  [/skrætʃ/]()  *n.* 抓痕  擦伤   划线   *vt.* 抓  刮 *vi.* 抓  搔 
 
     *from scratch* 白手起家；从头做起 
 
@@ -5247,9 +5253,9 @@ than（比）：taller than her（比她高）
 
     *scratch line* n. 起跑线
 
-14. **anew** [ /əˈnju]()  *adv.* 再, 重新
+14. **anew** [ əˈnju]()  *adv.* 再, 重新
 
-    These days are about the coming of the light -- warmth, illumination, **life anew**.  这些日子是关于光的降临--温暖、光亮、**新生**。
+    These days are about the coming of the light -- warmth, illumination, **life anew**.  这些日子是关于光的降临-- 温暖、光亮、**新生** 
 
     **illumination**  [/ɪ'lʊmɪ'neʃən/]()  *n.* 照明   
 
@@ -5265,15 +5271,15 @@ than（比）：taller than her（比她高）
 
     New York City consists of five boroughs [ /'bɝro/]()  纽约市由五个行政区组成
 
-19. [little]() 指在体积、数量、距离、年龄、身材等方面比正常的小，多带主观感情色彩，含小而可爱或小巧的意味。
-    [small]() 多指数量、面积、体积、价值、数字或意义等的小或少，指略小于正常的大小。
-    [tiny]() 强调与同类或其他物体比较，小得超出正常比例，有时带强烈的感情色彩。
-    [minute]()   /'mɪnɪt/ 指小得难看见，有时需用显微镜才看得见。
-    [miniature]()  /ˈmɪniətʃər/ 指由正常体积微缩的物体。
+19. [little]() 指在体积、数量、距离、年龄、身材等方面比正常的小，多带主观感情色彩，含小而可爱或小巧的意味
+    [small]() 多指数量、面积、体积、价值、数字或意义等的小或少，指略小于正常的大小
+    [tiny]() 强调与同类或其他物体比较，小得超出正常比例，有时带强烈的感情色彩
+    [minute]()   /'mɪnɪt/ 指小得难看见，有时需用显微镜才看得见
+    [miniature]()  /ˈmɪniətʃər/ 指由正常体积微缩的物体
 
 20. **invalidate**  [ /ɪnˈvælɪdet/]()  *vt.* 使无效；使作废 
 
-    **invalidate a license**: 吊销驾照  
+    **invalidate a license**  吊销驾照  
 
     And for that reason, a Florida judge may now invalidate that **plea deal**  基于此，一名佛罗里达法官现在可能会废除这一**认罪协议**
 
@@ -5287,7 +5293,9 @@ than（比）：taller than her（比她高）
 
     1. 行走或移动时踉跄或摇晃：
 
-       He staggered and nearly fell  on the uneven pavement.   他踉跄了一下，差点在不平整的人行道上摔倒   
+       He staggered and nearly fell on the uneven pavement.   他踉跄了一下，差点在不平整的人行道上摔倒   
+
+       uneven  /ʌnˈiːvn/   adj.    不平坦的
 
        fell ==> fall 的过去式   
 
@@ -5297,9 +5305,9 @@ than（比）：taller than her（比她高）
 
     The notion hung [ /hʌŋ/]() (v. 悬挂；垂落（hang的过去式和过去分词） )in his mind for months  这个念头在他心里有几个月了
 
-23. *[Somewhat Thicker]()* 有点厚  /θɪkə/
+23. *[somewhat thicker]()* 有点厚  /θɪkə/
 
-    **somewhat**  *adv.* 稍微, 有点, 达到某种程度 
+    **somewhat**  *adv.* 稍微  有点  达到某种程度 
 
 24. **vibration**  [ /vaɪ'breʃən/]()  *n.* 震动
 
@@ -5309,13 +5317,13 @@ than（比）：taller than her（比她高）
 
     *watergate scandal* 水门事件；水门丑闻
 
-26. approximation  [ /ə'prɑksə'meʃən/]()  *n.* 接近  近似额;概算
+26. approximation  [ /ə'prɑksə'meʃən/]()  *n.*  接近  近似值
 
 27. **pertain**  [/pərˈten/]()   vi. 适合；属于；关于
 
     His remark did not pertain to the question  他的话同这个问题不相干
 
-    主语：His remark (他的评论) 谓语动词：did not pertain (不适用) 介词短语：to the question (与问题有关)
+    主语：His remark (他的评论)   谓语动词：did not pertain (不适用)  介词短语：to the question (与问题有关)
 
     "to the question" 在这个句子中充当介词短语，用来表示与哪个问题相关。作为介词短语，它在句子中充当了一个修饰成分，对动词 "pertain" 的对象进行了限定。
 
@@ -5323,19 +5331,19 @@ than（比）：taller than her（比她高）
 
 28. **transform**  [/trænsˈfɔːrm/]()  *vt. & vi.* 改变
 
-    *integral transform* 积分变换；积分转换
+    *integral transform* 积分变换
 
     *fourier  [/ˈfʊriˌe/]()  transform* 傅里叶变换
 
 29. **deflate**  [/dɪ'flet/]()  vt. 放气；使缩小；紧缩通货； vi. 缩小；物价下降 
 
-    *[deflating]()* [金融] 紧缩通货； 通缩
+    *[deflating]()*  紧缩通货； 通缩
 
     **inflation**  通货膨胀 <==> **deflation**  通缩
 
 30. **stretch**  [/strɛtʃ/]()  vt. 伸展,张开  vi. 伸展 adj. 可伸缩的 n. 伸展，延伸 **拉伸**
 
-    Why do athletes always stretch or jog before practice   为什么运动员在训练前总是拉伸或慢跑
+    Why do athletes  /ˈæθliːt/ always stretch or jog before practice   为什么运动员在训练前总是拉伸或慢跑
 
 31. **envelope** [ /ˈɛnvəlop/ ]() 信封
 
@@ -5355,7 +5363,7 @@ than（比）：taller than her（比她高）
 
     *substantial order* 大宗订单
 
-    John has made a substantial improvement in his health  约翰的健康状况已有了相当大的改善
+    John has made a **substantial** **improvement** in his health  约翰的健康状况已有了相当大的改善
 
 36. **mitigate**  [ /ˈmɪtɪɡet/]()   vt. 使缓和，使减轻  vi. 减轻，缓和下来 
 
@@ -5377,7 +5385,7 @@ than（比）：taller than her（比她高）
 
     No matter how intricate his geometric sand designs, **high tide** sweeps the mall away  不论他的几何沙画多么精细复杂，涨潮都会将它们冲刷而去 
 
-38. I can **deactivate** if you say   'you are satisfied with your care'   只要你对我的照顾表示满意，我就可以结束工作了  /di'æktə,vet/  vt. 解除动员,使无效,复员,使不活动
+38. I can **deactivate** if you say   'you are satisfied with your care'   只要你对我的照顾表示满意，我就可以结束工作了  /di'æktə,vet/  *vt.*    解除动员  使无效  复员   使不活动
 
 39. **tenancy**  [/'tɛnənsi/]()  *n.* 租用, 租赁 
 
@@ -5387,11 +5395,11 @@ than（比）：taller than her（比她高）
 
     *nuclear proliferation* 核扩散
 
-    **proliferate**  [ /prəˈlɪfəret/]()   *vi.* 激增；(迅速)繁殖；增生
+    **proliferate**  [ /prəˈlɪfəret/]()   *vi.* 激增  (迅速)繁殖   增生
 
     A proliferation of plastic waste is a side effect /ɪˈfɛkt/ of the coronavirus pandemic  新冠疫情还造成了塑料垃圾的激增   /kəˈro nəˌvaɪ.rəs/       /pæn'dɛmɪk/
 
-41. **circumstance**  [ /ˈsɜːrkəmstæns/]()*n.* 环境, 条件, 情况  境遇, 经济状况 
+41. **circumstance**  [ /ˈsɜːrkəmstæns/]()    *n.* 环境, 条件, 情况  境遇, 经济状况 
 
     *in the circumstances* 在这种情况下；既然这样
 
@@ -5414,7 +5422,15 @@ than（比）：taller than her（比她高）
 
    essential difference 本质区别
 
-   In fact, it's **neither** detrimental **or** essential for your health 事实上，它对你的健康没有害处，但也不是身体所需物质
+   1. 生活必需品："Essential"可以用来描述那些生活中必不可少的物品或事物。例如：essential goods (生活必需品), essential services (基本服务)
+   2. 技能或能力："Essential"可以用来描述某种技能或能力是非常重要或必需的。例如：essential skills (必备技能), essential knowledge (重要知识)
+   3. 经验或要求："Essential"可以用来描述某些经验或要求是必不可少的。例如：essential experience (必要经验), essential qualifications (必备资格)
+   4. 核心或基础："Essential"可以用来描述某个事物的核心或基础部分。例如：essential elements (基本要素), essential components (核心组成部分)
+   5. 重要的、必要的："Essential"可以用来形容某个事物非常重要或必要。例如：essential role (关键角色), essential step (必要步骤)
+
+   In fact, it's **neither** detrimental **nor** essential for your health 事实上，它对你的健康没有害处，但也不是身体所需物质
+
+   neither nor 
 
    既不 ... 也不 ...
 
@@ -5422,16 +5438,20 @@ than（比）：taller than her（比她高）
 
    Poor eating habits are detrimental to health  不良的饮食习惯对健康有害
 
-3. Morning workout 晨练 
+3. morning workout 晨练 
 
 4. is not yet valid  还没有生效
+
+5. subscript  /'sʌbskrɪpt/  adj. 下标的,脚注的  n. 下标,脚注
+
+   subscriptable  可索引的 ： 列表（List） 字符串（String） 元组（Tuple） 字典（Dictionary） 
 
 ### 词性之间的转换规则
 
 ```bash
 #形容词 + ity = 名词
 adj + ity == n
-rational + ity = rationality
+rational + ity = rationality 
 
 在英语中，存在一些常见的词性转换规则。以下是一些常见的转换规则示例：
 
@@ -5454,7 +5474,12 @@ rational + ity = rationality
 需要注意的是，这只是一些常见的词性转换规则，并不适用于所有情况。在实际使用中，还需要考虑单词的特殊规则和变化形式。
 ```
 
+#### 024G
 
+1. synthesis /ˈsɪnθəsɪs/  〈化〉合成  n. 综合, 综合法
+2. synopsis  /sɪˈnɑːpsɪs/  n. 摘要 梗概 大纲
+3. novel  /ˈnɑːvl/  adj. 新奇的；异常的  n. 小说 novel properties 新特性
+4. 
 
 
 
