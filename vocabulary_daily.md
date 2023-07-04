@@ -157,7 +157,7 @@
 
 10. **expressive diagnostic** (表达诊断) 
 
-    **diagnostic**   *adj.*诊断的，判断的；（因症状特异而）能指示某种疾病性质的；（生物学上的某一物种、属类或现象所）特有的  *n.*诊断程序, 诊断程式 （诊断计算机的错误）； 诊断提示（计算机错误的显示）；（特有的）症状（或特征）；诊断学，诊断法
+    **diagnostic**   *adj.*诊断的，判断的
 
 11. **coarse-grained**(function call) and **fine-grained**(operations on objects)  粗粒度（函数调用）和细粒度（对对象的操作）
 
@@ -185,7 +185,7 @@
 
 4. A "slot" is the Open MPI **term** for an allocatable  [ /ˈæləket/]( ) unit where we can launch a process  槽 "是开放的MPI术语，指的是可分配的单元，我们可以在这里启动一个进程
 
-5. I'm sure it's **authentic** (我敢保证它是真的)
+5. I'm sure it's **authentic**  我敢保证它是真的
 
    **authentic**  */*ɔːˈθɛntɪk*/*   *adj.*原作的，真迹的；传统的，正宗的；逼真的，仿真的；真实的，可靠的
 
@@ -197,7 +197,7 @@
 
 7. **serial** simulation codes （串行模拟代码） /ˈsɪriəl/ 
 
-   **serial** /ˈsɪriəl/  *adj.*顺序排列的，一连串（系列）的；串行的，单行的；（（计算机）（处理器）单任务的  *n.*（电视或广播）连续剧，（报纸上的）连载故事；（图书馆的）期刊
+   **serial** /ˈsɪriəl/  *adj.*顺序排列的，一连串（系列）的；串行的，单行的；（计算机处理器）单任务的  *n.*（电视或广播）连续剧，（报纸上的）连载故事；（图书馆的）期刊
 
    serial number 序号，编号 
 
@@ -207,7 +207,7 @@
 
    **transpiler**   [trænˈspaɪlər]   转译器 
 
-9. so to do (所以要干 啥....)
+9. so to do 所以...    为此 为了做到这些  So to do this  So to do up  So to do that 
 
 10. it is recommended to **explicitly** set them   建议**明确**设置它们
 
@@ -219,7 +219,9 @@
 
 13. For convenience 为了方便  */*kənˈviːniəns*/*   *n.*方便，便利；便利的事物，便利设施；公共厕所
 
-14. split through MLP **by column then by row**, split the tensor operations by attention heads then by row 通过MLP按列然后按行拆分，按注意头然后按行拆分张量操作
+14. split through MLP **by column then by row**, split the tensor operations by **attention heads** then by row 按列然后按行分割通过多层感知器（MLP），按注意力头然后按行分割张量操作
+
+    column   /ˈkɑːləm/  row  /ro/ 
 
 15. **communication intensive**, better only **intra-node**, to leverage NVlink high bandwidth [ /'bændwɪdθ/]() 
 
@@ -227,11 +229,21 @@
 
     **intensive**   */*ɪnˈtɛnsɪv*/*   *adj.*加强的，集中的，深入细致的；精耕细作的，集约的；加强词意的；以强度测量的
 
-    **intra** 在一个点上  *n.*内部；在内   *pref.*在内 
+    **intra**  /ɪntrə/ 在一个点上  *n.*内部；在内   *pref.* 在内 
+
+16. **effect** *vs* **affect** 
+
+    effect 表示结果、影响或效果  常作为名词使用
+
+    Their effect will be more subtle  他们的影响将更加微妙
+
+    affect 表示影响、作用或改变 常作为动词使用
+
+    Many factors affect the rate of decomposition.  许多因素影响分解的速度
 
 #### 004组
 
-1. from pilot [ /ˈpaɪlət/]() to production 从试验到生产
+1. from pilot [ /ˈpaɪlət/]() to production 从试验到生产 
 
 2. formed under the auspices of the Linux Foundation  在Linux基金会的主持下成立的 
 
@@ -239,7 +251,7 @@
 
    **formed** */*fɔːrmd*/*   *adj.*成形的    *v.*  构成；创立；使成形 制作    form 的过去式和过去分词 
 
-3. The **Runtime Specification**  **outlines** how to run a “filesystem **bundle**” that is unpacked on disk.   **运行时规范 概述 **  了如何运行一个在磁盘上解包的 文件系统包 
+3. The **Runtime Specification**  **outlines** how to run a “filesystem **bundle**” that is unpacked on disk.   **运行时规范 概述 **  了如何运行一个在磁盘上解包的 ‘文件系统包’ 
 
    **specification**   */*ˌspɛsɪfɪˈkeʃ(ə)n*/*  *n.*规格，规范，明细单，说明书；明确说明，详述；（申请专利用的）发明物说明书
 
@@ -249,11 +261,13 @@
 
 4. This specification defines how to create an OCI Image, which will generally be done by a build system, and output an image **manifest**, a filesystem (layer) serialization, and an image configuration. At a high level the image manifest contains metadata about the contents and dependencies of the image including the **content-addressable** identity of one or more filesystem **serialization** [/ˌsɪərɪəlɪ'zeʃən/]( ) **archives** that will be unpacked to make up the final runnable filesystem. The image configuration includes information such as application **arguments**, environments, etc. The combination of the image manifest, image configuration, and one or more filesystem serializations is called the OCI Image. 本规范定义了如何创建一个OCI镜像，这通常由构建系统完成，并输出一个镜像**清单**、一个文件系统（层）**序列化**和一个镜像配置。在高层次上，镜像清单包含关于镜像内容和依赖性的元数据，包括一个或多个文件系统序列化档案的内容**可寻址**身份，这些**档案**将被解包以构成最终可运行的文件系统。镜像配置包括诸如应用参数、环境等信息。镜像清单、镜像配置和一个或多个文件系统序列化的组合被称为OCI镜像 
 
-    **manifest**   *v.*显示，表明；（鬼魂或神灵）显灵，出现；（病症）显现；把……列入货单  *adj.*明显的，显而易见的   *n.*旅客名单，载货**清单**；货运列车编组清单
+   **manifest**   *v.*显示，表明；（鬼魂或神灵）显灵，出现；（病症）显现；把……列入货单  *adj.*明显的，显而易见的   *n.*旅客名单，载货**清单**；货运列车编组清单
 
    **content-addressable**  可寻址的
 
-    **content** *adj.*满足的，满意的，甘愿的  *n.*目录；所含物，容纳的东西；（书、文章、演讲、电影等的）内容；含量；满足，满意；投赞成票的贵族院议员；网上信息，电子信息  *v.*使满意，使满足 
+    **content**   *n.*目录；所含物，容纳的东西；（书、文章、演讲、电影等的）内容；含量 
+
+   The diversity of the content is what's amazing  内容的多样性是令人赞叹的
 
    **archives**  *v.*把……收集归档；把……存档（archive 的三单形式）  *n.*档案，档案室；案卷（archive 的复数）
 
@@ -265,13 +279,11 @@
 
    **bulk**  [bJlk]  *n.*主体，大部分；庞大的身躯，肥硕的体形；（巨大的）容积，体积   *adj.*大批的，大宗的  *v.*使（产品）数量显得很大；结合（待售的股票或商品）
 
-7. be meant to do sth  意在做某事 意味着做某事 保护人民
-
-   **mean** *v.*意味着；表示……的意思，作……的解释；打算，意欲；使专门用于；导致，结果是；十分熟识；当真，说到做到；对某人重要 
+7. **mean**  *v.* 意味着 打算 意欲 
 
    复数 means 第三人称单数 means 现在分词 meaning 过去式 meant  过去分词 meant
 
-   *adj.*吝啬的，小气的；不善良的，刻薄的；要发怒的；熟练的，出色的；平均的；简陋的，破旧的；微薄的；<旧>出身卑贱的，社会地位低下的；中庸的，中等的 
+   *adj.*吝啬的，小气的；不善良的
 
    *n.*中庸，折衷；平均数，中数；中间点
 
@@ -279,20 +291,28 @@
 
    ​	a. in the mean 当其时；同时；在此期间
 
-   ​	b. mean time  n. 平均时间（平均太阳时）
+   ​	b. mean time  n. 平均时间
    ​	c. mean value   平均值，平均数
 
-   ​	d. [what do you mean]( ) 你的意思是什么
+   ​	d. what do you mean  你什么意思啊 
 
-   ​	e. [golden mean]( ) 中庸之道；[美]黄金分割（等于golden section）
+   ​	e.  golden mean 中庸之道；[美]黄金分割（等于golden section）
 
-   ​	f. [weighted mean]( ) 加权平均数 
+   ​	f. weighted mean加权平均数 
+
+   Which **means** nearly everyone on the planet is susceptible  这意味着地球上几乎每个人 都是容易被感染的
+
+   **susceptible**   /səˈsɛptəbl/  adj. 易受感染的  易受影响的 
+
+   susceptible population 易感人群 
+
+   vulnerable population 易感人群 
 
 8. instrumentation *n.*使用仪器；乐器法；仪表化   **工具**   /ˌɪnstrəmɛn'teʃən/ 
 
 9. with a minimal **footprint** on the system 对系统的影响最小
 
-10. head over to   前往
+10. head over to   前往 
 
 11. Carreta **leverages** eBPF to **efficiently**   /ɪˈfɪʃəntlɪ/ map all service network **interactions** in a K8s  cluster.  Carreta**利用**eBPF**有效地**映射K8s集群中的所有服务网络**互动** 
 
@@ -302,7 +322,7 @@
 
     **acquired**  */*əˈkwaɪrd*/*   *adj.*[医]后天的；已获得的；已成习惯的    *v.*取得；捕获; 被收购（acquire 的过去分词） 
 
-14. Tho(though) i will say  但我想说    /ðo/
+14. Tho(though) i will say  但我想说    /ðo/ 
 
 15. Keep in mind    请记住 
 
@@ -312,19 +332,19 @@
 
 2. mixin audit  (混合审核) 
 
-3. standup comedy routine  单口相声     脱口秀
+3. standup comedy 单口相声   脱口秀 
 
    **routine**  *n.*常规，惯例
 
    subroutine   /'sʌbrutin/  n. 子程序 
 
-   procedure   /prəˈsiːdʒər/  n. 程序, 步骤
+   procedure   /prəˈsiːdʒər/  n. 程序  步骤
 
 4. **arbitrary** role    任意角色
 
-5. represent --- present (前者是代表，后者是提出)词性动词 其他词性看词典
+5. represent --- present  前者是代表 后者是提出   词性动词 其他词性看词典
 
-6. Although you’re not obliged to 虽然你没有义务这么做
+6. although you’re not obliged to 虽然你没有义务这么做
 
 7. it may seem(*v*) a bit **overboard**  有点过头了
 
@@ -374,7 +394,7 @@
 
 #### 001组
 
-1. **propose**   [ /prəˈpoʊz/]() vt.  提议：提出以供考虑、讨论或采纳；建议： vi.  提议，求婚：提出一个建议，尤指求婚
+1. **propose**   [ /prəˈpoʊz/]() vt.  提议：提出以供考虑、讨论或采纳；建议： *vi.*  提议，求婚：提出一个建议，尤指求婚
 
    I **propose** that he should leave now. 我建议他现在就走 
 
@@ -394,10 +414,10 @@
 
 5. sidekick  [/ˈsaɪdˌkɪk/]()  A close companion  /kəmˈpænjən/  or comrade  /ˈkɑːmræd/  密友：关系密切的朋友或同志 
 
-6. **engage** [/ɪnˈɡedʒ/]( )   *vt.  vi.*  *engage in* 从事于  *engage with* 交战；与…接洽 
+6. **engage** [/ɪnˈɡedʒ/]( )   *vt.  vi.*  *engage in* 从事于  *engage with* 交战；与…接洽  
 
-   1. It is difficult to **engage** teachers of quality 很难**招聘**到优秀教师
-   2. They are engaged in import and export  他们**做**(**从事**)进出口贸易 
+   1. It is difficult to **engage** teachers of quality 很难**招聘**到优秀教师 
+   2. They are engaged in import and export  他们**做**(**从事**)进出口贸易  
 
 7. **rephrase  **[ /ˌri'frez/]( )   *vt*  重新措辞
 
@@ -405,9 +425,9 @@
 
 9. **fingerprint**  n. 指纹
 
-10. **transcription**  [/trænˈskrɪpʃn/]( )  n.   抄写  *【生物学】* 转移 转录  
+10. **transcription**  [/trænˈskrɪpʃn/]( )  n.   抄写  *[生物学]* 转移 转录  
 
-    **reverse transcription** 反转录，逆转录 
+    **reverse transcription**  逆转录 
 
 11. **treachery**  *n.*    背叛  [/ˈtrɛtʃəri/]( )   对比 --> treasury [/ˈtrɛʒəri/]( )   财政部
 
@@ -427,7 +447,7 @@
 
 16. occupancy  [/'ɑkjəpənsi/]( )  *n.* 占有, 使用, 居住  
 
-    occupy [/ˈɑːkjupaɪ/]( )   vt 占用 
+    occupy [/ˈɑːkjupaɪ/]( )   *vt.* 占用 
 
 17. **subjunctive**  */*səbˈdʒʌŋktɪv*/*    虚拟语气
 
@@ -440,13 +460,13 @@
 
 19. **indicative** *adj.*指示的，表明的，象征的；陈述（语气）的  *n.* 陈述语气 
 
-20. **irrevocable**  */*ɪˈrɛvəkəbəl*/*  *adj.*  不可更改的，不可取消的，无法挽回的 
+20. **irrevocable**  */*ɪˈrɛvəkəbəl*/*  *adj.*  不可更改的，不可取消的，无法挽回的  --> revoke
 
-    My life was set on an **irrevocable** course  我的生活道路不可改变
+    My life was set on an **irrevocable** course   /kɔːrs/ 我的生活道路不可改变
 
     He tells his generals: " My decision is irrevocable."  他告诉他的将军们： "我的决定是不可改变的"
 
-    General Motor  /ˈmotər/  Corporation 通用汽车 
+    General Motor  /ˈmotər/  Corporation /ˌkɔːrpəˈre ʃn/ 通用汽车 
 
 #### 002组
 
@@ -456,7 +476,7 @@
 
    *个人特质和性格*： 
 
-   - She has a calm disposition and rarely gets angry  她性格沉稳，很少发脾气
+   - She has a calm   /kɑːm/ disposition and rarely gets angry  她性格沉稳，很少发脾气
    - Hence the importance of cultivating a good disposition   因此培养良好的性格非常重要 
 
    *态度和倾向*：
@@ -467,9 +487,11 @@
 
    - The writings make use of the artificial nerve net (ANN) that possesses many merits the **parallel** **disposition** and studying oneself of the problem of unline shape.  本文利用人工神经网络(ANN)具有**并行处理**、自学习等诸多优点，特别适于处理非线形问题 
 
-3. disclosure  */*dɪsˈkloʊʒər*/*  *n.*披露，泄密；透露的秘闻，公开的事情  
+3. disclosure  */*dɪsˈkloʒər*/*  *n.*披露，泄密；透露的秘闻，公开的事情  
 
    information disclosure  信息披露；信息暴露
+
+   disclose  /dɪsˈkloz/   *vt.* 揭露 公开
 
 4. **brevity** [ /ˈbrɛvəti/]()  n. 短暂，短促；简洁，简短  
 
@@ -502,7 +524,7 @@
 
 10. **oblige** [ /əˈblaɪdʒ/]()   *vt.* 强制  *vi.* 帮忙 
 
-    *[be obliged to]()* 不得不；有义务 
+    be obliged to 不得不  有义务 
 
     I should be **immensely**  /ɪˈmɛnsli/ adv. 非常, 极大地 obliged to you  那就太感谢您了！
 
@@ -514,7 +536,7 @@
 
     juicy peach 水蜜桃 
 
-    It is juicy. How does it taste?  有很多果汁。味道怎么样？
+    It is juicy. How does it taste?  有很多果汁   味道怎么样？
 
 13. **granular**  [ /'grænjəlɚ/](cmd://Speak/_us_/granular)  adj.  细粒状的，颗粒状的 
 
@@ -540,6 +562,8 @@
 
 16. **compliant** [/kəmˈplaɪənt/](cmd://Speak/_us_/compliant)  adj.（形容词） 服从的 
 
+    This is not a way to a solution that **backing** countries **into** a **corner** does not make them more compliant   这不是解决问题的方法，把国家**逼到墙角**并不能使它们更顺从
+
 17. **mandatory**  [ /'mændətɔri/]()  adj. 强制的  命令的 
 
     Mask-wearing is now **mandatory** in all indoor public places  现在所有室内公共场所都必须佩戴口罩 
@@ -550,13 +574,13 @@
 
     There was scaffolding around the building as renovations were being done  由于正在进行装修，大楼周围有脚手架 
 
-    renovation   /ˌrɛnəˈveʃn/  n. 翻新;修复;整修
+    renovation   /ˌrɛnəˈveʃn/  n. 翻新  修复   整修
 
 19. aftermath  [ /ˈæftərmæθ/]()   *n.*（战争、风暴、事故的）后果，余波
 
     A few weeks ago, The Prince of Wales visited the Caribbean in the aftermath of hurricanes that destroyed entire communities  几周前，威尔士亲王探访了加勒比海地区，那里飓风肆虐，摧毁了人们赖以生存的家园
 
-20. **deliver**  /dɪˈlɪvər/  *v.*投递，运送；履行，兑现；交付，移交
+20. **deliver**  /dɪˈlɪvər/  *vt. vi.*投递 运送 履行 兑现 交付 移交
 
 #### 003组
 
@@ -5477,9 +5501,18 @@ rational + ity = rationality
 #### 024G
 
 1. synthesis /ˈsɪnθəsɪs/  〈化〉合成  n. 综合, 综合法
+
 2. synopsis  /sɪˈnɑːpsɪs/  n. 摘要 梗概 大纲
+
 3. novel  /ˈnɑːvl/  adj. 新奇的；异常的  n. 小说 novel properties 新特性
-4. 
+
+4. dilemma   /dɪˈlɛmə/  n. 左右为难  困境
+
+   Our new technologies are opening up many other novel ethical dilemmas  这些最新的科技还引起了其他的道德困境
+
+   open up  *v.*  打开，开发，展现，开始，揭露，开放
+
+   ethical  /'ɛθɪkl/  adj. 道德的；伦理的 n. 处方药 
 
 
 
