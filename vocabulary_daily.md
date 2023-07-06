@@ -586,23 +586,65 @@
 
 1. **adhere** *vi.*  粘附，附着 
 
-2. fine tuning 微调 （模型调参相关）
+   But Trump is not **adhering** to that at all  但是特朗普完全没有遵守这一理念 
 
-3. **roughly**   *adv.*粗略地，大约；粗暴地，粗鲁地；粗糙地，不精细地 
+2. fine-tune 微调 （模型调参相关）
 
-4. **throttle** [/'θrɑtl/]()  n.（名词） 节流阀 v.tr.（及物动词） 节流 
+   And finally, we evaluate our algorithm to see it's accuracy. if it's not accurate we either  /'iðɚ/ fine tune our model or select a different algorithm. So let's focus on the first step.  
 
-5. **catalog** *n.* 目录；登记 
+   see 查看
+
+   accuracy  /ˈækjərəsi/ *n. 精确(性), 准确(性)*
+
+   accurate  /ˈækjərət/ adj. 精确的, 准确的，正确无误的
+
+   either /'iðɚ/  ... or ...  要么 。。 要么 。。
+
+   最后，我们评估我们的算法以查看其准确性。如果它不准确，我们要么微调我们的模型，要么选择不同的算法。因此，让我们专注于第一步
+
+3. **roughly**   adv. 粗糙地；概略地
+
+   The sector represents roughly nine percent   /pəˈsɛnt/of GDP  该部门约占GDP的9%
+
+   represent  /ˌrɛprɪˈzɛnt/  vt. 表现, 描绘 作为…的代表
+
+   sector  /ˈsɛktər/ n. 部门；部分；防御地段；防区；扇形，扇区；象限仪；函数尺
+
+4. **throttle** [/'θrɑtl/]()  *n.* 节流阀  油门  *vt.* 节流  
+
+   Most of them throttle the encoding speed  大部分软件会节流(限速)编码速度
+
+5. **catalog** *n.* 目录；登记  *vt.* 为…编目录；登记
+
+   You'd also be responsible for getting our leaflets, brochures and catalogs designed 你也将负责让我们的传单、小册子和目录的设计
+
+   主语："You"（你） 
+
+   谓语："would be responsible for getting"（将负责获取） 
+
+   宾语："our leaflets, brochures, and catalogs"（我们的传单、宣传册和目录） 
+
+   补语："designed"（设计完成）
+
+   brochure  /bro ˈʃʊr/  n. 手册，小册子
 
 6. **bespeak**   *vt.*证明，表明；预订； 预约 预订 证明 显示 
 
+   His actions bespeak his generosity.   他的行为显示了他的慷慨
+
+    generosity  /ˌdʒɛnəˈrɑːsəti/  n. 慷慨, 大方, 宽容
+
 7. **renewable**   */*rɪˈnuːəbəl*/* *adj.*（合同、协议等）可延期的，可续期的；（能源）可更新的，可再生的  *n.*再生性能源，可再生资源 
 
-   renewable energies 再生能源 
+   renewable energy 再生能源 
+
+   And let's not also forget that Africa is endowed with vast natural resources, including **significant** renewable potential  我们也不能忘记，非洲拥有得天独厚的丰富自然资源，其中包含了**可观的**可再生潜能
+
+   endow  /ɛnˈdaʊ/   vt. 捐赠；天生具有；赋予
 
 8. **heed** */*hiːd*/*  *vt.* 注意，留心  *n.*注意，留心  == > take care of 
 
-   What do you mean? Heed my words, Merlin  你是什么意思？听从我的话，梅林 
+   Governments and **regulators** need to pay heed  政府和监管机构需要注意这一点
 
 9. **charisma**  */*kəˈrɪzmə*/*  *n.*个人魅力，感召力；神赐的力量，神授的能力；非凡的领导力 
 
@@ -618,20 +660,24 @@
 
     **imitation**   /ˌɪmɪˈteʃn/ *n.*  模仿, 仿效
 
+    **区别： You impersonate a person.  You can imitate anything**
+
+    Imitation can be used for people (ex. We can learn pronunciation by imitation) or  things (ex. He bought an imitation diamond). Impersonation is only used  when talking about people (ex. He is very good at impersonating movie  stars)
+
     imitation 指的是模仿或复制某人的行为、声音、风格或特征，通常是为了学习或模仿其特点。它强调的是模仿的动作或行为本身 
 
     - The child imitated her favorite singer's dance moves  孩子模仿她最喜欢的歌手的舞蹈动作
     - He's good at imitating different accents and voices.  他擅长模仿不同的口音和声音
 
-    impersonation指的是伪装成某人或冒充某人的行为，通常是为了欺骗、骗取或达到某种目的。它强调的是扮演或伪装成他人的意图和动机
+    impersonation指的是伪装成某人或冒充某人的行为
 
-    - The criminal was arrested for impersonating a police officer.  这名罪犯因冒充警察被逮捕
+    The criminal was arrested for impersonating a police officer.  这名罪犯因冒充警察被逮捕
 
     imitation侧重于模仿行为或特征，而 impersonation侧重于冒充他人的行为或意图
 
 11. **determine**   [/dɪˈtɜːrmɪn/]()   vt. & vi. (使)下决心，(使)做出决定  vt. 确定，测定
 
-     decide 侧重指经过思考、比较、讨论或询问之后做出的决定
+    decide 侧重指经过思考、比较、讨论或询问之后做出的决定
     determine 指经过深思熟虑，决心去做某事并坚持施行
     resolve 语气较强，强调以坚定不移的信念去做或不做某事，暗含有远大抱负和坚强决心
     settle 指排除犹豫、怀疑和争论之后作出明确的最终结论
@@ -642,7 +688,11 @@
 
     **The amount of rainfall determines the quality of the crop 降雨量决定着收成的好坏**
 
-12. plural [ /ˈplʊrəl/]( ) adj.    复数的  n   复数，复数形式       
+    crop  /krɑːp/  n. 农作物 庄稼
+
+    quality   /ˈkwɑːləti/  *n.* 质量，品质；特性；才能
+
+12. plural [ /ˈplʊrəl/]( ) *adj.*  复数的  *n.*  复数，复数形式       
 
     So in summary, normally you find 'people' as the plural form of 'person' – one person, three people 
 
