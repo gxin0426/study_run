@@ -688,85 +688,181 @@
 
     **The amount of rainfall determines the quality of the crop 降雨量决定着收成的好坏**
 
+    the amount of ……的数量
+
     crop  /krɑːp/  n. 农作物 庄稼
 
     quality   /ˈkwɑːləti/  *n.* 质量，品质；特性；才能
 
-12. plural [ /ˈplʊrəl/]( ) *adj.*  复数的  *n.*  复数，复数形式       
+12. plural [ /ˈplʊrəl/]( ) *adj.*  复数的  *n.*  复数，复数形式
 
     So in summary, normally you find 'people' as the plural form of 'person' – one person, three people 
 
     那总结一下就是，通常情况下，people是person的复数形式：一个人是one person，三个人是three people
 
-13. [Render View]() 渲染视图 渲染窗口
+13. render view 渲染视图 
 
 14. porting  *n.*移植，出口商品  *v.* 携带；搬运（port 的现在分词） 
 
-15. preflight *adj.*起飞前的；为起飞作准备的 
+15. preflight *adj.*   起飞前的；为起飞作准备的 
 
-    [preflight checks]( ) 飞行前检查 
+    preflight checks 飞行前检查  
+
+    Airlines flight service managers ensure that **flight attendants** **adhere** to personal 
+
+    appearance   /əˈpɪrəns/   and preflight requirements   航空公司飞行服务经理确保空姐(服务人员)遵守个人仪表和飞行前的要求
+
+    attendant  /əˈtɛndənt/  n. 服务人员 侍者  adj. 伴随的  
+
+    It's time for a preflight **briefing** at Burbank Airport. We're going to get plenty of data over the site.  
+
+    现在是在伯班克机场进行飞行前简报的时间。我们将在现场获得大量的数据
+
+    press conference 新闻发布会
 
 16. **viewpoint** */*ˈvjuːpɔɪnt*/*  *n.*观点，看法；视角，观察点 
 
-17. anatomy [ /əˈnætəmi/]() *n.*解剖学；（动植物的）组成结构，解剖构造；人体；剖析 骨骼 
+    An aerial viewpoint gives a new insight into their strategy  /ˈstrætədʒi/ .   通过空中镜头(视角)，我们能从全新角度观察它们的捕猎战术
+
+    aerial  /ˈɛriəl/   adj. 空气的, 空中的 
+
+    insight   /ˈɪnsaɪt/  n. 洞察力, 洞悉, 深刻的见解  领悟, 顿悟
+
+17. anatomy /əˈnætəmi/  *n.*解剖学 （动植物的）组成结构，解剖构造；人体；剖析 骨骼 
 
     It was all down to our unique anatomy  原因在于我们独特的生理结构
+
+    all down to 全部归功于
+
+    human anatomy [医]人体解剖学 
 
     gross domestic product (gdp) 国内生产总值 
 
 18. gatherer [/'ɡæðərɚ/]( ) *n.*采集者，收集器 
 
-19. the bulk of  大多数，大部 
+    For 99.6% of human's existence, we were hunter and gatherer until we figured out how to do agriculture   /ˈæɡrɪkʌltʃər/ 在人类存在的99.6%的时间里，我们都是狩猎和采集者，直到我们想出了如何进行农业
 
-20. be meant to 打算；有意要 
+    ninety nine point six percent
+
+19. the bulk of  大多数，大部分
+
+    Desks took up the bulk of the space 桌子占用了大部分空间
+
+20. be meant to 注定要
+
+    Some marriages are meant to be annulled  有些婚姻注定要终结的
+
+    annul   /əˈnʌl/  *vt.* 取消 废除 宣告无效
+
+21. take up 用法总结
+
+    1. 开始从事（某项活动、爱好等）：
+
+       - She decided  /dɪ'saɪd/ to take up painting as a hobby. 她决定开始从事绘画作为一项爱好
+
+    2. 占用（时间、空间等）：
+
+       - The meeting took up most of my morning. 这次会议占用了我大部分的上午时间
+
+    3. 接受（提供的机会、建议等）：
+
+       - He took up the offer to work abroad. 他接受了出国工作的机会
+
+    4. 开始（谈话、话题等）：
+
+       - Let's not take up that issue right now. 现在我们不要开始讨论那个问题
+
+    5. 拿起（物体）：
+
+       - He took up the book and started reading. 他拿起书开始阅读
+
+    6. 占据（位置、位置等）：
+
+       - The new building takes up a lot of space. 这座新建筑占据了很多空间
+
+    7. 缩短（衣物等）：
+
+       - The tailor took up **the hem of the pants**.   /pænts/ 裁缝把裤子的裙摆缩短了
+
+       tailor   /ˈtelər/  *n.* 裁缝  *vt.* 剪裁  *vi.* 做裁缝 
 
 #### 004组
 
-1. **premium**   /ˈpriːmiəm/ *n.*保险费；加价，额外价值；额外补贴，津贴；奖品，奖金；<美> 优质汽油（ premium gas）  
+1. **premium**   /ˈpriːmiəm/ *n.*保险费；加价，额外价值
 
-   [insurance premium]( ) 保险费
+   一词通常用于描述高品质、高价值或高级别的东西
 
-2. **interfere** [/ˌɪntərˈfɪr/]( )  *vi.*   妨碍 *【体育运动】* 掩护， 阻挡  介入，干涉 
+   insurance premium 保险费 
 
-3. **decouple**  解耦
+   He has a premium membership, which gives him access to exclusive benefits.   他拥有高级会员资格，这使他享有独特的权益 
+
+   Fill it up with premium, please  请加满高级汽油
+
+2. **interfere** [/ˌɪntərˈfɪr/]( )  *vi.*   妨碍 *[体育运动]* 掩护， 阻挡  介入，干涉 
+
+   But I think we shouldn't interfere with nature.  但我认为我们不应该干预大自然
+
+3. **decouple**    vt. 解耦  
+
+   Some individuals have vowed to decouple China and the United States  一些人发誓要让中国和美国脱钩
+
+   individual   /ˌɪndəˈvɪdʒuəl/  adj. 个别的, 单独的, 个人的  n. 个人
+
+   vow   /vaʊ/  n. 誓言  *vt. & vi.* 起誓，发誓  郑重宣告 
 
 4. **donate**  [ /ˈdonet/]( ) *vt.  vi. 捐赠*  
 
    I really appreciate you donating this stuff.  我真的很感激你能捐献这些东西
 
-5. **thrust**   */*θrʌst*/*  *v.* 猛推，猛塞；刺，扎   *n.* 要点，要旨；猛推，刺 
+5. **thrust**   */*θrʌst*/* *vt. & vi.* 猛推, 猛塞   刺, 戳 
 
-   [thrust force]( ) 推力
+   thrust force 推力
 
-6. **equivalent** [ /ɪˈkwɪvələnt/]( )   *adj.*等同的，等效的   *n.*对等的人（或事物），对应的人（或事物)
+   He thrust the bundle inside his shirt   /ʃɝt/ and left.  他把包袱塞进他的衬衫里，然后离开了
+
+6. **equivalent** [ /ɪˈkwɪvələnt/]( )   *adj.*等同的，等效的   *n.*对等的人或事物，对应的人或事物
 
    当量 : equivalent weight
 
-7. [remap]( )   重映射
+   That's equivalent to the size of eight rugby fields.   这相当于八个橄榄球场的面积 
 
-8. **revoke**  *v.* 撤回，撤销；（桥牌、惠斯特等牌戏中）有牌不跟  
+   rugby  /ˈrʌɡbi/  n. 橄榄球 
 
-   [revoke one's license]() 吊销执照
+7. remap n.  重映射
+
+8. **revoke**  *v.* 撤回，撤销 
+
+   revoke one's license 吊销执照 
+
+   Scared, many workers started revoking their signatures from the petition  由于害怕，许多工人开始撤销他们在请愿书上的签名
+
+   petition   /pəˈtɪʃn/  n. 请愿；祈求；请愿书  *vi. & vt.*   请愿  请求 
 
 9. **lethal**  [ /'li θəl/]( )  *adj.*致命的，致死的 危害极大的  n. 致死因子
 
-10. **pacemaker**   *n.*[基医] 起搏器；领跑者；标兵  
+   Ukraine  /ju:'kren/ needed lethal **military aid**, and Congress **appropriated** money to fund that aid.  乌克兰需要致命的军事援助，而国会则拨款资助这一援助 
 
-    [cardiac pacemaker]( )  (/ˈkɑːrdiæk/*adj.* 心脏(病)的)   心脏起搏器 
+10. **pacemaker**    /'pesmekɚ/ *n.*[基医] 起搏器  
+
+    cardiac pacemaker (/ˈkɑːrdiæk/*adj.* 心脏(病)的)   心脏起搏器  
+
+    strip club 脱衣舞俱乐部
+
+    peacemaker   /ˈpisˌmekɚ/  n.  调停人 
 
 ### JinShan
 
 #### 001组
 
-1.  A mutual fund  [/ˈmjuːtʃuəl/]()   n. 信托基金   adj.  彼此相关的   相互的，彼此的 
+1.  A mutual fund  /ˈmjuːtʃuəl/   n. 信托基金   adj.  彼此相关的   相互的，彼此的 
 
 2. logistic  [/lo'dʒɪstɪk/]()  adj  **后勤的**   **物流**
 
    logistics   /ləˈdʒɪstɪks/  n. 后勤；物流
 
-   I've read articles about how self-driving trucks may soon be available and could greatly impact cargo logistics.  我读过一些文章，说可能很快就有无人驾驶卡车了，这将给货运物流带来重大影响
+   I've read /aɪv rɛd/ articles about how self-driving trucks may soon be available and could greatly impact cargo logistics.  我读过一些文章，说可能很快就有无人驾驶卡车了，这将给货运物流带来重大影响
 
-3. scroll [/skrol/]( )  *【计算机科学】* 卷动，翻滚 
+3. scroll [/skrol/]( )  *[计算机科学]* 卷动，翻滚 
 
 4. **diffusion** [ /dɪˈfjuːʒn/]( )  n. 扩散 ，传播；[物]漫射 
 
@@ -5556,13 +5652,87 @@ rational + ity = rationality
 
 3. novel  /ˈnɑːvl/  adj. 新奇的；异常的  n. 小说 novel properties 新特性
 
-4. dilemma   /dɪˈlɛmə/  n. 左右为难  困境
+4.  /nɔrˈwidʒən/dilemma   /dɪˈlɛmə/  n. 左右为难  困境
 
    Our new technologies are opening up many other novel ethical dilemmas  这些最新的科技还引起了其他的道德困境
 
    open up  *v.*  打开，开发，展现，开始，揭露，开放
 
    ethical  /'ɛθɪkl/  adj. 道德的；伦理的 n. 处方药 
+
+### Instant Python
+
+#### 001G
+
+1. **crash-course** 速成班
+
+   crash  /kræʃ/  n. 碰撞 崩溃  vt. 破碎 撞碎  vi. 碰撞 坠毁  adj. 速成的
+
+2. Portuguese    /ˌpɔrtʃəˈɡiz/  n. 葡萄牙人,葡萄牙语 adj
+
+3. Lithuanian   /ˌliθju:'einiən/ n. 立陶宛人 adj
+
+4. Greek /ɡriːk/  n. 希腊语；希腊人  adj
+
+5. Norwegian  /nɔrˈwidʒən/ n. 挪威人 
+
+6. Korean   /kə'riən/  n. 朝鲜人  adj. 朝鲜的
+
+7. undergo   /ˌʌndərˈɡo/   vt. 经历，经受；忍受 
+
+   Since this document still might undergo changes, these translations may not always be up to date 由于本文档仍可能发生变化，这些译文可能并不总是最新的
+
+8. swamp   /swɑːmp/  n. 沼泽，低地，水洼；湿地  v.  使疲于应对  **淹没**  使陷入困境
+
+   Please do *not* ask me for details on this! I get swamped with emails on the subject 请不要向我询问这方面的细节!我被关于这个问题的电子邮件淹没了
+
+9. **Blocks** are **indicated** through **indentation**, and *only* through indentation 块是通过缩进表示的，而且只通过缩进表示 
+
+10. user interaction 用户交互
+
+11. verbatim  /vɜːrˈbetɪm/ adj. & adv. (完全)照字面的(地),逐字的(地)  n. 逐字翻译 
+
+12. snazzy   /'snæzi/  adj. <俚>漂亮的,时髦的,艳丽的 
+
+    now we need some snazzy data structures 现在我们需要一些时髦的数据结构 
+
+13. you can access their elements **separately** or in groups, through *indexing* and *slicing*. 你可以通过索引和切片，单独或成组地访问它们的元素
+
+14. "i.e." 通常用于解释或进一步说明之前提到的内容，以便更清楚地阐述意思或给出更具体的说明。它用于引导一个解释性的附加说明，用来澄清或限定之前所说的内容 I like various fruits, such as apples, bananas, i.e., I like those sweet fruits. 
+
+15. carry over  继续；结转；把...留到以后处理；继续存在 
+
+    We can carry it over to Thursday if we need to  如果需要，我们可以把它延续到星期四 
+
+16. nifty /ˈnɪfti/  adj. 俏皮的；漂亮的 n. 俏皮话
+
+    Python has all kinds of nifty things like *named arguments* and *default arguments* and can handle a variable number of arguments to a single function Python有各种有趣的东西，比如命名参数和默认参数，并且可以处理单个函数的可变参数数。
+
+17. returns the value given 返回给定的值
+
+18.   Called `self` in this example, which is customary  在这个例子中被称为self，这是惯例
+
+19. a matter of programming style 编程风格问题
+
+20. naming-conventions 命名公约
+
+21. This mechanism makes `and` and `or` behave like the boolean operators they **are supposed to** implement, but they also let you write short and sweet little conditional expressions 这个机制使得 "and" 和 "or" 的行为符合它们**想要**实现的布尔运算符的特性，但它们也让你能够编写简短而简洁的条件表达式
+
+22. Actually, this is somewhat of a Python idiom, **so you might as well get used to it** 实际上，这有点像Python的习语，所以你不妨习惯一下 
+
+23. among other things 还有其他 
+
+24. instantiate     /ɪns'tænʃɪet/  *vt.*  实例化
+
+25. mind-boggling /ˈmaɪndˌbɑɡlɪŋ/  adj. 令人难以置信的
+
+26. Python **uses** dynamic **as opposed to** lexical namespaces Python使用动态命名空间，而不是词法命名空间
+
+27. this is the sort of behaviour you want 这是你想要的行为  
+
+    He is the sort of person who always takes risks 他是那种总是冒险的人 
+
+    This is the sort of outcome we were hoping for 这是我们期望的那种结果 
 
 
 
