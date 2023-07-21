@@ -219,9 +219,11 @@
 
 13. For convenience 为了方便  */*kənˈviːniəns*/*   *n.*方便，便利；便利的事物，便利设施；公共厕所
 
-14. split through MLP **by column then by row**, split the tensor operations by **attention heads** then by row 按列然后按行分割通过多层感知器（MLP），按注意力头然后按行分割张量操作
+14. split through MLP **by column then by row**, split the tensor operations by **attention heads** then by row 按列然后按行分割通过多层感知器（MLP），按**注意力头**然后按行分割张量操作
 
     column   /ˈkɑːləm/  row  /ro/ 
+
+    attention head 注意力头
 
 15. **communication intensive**, better only **intra-node**, to leverage NVlink high bandwidth [ /'bændwɪdθ/]() 
 
@@ -690,7 +692,7 @@
 
     the amount of ……的数量
 
-    crop  /krɑːp/  n. 农作物 庄稼
+    crop  /krɑːp/  n. 农作物 庄稼   **vt. 修剪 裁剪**
 
     quality   /ˈkwɑːləti/  *n.* 质量，品质；特性；才能
 
@@ -3062,7 +3064,7 @@
 
 #### 007G
 
-1. **showcase**  n. (商店或博物馆的)玻璃陈列柜 
+1. **showcase**  n. (商店或博物馆的)玻璃陈列柜   vt. 展示
 
 2. chain together 连接在一起
 
@@ -4263,7 +4265,7 @@ than（比）：taller than her（比她高）
 
    **conservation**  [ /ˌkɑːnsərˈveʃn/]( )  *n.* 保存, 保护, 避免浪费  对自然环境的保护 
 
-   conservative party
+   conservative party 保守党
 
    1. 生物多样性保护：保护野生动植物及其栖息地，维护生态系统平衡，促进可持续发展。
    2. 自然资源保护：保护自然资源，如水资源、森林、土壤、矿物等，防止资源过度开采和浪费。
@@ -5580,7 +5582,7 @@ than（比）：taller than her（比她高）
 
 #### 023G
 
-1. **resort**    /rɪˈzɔːrt/  
+1. **resort**    /rɪˈzɔːrt/   n. 凭借 手段 常去之地 度假胜地  vi. 求助 诉诸 采取某手段或方法 常去
 
    seaside resort 海滨疗养地 
 
@@ -5588,15 +5590,17 @@ than（比）：taller than her（比她高）
 
 2. **essential**  /ɪˈsɛnʃl/  adj. 基本的；必要的；本质的；精华的  n. 本质；要素；要点；必需品
 
-   essential condition 必要条件  the sufficient and necessary conditions   充分条件和必要条件
+   essential condition 必要条件  
+
+   the sufficient /səˈfɪʃnt/ and necessary conditions   充分条件和必要条件
 
    essential difference 本质区别
 
-   1. 生活必需品："Essential"可以用来描述那些生活中必不可少的物品或事物。例如：essential goods (生活必需品), essential services (基本服务)
-   2. 技能或能力："Essential"可以用来描述某种技能或能力是非常重要或必需的。例如：essential skills (必备技能), essential knowledge (重要知识)
-   3. 经验或要求："Essential"可以用来描述某些经验或要求是必不可少的。例如：essential experience (必要经验), essential qualifications (必备资格)
-   4. 核心或基础："Essential"可以用来描述某个事物的核心或基础部分。例如：essential elements (基本要素), essential components (核心组成部分)
-   5. 重要的、必要的："Essential"可以用来形容某个事物非常重要或必要。例如：essential role (关键角色), essential step (必要步骤)
+   1. 生活必需品："Essential"可以用来描述那些生活中必不可少的物品或事物。essential goods (生活必需品), essential services   /ˈsɜːrvɪsɪz/ (基本服务)
+   2. 技能或能力："Essential"可以用来描述某种技能或能力是非常重要或必需的。 essential skills (必备技能), essential knowledge (重要知识)
+   3. 经验或要求："Essential"可以用来描述某些经验或要求是必不可少的。 essential experience (必要经验), essential qualifications (必备资格)
+   4. 核心或基础："Essential"可以用来描述某个事物的核心或基础部分。 essential elements (基本要素), essential components (核心组成部分)
+   5. 重要的、必要的："Essential"可以用来形容某个事物非常重要或必要。 essential role (关键角色), essential step (必要步骤)
 
    In fact, it's **neither** detrimental **nor** essential for your health 事实上，它对你的健康没有害处，但也不是身体所需物质
 
@@ -5606,15 +5610,52 @@ than（比）：taller than her（比她高）
 
    **detrimental**   /ˌdɛtrɪˈmɛntl/   adj. 有害的, 不利的 
 
-   Poor eating habits are detrimental to health  不良的饮食习惯对健康有害
+   Poor eating habits are detrimental to health  不良的饮食习惯对健康有害 
 
-3. morning workout 晨练 
+3. morning workout 晨练  
+
+   I did a two-hour workout in the gym  我在健身房锻炼了两个小时 
 
 4. is not yet valid  还没有生效
 
-5. subscript  /'sʌbskrɪpt/  adj. 下标的,脚注的  n. 下标,脚注
+   This certificate trust list has expired or is not yet valid  该证书信任列表已过期，或者尚未生效
+
+5. subscript  /'sʌbskrɪpt/  adj. 下标的,脚注的  n. 下标,脚注 
 
    subscriptable  可索引的 ： 列表（List） 字符串（String） 元组（Tuple） 字典（Dictionary） 
+
+   This little subscript two tells us there's two of the hydrogen  /ˈhaɪdrədʒən/ atoms  /ˈætəm/ in this molecule /ˈmɑːlɪkjuːl/.   这个小的下标 "2 "告诉我们，这个分子中有两个氢原子 
+
+6. synthesis /ˈsɪnθəsɪs/  〈化〉合成  n. 综合, 综合法
+
+   organic /ɔːrˈɡænɪk/  synthesis [化]有机合成  
+
+   Proteins  /ˈprotin/ are used for protein synthesis and a slew  /slu/ of other metabolic /mɛtə'bɑlɪk/ purposes /ˈpɜːrpəs/.   蛋白质用于蛋白质合成和其他大量的代谢目的
+
+   metabolic *adj.* 代谢的 新陈代谢的
+
+7. synopsis  /sɪˈnɑːpsɪs/  n. 摘要 梗概 大纲
+
+   a synopsis of the insurance cover provided is set out below.  以下是所提供的保险覆盖范围的摘要的说明
+
+   - 开始做某事；着手做某事: He set out to find a new job.  他开始寻找一份新工作
+   - 规划或计划实现某个目标： The company has set out its goals for the next year. 公司已经规划了明年的目标
+   - 出发；启程： They set out on a journey across the country.  他们出发开始穿越全国旅行
+   - 陈述理论、观点或论点： The researcher set out a new hypothesis. 研究员陈述了一个新的假设 
+   - 将物品放置在特定位置： She set out the dishes on the table for dinner.  她把餐具放在餐桌上准备晚餐
+   - 显示或表现出某种特性或特征： The painting sets out a scene of a peaceful countryside. 这幅画展现了一个宁静乡村的场景
+
+8. novel  /ˈnɑːvl/  adj. 新奇的；异常的  n. 小说 
+
+   novel property  新特性 
+
+9. dilemma   /dɪˈlɛmə/  n. 左右为难  困境 
+
+   New technologies are opening up many other novel ethical dilemmas  这些最新的科技还引起了其他的道德困境 
+
+   open up  *v.*  打开，开发，展现，开始，揭露，开放 
+
+   ethical  /'ɛθɪkl/  adj. 道德的；伦理的    n. 处方药  ---> ethic 
 
 ### 词性之间的转换规则
 
@@ -5644,22 +5685,6 @@ rational + ity = rationality
 需要注意的是，这只是一些常见的词性转换规则，并不适用于所有情况。在实际使用中，还需要考虑单词的特殊规则和变化形式。
 ```
 
-#### 024G
-
-1. synthesis /ˈsɪnθəsɪs/  〈化〉合成  n. 综合, 综合法
-
-2. synopsis  /sɪˈnɑːpsɪs/  n. 摘要 梗概 大纲
-
-3. novel  /ˈnɑːvl/  adj. 新奇的；异常的  n. 小说 novel properties 新特性
-
-4.  /nɔrˈwidʒən/dilemma   /dɪˈlɛmə/  n. 左右为难  困境
-
-   Our new technologies are opening up many other novel ethical dilemmas  这些最新的科技还引起了其他的道德困境
-
-   open up  *v.*  打开，开发，展现，开始，揭露，开放
-
-   ethical  /'ɛθɪkl/  adj. 道德的；伦理的 n. 处方药 
-
 ### Instant Python
 
 #### 001G
@@ -5670,13 +5695,13 @@ rational + ity = rationality
 
 2. Portuguese    /ˌpɔrtʃəˈɡiz/  n. 葡萄牙人,葡萄牙语 adj
 
-3. Lithuanian   /ˌliθju:'einiən/ n. 立陶宛人 adj
+3. Lithuanian   /ˌliθju:'eniən/ n. 立陶宛人 adj
 
 4. Greek /ɡriːk/  n. 希腊语；希腊人  adj
 
 5. Norwegian  /nɔrˈwidʒən/ n. 挪威人 
 
-6. Korean   /kə'riən/  n. 朝鲜人  adj. 朝鲜的
+6. Korean   /kə'riən/  n. 韩国人 adj. 韩国人的
 
 7. undergo   /ˌʌndərˈɡo/   vt. 经历，经受；忍受 
 
@@ -5686,13 +5711,21 @@ rational + ity = rationality
 
    Please do *not* ask me for details on this! I get swamped with emails on the subject 请不要向我询问这方面的细节!我被关于这个问题的电子邮件淹没了
 
-9. **Blocks** are **indicated** through **indentation**, and *only* through indentation 块是通过缩进表示的，而且只通过缩进表示 
+9. **Blocks** are **indicated** through **indentation**, and *only* through indentation 代码块是通过缩进**表示的**，而且只通过缩进表示   /ˌɪndɛn'teʃən/
 
 10. user interaction 用户交互
 
 11. verbatim  /vɜːrˈbetɪm/ adj. & adv. (完全)照字面的(地),逐字的(地)  n. 逐字翻译 
 
-12. snazzy   /'snæzi/  adj. <俚>漂亮的,时髦的,艳丽的 
+    a verbatim account of what was said  对所说内容的逐字逐句记录   逐字记录  
+
+    "account" 的意思是指对某件事情或事件的详细描述、记录或陈述 
+
+    银行账户（bank account）
+
+    电子邮件账户（email account）
+
+12. snazzy   /'snæzi/  adj. [俚]漂亮的,时髦的,艳丽的  
 
     now we need some snazzy data structures 现在我们需要一些时髦的数据结构 
 
@@ -5700,33 +5733,45 @@ rational + ity = rationality
 
 14. "i.e." 通常用于解释或进一步说明之前提到的内容，以便更清楚地阐述意思或给出更具体的说明。它用于引导一个解释性的附加说明，用来澄清或限定之前所说的内容 I like various fruits, such as apples, bananas, i.e., I like those sweet fruits. 
 
-15. carry over  继续；结转；把...留到以后处理；继续存在 
+15. carry over  继续  结转  把...留到以后处理  继续存在 
 
     We can carry it over to Thursday if we need to  如果需要，我们可以把它延续到星期四 
 
-16. nifty /ˈnɪfti/  adj. 俏皮的；漂亮的 n. 俏皮话
+16. nifty /ˈnɪfti/  adj. 俏皮的；漂亮的 n. 俏皮话 有趣的东西
 
-    Python has all kinds of nifty things like *named arguments* and *default arguments* and can handle a variable number of arguments to a single function Python有各种有趣的东西，比如命名参数和默认参数，并且可以处理单个函数的可变参数数。
+    Python has all kinds of nifty things like *named arguments* and *default arguments* and can handle **a variable /ˈvɛriəbl/  number of arguments** to a single function. Python 有各种有趣的东西，比如命名参数和默认参数，并且可以处理单个函数的可变参数数。
 
-17. returns the value given 返回给定的值
+17. returns the value **given** 返回给定的值
 
-18.   Called `self` in this example, which is customary  在这个例子中被称为self，这是惯例
+18. Called `self` in this example, which is customary   /ˈkʌstəmɛri/  在这个例子中被称为self，这是惯例
 
 19. a matter of programming style 编程风格问题
 
 20. naming-conventions 命名公约
 
-21. This mechanism makes `and` and `or` behave like the boolean operators they **are supposed to** implement, but they also let you write short and sweet little conditional expressions 这个机制使得 "and" 和 "or" 的行为符合它们**想要**实现的布尔运算符的特性，但它们也让你能够编写简短而简洁的条件表达式
+21. This mechanism makes `and` and `or` behave like the boolean  /ˈbuliən/ operators they **are supposed to** implement, but they also let you write short and sweet little **conditional expressions**    这种机制使得 `and` 和 `or` 表现得像它们被期望实现的布尔运算符一样，但同时也允许你编写简洁明了的条件表达式
 
-22. Actually, this is somewhat of a Python idiom, **so you might as well get used to it** 实际上，这有点像Python的习语，所以你不妨习惯一下 
+    be supposed to  应该，认为必须，被期望 
 
-23. among other things 还有其他 
+    You're supposed to find your passion in life   你应该要找寻生命中的热情 
 
-24. instantiate     /ɪns'tænʃɪet/  *vt.*  实例化
+22. Actually, this is **somewhat** of a Python idiom, **so you might as well get used to it** 实际上，这有点像Python的习语，所以你最好逐渐习惯使用它
 
-25. mind-boggling /ˈmaɪndˌbɑɡlɪŋ/  adj. 令人难以置信的
+    might as well 不妨，何妨；还是……的好  最好还是.. 
 
-26. Python **uses** dynamic **as opposed to** lexical namespaces Python使用动态命名空间，而不是词法命名空间
+    get used to 习惯于 
+
+23. among other things   这个词组的作用是在列举一些内容后，暗示还有更多相关的事物，但不做具体列举 
+
+    She enjoys traveling, reading, and hiking, among other things.   她喜欢旅行、阅读和远足，等等
+
+24. instantiate     /ɪn'stæn ʃi et/  *vt.*  实例化    
+
+25. mind boggling /ˈmaɪndˌbɑɡlɪŋ/  adj. 令人难以置信的 --> boggle    /ˈbɑːɡl/  
+
+    This new contested /kənˈtɛstɪd/ territory  /ˈtɛrətɔːri/ , however, is mind boggling, 73 trillion **cubic** miles  这个新的争议领土，然而，令人难以置信，拥有73万亿立方英里 
+
+26. Python **uses** dynamic **as opposed to** (conj) lexical namespaces.   Python使用动态命名空间，而不是词法命名空间 
 
 27. this is the sort of behaviour you want 这是你想要的行为  
 
@@ -5734,9 +5779,204 @@ rational + ity = rationality
 
     This is the sort of outcome we were hoping for 这是我们期望的那种结果 
 
+28. first-ever 史无前例
 
+### feel free to include
 
+#### 001G
 
+1. incentive  /ɪnˈsɛntɪv/   n. 激励某人做某事的事物；刺激；诱因，动机 
+
+   Singapore will change the tax **incentives** that **attracted** the **super rich**  新加坡将改变吸引超级富豪的税收优惠政策
+
+   attract  /əˈtrækt/   vt. 吸引, 引起…的注意  vi. 具有吸引力
+
+2. sugarcane  /ˈʃʊɡɚˌken/  n. 甘蔗 
+
+3. urgency  /ˈɜːrdʒənsi/  n. 紧迫;急迫;急事；紧要  催促;坚持 
+
+   A reality that only **heightens** the **sense of urgency** to educate the children  这一现实只会加剧教育孩子的紧迫感
+
+   heighten   /ˈhaɪtn/  vt. 提高  vi. 升高 
+
+4. China’s consumer inflation rate was flat in June while **factory-gate prices fell further**, fueling concerns about deflation risks and adding  to **speculation** about potential **economic stimulus**.  
+
+   中国6月份的消费者通胀率保持平稳，而工业品出厂价格进一步下降，加剧了通缩风险的担忧，并引发了有关可能经济刺激措施的**猜测** 
+
+   - flat  /flæt/ adj. 平坦的  n. 平地 vt. 使变平 vi. 变平 
+
+   - factory-gate price  工业品出厂价格 
+
+   - fall   /fɔːl/  下降 跌落         过去式 fell   /fɛl/ 
+
+   - further  /ˈfɜːrðər/ adv 更进一步
+
+   - fuel  /ˈfjuːəl/  vi. 得到燃料  vt. 供以燃料，加燃料 n. 燃料；刺激因素 
+
+     fuel concern 加剧人们的担忧
+
+   - stimulus /ˈstɪmjələs/  n. 刺激；激励；刺激物   -->   stimulate the economy
+
+     economic stimulus 经济刺激
+     stimulus package 刺激计划
+     fiscal stimulus 财政刺激 /ˈfɪskəl/  
+
+   - speculation   /ˌspɛkjuˈleʃn/   n. 思考，思索  推断，推测 投机活动
+
+     revive   /rɪˈvaɪv/  vi. 苏醒；复兴  vt. 使苏醒；使复兴 
+
+     This all may seem like wild speculation.   这一切看起来似乎是一个疯狂臆测
+
+     wild  /waɪld/  adj. 野生的  狂热的 
+
+5. T are trademarks used herein under license T 是在此处使用的商标，根据许可使用
+
+6. All right reserved 保留所有权
+
+7. part of this work covered by the copyright  本作品版权所涵盖的部分
+
+8. attribute  /əˈtrɪbjuːt , ˈætrɪbjuːt/  *vt.*  由…引起，把…归因于  *n.*   特性；特质；属性
+
+   I attribute my success to hard work  我将成功**归功于**努力 
+
+   Team sports are a great way to provide these attributes   团队体育运动是提供这些**特质**的极好途径 
+
+9. A RESTClient created by this method is **generic**   通过该方法创建的RESTClient是通用的
+
+   generic  /dʒəˈnɛrɪk/  
+
+10.  StreamOptions **holds information** pertaining to the current streaming session   StreamOptions 保存与当前流媒体会话相关的信息 
+
+    pertain 是一个动词，意为与某事物**有关**、适用于、涉及等
+
+11. rely on  vt. 依靠(信赖) 
+
+    Have to rely on juvenile violence?  不得不依靠青少年暴力？ 
+
+    juvenile  /ˈdʒuːvənl/  n. 青少年  adj. 青少年的 
+
+12. Anthropic is **working to** keep your **experience** safe.  Anthropic正在努力确保您的体验安全
+
+13. Our Acceptable Use Policy **prohibit**s use of Claude for harmful use cases like producing violent, abusive, or deceptive content. 我们的可接受使用政策禁止将Claude用于制作暴力、辱骂或欺骗性内容等有害用途 
+
+    violent  /ˈvaɪələnt/  adj. 暴力的
+
+    abusive  /əˈbjuːsɪv/  adj.   骂人的  
+
+    deceptive  /dɪˈsɛptɪv/   adj. 可能欺骗的, 导致误解的   --> deceit  n. 欺骗 
+
+    prohibit  /prəˈhɪbɪt/ 
+
+14. paradise   /ˈpærədaɪs/  n. 天堂
+
+    It's just like paradise for me   这里对我来说就像天堂一样 
+
+    Bali  /ˈbɑli/  is considered an Indonesian  /ˌɪndəˈniʒən/  island /'aɪlənd/  paradise  巴厘岛被认为是印度尼西亚的岛屿天堂 
+
+15. diligence   /ˈdɪlɪdʒəns/  n. 勤奋，勤勉 
+
+16. clumsiness   /'klʌmzinis/  n. 笨拙 
+
+    diligence makes up for clumsiness  以勤补拙  笨鸟先飞  业精于勤荒于嬉 
+
+17. cascade  /kæˈsked/   n. 小瀑布；喷流；层叠  vi. 像瀑布般冲下或倾泻 
+
+    cascade control 串级控制；[计]级联控制 
+
+18.  the Multi-Instance GPU feature first **introduced** with the NV Ampere   /ˈæmˌpɪr/architect 
+
+    NV Ampere架构首次**引入**的多实例GPU功能 
+
+19. optimal  /ˈɑːptəməl/ GPU utilization   /ˌjʊtɪlɪ'zeʃən/ 优化GPU利用率
+
+20. saturate  /ˈsætʃəret/   vt. 使...饱和  浸透  使…充满某物  
+
+    This feature is **particularly** **beneficial** for workloads that do not fully **saturate** the GPU's compute capacity  该功能**尤其适用于**GPU计算能力**未完全饱和的**工作负载  
+
+21. **in addition to** providing enhanced isolation for customers  除了为客户提供强隔离
+
+22. on-chip crossbar ports  互连交叉开关端口
+
+23. This ensures that an individual user's workload can run with **predictable** **throughput** and **latency**, with the same L2 cache allocation and DRAM bandwidth, **even if** other tasks are **thrashing** their own caches or **saturating** their DRAM interfaces.  这确保了单个用户的工作负载能够在相同的二级缓存分配和DRAM带宽条件下，以可预测的吞吐量和延迟运行，**即使**其他任务正在占用自己的缓存或使其DRAM接口达到饱和
+
+    thrash 可以翻译为 "频繁访问"、"过度读写"、"反复访问" 或 "过载访问"。在计算机领域中，它表示系统在尝试频繁访问某个资源（如缓存或内存）时的不良效果。
+
+24. 除了在比较状语从句中使用 "as if"，它还有其他几种常见的用法：
+
+    1. 副词意义（Adverbial Sense）：在这种用法中，"as if" 表示某个行为或情况的方式，类似于副词的作用。例如：
+       - He ran as if his life depended on it. 他奔跑得好像他的生命取决于此
+       - She smiled as if nothing had happened. 她微笑着，好像什么都没发生过
+    2. 过去事实（Past Fact）：在这种用法中，"as if" 表示虚拟的过去情况或与事实相反的情况。它通常用于表达假设、猜测或不可能的情况。例如：
+       - It looked as if it were going to rain. 看起来好像要下雨了
+       - He acted as if he hadn't heard the news. 他的行为好像他没听到那个消息
+    3. 作为引导名词性从句（Introducing Noun Clauses）：在这种用法中，"as if" 引导一个名词性从句，充当从句中动词或形容词的宾语。例如：
+       - She acted as if she knew everything. 她表现得好像她什么都知道
+       - He talks as if he's the boss. 他说话的口气好像他是老板一样
+
+25. while preserving the isolation guarantees that vGPU provides  同时保留vGPU提供的隔离保证
+
+    preserve    /prɪˈzɜːrv/  vt. 保存 保护  维持  n. 禁猎地 保护区
+
+    Rendsburg is Germany's best preserved medieval cities    伦茨堡位于德国，是将中世纪城市样貌保存的最完好的城市
+
+    medieval  /ˌmidiˈiːvl/   adj. 中古的, 中世纪的  
+
+26. distinct address space  不同的地址空间
+
+27. 
+
+    1. Fraction：Fraction 意为 "分数"，表示将一个整体分割成几个部分的**比例或部分的数量**。它由分子和分母组成，分子表示分割出的部分数量，分母表示整体被分割的总份数。例如，1/2 表示将整体平均分成两个部分，每个部分占总体的一半。
+    2. Section：Section 可以指 "部分"、"段落" 或 "区域"，根据上下文的不同而有不同的含义。它通常用来描述被划分出来的一个特定部分或区域，可以用于文本、地理位置、组织结构等。
+    3. Fragment：Fragment 指 "片段"、"碎片" 或 "残余部分"，表示被分割或断裂的一小部分。在语言学中，它可以指一个不完整的句子或短语。
+    4. Frame：Frame 可以指 "框架" 或 "帧"。在不同的领域中有不同的含义。例如，它可以用于描述一个结构的骨架或支撑系统，也可以用于表示视频或动画中的单个图像帧。
+
+28. fixed   /fɪkst/  adj. 固定的  不变的 
+
+29. fragmentation   /ˌfræɡmənˈteʃən/  *n.*  分裂,破碎  碎片
+
+30. cooperate /koˈɑːpəret/  vi. 合作；配合，协助 
+
+    Can you cooperate with us?  你能和我们合作吗? 
+
+31. MIG mode setting is **persistent across** reboots until the user toggles the setting explicitly 
+
+    MIG模式设置在重新启动后是保持的，直到用户明确切换设置 
+
+    persistent across：表示在某个事件或状态改变之后持续存在
+
+    persistent adj. 持续的 不断的
+
+    **toggle**   /ˈtɑːɡl/    [计]转换键；切换键    v. [计]（两种状态之间）切换，转换
+
+32. Once the GPU is in MIG mode, instance management is **then** dynamic  一旦GPU进入MIG模式，实例管理**将**是动态的 
+
+33. If the **intention** is to destroy all the CIs and GIs, **then** this can be accomplished with the following commands 如果**目的**是摧毁所有CI和GI，**则**可通过以下命令实现
+
+34. perform   /pərˈfɔːrm/  vt. 执行；完成；演奏  vi. 表演；执行，机器运转 
+
+35. behalf /bɪˈhæf/  n. 方面, 利益, 赞同
+
+    on your behalf 代表你
+
+    On behalf of our nation, I thank you for joining us here today, it's a really great honor  我代表我们的国家，感谢您参加今天的会议，这是我们的荣幸
+
+36. cement   /sɪˈmɛnt/  n. 水泥  vt. 在…上抹水泥  粘牢  巩固, 加强 
+
+    crucial   /ˈkruːʃl/  adj. 决定性的；重要的；定局的；决断的       
+
+    And I'm convinced  /kən'vɪnst/   /kənˈvɪns/  that a trade deal between the US and the UK,It's in the national interest of both countries,and will **cement** the **crucial** relationship that exists between us,particularly as the UK leave the European Union  /ˈjuːnjən/ and reaches out to the world. 我相信，美国和英国之间的贸易协议符合两国的国家利益，并将巩固我们之间存在的重要关系，特别是在英国脱离欧盟并走向世界的时候
+
+    national interest 国家利益
+
+    personal interest 个人利益
+
+    What are some overrated places in America that foreign visitors should avoid at all costs? 美国有哪些地方被高估了，外国游客应尽量避免前往？ 
+
+    overrate /ˌovərˈret/  *vt.*   过高估计  对…估价过高
+
+    at all costs 不惜任何代价
+
+    ## end
 
 
 
