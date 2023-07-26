@@ -5897,13 +5897,13 @@ rational + ity = rationality
 
 22. on-chip crossbar ports  互连交叉开关端口
 
-23. This ensures that an individual user's workload can run with **predictable** **throughput** and **latency**, with the same L2 cache allocation and DRAM bandwidth, **even if** other tasks are **thrashing** their own caches or **saturating** their DRAM interfaces.  这确保了单个用户的工作负载能够在相同的二级缓存分配和DRAM带宽条件下，以可预测的吞吐量和延迟运行，**即使**其他任务正在占用自己的缓存或使其DRAM接口达到饱和
+23. This ensures that an individual user's workload can run with **predictable** **throughput** and **latency**, with the same L2 cache allocation and DRAM bandwidth, **even if** other tasks are **thrashing** their own caches or **saturating** their DRAM interfaces.  这确保了单个用户的工作负载能够在相同的二级缓存分配和DRAM带宽条件下，可以预测的吞吐量和延迟运行，**即使**其他任务正在占用自己的缓存或使其DRAM接口达到饱和
 
     thrash 可以翻译为 "频繁访问"、"过度读写"、"反复访问" 或 "过载访问"。在计算机领域中，它表示系统在尝试频繁访问某个资源（如缓存或内存）时的不良效果。
 
 24. 除了在比较状语从句中使用 "as if"，它还有其他几种常见的用法：
 
-    1. 副词意义（Adverbial Sense）：在这种用法中，"as if" 表示某个行为或情况的方式，类似于副词的作用。例如：
+    1. 副词意义（Adverbial  /æd'vɝbɪəl/ Sense）：在这种用法中，"as if" 表示某个行为或情况的方式，类似于副词的作用。例如：
        - He ran as if his life depended on it. 他奔跑得好像他的生命取决于此
        - She smiled as if nothing had happened. 她微笑着，好像什么都没发生过
     2. 过去事实（Past Fact）：在这种用法中，"as if" 表示虚拟的过去情况或与事实相反的情况。它通常用于表达假设、猜测或不可能的情况。例如：
@@ -5913,7 +5913,7 @@ rational + ity = rationality
        - She acted as if she knew everything. 她表现得好像她什么都知道
        - He talks as if he's the boss. 他说话的口气好像他是老板一样
 
-25. while preserving the isolation guarantees that vGPU provides  同时保留vGPU提供的隔离保证
+25. while **preserving** the isolation guarantees that vGPU provides  同时保留vGPU提供的隔离保证
 
     preserve    /prɪˈzɜːrv/  vt. 保存 保护  维持  n. 禁猎地 保护区
 
@@ -5948,7 +5948,7 @@ rational + ity = rationality
 
     **toggle**   /ˈtɑːɡl/    [计]转换键；切换键    v. [计]（两种状态之间）切换，转换
 
-32. Once the GPU is in MIG mode, instance management is **then** dynamic  一旦GPU进入MIG模式，实例管理**将**是动态的 
+32. **Once** the GPU is in MIG mode, instance management is **then** dynamic  一旦GPU进入MIG模式，实例管理**将**是动态的 
 
 33. If the **intention** is to destroy all the CIs and GIs, **then** this can be accomplished with the following commands 如果**目的**是摧毁所有CI和GI，**则**可通过以下命令实现
 
@@ -5964,7 +5964,7 @@ rational + ity = rationality
 
     crucial   /ˈkruːʃl/  adj. 决定性的；重要的；定局的；决断的       
 
-    And I'm convinced  /kən'vɪnst/   /kənˈvɪns/  that a trade deal between the US and the UK,It's in the national interest of both countries,and will **cement** the **crucial** relationship that exists between us,particularly as the UK leave the European Union  /ˈjuːnjən/ and reaches out to the world. 我相信，美国和英国之间的贸易协议符合两国的国家利益，并将巩固我们之间存在的重要关系，特别是在英国脱离欧盟并走向世界的时候
+    And I'm convinced  /kən'vɪnst/   /kənˈvɪns/  that a trade deal between the US and the UK,It's in the national interest of both countries,and will **cement** the **crucial** relationship that exists between us,particularly **as** the UK leave the European Union  /ˈjuːnjən/ and reaches out to the world. 我相信，美国和英国之间的贸易协议符合两国的国家利益，并将巩固我们之间存在的重要关系，特别是在英国脱离欧盟并走向世界的时候
 
     national interest 国家利益
 
