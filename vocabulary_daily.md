@@ -5845,7 +5845,7 @@ rational + ity = rationality
 
    generic  /dʒəˈnɛrɪk/  
 
-10.  StreamOptions **holds information** pertaining to the current streaming session   StreamOptions 保存与当前流媒体会话相关的信息 
+10. StreamOptions **holds information** pertaining to the current streaming session   StreamOptions 保存与当前流媒体会话相关的信息 
 
     pertain 是一个动词，意为与某事物**有关**、适用于、涉及等
 
@@ -5883,7 +5883,7 @@ rational + ity = rationality
 
     cascade control 串级控制；[计]级联控制 
 
-18.  the Multi-Instance GPU feature first **introduced** with the NV Ampere   /ˈæmˌpɪr/architect 
+18. the Multi-Instance GPU feature first **introduced** with the NV Ampere   /ˈæmˌpɪr/architect 
 
     NV Ampere架构首次**引入**的多实例GPU功能 
 
@@ -5925,18 +5925,41 @@ rational + ity = rationality
 
 27. 
 
-    1. Fraction：Fraction 意为 "分数"，表示将一个整体分割成几个部分的**比例或部分的数量**。它由分子和分母组成，分子表示分割出的部分数量，分母表示整体被分割的总份数。例如，1/2 表示将整体平均分成两个部分，每个部分占总体的一半。
-    2. Section：Section 可以指 "部分"、"段落" 或 "区域"，根据上下文的不同而有不同的含义。它通常用来描述被划分出来的一个特定部分或区域，可以用于文本、地理位置、组织结构等。
-    3. Fragment：Fragment 指 "片段"、"碎片" 或 "残余部分"，表示被分割或断裂的一小部分。在语言学中，它可以指一个不完整的句子或短语。
-    4. Frame：Frame 可以指 "框架" 或 "帧"。在不同的领域中有不同的含义。例如，它可以用于描述一个结构的骨架或支撑系统，也可以用于表示视频或动画中的单个图像帧。
+    1. fraction：fraction 意为 "分数"，表示将一个整体分割成几个部分的**比例或部分的数量**。它由分子和分母组成，分子表示分割出的部分数量，分母表示整体被分割的总份数
+
+       Within a fraction of a second, the star implodes  不到一秒的时间，恒星便向内坍缩
+
+    2. section：section 可以指 "部分"、"段落" 或 "区域"  它通常用来描述被划分出来的一个特定部分或区域，可以用于文本、地理位置、组织结构等
+
+       Why is this book in the psychology section?  为什么这本书在心理学专区？ 
+
+       In this section, you will hear two passages.  在本节中，您将听到两个段落
+
+    3. fragment：fragment 指 "片段"、"碎片" 或 "残余部分"，表示被分割或断裂的一小部分。在语言学中，它可以指一个不完整的句子或短语。
+
+       This fragment ended up in the British museum.  这块碎片最终被收藏在大英博物馆 
+
+    4. frame：Frame 可以指 "框架" 或 "帧"。在不同的领域中有不同的含义。例如，它可以用于描述一个结构的骨架或支撑系统，也可以用于表示视频或动画中的单个图像帧
+
+       OK, so what do you mean by frames?  好吧，你说的框架是什么意思？ 
 
 28. fixed   /fɪkst/  adj. 固定的  不变的 
 
+    at a fixed time  在某一固定时间
+
+    Growth mindset is the belief that the ability to learn is not fixed, that it can change with your effort. 成长心态是一种信念，即学习能力不是固定的，而是可以随着你的努力而改变
+
+    mindset   /ˈmaɪndsɛt/   n. 心态；倾向；习惯；精神状态 
+
 29. fragmentation   /ˌfræɡmənˈteʃən/  *n.*  分裂,破碎  碎片
+
+    Meanwhile Beijing has warned that a trade war could lead to a fragmentation of the global economy. 与此同时，中方警告说，贸易战可能导致全球经济分裂
 
 30. cooperate /koˈɑːpəret/  vi. 合作；配合，协助 
 
     Can you cooperate with us?  你能和我们合作吗? 
+
+    Will you cooperate with me?  ==  Will you work with me?  你愿意和我合作吗？
 
 31. MIG mode setting is **persistent across** reboots until the user toggles the setting explicitly 
 
