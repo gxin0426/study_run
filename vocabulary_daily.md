@@ -5739,7 +5739,7 @@ rational + ity = rationality
 
 16. nifty /ˈnɪfti/  adj. 俏皮的；漂亮的 n. 俏皮话 有趣的东西
 
-    Python has all kinds of nifty things like *named arguments* and *default arguments* and can handle **a variable /ˈvɛriəbl/  number of arguments** to a single function. Python 有各种有趣的东西，比如命名参数和默认参数，并且可以处理单个函数的可变参数数。
+    Python has all kinds of nifty things like *named arguments* and *default arguments* and can handle **a variable /ˈvɛriəbl/  number of arguments** to a single function.  Python 有各种有趣的东西，比如命名参数和默认参数，并且可以处理单个函数的可变参数数。
 
 17. returns the value **given** 返回给定的值
 
@@ -5771,15 +5771,15 @@ rational + ity = rationality
 
     This new contested /kənˈtɛstɪd/ territory  /ˈtɛrətɔːri/ , however, is mind boggling, 73 trillion **cubic** miles  这个新的争议领土，然而，令人难以置信，拥有73万亿立方英里 
 
-26. Python **uses** dynamic **as opposed to** (conj) lexical namespaces.   Python使用动态命名空间，而不是词法命名空间 
+26. Python **uses** dynamic **as opposed to** (conj) lexical  /ˈlɛksɪkl/ namespaces.   Python使用动态命名空间，而不是词法命名空间 
 
-27. this is the sort of behaviour you want 这是你想要的行为  
-
-    He is the sort of person who always takes risks 他是那种总是冒险的人 
+27. He is the sort of person who always takes risks 他是那种总是冒险的人 
 
     This is the sort of outcome we were hoping for 这是我们期望的那种结果 
 
 28. first-ever 史无前例
+
+    This is their first ever Dragon Boat Festival.  这是他们第一次举办端午节 
 
 ### feel free to include
 
@@ -5795,11 +5795,11 @@ rational + ity = rationality
 
 3. urgency  /ˈɜːrdʒənsi/  n. 紧迫;急迫;急事；紧要  催促;坚持 
 
-   A reality that only **heightens** the **sense of urgency** to educate the children  这一现实只会加剧教育孩子的紧迫感
+   A reality that only **heightens** the **sense of urgency** to educate the children  这是一个现实，它只会增强对教育孩子的紧迫感
 
-   heighten   /ˈhaɪtn/  vt. 提高  vi. 升高 
+   heighten   /ˈhaɪtn/  *vt.* 提高  *vi.* 升高 
 
-4. China’s consumer inflation rate was flat in June while **factory-gate prices fell further**, fueling concerns about deflation risks and adding  to **speculation** about potential **economic stimulus**.  
+4. China’s consumer inflation rate was flat in June while **factory-gate prices fell further**, fueling concerns about deflation risks and adding to **speculation** about potential **economic stimulus**.  
 
    中国6月份的消费者通胀率保持平稳，而工业品出厂价格进一步下降，加剧了通缩风险的担忧，并引发了有关可能经济刺激措施的**猜测** 
 
@@ -5819,17 +5819,17 @@ rational + ity = rationality
 
      economic stimulus 经济刺激
      stimulus package 刺激计划
-     fiscal stimulus 财政刺激 /ˈfɪskəl/  
+     fiscal stimulus 财政刺激 /ˈfɪskəl/   
 
    - speculation   /ˌspɛkjuˈleʃn/   n. 思考，思索  推断，推测 投机活动
 
      revive   /rɪˈvaɪv/  vi. 苏醒；复兴  vt. 使苏醒；使复兴 
 
-     This all may seem like wild speculation.   这一切看起来似乎是一个疯狂臆测
+     This all may seem like wild speculation.   这一切看起来似乎是一个疯狂臆测 
 
-     wild  /waɪld/  adj. 野生的  狂热的 
+     wild  /waɪld/  adj. 野生的  狂热的  
 
-5. T are trademarks used herein under license T 是在此处使用的商标，根据许可使用
+5. T are trademarks used herein under license.   T是在此处使用的商标，根据许可使用
 
 6. All right reserved 保留所有权
 
@@ -5845,21 +5845,21 @@ rational + ity = rationality
 
    generic  /dʒəˈnɛrɪk/  
 
-10. StreamOptions **holds information** pertaining to the current streaming session   StreamOptions 保存与当前流媒体会话相关的信息 
+10. StreamOptions **holds information** pertaining to the current streaming session.   StreamOptions 保存与当前流媒体会话相关的信息 
 
-    pertain 是一个动词，意为与某事物**有关**、适用于、涉及等
+    pertain  /pərˈten/  是一个动词，意为与某事物**有关**、适用于、涉及等
 
-11. rely on  vt. 依靠(信赖) 
+11. rely on  vt. 依靠 (信赖) 
 
-    Have to rely on juvenile violence?  不得不依靠青少年暴力？ 
+    Have to rely on juvenile violence  /ˈvaɪələns/  ?  不得不依靠青少年暴力？ 
 
     juvenile  /ˈdʒuːvənl/  n. 青少年  adj. 青少年的 
 
 12. Anthropic is **working to** keep your **experience** safe.  Anthropic正在努力确保您的体验安全
 
-13. Our Acceptable Use Policy **prohibit**s use of Claude for harmful use cases like producing violent, abusive, or deceptive content. 我们的可接受使用政策禁止将Claude用于制作暴力、辱骂或欺骗性内容等有害用途 
+13. Our Acceptable Use Policy **prohibit**s use of Claude for harmful use cases like producing violent, abusive, or deceptive content.  我们的可接受使用政策禁止将Claude用于制作暴力、辱骂或欺骗性内容等有害用途  
 
-    violent  /ˈvaɪələnt/  adj. 暴力的
+    violent  /ˈvaɪələnt/  adj. 暴力的 
 
     abusive  /əˈbjuːsɪv/  adj.   骂人的  
 
@@ -5887,7 +5887,7 @@ rational + ity = rationality
 
     NV Ampere架构首次**引入**的多实例GPU功能 
 
-19. optimal  /ˈɑːptəməl/ GPU utilization   /ˌjʊtɪlɪ'zeʃən/ 优化GPU利用率
+19. optimal  /ˈɑːptəməl/ adj. 最理想的；最佳的 GPU utilization   /ˌjʊtɪlɪ'zeʃən/ 优化GPU利用率 
 
 20. saturate  /ˈsætʃəret/   vt. 使...饱和  浸透  使…充满某物  
 
@@ -5897,29 +5897,21 @@ rational + ity = rationality
 
 22. on-chip crossbar ports  互连交叉开关端口
 
-23. This ensures that an individual user's workload can run with **predictable** **throughput** and **latency**, with the same L2 cache allocation and DRAM bandwidth, **even if** other tasks are **thrashing** their own caches or **saturating** their DRAM interfaces.  这确保了单个用户的工作负载能够在相同的二级缓存分配和DRAM带宽条件下，可以预测的吞吐量和延迟运行，**即使**其他任务正在占用自己的缓存或使其DRAM接口达到饱和
+23. This ensures that an individual user's workload can run with **predictable** **throughput** and **latency**, with the same L2 cache allocation and DRAM bandwidth, **even if** other tasks are **thrashing** their own caches or **saturating** their DRAM interfaces.  
+
+    这确保了单个用户的工作负载能够在相同的二级缓存分配和DRAM带宽条件下，可以预测的吞吐量和延迟运行，**即使**其他任务正在占用自己的缓存或使其DRAM接口达到饱和
 
     thrash 可以翻译为 "频繁访问"、"过度读写"、"反复访问" 或 "过载访问"。在计算机领域中，它表示系统在尝试频繁访问某个资源（如缓存或内存）时的不良效果。
 
-24. 除了在比较状语从句中使用 "as if"，它还有其他几种常见的用法：
+24. He ran as if his life depended on it. 他奔跑得好像他的生命取决于此
 
-    1. 副词意义（Adverbial  /æd'vɝbɪəl/ Sense）：在这种用法中，"as if" 表示某个行为或情况的方式，类似于副词的作用。例如：
-       - He ran as if his life depended on it. 他奔跑得好像他的生命取决于此
-       - She smiled as if nothing had happened. 她微笑着，好像什么都没发生过
-    2. 过去事实（Past Fact）：在这种用法中，"as if" 表示虚拟的过去情况或与事实相反的情况。它通常用于表达假设、猜测或不可能的情况。例如：
-       - It looked as if it were going to rain. 看起来好像要下雨了
-       - He acted as if he hadn't heard the news. 他的行为好像他没听到那个消息
-    3. 作为引导名词性从句（Introducing Noun Clauses）：在这种用法中，"as if" 引导一个名词性从句，充当从句中动词或形容词的宾语。例如：
-       - She acted as if she knew everything. 她表现得好像她什么都知道
-       - He talks as if he's the boss. 他说话的口气好像他是老板一样
+25. while **preserving** the isolation guarantees that vGPU provides  同时保留vGPU提供的隔离保证 
 
-25. while **preserving** the isolation guarantees that vGPU provides  同时保留vGPU提供的隔离保证
+    preserve    /prɪˈzɜːrv/  vt. 保存 保护  维持  n. 禁猎地 保护区 
 
-    preserve    /prɪˈzɜːrv/  vt. 保存 保护  维持  n. 禁猎地 保护区
+    Rendsburg is Germany's best preserved medieval cities    伦茨堡位于德国，是将中世纪城市样貌保存的最完好的城市 
 
-    Rendsburg is Germany's best preserved medieval cities    伦茨堡位于德国，是将中世纪城市样貌保存的最完好的城市
-
-    medieval  /ˌmidiˈiːvl/   adj. 中古的, 中世纪的  
+    medieval  /ˌmidiˈiːvl/   adj. 中古的, 中世纪的   
 
 26. distinct address space  不同的地址空间
 
@@ -5937,23 +5929,25 @@ rational + ity = rationality
 
     3. fragment：fragment 指 "片段"、"碎片" 或 "残余部分"，表示被分割或断裂的一小部分。在语言学中，它可以指一个不完整的句子或短语。
 
-       This fragment ended up in the British museum.  这块碎片最终被收藏在大英博物馆 
+       This fragment ended up in the British  /'brɪtɪʃ/ museum  /mjuˈziəm/ .  这块碎片最终被收藏在大英博物馆 
 
     4. frame：Frame 可以指 "框架" 或 "帧"。在不同的领域中有不同的含义。例如，它可以用于描述一个结构的骨架或支撑系统，也可以用于表示视频或动画中的单个图像帧
 
        OK, so what do you mean by frames?  好吧，你说的框架是什么意思？ 
 
-28. fixed   /fɪkst/  adj. 固定的  不变的 
+28. fixed   /fɪkst/  adj. 固定的  不变的  
 
-    at a fixed time  在某一固定时间
+    at a fixed time  在某一固定时间 
 
-    Growth mindset is the belief that the ability to learn is not fixed, that it can change with your effort. 成长心态是一种信念，即学习能力不是固定的，而是可以随着你的努力而改变
+    Growth mindset is the belief that the ability to learn is not fixed, that it can change with your effort. 成长心态是一种信念，即学习能力不是固定的，而是可以随着你的努力而改变 
 
-    mindset   /ˈmaɪndsɛt/   n. 心态；倾向；习惯；精神状态 
+    mindset   /ˈmaɪndsɛt/   n. 心态；倾向；习惯；精神状态  
 
 29. fragmentation   /ˌfræɡmənˈteʃən/  *n.*  分裂,破碎  碎片
 
     Meanwhile Beijing has warned that a trade war could lead to a fragmentation of the global economy. 与此同时，中方警告说，贸易战可能导致全球经济分裂
+
+    meanwhile  adv. 同时；其间
 
 30. cooperate /koˈɑːpəret/  vi. 合作；配合，协助 
 
