@@ -23,3 +23,10 @@
    It had been his last, desperate hope.   这是他仅存的一点渺茫的希望
 
 6. Honor, Fame, Recognition  荣誉、名声、认可
+
+7. Still, go through the exercise of making this **cheat sheet**.  不过，还是做一下这个备忘录的练习吧 
+
+8. This is the cutest thing ever   这是史上最可爱的东西 
+
+### englishpod(come up and keep going)
+

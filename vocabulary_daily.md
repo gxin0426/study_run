@@ -5632,26 +5632,25 @@ than（比）：taller than her（比她高）
 
    Proteins  /ˈprotin/ are used for protein synthesis and a slew  /slu/ of other metabolic /mɛtə'bɑlɪk/ purposes /ˈpɜːrpəs/.   蛋白质用于蛋白质合成和其他大量的代谢目的
 
-   metabolic *adj.* 代谢的 新陈代谢的
+   metabolic /ˌmɛtə'bɑlɪk/  *adj.* 代谢的 新陈代谢的
 
 7. synopsis  /sɪˈnɑːpsɪs/  n. 摘要 梗概 大纲
 
-   a synopsis of the insurance cover provided is set out below.  以下是所提供的保险覆盖范围的摘要的说明
+   a synopsis of the insurance cover provided is set out below.  以下是所提供的保险覆盖范围的摘要说明
 
    - 开始做某事；着手做某事: He set out to find a new job.  他开始寻找一份新工作
-   - 规划或计划实现某个目标： The company has set out its goals for the next year. 公司已经规划了明年的目标
    - 出发；启程： They set out on a journey across the country.  他们出发开始穿越全国旅行
    - 陈述理论、观点或论点： The researcher set out a new hypothesis. 研究员陈述了一个新的假设 
    - 将物品放置在特定位置： She set out the dishes on the table for dinner.  她把餐具放在餐桌上准备晚餐
    - 显示或表现出某种特性或特征： The painting sets out a scene of a peaceful countryside. 这幅画展现了一个宁静乡村的场景
-
+   
 8. novel  /ˈnɑːvl/  adj. 新奇的；异常的  n. 小说 
 
    novel property  新特性 
 
 9. dilemma   /dɪˈlɛmə/  n. 左右为难  困境 
 
-   New technologies are opening up many other novel ethical dilemmas  这些最新的科技还引起了其他的道德困境 
+   New technologies are opening up many other novel ethical dilemmas.  这些最新的科技还引起了其他的道德困境 
 
    open up  *v.*  打开，开发，展现，开始，揭露，开放 
 
@@ -5693,15 +5692,17 @@ rational + ity = rationality
 
    crash  /kræʃ/  n. 碰撞 崩溃  vt. 破碎 撞碎  vi. 碰撞 坠毁  adj. 速成的
 
-2. Portuguese    /ˌpɔrtʃəˈɡiz/  n. 葡萄牙人,葡萄牙语 adj
+   Can you recommend a Portuguese crash course for me?    您能为我推荐一个葡萄牙语速成班吗？ 
 
-3. Lithuanian   /ˌliθju:'eniən/ n. 立陶宛人 adj
+2. Portuguese    /ˌpɔrtʃəˈɡiz/  n. adj. 葡萄牙人,葡萄牙语 
 
-4. Greek /ɡriːk/  n. 希腊语；希腊人  adj
+3. Lithuanian   /ˌliθju:'eniən/ n. adj.  立陶宛人  
 
-5. Norwegian  /nɔrˈwidʒən/ n. 挪威人 
+4. Greek /ɡriːk/  n. adj.  希腊语；希腊人 
 
-6. Korean   /kə'riən/  n. 韩国人 adj. 韩国人的
+5. Norwegian  /nɔrˈwidʒən/  n. adj. 挪威人 
+
+6. Korean   /kə'riən/  n. adj.  韩国人 韩国人的
 
 7. undergo   /ˌʌndərˈɡo/   vt. 经历，经受；忍受 
 
@@ -5725,6 +5726,8 @@ rational + ity = rationality
 
     电子邮件账户（email account）
 
+    And we can all agree, the worst sin of all, reading exactly verbatim copy from the slide.   我们都同意，最严重的罪过就是一字不差地照搬幻灯片上的内容。 
+
 12. snazzy   /'snæzi/  adj. [俚]漂亮的,时髦的,艳丽的  
 
     now we need some snazzy data structures 现在我们需要一些时髦的数据结构 
@@ -5739,7 +5742,7 @@ rational + ity = rationality
 
 16. nifty /ˈnɪfti/  adj. 俏皮的；漂亮的 n. 俏皮话 有趣的东西
 
-    Python has all kinds of nifty things like *named arguments* and *default arguments* and can handle **a variable /ˈvɛriəbl/  number of arguments** to a single function.  Python 有各种有趣的东西，比如命名参数和默认参数，并且可以处理单个函数的可变参数数。
+    Python has all kinds of nifty things like *named arguments* and *default arguments* and can handle **a variable /ˈvɛriəbl/  number of arguments** to a single function.  Python 有各种有趣的东西，比如命名参数和默认参数，并且可以处理单个函数的可变参数。
 
 17. returns the value **given** 返回给定的值
 
