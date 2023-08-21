@@ -696,6 +696,8 @@
 
     quality   /ˈkwɑːləti/  *n.* 质量，品质；特性；才能
 
+    If the text versions (names) can’t be determined  如果文本版本（名称）无法确定
+
 12. plural [ /ˈplʊrəl/]( ) *adj.*  复数的  *n.*  复数，复数形式
 
     So in summary, normally you find 'people' as the plural form of 'person' – one person, three people 
@@ -804,6 +806,8 @@
 
    But I think we shouldn't interfere with nature.  但我认为我们不应该干预大自然
 
+   check to see whether one of these factors might be **interfering** 检查一下这些因素中是否有一个可能在造成干
+
 3. **decouple**    vt. 解耦  
 
    Some individuals have vowed to decouple China and the United States  一些人发誓要让中国和美国脱钩
@@ -856,7 +860,7 @@
 
 #### 001组
 
-1.  A mutual fund  /ˈmjuːtʃuəl/   n. 信托基金   adj.  彼此相关的   相互的，彼此的 
+1. A mutual fund  /ˈmjuːtʃuəl/   n. 信托基金   adj.  彼此相关的   相互的，彼此的 
 
 2. logistic  [/lo'dʒɪstɪk/]()  adj  **后勤的**   **物流**
 
@@ -888,7 +892,11 @@
 
    **stockholder/shareholder**（股东）：Stockholder 或 Shareholder 指的是拥有某个公司股份（股票）的个人或机构。他们通过购买公司的股票来成为公司的股东。股东拥有公司的所有权，并享有相应的权益，如资本收益和股息分红。股东通常被视为公司的所有者，他们有权参与公司的决策，并有权收到公司的经济利益
 
-9. **demystify **[/ˌdiːˈmɪstɪfaɪ/]( )   *vt.* 使非神秘化  **mystify**   /'mɪstə'fai/  vt. 使神秘化
+9. **demystify **[/ˌdiːˈmɪstɪfaɪ/]( )   *vt.* 使非神秘化 解密  **mystify**   /'mɪstə'fai/  vt. 使神秘化
+
+   We demystify the research and help you understand what it really means.   我们将为您揭开研究的神秘面纱，帮助您了解研究的真正含义
+
+   The author's imagery mystifies me.   作者的隐喻让我感到迷惑  
 
 10. **demarcate**  [/ˈdiːmɑːrket/]( )  *vt.* 定…的界线；区分   *[pressure demarcate]( )* 压力标定 
 
@@ -2983,8 +2991,8 @@
     they are obsolete 过时了 
     
     equip a car with snow tires.  /taɪr/   为轿车配备雪地胎
-
-#### 006G
+    
+    However, that meaning of the sticky bit is now **obsolete** and modern systems **silently** ignore the sticky bit  when it’s set on regular files. 然而，这种对粘性位的解释现在已经**过时**，现代系统在常规文件上设置粘性位时会**默默地**忽略它
 
 1. **experimental**  [/ɪkˌspɛrɪˈmɛntl/]( )   *adj.* 实验(性)的, 试验(性)的    experience  [ /ɪk'spɪrɪəns/]( )
 
@@ -4660,7 +4668,7 @@ than（比）：taller than her（比她高）
 
     "Redundancy" 更强调于事物的多余性，而 "Verbose" 更强调于语言表达的过度 
 
-38. **reclaim**  [ /rɪˈklem/]()   *vt.*  
+38. **reclaim**  [ /rɪˈklem/]()   *vt.*  回收再利用
 
     *[baggage reclaim]( )* 行李提取处；领取行李处   /ˈbæɡɪdʒ/
 
@@ -4678,6 +4686,8 @@ than（比）：taller than her（比她高）
     总之，"Reclaim" 这个词在各个领域中都有应用，但主要指重新获得、重新拥有、回收、再利用、改造、治理、矫正等。
 
     disclaimer 免责声明
+
+    Situations in which physical memory becomes scarce often result in memory pages being written to disk so that they can be reclaimed and reused for another purpose. 当物理内存变得稀缺的情况经常导致内存页面被写入磁盘，这样它们就可以被回收并重新用于其他目的 
 
 39.  **infer**  [ /ɪnˈfɜːr/]()    *vt.* 推断, 推知 
 
@@ -5172,53 +5182,58 @@ than（比）：taller than her（比她高）
 
     Tweaking the constitution is not the answer.  修宪不是解决问题的办法 
 
-    But we could tweak the case  但是我们可以将这个例子稍作调整
+    But we could **tweak** the case  但是我们可以将这个例子**稍作调整**
 
-15. **precedence**  [ /ˈprɛsɪdəns/]()   *n.* 
 
-    *take precedence over* 优先于；地位高于；比…重要
+15. unobtrusive    /ˌʌnəbˈtruːsɪv/   adj. 不引人注目的，不显眼的 
 
-    *operator precedence* 算符优先；[计]操作优先
+    Instead, play something mellow and unobtrusive.  相反，播放一些柔和低调的音乐
 
-    *order of precedence* 优先顺序
+1. **precedence**  [ /ˈprɛsɪdəns/]()   *n.* 
 
-    Suddenly thoughts started taking precedence over feelings   于是突然之间 理性战胜了情感 
+   *take precedence over* 优先于；地位高于；比…重要
 
-16. **massage**  [ /məˈsɑːʒ/]()   *n.* 按摩, 推拿 foot massage 足部按摩；脚底按摩   sausage
+   *operator precedence* 算符优先；[计]操作优先
 
-17. fan-out n. 扇出；展开；分列（账户）
+   *order of precedence* 优先顺序
 
-    The fan-out operation distributes the workload across multiple nodes in the distributed computing system.     fan-out 操作将工作负载分布到分布式计算系统中的多个节点
+   Suddenly thoughts started taking precedence over feelings   于是突然之间 理性战胜了情感 
 
-18. **decentralize**  [ /ˌdiːˈsɛntrəlaɪz/]()  *vt.* 权力下放；将(权力等)自中央政府转到地方政府  n. 分散 
+2. **massage**  [ /məˈsɑːʒ/]()   *n.* 按摩, 推拿 foot massage 足部按摩；脚底按摩   sausage
 
-    *[Decentralized]()* 去中心化; 分散管理的; 分散化; 分散的;
+3. fan-out n. 扇出；展开；分列（账户）
 
-    **European** countries were trying to **decentralize** and **devolve**  欧洲国家尝试着分权和移交权力**devolve**  [ /dɪ'vɑlv/]()  vi. 被移交；转让  vt. 转移；移交；使滚下；衰落
-    
-    It also has the nice **property** of being decentralized, with no central authority  /əˈθɔːrɪti/ or single point of failure.  它还具有去中心化的优点，没有中央集权或单点故障
+   The fan-out operation distributes the workload across multiple nodes in the distributed computing system.     fan-out 操作将工作负载分布到分布式计算系统中的多个节点
 
-19. **counterpart**  [ /ˈkaʊntərpɑːrt/]()  *n.* 与对方地位相当的人; 副本
+4. **decentralize**  [ /ˌdiːˈsɛntrəlaɪz/]()  *vt.* 权力下放；将(权力等)自中央政府转到地方政府  n. 分散 
 
-    It has no counterpart in the world  举世无双
+   *[Decentralized]()* 去中心化; 分散管理的; 分散化; 分散的;
 
-20. **prefetch** [ /'pri:'fɛtʃ/]()  v. 预取     **Link prefetch**: 预加载
+   **European** countries were trying to **decentralize** and **devolve**  欧洲国家尝试着分权和移交权力**devolve**  [ /dɪ'vɑlv/]()  vi. 被移交；转让  vt. 转移；移交；使滚下；衰落
 
-21. **customise**  [/ˈkʌstəˌmaɪz/]()  *vt.* 定制,定做 
+   It also has the nice **property** of being decentralized, with no central authority  /əˈθɔːrɪti/ or single point of failure.  它还具有去中心化的优点，没有中央集权或单点故障
 
-    *[Customise text]()* 自定义文字
+5. **counterpart**  [ /ˈkaʊntərpɑːrt/]()  *n.* 与对方地位相当的人; 副本
 
-22. "override" 表示子类重写或覆盖父类的方法
+   It has no counterpart in the world  举世无双
 
-    在软件和应用程序中，"override" 可用于指定特定设置或配置项覆盖默认值或全局设置 
+6. **prefetch** [ /'pri:'fɛtʃ/]()  v. 预取     **Link prefetch**: 预加载
 
-23. **iterate** [ /ˈɪtəret/]() vt 迭代
+7. **customise**  [/ˈkʌstəˌmaɪz/]()  *vt.* 定制,定做 
 
-24. upstream [/ˌʌp'strim/]() 
+   *[Customise text]()* 自定义文字
+
+8. "override" 表示子类重写或覆盖父类的方法
+
+   在软件和应用程序中，"override" 可用于指定特定设置或配置项覆盖默认值或全局设置 
+
+9. **iterate** [ /ˈɪtəret/]() vt 迭代
+
+10. upstream [/ˌʌp'strim/]() 
 
     the upstream region 上游地区
 
-25. **quorum** [/'kwɔrəm/]() n. 法定人数 
+11. **quorum** [/'kwɔrəm/]() n. 法定人数 
 
      The **judge** said **parliament** had passed the **measure** without the necessary **quorum** **法官**说，**议会**在没有必要的**法定人数**的情况下通过了该**措施**。
 
@@ -5360,6 +5375,10 @@ than（比）：taller than her（比她高）
 
    *restrictive condition* 限制条件
 
+   The political /pəˈlɪtɪkl/  argument for a restrictive regime  /reˈʒiːm/ is weakening.  对于限制性政策的政治论点正在减弱
+
+   That information is restricted to hospital staff.  该信息仅限医院员工查阅
+
 2. **telemetry**  [ /tə'lɛmɪtri/]()  *n.* 遥感勘测,自动测量记录传导 
 
    *telemetry data* 遥测数据 
@@ -5370,24 +5389,26 @@ than（比）：taller than her（比她高）
 
 3. **traverse**  [ /trəˈvɜːrs/]()  旅行和探险 横穿或横越 
 
-   The algorithm recursively traverses the binary tree to find the target node  该算法通过递归遍历二叉树以找到目标节点
+   The algorithm recursively   /rɪ'kɝsɪv/ traverses the binary tree to find the target node  该算法通过递归遍历二叉树以找到目标节点
 
-   The hikers plan to traverse the entire mountain range   这些徒步旅行者计划横穿整个山脉
+   The hikers plan to traverse the entire  /ɪnˈtaɪər/ mountain range   这些徒步旅行者计划横穿整个山脉
 
    We need to traverse the entire array to find the maximum  /ˈmæksɪməm/ value  我们需要遍历整个数组来找到最大值
 
    The algorithm traverses the graph /ɡræf/ to find the shortest path  该算法遍历图来找到最短路径
 
-   **Iterate**  
+   **iterate**  
 
    - The program iterates through the list and **performs a specific operation** on each element.  程序对列表进行迭代，并对每个元素**执行特定操作** 
    - You can use a loop to iterate over the elements of the array.  你可以使用循环来迭代数组的元素 
 
-4. **facilitate**  [ /fəˈsɪlɪtet/]()  *vt.* 使便利, 减轻…的困难 
+4. **facilitate**  [ /fəˈsɪlɪtet/]()  *vt.* 使便利, 减轻…的困难
 
    The great cultural impact of printing was that it facilitated the growth of national languages   印刷术的巨大文化影响在于促进了民族语言的发展
 
-5. *[get rid of pollution]()* 摆脱污染; 清除污染 
+5. get rid of pollution   摆脱污染; 清除污染 
+
+   For 20 years, we tried to get rid of it   20年来，我们努力去消灭它 (注意get rid of it 读音)
 
 6. **complementary**  [ /ˌkɑːmplɪˈmɛntri/]()   *adj.* 互补的
 
@@ -5578,15 +5599,23 @@ than（比）：taller than her（比她高）
     *under the circumstance* 在这种情况下
 
     He was there, in the **essential**, classic circumstance  他在那里，处于基本的、经典的情况下
+    
+42. Don’t mess with  别惹... 
 
 
-#### 023G
+#### 023G 
 
 1. **resort**    /rɪˈzɔːrt/   n. 凭借 手段 常去之地 度假胜地  vi. 求助 诉诸 采取某手段或方法 常去
 
    seaside resort 海滨疗养地 
 
-   Under no **circumstances** should you **resort** to force  不管任何情况你都不应该诉诸暴力
+   倒装句：Under no **circumstances** should you **resort** to force  不管任何情况你都不应该诉诸暴力
+
+   正常语序：  You should not resort to force under any circumstances. 
+
+   But I was forced to resort to various tactics  但我不得不采取各种手段 
+
+   tactic   /ˈtæktɪk/  n. 方法, 策略  战术, 兵法 
 
 2. **essential**  /ɪˈsɛnʃl/  adj. 基本的；必要的；本质的；精华的  n. 本质；要素；要点；必需品
 
@@ -5602,9 +5631,9 @@ than（比）：taller than her（比她高）
    4. 核心或基础："Essential"可以用来描述某个事物的核心或基础部分。 essential elements (基本要素), essential components (核心组成部分)
    5. 重要的、必要的："Essential"可以用来形容某个事物非常重要或必要。 essential role (关键角色), essential step (必要步骤)
 
-   In fact, it's **neither** detrimental **nor** essential for your health 事实上，它对你的健康没有害处，但也不是身体所需物质
+   In fact, it's **neither** detrimental **nor** essential for your health 实际上，它对你的健康既不是有害的，也不是必要的
 
-   neither nor 
+   neither /'niðɚ/  nor   /nɔr/  
 
    既不 ... 也不 ...
 
@@ -5616,7 +5645,7 @@ than（比）：taller than her（比她高）
 
    I did a two-hour workout in the gym  我在健身房锻炼了两个小时 
 
-4. is not yet valid  还没有生效
+4. is not yet valid  还没有生效 
 
    This certificate trust list has expired or is not yet valid  该证书信任列表已过期，或者尚未生效
 
@@ -5624,7 +5653,7 @@ than（比）：taller than her（比她高）
 
    subscriptable  可索引的 ： 列表（List） 字符串（String） 元组（Tuple） 字典（Dictionary） 
 
-   This little subscript two tells us there's two of the hydrogen  /ˈhaɪdrədʒən/ atoms  /ˈætəm/ in this molecule /ˈmɑːlɪkjuːl/.   这个小的下标 "2 "告诉我们，这个分子中有两个氢原子 
+   This little subscript ‘2’ tells us there's two of the hydrogen  /ˈhaɪdrədʒən/ atoms  /ˈætəm/ in this molecule /ˈmɑːlɪkjuːl/.   这个小的下标 "2 "告诉我们，这个分子中有两个氢原子 
 
 6. synthesis /ˈsɪnθəsɪs/  〈化〉合成  n. 综合, 综合法
 
@@ -5702,11 +5731,13 @@ rational + ity = rationality
 
 5. Norwegian  /nɔrˈwidʒən/  n. adj. 挪威人 
 
-6. Korean   /kə'riən/  n. adj.  韩国人 韩国人的
+6. Korean   /kə'riən/  n. adj.  韩国人 韩国人的 
 
 7. undergo   /ˌʌndərˈɡo/   vt. 经历，经受；忍受 
 
-   Since this document still might undergo changes, these translations may not always be up to date 由于本文档仍可能发生变化，这些译文可能并不总是最新的
+   表原因：Since this document still might undergo changes, these translations may not always be up to date 由于本文档仍可能发生变化，这些译文可能并不总是最新的
+
+   表时间段：I have been living in this city since 2010.  我从2010年开始一直住在这个城市
 
 8. swamp   /swɑːmp/  n. 沼泽，低地，水洼；湿地  v.  使疲于应对  **淹没**  使陷入困境
 
@@ -5718,7 +5749,7 @@ rational + ity = rationality
 
 11. verbatim  /vɜːrˈbetɪm/ adj. & adv. (完全)照字面的(地),逐字的(地)  n. 逐字翻译 
 
-    a verbatim account of what was said  对所说内容的逐字逐句记录   逐字记录  
+    a verbatim account of what was said  对所说内容的逐字逐句记录
 
     "account" 的意思是指对某件事情或事件的详细描述、记录或陈述 
 
@@ -5736,11 +5767,13 @@ rational + ity = rationality
 
 14. "i.e." 通常用于解释或进一步说明之前提到的内容，以便更清楚地阐述意思或给出更具体的说明。它用于引导一个解释性的附加说明，用来澄清或限定之前所说的内容 I like various fruits, such as apples, bananas, i.e., I like those sweet fruits. 
 
+    e.g.  例如 
+
 15. carry over  继续  结转  把...留到以后处理  继续存在 
 
     We can carry it over to Thursday if we need to  如果需要，我们可以把它延续到星期四 
 
-16. nifty /ˈnɪfti/  adj. 俏皮的；漂亮的 n. 俏皮话 有趣的东西
+16. nifty /ˈnɪfti/  adj. 俏皮的；漂亮的   n. 俏皮话 有趣的东西
 
     Python has all kinds of nifty things like *named arguments* and *default arguments* and can handle **a variable /ˈvɛriəbl/  number of arguments** to a single function.  Python 有各种有趣的东西，比如命名参数和默认参数，并且可以处理单个函数的可变参数。
 
@@ -5750,9 +5783,11 @@ rational + ity = rationality
 
 19. a matter of programming style 编程风格问题
 
+    "a matter of" 表示 "一个问题" 或 "关乎" 的意思，用来强调所讨论的主题或事物的重要性或影响
+
 20. naming-conventions 命名公约
 
-21. This mechanism makes `and` and `or` behave like the boolean  /ˈbuliən/ operators they **are supposed to** implement, but they also let you write short and sweet little **conditional expressions**    这种机制使得 `and` 和 `or` 表现得像它们被期望实现的布尔运算符一样，但同时也允许你编写简洁明了的条件表达式
+21. This mechanism makes `and` and `or` behave like the boolean  /ˈbuliən/ operators they **are supposed to** implement, but they also let you write short and sweet little **conditional expressions**.  This mechanism使得`and`和`or`像它们**应该实现的**布尔运算符一样运作，同时也允许您编写简短而简洁的**条件表达式**。
 
     be supposed to  应该，认为必须，被期望 
 
