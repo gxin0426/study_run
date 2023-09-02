@@ -2,41 +2,95 @@
 
 #### 001g
 
-1. deep <---> shollow /ˈʃælo/  
+1. deep <---> shallow /ˈʃælo/  
 
-   However, these relationships are often quite shallow  然而，这些关系往往很肤浅
+   However, these relationships are often quite  /kwaɪt/  shallow  然而，这些关系往往很肤浅
 
 2. He represents you in the meeting   ==  He is **attending** the meeting on your behalf.  
 
 3. current <---> legacy 
 
-   The current system supports modern encryption methods, while the legacy system relies on outdated  /ˌaʊtˈdetɪd/  algorithms.  当前系统支持现代加密方法，而传统系统则依赖于过时的算法 
+   The current system supports modern encryption methods, while the legacy system relies on outdated  /ˌaʊtˈdetɪd/  algorithms.  当前系统支持现代加密方法，而遗留的系统则依赖于过时的算法
 
-4. Outpouring of support 可以翻译为 "大量支持" 或 "激增的支持" 
+   previous    /ˈpriːviəs/   adj. 以前的  早先的
 
-5. I desperately want to believe but i think we are getting overexcited about a diamagnet 我非常渴望去相信，但我认为我们对一个抗磁体过于兴奋了
+   Other churches  /tʃɜːrtʃ/  were conserved in previous years  前几年保护了其他教堂 
 
-   desperately   /ˈdɛspərɪtlɪ/   adv. 绝望地；不顾一切地，拼命地  
+   legacy    /ˈlɛɡəsi/ n. 遗留之物 
 
-   desperate  /ˈdɛspərət/  adj. 不顾一切的, 拼命的 
+   当谈论技术或系统时，"legacy" 通常指的是旧的、过去的或不再是主流的技术或系统 
 
-   It had been his last, desperate hope.   这是他仅存的一点渺茫的希望
+4. Outpouring of support 可以翻译为 "大量支持" 或 "激增的支持"  
 
-6. Honor, Fame, Recognition  荣誉、名声、认可
+   We're [wiːr]  fairly confident. You know we've  [wiːv] seen an outpour of support for this president, like which we haven't seen really this ever.  我们非常有信心，我们看到民众非常支持总统，支持的力度也是我们从未见过的
 
-7. Still, go through the exercise of making this **cheat sheet**.  不过，还是做一下这个备忘录的练习吧 
+5. I desperately want to believe but i think we are getting overexcited about a diamagnet /ˈdaɪəˌmæɡnɪt/ 我非常渴望去相信，但我认为我们对一个抗磁体过于兴奋了
 
-8. This is the cutest thing ever   这是史上最可爱的东西 
+   desperate  /ˈdɛspərɪt/  adj.   迫切的 渴望的
 
-9. Demystifying HashMap in Java: How it Works Under the Hood 揭秘Java中的HashMap：底层原理解析
+   **形容人在情感上的状态**：
 
-10. morality     /məˈræləti/  
+   - I'm so desperate for a job; I'll take anything at this point. 我非常渴望一份工作，在这一点上，我什么都愿意接受
+   - She was desperate to see him again.
+
+6. Honor, Fame, Recognition   /ˌrɛkəɡˈnɪʃn/  荣誉、名声、认可 
+
+   **honor (荣誉)**：
+
+   - **意义**：尊重和敬意，通常是因为一个人的品格或行为。它也可以指代一个特殊的荣誉或奖励，表示某人的特殊成就或贡献
+     - It's an honor to meet you.
+     - She received several honors for her work in science.
+     - He servefd his country with honor.
+
+   **fame (名声)**：
+
+   - **意义**：被许多人知道或认识的状态，通常是因为一个人的特殊才能、成就或特点
+     - He achieved fame as a talented actor.
+     - The book's sudden fame surprised its author.
+     - She couldn't handle the pressures of fame.
+
+   **recognition (承认、认可)**：
+
+   - **意义**：对某人或某事的才能、成就、价值或存在的承认或认识。这通常意味着某人因其努力或成就而被赞赏或赞扬。
+     - She received recognition for her volunteer work.
+     - His invention gained international recognition.
+     - It's not about money, it's about getting recognition for my efforts.
+
+   尽管这三个词都与个人的成就和地位有关，但它们之间存在一些微妙的差异。"Honor" 与尊重和敬意有关，"Fame" 与广泛的知名度有关，而 "Recognition" 与对某人或某事价值的承认和赞赏有关。
+
+   Receive 和 Achieve是两个完全不同的动词，它们的意思和用法有所不同
+
+   **Receive (收到，接收)**
+
+   - **意义**：得到或接受某物。这可能是一个物体、信息、礼物、奖励等
+     - She received a letter in the mail.
+     - He received an award for his hard work.
+
+   **Achieve (实现，达到)**
+
+   - **意义**：成功地完成或达到某事，通常是通过努力、技能或勇气
+     - She achieved her goal of running a marathon.
+     - He achieved success in his career.
+
+   **总结**：
+   - receive 通常涉及到得到或接受某物，无需强调付出努力或使用技能
+   - achieve 则强调了努力和技能的使用，以达到或完成特定的目标或目的
+
+   这些词在上下文中的用法可能更容易理解。例如，你可能会 receive 一个奖项作为achieve 一个目标的结果。你achieve目标，然后作为结果你receive奖励
+
+7. Still, go through the exercise of making this **cheat sheet**.  不过，还是做一下这个备忘录(小抄)的练习吧 
+
+8. This is the cutest thing **ever**   这是史上最可爱的东西 
+
+9. Demystifying HashMap in Java: How it Works **Under the Hood** 揭秘Java中的HashMap：底层原理解析
+
+10. morality     /məˈræləti/   道德
 
    Conservatives often lament the role Hollywood plays in undermining morality.    保守派经常哀叹好莱坞在破坏道德方面所扮演的角色 
 
-   lament    /lə'mɛnt/   n. 挽歌  vi. 悲叹  vt. 哀悼 
+   lament    /lə'mɛnt/   n.  悲叹  vi. 悲叹  vt. 哀悼 
 
-   undermine    /ˌʌndərˈmaɪn/  vt. 在某物下挖洞或挖通道   暗中破坏；逐渐削弱  
+   undermine    /ˌʌndərˈmaɪn/  vt. 在某物下挖洞或挖通道   暗中破坏；逐渐削弱   破坏
 
    conservative   /kənˈsɜːrvətɪv/   n. 保守的人   adj. 保守的  
 
@@ -50,7 +104,7 @@
 
 13. phony   /ˈfoni/   adj.  假冒的 n. 赝品 
 
-14. imperialism  /ɪmˈpɪriəlɪzəm/ 
+14. imperialism  /ɪmˈpɪriəlɪzəm/  n. 帝国主义
 
 15. for good  永久地   ==  for good and all
 
@@ -59,6 +113,26 @@
 17. along with 还有啥啥啥  表达的是一种附加信息
 
 18. it may seem strange that this chapter reads as if there were only a single filesystem.本章似乎读起来就好像只有一个单一的文件系统一样，这可能显得有些奇怪 
+
+19. recapitulation  /ˌrikə,pɪtʃə'leʃən/  n. 摘要重述
+
+20. would you sit and chill with this panda? 
+
+    “chill”是一个非正式的俚语，通常意味着“放松”、“休息”或“轻松地度过时间”。因此，“would you sit and chill with this panda?”可以被理解为“你愿意和这只熊猫坐下来放松一下吗？”或“你愿意和这只熊猫坐下来轻松地度过一些时间吗？”。这是一个轻松、友好的提议，邀请某人与熊猫一起度过愉快的时光
+
+21. subsample   /'sʌb,sæmpl/  vt. 二次抽样
+
+22. interpolate /ɪnˈtɜːrpəlet/    v. 插入  篡改
+
+23. affine  /ə'faɪn/  n. 姻亲  adj. 仿射(几何学)的 姻亲
+
+24. spatial signal  空间信号   /ˈspeʃl/  
+
+25. temporal signal  时间信号  /ˈtɛmpərəl/   
+
+26. flaw   /flɔː/ n.瑕疵 缺点 
+
+27. insane  /ɪnˈsen/   adj. 精神病的 极愚蠢的
 
 ### linux administration handbook
 
@@ -758,6 +832,123 @@
 16. "CPU hogs" 指的是那些非常贪婪、消耗大量CPU时间的进程 
 
 17. but in a live, regularly updated format that shows the status of the system over time. 但它以实时、定期更新的格式展示，能够显示系统随时间变化的状态 
+
+18. as用法
+
+    当然可以，以下是 "as" 的各种用法及其对应的例句：
+
+    1. **表示程度的对比**：
+       - 例句：She is **as talented as** her sister.
+         - 翻译：她和她的姐姐一样有才华。
+
+    2. **表示可能的程度**：
+       - 例句：The weather today is **not as warm as** yesterday.
+         - 翻译：今天的天气不如昨天温暖。
+
+    3. **表示方式或时候**：
+       - 例句：She sang **as** she cleaned the house.
+         - 翻译：她一边打扫房子一边唱歌。
+       - 例句：Please do **as** I instructed.
+         - 翻译：请按我指示的做。
+
+    4. **表示原因**：
+       - 例句：**As** it's raining, we won't go to the park.
+         - 翻译：因为下雨，所以我们不去公园了。
+
+    5. **描述同时发生的动作或状态**：
+       - 例句：His face turned red **as** he tried to hold back his tears.
+         - 翻译：当他试图忍住不哭时，他的脸变红了。
+
+
+19. comparable  /ˈkɑːmpərəbl/  adj. 类似的, 同类的, 相当的 
+
+20. Ages ago 很久以前
+
+21. in this fashion 以这种方式 
+
+    Pages that have been laundered in this fashion  以这种方式清洗过的页面
+
+#### 010
+
+1. stay ahead of  领先于  走在……的前面  “预先满足  提前应对
+
+   She trained hard to stay ahead of her competitors.
+
+2. reclaim 回收
+
+3. a substantial portion of 大部分
+
+4. quantitative values 量化值
+
+5. obscure  /əbˈskjʊr/  adj. 模糊的 晦涩的
+
+6. commitment n. 承诺；保证；信奉；献身；委任；花费金钱、时间、人力等 
+
+7. "quick-and-dirty" 是一个常用的成语，用于描述某样东西是快速制作或执行的，通常为了立即的需要，而没有为长期或完美性考虑。这意味着这样的解决方案或方法可能不是最优的、最完善的或最细致的，但它能够迅速地达到某种目的
+
+8. take the form of 采取.....形式
+
+9. sluggish  /ˈslʌɡɪʃ/ adj.  迟钝的
+
+   you will find that even properly configured systems are sometimes more sluggish than usual 您会发现即使是配置得当的系统有时也比平时更加迟缓
+
+10. transient problems 瞬时问题
+
+    greedy process 贪婪的进程
+
+    malicious   /mə'lɪʃəs/   adj. 恶意的, 恶毒的
+
+    malicious processes 恶意进程
+
+    runaway processes 失控的进程
+
+11. intentionally 有意的 故意的 intentional 
+
+12. Any process that’s using more than 50% of the CPU is likely to be at fault. 任何使用超过50% CPU的进程都可能是**问题所在**
+
+13. cpu contention cpu竞争
+
+    If no CPU contention is evident  如果没有明显的CPU争用
+
+14. obtrusive   /əb'trusɪv/ adj.  (难看得)刺眼的 显眼的
+
+15. intimate   /ˈɪntəmɪt/  adj. 亲密的 
+
+16. bound up with  绑定 
+
+17. it’s hard to **tell** where system performance ends and network performance begins.很难**区分**系统性能结束的地方和网络性能开始的地方 
+
+18. glitch  /ɡlɪtʃ/ 小故障；失灵；短时脉冲波干扰 
+
+19. crises  /'kraɪsiz/  n. 危险,危险期,紧要关头
+
+20. constantly   /'kɑnstəntli/  adv. 不断地;时常地
+
+21. ripple   /ˈrɪpl/  vt. 在…上形成波痕
+
+    "ripple" 这个词的原始意思是水面的轻微的、小范围的波动或波纹，就像你在平静的水面上投下一个石头时产生的那种波纹。
+
+    在上下文中，"ripple" 用作动词，意思是"产生连锁反应"或"影响逐渐扩散"。比如，当一件事情的效果逐渐传播或影响到其他相关事物时，我们可以说它产生了“ripple effects”。
+
+    除了上述的用法，"ripple" 在不同的语境中还有其他用法和意义，包括：
+
+    1. **动词**：（液体的表面）形成波纹，如："The wind rippled the water's surface."
+    2. **名词**：轻微的波动或波纹，如："The pond was still except for a small ripple."
+    3. **动词**：在某物中产生、感受到或展示轻微的、持续的感觉、声音或运动，如："A ripple of laughter ran through the crowd."
+    4. **名词**：(在结构或图案中)轻微的差异，如："a ripple in the smooth surface of the wall"
+    5. **名词**：在电子学中，电源或信号中的不希望的小波动。
+
+    在解释某些技术性或比喻性的用法时，"ripple" 的含义可能会因上下文而异，但核心的概念通常都是某种形式的小范围、连续的波动或影响。
+
+22. are responsible for 负责
+
+    Audit managers are responsible for organising and overseeing internal audits  审计经理负责组织和监督内部审计
+
+23. forward and reverse
+
+
+
+
 
  
 

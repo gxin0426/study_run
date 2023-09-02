@@ -3125,6 +3125,8 @@
 
     *residual oil* 渣油，残油 
 
+    residual net 残差网络
+
 11. academy [ /əˈkædəmi/]( ) 
 
 12. reliably  [ /rɪˈlaɪəblɪ/](  )  
