@@ -1,6 +1,6 @@
 ### number1
 
-#### 001g
+###### 001g
 
 1. deep <---> shallow /ˈʃælo/  
 
@@ -10,13 +10,13 @@
 
 3. current <---> legacy 
 
-   The current system supports modern encryption methods, while the legacy system relies on outdated  /ˌaʊtˈdetɪd/  algorithms.  当前系统支持现代加密方法，而遗留的系统则依赖于过时的算法
+   The current system supports modern  /'mɑdɚn/ encryption methods, while the legacy system relies on outdated  /ˌaʊtˈdetɪd/  algorithms.  当前系统支持现代加密方法，而遗留的系统则依赖于过时的算法
 
    previous    /ˈpriːviəs/   adj. 以前的  早先的
 
    Other churches  /tʃɜːrtʃ/  were conserved in previous years  前几年保护了其他教堂 
 
-   legacy    /ˈlɛɡəsi/ n. 遗留之物 
+   legacy    /ˈlɛɡəsi/ n. 遗留之物  
 
    当谈论技术或系统时，"legacy" 通常指的是旧的、过去的或不再是主流的技术或系统 
 
@@ -33,14 +33,14 @@
    - I'm so desperate for a job; I'll take anything at this point. 我非常渴望一份工作，在这一点上，我什么都愿意接受
    - She was desperate to see him again.
 
-6. Honor, Fame, Recognition   /ˌrɛkəɡˈnɪʃn/  荣誉、名声、认可 
+6. honor, fame, recognition   /ˌrɛkəɡˈnɪʃn/  荣誉、名声、认可 
 
    **honor (荣誉)**：
 
    - **意义**：尊重和敬意，通常是因为一个人的品格或行为。它也可以指代一个特殊的荣誉或奖励，表示某人的特殊成就或贡献
      - It's an honor to meet you.
      - She received several honors for her work in science.
-     - He servefd his country with honor.
+     - He served his country with honor.
 
    **fame (名声)**：
 
@@ -56,17 +56,17 @@
      - His invention gained international recognition.
      - It's not about money, it's about getting recognition for my efforts.
 
-   尽管这三个词都与个人的成就和地位有关，但它们之间存在一些微妙的差异。"Honor" 与尊重和敬意有关，"Fame" 与广泛的知名度有关，而 "Recognition" 与对某人或某事价值的承认和赞赏有关。
+   尽管这三个词都与个人的成就和地位有关，但它们之间存在一些微妙的差异。honor 与尊重和敬意有关，fame与广泛的知名度有关，而recognition与对某人或某事价值的承认和赞赏有关。
 
-   Receive 和 Achieve是两个完全不同的动词，它们的意思和用法有所不同
+   receive 和 achieve是两个完全不同的动词，它们的意思和用法有所不同
 
-   **Receive (收到，接收)**
+   **receive (收到，接收)**
 
    - **意义**：得到或接受某物。这可能是一个物体、信息、礼物、奖励等
      - She received a letter in the mail.
      - He received an award for his hard work.
 
-   **Achieve (实现，达到)**
+   **achieve (实现，达到)**
 
    - **意义**：成功地完成或达到某事，通常是通过努力、技能或勇气
      - She achieved her goal of running a marathon.
@@ -84,7 +84,7 @@
 
 9. Demystifying HashMap in Java: How it Works **Under the Hood** 揭秘Java中的HashMap：底层原理解析
 
-10. morality     /məˈræləti/   道德
+10. morality /məˈræləti/ 道德
 
    Conservatives often lament the role Hollywood plays in undermining morality.    保守派经常哀叹好莱坞在破坏道德方面所扮演的角色 
 
@@ -102,37 +102,167 @@
 
     personal profile 个人档案；个人资料 
 
-13. phony   /ˈfoni/   adj.  假冒的 n. 赝品 
+13. phony   /ˈfoni/   adj.  假冒的 n. 赝品  骗子
+
+    nobody likes a phony  没人喜欢骗子
 
 14. imperialism  /ɪmˈpɪriəlɪzəm/  n. 帝国主义
 
+    The shrine is a symbol of Japanese imperialism  神社是日本帝国主义的象征 
+
 15. for good  永久地   ==  for good and all
 
-16. defunct  /dɪˈfʌŋkt/ adj. 非现存的；死的  n. 死者
+    We terminated the project for good  我们永久终止了该项目
+
+    “for good”，“permanently”，和“forever”都有描述事物具有永久性或持续性的含义，但是它们的用法和语境有些许差异。让我们分别来看看它们：
+
+    for good
+    - 通常用于描述一个决定或行动具有终结性或永久性的性质
+    - He left the job for good.  他永远辞去了那份工作
+    - 它通常用于具体的行动或决定，强调一个特定的终结点
+
+    permanently 
+    - 用于描述一个状态或条件是持久不变的或不可逆的
+    - The facility was permanently closed due to safety concerns. 由于安全问题，该设施被永久关闭了
+    - 它可以用在正式和非正式的语境中，适用于多种情况
+
+    forever
+    - 用于描述时间上的永恒，可以用于字面意义上的“永远”，也可以用于强调事物的持续时间非常长
+    - They promised to love each other forever.  他们承诺永远相爱
+    - 它可以用于更抽象或感性的语境，或者用于描述时间无穷的概念
+
+    **总结**：
+
+    - for good 更侧重于描述一个终点或结束，而 permanently 和 forever 则更强调持续性或不变性
+    - forever 可以用于描述更抽象、感性或哲学的概念，而for good和permanently通常用于描述更具体或实际的情况
+
+16. defunct  /dɪˈfʌŋkt/ adj. 用来描述不再存在的、不再运作的或已经废止的事物
+
+    I found **a bunch of** defunct cell phones in my drawer while cleaning. 我在清理抽屉时发现了一堆废弃的手机
 
 17. along with 还有啥啥啥  表达的是一种附加信息
 
-18. it may seem strange that this chapter reads as if there were only a single filesystem.本章似乎读起来就好像只有一个单一的文件系统一样，这可能显得有些奇怪 
+    Please bring the cups along with the plates. 
 
-19. recapitulation  /ˌrikə,pɪtʃə'leʃən/  n. 摘要重述
+18. it may seem strange that this chapter reads **as if** there were only a single filesystem.本章读起来好像只有一个文件系统，这似乎有些奇怪
+
+19. recapitulation  /ˌrikə,pɪtʃə'leʃən/  n. 摘要重述   ===> recap
 
 20. would you sit and chill with this panda? 
 
-    “chill”是一个非正式的俚语，通常意味着“放松”、“休息”或“轻松地度过时间”。因此，“would you sit and chill with this panda?”可以被理解为“你愿意和这只熊猫坐下来放松一下吗？”或“你愿意和这只熊猫坐下来轻松地度过一些时间吗？”。这是一个轻松、友好的提议，邀请某人与熊猫一起度过愉快的时光
+    “chill”是一个非正式的俚语，通常意味着“放松”、“休息”或“轻松地度过时间”。因此，“would you sit and chill with this panda?”可以被理解为“你愿意和这只熊猫坐下来放松一下吗？”或“你愿意和这只熊猫坐下来轻松地度过一些时间吗？”
 
-21. subsample   /'sʌb,sæmpl/  vt. 二次抽样
+21. subsample   /'sʌb,sæmpl/  vt.  (从样品中再抽取的)子样品 
+
+    The subsample revealed a similar trend as observed in the full dataset 
 
 22. interpolate /ɪnˈtɜːrpəlet/    v. 插入  篡改
 
-23. affine  /ə'faɪn/  n. 姻亲  adj. 仿射(几何学)的 姻亲
+    To find the missing data points, we will interpolate between the known values. 为了找到缺失的数据点，我们将在已知值之间进行插值
 
-24. spatial signal  空间信号   /ˈspeʃl/  
+23. affine  /ə'faɪn/   n. adj. 仿射(几何学)的 
 
-25. temporal signal  时间信号  /ˈtɛmpərəl/   
+    We like to call these operations affine transformations.  我们喜欢把这些操作称为仿射变换 
 
-26. flaw   /flɔː/ n.瑕疵 缺点 
+24. spatial /ˈspeʃl/ signal  空间信号
 
-27. insane  /ɪnˈsen/   adj. 精神病的 极愚蠢的
+    temporal /ˈtɛmpərəl/ signal  时间信号 
+
+25. flaw   /flɔː/ n.瑕疵 缺点 
+
+    Money often makes obvious our tragic human flaws.  钱往往能暴露人性中那些可悲的弱点
+
+    tragic  /ˈtrædʒɪk/   adj. 悲剧的 
+
+26. insane  /ɪnˈsen/   adj. 精神病的 极愚蠢的
+
+    You're insane. Your whole family is insane  你真的不正常 你全家都不正常 
+
+###### 002g
+
+1. fellow   /ˈfɛlo/  n. (大学的)研究员，(学术团体的)会员 
+
+2. adversarial  /ˌædvɚ'sɛrɪəl/ adj. 敌手的,对手的,对抗(性)的 
+
+   generative adversarial networks  
+
+3. stochastic  /sto'kæstɪk/  adj. 随机的 
+
+4. **by the time** they complish that, GPT5 will be out 
+
+5. Let's **go over** the plan **one more time**.   让我们**再次** 仔细讨论一下计划 
+
+   I need to go over my notes before the exam 我需要在考试前复习我的笔记
+
+6. spawn 更常用于多任务或并行计算的上下文中，特别是在计算机科学和分布式计算中。它强调了生成新实体的过程，并可能涉及到并行或同时创建多个实体的概念。因此，在多线程、多进程或分布式计算的背景下，spawn更常见
+
+   create是一个更通用的词汇，可以用于各种情境。它可以表示生成任何类型的实体，不仅仅局限于多任务或计算领域。"Create" 的使用范围更广泛，可以用于描述生成任何类型的对象、文档、项目等
+
+7. commutative /kə'mjutətɪv/ adj. 交换的; 代替的 
+
+8. didactic  /daɪˈdæktɪk/  教学 
+
+9. Since there is a lot to cover  由于涉及内容较多 
+
+10. The NCCL backend provides an optimized implementation of collective operations **against** CUDA tensors. NCCL 后端提供了**针对** CUDA 张量的集体操作的优化实现
+
+11. insightful  
+
+12. barrier   /ˈbæriər/  n. 障碍物  
+
+13. descend <--->ascend
+
+14. initiative 
+
+15. proactive 
+
+16. tangent  /'tændʒənt/  adj. 切线的，相切的 
+
+17. adjoint   /ə'dʒɔɪnt/  n. 伴随矩阵  adj. 伴随的 
+
+18. permute  /pɚ'mjʊt/ vt. 交换；变更；[数]排列 
+
+19. contrary  /ˈkɑːntrɛri/  adj. 相反的, 相违的  n. 相反, 反面, 对立面
+
+20. coalesce 
+
+21. paradigm   /ˈpærədaɪm/ 
+
+22. callee  /kɔː'liː/  被调用者
+
+23. modal
+
+24. rivalry /ˈraɪvlri/  n. 竞争；竞赛；对抗 
+
+25. identical   /aɪˈdɛntɪkl/   adj. 同一的 
+
+    Each GPU has an **identical** copy of the model.  每个 GPU 都有一份完全相同的模型副本 
+
+26. Update Model parameters.Because each GPU started with an identical copy of the model and gradients were all-reduced. weights updates on all GPUs are identical. Thus no model sync is required.
+
+27. Independent of how a DDP application is launched  与 DDP 应用程序的启动方式无关 
+
+28. adhere to the following convention 遵循以下惯例 
+
+29. bookkeeping 可能指的是跟踪和管理数据、资源、状态或其他信息的过程 
+
+30. error-prone  adj. 易于出错的 
+
+###### 003g
+
+1. offload  /ˌɔf'lod/  v. 卸下,卸货
+
+2. progressive 
+
+   The more we progress the more we pursue  我们越进步，我们越追求 
+
+   They use a progressive method to teach languages.  他们采用循序渐进的方法教授语言
+
+3. granularity 
+
+   granular
+
+4. infuse   /ɪnˈfjuːz/  把(某种素质)注入… 
 
 ### linux administration handbook
 
