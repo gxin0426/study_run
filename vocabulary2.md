@@ -1076,6 +1076,10 @@
 
 23. forward and reverse
 
+24. derive 
+
+25. noob  菜鸟  新手
+
 
 
 

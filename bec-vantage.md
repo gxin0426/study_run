@@ -4,19 +4,23 @@
 
 1. bear  /bɛr/   vt. 承受 
 
-   过去式，过去分词： bore borne
+   过去式，过去分词： bore   /bɔːr/ borne  /bɔrn/  
 
    The new policy will bear significant implications for small business owners.   新的政策将对小企业主产生重大影响 
 
-   bear responsibility / payment 承担责任 / 付款
+   bear responsibility / payment 承担责任 / 付款 
 
-   Parents bear responsibility for their children.  父母为其孩子承担责任 
+   The company will bear the cost of relocating.  公司将承担搬迁费用
 
-   forbearance  /fɔr'bɛrəns/    n. 忍耐，克制；宽容 
+   forbearance  /fɔr'bɛrəns/    n. 忍耐 克制 宽容   
 
-   The second type of forgiveness I call " forbearance 我将第二种宽恕称为'忍耐'
+   The second type of forgiveness I call "forbearance" 我将第二种宽恕称为'忍耐'   
 
-   forgiveness (宽恕)： 宽恕通常指的是释放对他人过去错误或冒犯的愤怒或怨恨。当你原谅某人时，你选择不再对他们的错误怀恨在心或追求报复。宽恕通常被视为一种正向、建设性的行为，可以帮助恢复受损的关系并促进个体的心理健康
+   The teacher showed forbearance in dealing with the disruptive student.  老师在处理这名捣乱学生时表现出了宽容
+
+   disruptive /dɪsˈrʌptɪv/ adj.  扰乱的 
+
+   forgiveness (宽恕)： 宽恕通常指的是释放对他人过去错误或冒犯的愤怒或怨恨。当你原谅某人时，你选择不再对他们的错误怀恨在心或追求报复。宽恕通常被视为一种正向、建设性的行为，可以帮助恢复受损的关系并促进个体的心理健康 
 
    forbearance (忍耐)： 忍耐或忍受则有些不同，它涉及在持续的困难或挑战面前保持耐心和自制。在这个上下文中，它可以指一个人选择忍受另一个人的行为，而不是立即回应或报复。这可能涉及对另一个人的深刻理解和同情，即使他们的行为可能很困扰或伤害你
 
@@ -24,9 +28,13 @@
 
    Please feel assured that we'll **abide** by our promise.   请放心，我们会遵守我们的承诺
 
-2. party 甲方 乙方 party A / B 
+2. 甲方 乙方 party A / B 
 
 3. bearer 持票人 
+
+   bearer bond是一个不登记持有人姓名的债券，谁持有这个债券就属于谁 
+
+   The company issued a bearer bond that pays a 5% annual interest rate. 该公司发行了一种不记名债券，年利率为 5%
 
 4. bid   /bɪd/  vt. 投标  n. 出价 
 
@@ -40,11 +48,11 @@
 
    bid for 投标
 
-   I will **bid** on the rare comic book at the auction tomorrow. 我将在明天的拍卖会上对那本稀有的漫画书进行**投标** 
+   I will **bid** on the rare  /rɛr/ comic book at the auction  /ˈɔːkʃn/ tomorrow. 我将在明天的拍卖会上对那本稀有的漫画书进行**投标** 
 
    successful bidder 中标人
 
-5. check  n. <美>支票 
+5. check  /tʃɛk/  n. <美>支票 
 
    cheque  n. 支票  
 
@@ -56,9 +64,13 @@
 
    The importer paid for the shipment using a bank **draft**. 进口商用银行汇票支付了货款 
 
-   promissory note  /ˈprɑmɪˌsɔrɪ/ adj. 本票      这是一种由债务人签发的，承诺在未来的某个时间点或按照约定的条件支付一定金额给债权人或其指定代表的法律文件
+   Promissory note  (期票 ) 是一个书面的承诺，由借款人签署，表示他们承诺在特定的时间或按照约定的条件向特定的人或机构偿还特定数量的资金
+
+   He gave her a promissory note for the loan   /lon/ 他为这笔贷款给了她一个借据 
 
    payment tool 付款工具
+
+   Alipay is a common payment tool  支付宝是常用的支付工具  
 
    bond 债券
 
@@ -76,67 +88,41 @@
 
    state-owned enterprise (SOE) 国有企业
 
-   joint venture (JV) 合资企业
+   joint venture   /ˈvɛntʃər/  (JV) 合资企业 
 
    foreign-funded enterprise 外资企业 
 
-   group  
+   group 集团
 
-   “Company”，“Corporation”，“Enterprise”，“Venture”，和“Group”这些词都可以用来描述商业组织或活动，但它们之间有一些细微的差异和特定的用法：
+   1. company (公司) ：指的是一个注册成立的商业组织，其目的是进行商业活动并获取利润
 
-   1. company (公司)
-      - 一般用法：指的是一个注册成立的商业组织，其目的是进行商业活动并获取利润。
-      - 法律背景下：可能指具有特定法律结构和责任限制的实体。
+      The **company** launched a new product line last year. 该公司去年推出了一个新的产品系列
 
-   2. corporation (公司/股份有限公司)
-      - 一般用法：通常指的是一个较大的商业组织，它是一个独立的法律实体，可以拥有财产，可以起诉也可以被起诉。
-      - 法律背景下：通常指一个有限责任公司，其股东的责任限于他们的投资。
+   2. corporation (公司/股份有限公司)：通常指的是一个**较大的商业组织**，它是一个独立的法律实体，可以拥有财产，可以起诉也可以被起诉
 
-   3. enterprise (企业)
-      - 一般用法：这是一个更为一般的术语，可以用来描述任何规模的商业活动或组织。
-      - 法律背景下：它没有特定的法律定义，但通常用于描述一个商业实体或经济单位。
+      The **corporation** reported record profits this quarter. /ˈkwɔːrtər/ 这个季度，公司报告了创纪录的利润
 
-   4. venture (风险投资/项目)
-      - 一般用法：通常用来描述一个新的商业项目或投资，它涉及一定的风险。
-      - 法律背景下：它可以用来描述合作项目或联合企业，例如“joint venture”（合资企业）。
+   3. enterprise (企业)： 这是一个更为一般的术语，可以用来描述任何规模的商业活动或组织
 
-   5. group (集团)
-      - 一般用法：通常用来描述一个包含多个相关公司或企业的组织。
-      - 法律背景下：它可以用来描述一个母公司及其子公司的结构，这些公司共同形成一个“group”。
+      Her **enterprise** started in her garage /ɡəˈrɑːʒ/ and now has employees all over the country. 她的企业从自家车库起步，现在员工遍布全国各地
 
-   1. **company**
-      
-      - The **company** launched a new product line last year. 该公司去年推出了一个新的产品系列
-      
-   2. **corporation** 
-      
-      - The **corporation** reported record profits this quarter. 该公司本季度的利润创下了历史新高
-      
-   3. **enterprise**
-      
-      - Her **enterprise** started in her garage and now has employees all over the country.她的企业从自家车库起步，现在员工遍布全国各地
-      
-   4. **venture**
-      
-      - His latest **venture** is a cafe that combines coffee with virtual reality experiences.他最近的创业项目是一家将咖啡与虚拟现实体验相结合的咖啡馆
-      
-   5. **group**
-      
-      - The group recently expanded its operations into the European market. 该集团最近将业务扩展到了欧洲市场
-      
+   4. venture (风险投资/项目)： 通常用来描述一个新的商业项目或投资，它涉及一定的风险
+
+      His latest **venture** is a cafe that combines coffee with virtual reality experiences. 他最近的创业项目是一家将咖啡与虚拟现实体验相结合的咖啡馆
+
+   5. group (集团)： 通常用来描述一个包含多个相关公司或企业的组织
+
+      The group recently expanded its operations into the European market. 该集团最近将业务扩展到了欧洲市场
+
       **in与into的区别：**
-      
-      - in通常用来表示某物或某人已经在一个特定的位置或状态中。它可以用来描述位置或状态。
-      
-        例如：
-      
-        - He is in the room.（他在房间里。）
-      
-      - into则用来表示从一个位置或状态移动到另一个位置或状态，表明了一个变化或动作的方向。
-      
-        例如：
-      
-        - He walked into the room.（他走进了房间。）
+
+      - in通常用来表示某物或某人已经在一个特定的位置或状态中。它可以用来描述位置或状态
+
+        He is in the room. 他在房间里
+
+      - into则用来表示从一个位置或状态移动到另一个位置或状态，表明了一个变化或动作的方向
+
+        He walked into the room. 他走进了房间
 
 7. dealer 商人(买卖货物)
 
@@ -154,21 +140,27 @@
 
    3. **businessman**
        - 这是一个更一般的术语，用来描述从事商业或工商业务的个人，他们可以是企业家、公司高管或商店老板等
-       - The **businessman** opened a new store downtown. 这位商人在市中心开了一家新店
+       - The **businessman** opened a new store downtown.  (uptown) 这位商人在市中心开了一家新店
 
 8. defer  /dɪˈfɜːr/ 
 
-   defer the payment 延期付款
+   defer the payment 延期付款 
 
-9. due  /duː/  adj.  到期的
+   Due to hardships, I asked to defer the payment.  由于条件艰苦，我要求延期付款
+
+9. due  /duː/  adj.  到期的 
 
    Payment is due on 1 October.  付款截止日期为10月1日
 
    in due course  在适当的时候
 
+   You will receive the book in due course.  你会在适当的时候收到这本书 
+
    overdue adj. 逾期 过期
 
-   The investors conducted due diligence before purchasing the company.   投资者在购买该公司之前进行了 尽职调查
+   The library  /'laɪbrɛri/ book is overdue.  图书馆的书已经逾期了 
+
+   The **investors** conducted **due diligence** before purchasing the company.   投资者在购买该公司之前进行了 尽职调查
 
 10. earnings  净利润
 
@@ -178,9 +170,27 @@
 
     revenue  /ˈrɛvənuː/  总营收
 
+    1. revenue
+       - 通常指的是一个公司通过其运营活动（例如，销售商品或提供服务）在特定时期内生成的总收入，不考虑任何费用或支出。
+       - The company’s annual /ˈænjuəl/ revenue exceeded  /ɪkˈsiːd/  5 million dollars.
+       
+    2. profit
+       - 通常是指在减去所有运营成本、支出、税费和其他费用后，公司的净收入。基本上，它是公司收入（revenue）与支出之间的差额
+       - After accounting for (对…负有责任；对…做出解释  折算... ) all expenses, the company made a profit of 1 million dollars. 扣除所有费用后，公司盈利 100 万美元 
+       
+    3. income
+       - 在个人财务语境中，income通常指的是一个人从工作、投资或其他来源获得的钱。在公司语境中，它可以更宽泛地指涉各种收入，包括利润
+       - Her monthly income from her job and investments totals 7000 dollars. 
+
+    4. earnings
+       - 这通常指个人或公司从其努力或投资中获得的收入。在公司财务上，"earnings" 通常特指公司在一定期间的净利润
+       - The CEO was pleased with the company's quarterly earnings.
+
 11. file v. 提出  提交
 
     file a claim / complaint / lawsuit 索赔  投诉    诉讼     
+
+    If they don't fulfill the contract, we may have to file a lawsuit.  如果他们不履行合同，我们可能不得不提起诉讼 
 
     commercial document  商业文书 
 
@@ -196,7 +206,7 @@
 
     container 集装箱
 
-13. hire 雇佣  employ
+13. hire  /  employ
 
     hire
 
@@ -205,16 +215,16 @@
 
     employ
 
-    - 它具有更正式和更持久的含义，通常指一个人在一个公司或组织中有一个正式的职位，并接受该组织的工资。它强调的是一种持久的工作关系。
+    - 它具有更正式和更持久的含义，通常指一个人在一个公司或组织中有一个正式的职位，并接受该组织的工资。它强调的是一种持久的工作关系
     - The company employs over 1000 people worldwide.  公司在全球拥有 1000 多名员工
 
-    sack  /sæk/ 这是一个非常直白和非正式的词语，用来描述因为某种原因（通常是负面的）而解雇某人 
+    sack  /sæk/  这是一个非常直白和非正式的词语，用来描述因为某种原因（通常是负面的）而解雇某人 
 
-    After the scandal, the company had no choice but to sack the manager.  丑闻发生后，公司别无选择只能解雇了这位经理
+    After the scandal, the company **had no choice but to** sack the manager.  丑闻发生后，公司别无选择只能解雇了这位经理
 
     make... redundant 这个短语是用来描述因为某种业务原因，例如组织重塑或自动化，使得某个角色或职位不再需要，从而导致员工被解雇 
 
-    Due to the recent merger, the company had to make several positions redundant    由于最近的合并，公司不得不裁减几个职位
+    Due to the recent merger, the company had to make several positions redundant.    由于最近的合并，公司不得不裁减几个职位
 
     layoff
 
@@ -226,152 +236,156 @@
 
     The company was forced to terminate the employment of several staff members due to budget cuts. 由于预算削减，公司被迫终止了几名员工的雇佣关系
 
-14. insurance  n.  保险 
+14. 
 
-    insurance policy   n. 保险单 
+    **insurance**: 保险。这是一个合同，在其中一方（保险公司）同意因另一方（被保险人）支付的特定金额（保费）而在特定的损失、损害或死亡发生时向其支付赔偿或提供服务
 
-    insurant 较少用来描述被保险人 
+    Buying insurance gives peace of mind in uncertain times. 购买保险在不确定的时候带来了心灵的平静 
 
-    insured 是一个常用的术语，被广泛接受和用来描述被保险人
+    **insurance policy**: 保险单。它是描述保险条款、覆盖范围、保额、赔偿限额等信息的正式文件
 
-    insured amount 投保额 
+    **insurant**: 保险人。参与保险合同的人，通常是购买保险的人
 
-    premium  /ˈpriːmiəm/ 保费 
+    **insured**: 被保险人。受保险合同保护的个人或实体
 
-    marine insurance 海险
+    **insured amount**: 保额。保险公司根据保险合同在特定事件发生时最多需要支付的金额
 
-    FPA 平安险
+    **premium**: 保费。被保险人或代表其支付的金额，以使保险保持有效
 
-    WPA 水渍险
+    **marine insurance**: 船舶保险。涵盖与海运、航运、港口和货运有关的损失和损害
 
-    All Risks 一切险
+    **All Risks**: 全险。这是一种保险条款，涵盖除合同上明确列出的风险或情况外的所有风险
 
 15. managers == management team 经理(团队)
 
-    president 总裁/主席 
+president 总裁/主席 
 
-    chairman  董事长/主席 
+chairman  董事长/主席 
 
-    manager 经理
+manager 经理
 
-    director 主管/董事 
+director 主管/董事 
 
-    chief 首席 
+chief 首席 
 
-    head 负责人/部门主管 
+head 负责人/部门主管 
 
-    vice / deputy / associate 副的
+vice / deputy / associate 副的
 
-    acting 代理/临时 
+acting 代理/临时 
 
-    managing 常务的      Managing director 常务董事
+managing 常务的      Managing director 常务董事
 
-    line manager  直系领导 部门领导 
+line manager  直系领导 部门领导 
 
-16. merger  /ˈmɜːrdʒər/  n. （企业等的）合并；并购  merge
+1. merger  /ˈmɜːrdʒər/  n. （企业等的）合并；并购  merge
 
-    After a successful merger, the two tech companies became a dominant player in the market 两家科技公司成功合并后，成为市场上的主导玩家
+   After a successful merger, the two tech companies became a dominant player in the market 两家科技公司成功合并后，成为市场上的主导玩家
 
-    acquisition  /ˌækwɪˈzɪʃn/  收购 acquire  
+   acquisition  /ˌækwɪˈzɪʃn/  收购 acquire  
 
-    The startup was thrilled about the acquisition by a leading multinational corporation. 这家初创公司对被一家领先的跨国公司收购感到非常兴奋
+   The startup was thrilled about the acquisition by a leading multinational corporation. 这家初创公司对被一家领先的跨国公司收购感到非常兴奋
 
-17. notice  /ˈnotɪs/ 通知 
+2. notice  /ˈnotɪs/ 通知 
 
-    advice  金融交易的正式的通知
+   advice  金融交易的正式的通知
 
-18. retail 零售 
+3. retail 零售 
 
-    retailer  零售商
+   retailer  零售商
 
-    wholesale /ˈholsel/  n. 批发   adj.  批发(的)
+   wholesale /ˈholsel/  n. 批发   adj.  批发(的)
 
-    wholesaler   /ˈholselər/ 批发商
+   wholesaler   /ˈholselər/ 批发商
 
-    the leading retailer 头部零售商
+   the leading retailer 头部零售商
 
-19. share n. 股份
+4. share n. 股份
 
-    market share 市场份额
+   market share 市场份额
 
-    stock shares 股份
+   stock shares 股份
 
-    share price 股票价格
+   share price 股票价格
 
-    in stock 有货
+   in stock 有货
 
-    out of stock 没货
+   out of stock 没货
 
-    stock 股份 股票 债券
+   stock 股份 股票 债券
 
-    stock exchange 证交所
+   stock exchange 证交所
 
-    government stock 国债
+   government stock 国债
 
-20. staff  全体员工
+5. staff  全体员工
 
-    staff turnover 人员流动
+   staff turnover 人员流动
 
-    turnover n. 翻覆；营业额；流通量 
+   turnover n. 翻覆；营业额；流通量 
 
-    they want to minimise their staff turnover.   他们希望最大限度地降低员工流失率 
+   they want to minimise their staff turnover.   他们希望最大限度地降低员工流失率 
 
-    staff appraisal 员工评价
+   staff appraisal 员工评价 
 
-     appraisal  /əˈprezl/   n. 估计, 估量, 评价 
+   appraisal  /əˈprezl/   n. 估计, 估量, 评价 
 
-    The judge should make his appraisal impartial.  法官应公正地进行评估
+   The judge should make his appraisal impartial.  /ɪmˈpɑːrʃl/   法官应公正地进行评估
 
-21. tax 
+6. tax 
 
-    tax rate 税率
+   tax rate 税率
 
-    value added tax (VAT) 增值税
+   value added tax (VAT) 增值税
 
-    business tax 营业税
+   business tax 营业税
 
-    duty   /ˈduːti/ 购物缴纳的关税
+   duty   /ˈduːti/ 购物缴纳的关税
 
-    DFS  duty free shop 免税店
+   DFS  duty free shop 免税店
 
-    tariff  /ˈtærɪf/ 货物进出口的关税
+   tariff  /ˈtærɪf/ 货物进出口的关税
 
-    excise  /ˈɛksaɪz/ 国内货品税 消费税
+   excise  /ˈɛksaɪz/ 国内货品税 消费税
 
-    tax (税)
+   tax (税)
 
-    - 通常是由政府机构征收的强制性费用，用于资助公共服务和项目
-    - 收入税、增值税。
-    - 税
-    - Everyone who earns an income has to pay income **tax** to the government. 每个有收入的人都必须向政府缴纳所得税
+   - 通常是由政府机构征收的强制性费用，用于资助公共服务和项目
+   - 收入税、增值税
+   - 税
+   - Everyone who earns an income has to pay income **tax** to the government. 每个有收入的人都必须向政府缴纳所得税
 
-    duty (关税/税)
+   duty (关税/税)
 
-    - 特指在特定商品或服务上征收的一种税，通常与国际贸易有关
-    - 进口关税、印花税
-    - 关税、税
-    - he government decided to reduce the import **duty** on electronic goods to promote trade. 政府决定降低电子产品的进口**关税**以促进贸易
+   - 特指在特定商品或服务上征收的一种税，通常与国际贸易有关
+   - 进口关税、印花税
+   - 关税、税
+   - Government decided to reduce the import **duty** on electronic goods to promote trade. 政府决定降低电子产品的进口**关税**以促进贸易
 
-    excise (消费税)
+   excise (消费税)
 
-    - 通常是对特定类型的商品或服务征收的税，无论它们是在哪里制造的。
-    - 烟草消费税、酒精消费税。
-    - 消费税
-    - The **excise** on tobacco products is quite high to discourage people from smoking. 为了阻止人们吸烟，烟草产品的**消费税**相当高
+   - 通常是对特定类型的商品或服务征收的税，无论它们是在哪里制造的
+   - 烟草消费税、酒精消费税
+   - 消费税
+   - The **excise** on tobacco  /təˈbæko/  products is quite high to discourage people from smoking. 为了阻止人们吸烟，烟草产品的**消费税**相当高
 
-    tariff (关税)
+   tariff (关税)
 
-    - 特指在进口和出口商品上征收的税。
-    - 进口关税。
-    - 关税
-    - The new **tariff** policy aims to protect domestic industries from foreign competition. 新的**关税**政策旨在保护国内行业免受外国竞争的影响
+   - 特指在进口和出口商品上征收的税。
+   - 进口关税。
+   - 关税
+   - The new **tariff** policy aims to protect domestic industries from foreign competition.  /ˌkɑːmpəˈtɪʃn/ 新的**关税**政策旨在保护国内行业免受外国竞争的影响
 
-    1. **应用范围**：tax是一个更一般的术语，涵盖所有类型的政府征税，而其他三个词则是特定类型的税。
-    2. **与贸易的关系**：duty和tariff主要与国际贸易有关，而“Excise”可以应用于国内和国际的商品或服务。
-    3. **特定商品或服务**：excise通常是对特定商品或服务征收的税，而duty和tariff可以适用于一系列不同的商品。
+   1. **应用范围**：tax是一个更一般的术语，涵盖所有类型的政府征税，而其他三个词则是特定类型的税
+   2. **与贸易的关系**：duty和tariff主要与国际贸易有关，而excise可以应用于国内和国际的商品或服务
+   3. **特定商品或服务**：excise通常是对特定商品或服务征收的税，而duty和tariff可以适用于一系列不同的商品
 
 
 22. resignation  /ˌrɛzɪɡˈneʃn/  n. 辞职  
+
+    resign /rɪˈzaɪn/ vt. 辞职
+
+    I resigned because of the low salary.   因为工资太低，我辞职了 
 
 ##### day02
 
@@ -1363,7 +1377,41 @@
 
 6. trade in
 
-   
+7. brochure
+
+8. arrangement
+
+9. post held 职位
+
+10. democratize  v. (使)民主化 
+
+11. with respect to 关于, 至于
+
+    With respect to the quality of education, China has been improving rapidly.   在教育质量方面，中国一直在迅速提高 
+
+12. progressive  /prəˈɡrɛsɪv/ adj. 不断前进的, 有进展的 
+
+13. granularity  /ˌgrænju'læriti/  n. 间隔尺寸,粒度 
+
+    The reach and granularity of code are unprecedented   代码的范围和粒度是前所未有的 
+
+14. infuse /ɪnˈfjuːz/  vt. 灌输,加入 
+
+    The tea leaves infuse the water with flavor.  茶叶给水注入了风味 
+
+15. underway   /ˌʌndɚ'we/  adj. 在进行中的 
+
+    The preparations  /ˌprɛpəˈreʃn/ for the festival /ˈfɛstəvl/  are underway. 节日的准备工作正在进行中  
+
+16. Deep dives are important   深潜很重要  
+
+    Because of this, extreme  /ɪkˈstriːm/  divers can also dive here with scuba gear.  正因如此，极限潜水员也能带着潜水设备来这儿潜水 
+
+17. postpone  /poʊˈspoʊn/  vt. 使…延期 
+
+    The EU's admittance was postponed, pending talks with Canada.  欧盟的准入被推迟，等待与加拿大对话 
+
+ 
 
 
 
