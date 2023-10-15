@@ -1080,6 +1080,10 @@
 
 25. noob  菜鸟  新手
 
+26. primarily   /praɪˈmerəli/  adv. 主要地 
+
+27. 
+
 
 
 

@@ -389,9 +389,9 @@ line manager  直系领导 部门领导
 
 ##### day02
 
-1. trade fair  交易会
+1. trade fair   /fer/ 交易会
 
-   Are you going to the trade fair next week? I heard they'll showcase some cool gadgets.  /ˈɡædʒɪt/ 
+   Are you going to the trade fair next week? I heard they'll showcase some cool gadgets.   /ˈɡædʒɪt/  n. 小器具 
 
    **show vs showcase**
 
@@ -403,25 +403,27 @@ line manager  直系领导 部门领导
    2. show:
       - **名词**：一个表演、节目或展览
       - **动词**：展示、揭示或证明。这是一个更为广泛的词，可以用于各种上下文中，如 show a movie（播放电影）、show someone the way（为某人指路）或 show an ID
-      - show可以用于任何简单的展示或展现，不一定要求观众的特定反应或关注。
+      - show可以用于任何简单的展示或展现，不一定要求观众的特定反应或关注
 
    - The museum will **showcase** a new collection of ancient /'enʃənt/ artifacts.博物馆将展示一批新的古代文物  这里的showcase意味着这些文物将被特别展示或强调
      
    - Can you **show** me how to use this software?你能告诉我怎样使用这个软件吗？这里的show仅仅意味着给出一个示范或解释
 
-   showcase通常用于特定的展示或强调，而show则更为广泛
+   **showcase通常用于特定的展示或强调，而show则更为广泛**
 
-   trade union 工会
+   labor union 工会
 
-   The sentence tells us that  trade union membership continues to fall. 这个句子告诉我们工会成员持续减少 
+   The sentence tells us that  **trade union** membership continues to fall. 这个句子告诉我们工会成员持续减少 
 
    trading partner 贸易伙伴
 
    worsen  /ˈwə..sən/  vt. & vi. (使)变得更坏,(使)恶化 
 
+   Using drugs can worsen cognitive /ˈkɑːɡnɪtɪv/ skills like concentration /ˌkɑːnsnˈtreʃn/ and memory.  使用药物会削弱你的认知能力，比如专注力和记忆力
+
    Beware of breakdown in trade talks with China or a worsening trade situation between the U.S. and its largest trading partner the European Union.  谨防与中国的贸易谈判破裂或美国与最大贸易伙伴欧盟之间的贸易形势恶化
 
-   transaction  /trænˈzækʃn/  n. (一笔)交易  (一项)事务 
+   transaction  /trænˈzækʃn/  n. (一笔)交易  (一项)事务
 
    I made several transactions at the bank today, including depositing money and transferring funds. 我今天在银行做了几笔交易，包括存款和转账
 
@@ -454,7 +456,7 @@ line manager  直系领导 部门领导
       - 一个小册子，通常包含图片和信息，用于宣传产品、服务或地点。它通常比飞页（flyer）或传单（leaflet）更详细，可能包括几页
       - The travel agency provided brochures showcasing various vacation destinations.旅行社提供了介绍各种度假目的地的小册子 
 
-   2. banner:
+   2. banner  /ˈbænər/ :
       - 一个长条形的大幅广告或标语，通常悬挂在建筑物、街道或网站上。在数字广告中，banner指的是网站顶部或侧边的广告
       - The store displayed a large banner announcing their **grand** opening. 店内悬挂着大幅横幅，宣布盛大开业 
 
@@ -465,6 +467,8 @@ line manager  直系领导 部门领导
    4. flyer /'flaɪɚ/ /  leaflet /ˈliːflət/ :
       - 一个通常由一张纸制成的小广告或通知，用于广泛分发以宣传事件、产品或服务。flyer 和leaflet在许多情境中可以互换使用，尽管在某些文化或地区，两者之间可能存在微小的差异
       - We **handed out** flyers/leaflets in the city center to promote our **upcoming** event. 我们在市中心散发传单，宣传我们即将举行的活动
+      
+      upcoming   adj. 即将来到的
 
    总结:
 
@@ -491,9 +495,9 @@ line manager  直系领导 部门领导
 
    We have to carry out the project on a tight budget. 我们必须在预算紧张的情况下实施项目  
 
-   The debt is an accumulation of **budget deficits**  /ˈdɛfɪsɪt/ .   债务是预算赤字的累积 
+   The debt   /dɛt/  is an accumulation of **budget deficits**  /ˈdɛfɪsɪt/ .   债务是预算赤字的累积 
 
-   trade dificit   贸易逆差 
+   trade deficit   贸易逆差 
 
    The US **trade deficit** widened in October  美国 10 月份贸易逆差扩大   
 
@@ -519,6 +523,18 @@ line manager  直系领导 部门领导
 
    spending
 
+   1. expense (费用):
+      - 通常指的是为商品或服务支付的钱，或者为了生产某样东西或达到某个目的而支付的费用
+      - The company will cover all travel expenses. 公司将承担所有的旅行费用
+      
+   2. expenditure (支出):
+      - 这是一个比较正式的词汇，通常用来描述政府、组织或个人的总支出，或者一次性的大额支付
+      - The government has increased its expenditure on healthcare this year. 今年，政府增加了在卫生保健上的支出
+      
+   3. spending (支出):
+      - 通常指的是金钱的出流，可以是为了购买商品或服务。它是一个相对较为通用的词，可以用于描述个人、家庭、组织或政府的金钱支出行为
+      - My monthly spending on groceries has gone up recently. 我最近每月在杂货上的支出增加了
+
 9. gross  毛的 总的
 
    gross domestic product
@@ -529,365 +545,676 @@ line manager  直系领导 部门领导
 
    tare
 
-10. interview
+   1. gross (总的，毛的):
+      - The gross amount I earned this month is $5000, but after taxes, it's much less. 我这个月的总收入是5000美元，但税后就少得多了
+      
+   2. Gross Domestic Product (GDP) (国内生产总值)
+      
+   3. gross weight (毛重):
+      - The gross weight of the package is 20kg, but the product inside is only about 18kg. 包裹的毛重是20公斤，但里面的产品只有大约18公斤
+      
+   4. net weight (净重): 
+      - The net weight of the cereal /ˈsɪriəl/  in this box is 500 grams. 这盒麦片的净重是500克
+      
+   5. tare (皮重)   /tɛr/  :
+      - The tare weight of the truck is 3 tons, so the net weight of the goods it's carrying is 5 tons. 卡车的皮重是3吨，所以它携带的货物的净重是5吨
 
-    process of recruitment
+10. 
 
-    recruitment advertisement
+    1. interview [ˈɪntərˌvjuː] (面试):
+       - I have an interview at the marketing firm tomorrow. 我明天在市场营销公司有一个面试
+       
+    2. process of recruitment [ˈprɑː.sɛs ʌv rɪˈkruːtmənt] (招聘流程):
+       - The entire process of recruitment took about two months from start to finish. 整个招聘流程从开始到结束大约用了两个月
+       
+    3. recruitment advertisement [rɪˈkruːtmənt ˌædvərˈtaɪzmənt] (招聘广告):
+       
+    4. application letter [ˌæplɪˈkeʃən ˈlɛtər] (申请信):
+       - I need to work on my application letter tonight for that new job. 我今晚需要为那个新工作准备我的申请信
+       
+    5. curriculum vitae [kəˈrɪkjʊləm ˈviːtaɪ] or resume [ˈrɛzʊˌme] (简历):
+       - Should I include my volunteer work on my curriculum vitae? 我应该在我的简历上包括我的志愿者工作经验吗？
+       
+    6. CV screening [siː viː ˈskriːnɪŋ] (简历筛选):
+       
+       - We received over 200 applications, so the CV screening process will take a while. 我们收到了超过200份申请，所以简历筛选过程会需要一些时间
+       
+    7. paper test [ˈpepər tɛst] (笔试):
+       
+       Before the interview, they made me take a paper test on coding concepts. 在面试之前，他们让我进行了一个关于编码概念的笔试
+       
+    8. shortlist [ˈʃɔrtˌlɪst] (入围名单):
+       - I'm thrilled; I made the shortlist for the manager position! 我很激动；我入选了经理职位的候选名单！
 
-    application letter
+11. investment 
 
-    curriculum vitae     resume
+    foreign direct  FDI 外国直接投资
 
-    CV screening
-
-    paper test
-
-    shortlist
-
-    interview
-
-11. investment
-
-    foreign direct  FDI
-
-    angel investor
+    angel  /ˈendʒl/ investor 
 
 12. order  
 
-    place an order
+    place  /ples/  an order 下订单
 
-    mail order
+    mail order  :  Before the rise of online shopping, many people used to buy products through mail order catalogs. 在在线购物兴起之前，许多人习惯通过邮购目录购买产品
 
-13. perform 
+13. 
 
-    perform an order
+    1. perform [pərˈfɔrm] (执行，表演):
+       - She will perform at the concert tonight. 她今晚会在音乐会上表演
+       
+    2. perform an order:
+       - **这是一个不太常见的说法**。一般我们说**fulfill an order**或**process an order**（完成/处理订单）
+       - fulfill：We need to fulfill the order by the end of the day. 我们需要在今天结束之前完成订单
+       
+    3. the company performs poorly [ðə ˈkʌmpəni pərˈfɔrmz ˈpʊərli] (公司表现不佳)
+       
+    4. key performance indicator (KPI) [ki pərˈfɔrməns ˌɪndɪˈketər] (关键绩效指标)
+       - We track several KPIs to ensure our projects are on track. 我们跟踪几个关键绩效指标以确保我们的项目进展顺利
+       
+    5. performance salary / bonus [pərˈfɔrməns ˈsæləri/ˈbonəs] (绩效工资/奖金)
+       - If you exceed the target, you'll receive a performance salary / bonus at the end of the year. 如果你超过了目标，年底你将获得绩效奖金
+       
+    6. base salary [bes ˈsæləri] (基本工资):
+       - Apart from your base salary, you'll also receive benefits like health insurance and a retirement plan. 除了你的基本工资外，你还将获得健康保险和退休计划等福利
 
-    the company performs poorly
+14. 
 
-    key performance indicator KPI
+    1. sector [ˈsɛktər] (行业、领域):
+       - 经济或社会活动的特定部分，通常是一个更大的整体
+       - The technology sector has seen rapid growth over the past decade. 在过去的十年中，技术行业经历了迅速的增长
+       
+    2. department [dɪˈpɑrtmənt] (部门):
+       - 大型组织或公司中管理特定功能或业务区域的一个部分。
+       - I work in the marketing department of our company. 我在我们公司的市场营销部门工作
+       
+    3. the manufacturing sector [ðə ˌmænjuˈfækʧərɪŋ ˈsɛktər] (制造业):
+       - Many jobs in the manufacturing sector have been automated in recent years. 近年来，制造业的许多工作已经实现了自动化
+       
+       private sector [ˈpraɪvət ˈsɛktər] (私营部门):
+       - 由私人企业和组织组成的经济部分，与公共部门（由政府运营）相对
+       - I used to work in the public sector, but now I have a job in the private sector. 我以前在公共部门工作，但现在我在私营部门有一份工作
+       
+    5. tertiary sector [ˈtɜrʃiˌɛri ˈsɛktər] (第三产业或服务业):
+       - As our country develops, there's a shift from the primary sector to the tertiary sector, with more emphasis on services. 随着我们国家的发展，从第一产业转向第三产业，更加重视服务
 
-    performance salary / bonus
+15. 
 
-    base salary
+    1. shift [ʃɪft] (轮班，班次):
+       - I'm working the night shift today. 我今天是晚班
+       
+    2. freelance [ˈfriːˌlæns] (自由职业):
+       - She decided to go freelance to have a more flexible schedule. 她决定做自由职业，以有更灵活的时间安排
+       
+    3. teleworking [ˈtɛlɪˌwɜrkɪŋ] (远程工作) / **remote**:
+       - Our company supports remote, so I only go to the office once a week. 我们公司支持远程工作，所以我每周只去办公室一次
+       
+         twice a week
 
-14. sector 部门
+         Three times a week
+       
+    4. outsourcing [aʊtˈsɔːrsɪŋ] (外包):
+       
+       - To save costs, the company is outsourcing its customer service. 为了节省成本，公司正在外包其客户服务。
+       
+    5. job sharing [ʤɑb ˈʃɛərɪŋ] (工作共享):
+       - 两个或更多的员工共同承担一个全职职位的责任
+       - Sarah and John are job sharing, so they each work half the week. Sarah和John共同承担工作，所以他们每人工作半周
+       
+    6. shift work [ʃɪft wɜrk] (轮班工作):
+       - 不在常规工作时间（例如9点到5点）进行的工作
+       
+         Nurses often do shift work, including weekends and nights. 护士经常做轮班工作，包括周末和夜晚
 
-    department
+    7. temping [ˈtɛmpɪŋ] (临时工作):
+       - While waiting for a permanent position, he's temping at various companies. 在等待永久职位时，他在各种公司做临时工作
+       
+    8. flexitime [ˈflɛksɪtaɪm] (弹性工作时间):
+       - I love working in flexitime as it allows me to avoid rush hour traffic. 我喜欢弹性工作时间，因为这让我可以避开高峰期交通
+       
+    9. **Hot Desking [hɑt ˈdɛskɪŋ] (热桌制)**:
+       - 含义：员工没有固定的办公桌，而是在需要时选择任何可用的桌子。
+       - 日常对话中的使用：Our office has adopted hot desking, so I sit somewhere different every day.
+         - 我们的办公室采用了热桌制，所以我每天都坐在不同的地方。
 
-    the manufacturing sector
+    10. full time [fʊl taɪm] (全职): 常规或标准的工作
 
-    private sector
+16. 
 
-    tertiary sector
+    1. administer [ədˈmɪnɪstər] (管理，执行): vt.
+       - The nurse will administer the medication at 8 PM. 护士将在晚上8点给予药物
+       
+    2. administration [ədˌmɪnɪˈstreʃən] (管理；行政): 组织、公司或学校的管理活动；或者政府的执政机构
+       - The new school administration is introducing several changes. 新的学校行政管理正在引入若干变化
+       
+    3. master of business administration (MBA) [ˈmæstər əv ˈbɪznɪs ədˌmɪnɪˈstreʃən]:
+       - She just graduated with her MBA from Harvard Business School. 她刚从哈佛商学院获得工商管理硕士学位
+       
+    4. administrative [ədˈmɪnɪˌstretɪv] (行政的):
+       - I have some administrative tasks to complete before leaving the office today.我今天离开办公室前还有一些行政任务要完成
 
-15. shift 
+17. 
 
-    freelance
+    1. allowance [əˈlaʊəns]: 定期给予的金额，特别是为了特定的目的；或是给孩子的定期零用钱
+       - My parents gave me a weekly allowance of $10 when I was a kid. 当我还是个孩子时，我的父母每周给我10美元的零用钱
+    2. subsidy [ˈsʌbsɪdi]: 通常由政府提供的金钱，用于支持企业或降低某些商品的价格
+       - The government provides a subsidy to farmers to promote organic  /ɔːrˈɡænɪk/  farming. 政府为农民提供补贴，以促进有机农业
+    3. subvention [səbˈvɛnʃən]:  通常由政府或官方机构提供的财务援助或支持
+       - The art program is running thanks to a subvention from the city council. 这个艺术项目得以运行，多亏了市议会的资助
+    4. benefits [ˈbɛnɪfɪts]:  与工作相关的额外优惠，如健康保险、退休金等；或是从某事中得到的好处
+       - One of the main benefits of working here is the comprehensive health insurance. 在这里工作的主要好处之一是全面的健康保险
 
-    teleworking
+18. 这些词与财务困境和无法偿还债务的情况有关。以下是它们的定义及在日常对话中的使用方式：
 
-    outsourcing
+    1. bankrupt [ˈbæŋ.krʌpt] : (形容词或名词) 无法偿还其债务的个人或公司，特别是通过法律程序来处理
+       
+       After several bad investments, he ended up bankrupt. 在做了几次糟糕的投资后，他最终破产了
+       
+    2. go bankrupt:
+       - if we don't receive some financial help soon, the business might go bankrupt. 如果我们不尽快得到一些财务帮助，公司可能会破产
+       
+    3. declare ... bankrupt: 正式宣布某人或公司破产
+       - The court declared the company bankrupt after it failed to pay its debts. 该公司未能偿还其债务，法院宣布其破产
+       
+    4. insolvent [ɪnˈsɒlvənt]: (名词或形容词)无法偿还到期债务的；通常用于描述个人或公司的财务状态
+       - Many small businesses became insolvent during the economic downturn. 在经济衰退期间，许多小企业都无法偿还债务
 
-    job shareing
+19. chart  图或系列图  The chart shows the sales figures for the last six months. 图表显示了过去六个月的销售数据 
 
-    shift work
+    bar chart 直方图 
 
-    temping
+    line  / curve chart 折线图/曲线图
 
-    flexitime
+    pie chart  饼状图 
 
-    hot desking
-
-     full time
-
-    part time
-
-16. administer
-
-    administration
-
-    Master of Business Administration
-
-    administrative
-
-17. allowence
-
-    subsidy
-
-    subvention
-
-    benefits
-
-18. bankrupt
-
-    go bankrupt
-
-    delcare ... bankrupt
-
-    insolvent
-
-19. chart
-
-    bar chart
-
-    line  / curve chart
-
-    pie chart
-
-    flow chart
+    flow chart 流程图
 
     diagram 
 
     illustration
 
-    table
+    1. diagram [ˈdaɪəɡræm]: 
+       - 含义：一个通常用于表示某物的结构、组成、工作原理或某种关系的简单图形或图示
+       - 特点：Diagram 常常更加关注事物的内部结构或它们之间的关系，如示意图、电路图、网络图等
+       - The book included a diagram of the human heart.  这本书包含了一个关于人类心脏的图解 
+    2. chart [ʧɑːrt]:
+       - 一个用于表示数据或信息的图表，如统计数据、数量或趋势
+       - Chart 更关注于量化信息和数据的比较，如饼图、柱状图、线形图等
+       - The chart displays monthly sales figures 这个图表显示了月销售数据 
+    3. illustration [ˌɪləˈstreʃən]:
+       - 一幅图片、图形或例子，用于解释、澄清或装饰文本。它可以是任何种类的艺术作品，如绘画、照片、图形等
+       - illustration 的主要目的是增强或补充文本，使内容更加吸引人、更容易理解或更具美感
+       - Each chapter begins with a beautiful illustration. 每章开始都有一幅美丽的插图
 
-    infograph
+    虽然这三个词在某些上下文中可能有所重叠，但它们主要用于不同的目的。"diagram" 关注结构或关系，"chart" 关注数据或信息的表示，而 "illustration" 则更多地用于艺术或解释性目的
 
-20. pilot
+20. pilot 飞行员或某种设备、项目、**产品的初步测试或试验版本** 
 
-    pilot zone of free trade
+    **pilot zone of free trade 自由贸易试验区** 
 
-21. promote 
+21. 
 
-    promote sb from ... to ...
+    1. promote [prəˈmot]: 晋升或提升某人的职位、地位或级别；或者增加某物的知名度、销售或流行度
+       - 提升职位：Tom has been promoted to the position of manager. 汤姆已经被提升为经理职位
+       - 宣传或增加知名度：We need to promote our new product line to attract customers. 我们需要宣传我们的新产品线以吸引客户
+    2. promote sb from ... to ... :  用于明确指出某人从一个职位被提升到另一个职位
+       - They promoted her from a junior developer to a senior developer within a year. 他们在一年内将她从初级开发人员提升为高级开发人员
+    3. demote [dɪˈmot]: 降级或降低某人的职位、地位或级别
+       - Due to his repeated mistakes, he was demoted to a lower position. 由于他反复犯错误，他被降职到了一个较低的职位
+       - Because of his mistake, the company had to demote him to an ordinary employee.  由于他的失误，公司不得不将他降级为普通员 
+    4. demote sb from ... to ...  :
+       - The company demoted him from a team leader to a regular staff member. 公司将他从团队领导降级为普通员工
+    5. "Junior" 和 "Senior" 是用于描述职务或职级的两个常用术语，它们通常与某个职位名称结合使用，例如 "Junior Developer" 或 "Senior Developer"。在这两者之间，某些组织和行业可能有其他的职级或称谓。尽管确切的称谓和其对应的职责可能会因公司、行业或地区而异，以下是一些可能出现的常见职级：
 
-    demote
+       1. **intern / trainee**: 实习生或培训生，通常是学生或刚刚开始某个职业领域的人
 
-    demote sb from ... to ...
+       2. **entry-level**: 入门级的，适合新毕业或刚刚开始职业生涯的人
 
-22. stock
+       3. **associate**:  /əˈsəʊsiet，əˈsəʊʃiet/ 通常表示某人已经有了一些经验，但尚未达到高级
 
-    in stock 有货
+       4. **analyst**:  /ˈænəlɪst/ 在某些行业，如金融或咨询，分析师是介于初级和高级之间的一个职位
 
-    out of stock 脱销
+       5. **specialist / expert**: 专家，通常在特定领域或技能中有深入的知识
 
-    stock size 常备尺寸
+       6. **lead**: 领队或主管，可能负责管理一个小团队或某个项目
 
-23. supply 
+       7. **manager**: 管理者，具有团队管理或部门管理的职责
 
-    supply department
+       8. **director**: 高于经理的职位，通常负责一个大的团队或多个部门
 
-    logistics department
+       9. **vice president (VP)**: 在某些组织中，副总裁职位可能位于"Senior"和最高领导层之间
 
-    sales department
+       10. **principal**: 有时用于某些行业，如咨询或工程，表示非常资深的专家
 
-    oversupply  
+       11. **partner**: 在某些专业服务行业，如律师事务所或会计事务所，合伙人是高级职位，代表了部分所有权
 
-    overdemand 
+22. 
 
-24. wage
+    1. stock [stɒk]:   库存；存货；股票
+       - 股票：I bought some stock in that tech company. 我买了那家科技公司的一些股票
+       - 存货：We need to check the stock before making the sale. 在销售之前，我们需要检查存货
+       
+    2. in stock:  有货
+       - Do you have this shoe in my size in stock? 你们有没有我的尺码的这款鞋子有货？
+       
+    3. out of stock: 缺货
+       
+       I'm sorry, that item is currently out of stock. 很抱歉，那个商品目前缺货
+       
+    4. stock size:  常规尺寸或标准尺寸，通常指的是商品或物品的标准或最常见的尺寸
+       - Do you have this dress in a stock size or should I custom order it? 你们有这款裙子的常规尺寸吗，还是我应该定制?
 
-    salary
+23. 
 
-    remuneration
+    1. supply [səˈplaɪ]: 供给，供应；提供的货物或服务
+       - The demand for the product is high, but the supply is limited. 这个产品的需求很高，但供应有限
+       
+    2. supply department: 供应部门
+       - I'll check with the supply department to see if we have more of those items. 我会跟供应部门确认一下，看看我们是否还有更多的那些物品
+       
+    3. logistics department: 物流部门
+       - The logistics department is working on delivering the products on time.物流部门正在努力准时交付产品
+       
+    4. sales department: 销售部
+       - The sales department reported an increase in revenue this quarter. 销售部门报告说这个季度的收入增加了
+       
+    5. oversupply [ˌovər səˈplaɪ]: 供大于求
+       - There's an oversupply of oranges in the market, so prices have dropped. 市场上橙子供应过剩，所以价格下降了
+       
+    5. supply-side reform  供给侧改革 
+       
+    6. overdemand:  供不应求
+       - 需求量超过了供应量。但需要注意的是，“overdemand”不是标准英语词汇。通常，人们会使用**excess demand**或者**surge in demand**来描述这种情况
+       - excess demand或surge in demand  : There's a surge in demand for masks due to the health crisis.  由于健康危机，口罩的需求激增
 
-    payroll
+24. 
 
-    payslip
+    1. wage [wedʒ]: 通常指按小时、日或周支付给员工的薪酬
+       - The minimum wage in our country has been raised to $15 per hour. 我们国家的最低工资已经提高到每小时15美元
+       
+    2. salary [ˈsæləri]: 固定的、通常按月或年支付的薪酬，与工作小时数无关
+       - She got a job with an annual salary of $60,000. 她得到了一份年薪为60,000美元的工作
+       
+    3. remuneration [rɪˌmjuːnəˈreʃən]:  为工作或服务支付的总报酬，可能包括工资、薪水、奖金、津贴等
+       - The remuneration package for the new position includes health benefits and stock options. 新职位的报酬待遇包括医疗福利和股票期权
+       
+    4. payroll [ˈperol]: 一个公司的员工名单及其薪酬的总和；或用于计算和支付薪酬的过程或记录
+       - Our HR department handles the payroll for over 500 employees. 我们的人力资源部门负责超过500名员工的工资支付
+       
+    5. payslip [ˈpeslɪp]:  工资单，上面列出了员工的工资明细，包括税收、社会保险和其他扣除后的净工资。
+       - I need to check my payslip to see how much tax was deducted this month. 我需要查看我的工资单，看看这个月扣除了多少税
 
-25. debit 
+25. 
 
-    debit card 借记卡 
+    1. debit [ˈdɛbɪt]: 一个会计和银行术语，表示从一个账户中减去的金额。在双重记账法中，借记通常用来记录资产和费用的增加
+
+       - I noticed a debit of $100 on my bank statement, but I don't recall making that transaction. 我在银行对账单上注意到有100美元的扣款，但我不记得进行过这笔交易
+
+    2. debit card [ˈdɛbɪt kɑːrd]:  借记卡，当使用时，资金直接从持卡人的银行账户中扣除，而不是像信用卡那样提供短期信贷。
+
+       I don't have any cash on me. Can I pay with my debit card？  我身上没有现金。我可以用借记卡支付吗？
+
+    3. credit card 信用卡
+
 
 ##### day03
 
-1. exhibit
+1. 
 
-   exhibition
+   1. exhibit [ɪgˈzɪbɪt] (noun, verb):  展览品 
+      - The museum has a new dinosaur  /ˈdaɪnəsɔːr/ exhibit opening next week. 博物馆下周将开放一个新的恐龙展览
+      
+   2. exhibition [ˌɛksɪˈbɪʃən] (noun):   展览, 展览会
+      - Are you going to the photography   /fəˈtɑːɡrəfi/  exhibition downtown? 你打算去市区的摄影展览吗？
+      
+   3. exposition [ˌɛkspəˈzɪʃən] (noun):  大型展览、博览会
+      
+      - The World's Fair is an exposition that showcases innovations from around the globe. 世界博览会是一个展示来自全球的创新的博览会
+      
+   4. fair [fɛr] (noun): 一个为展示和销售商品、农产品或动物而组织的活动，也可以指独立的嘉年华或游乐场
+      - The annual county(n. 郡, 县) fair is coming up, and I'm excited for the rides and games. 一年一度的县集市即将到来，我为游乐设施和游戏感到兴奋
+      
+   5. forums [ˈfɔːrəmz] (plural of forum): 开放的讨论会或会议，让人们集会并讨论特定的主题
+      - The university is hosting multiple forums on climate change this month. 大学本月将举办多次关于气候变化的论坛 
+      
+   6. symposium [sɪmˈpoziəm] (noun): 一个专门的会议或集会，专家在其中就某一主题进行讨论或演讲
+      
+      I attended a symposium on renewable energy solutions last year. 我去年参加了一个关于可再生能源解决方案的研讨会
+      
+   7. summit [ˈsʌmɪt] (noun): 首脑级的会议或高层次的会议，通常是政府或国际组织的领导人参加
+      - The G7 summit will be held /hɛld/ in Paris this year. 今年的G7峰会将在巴黎举行
+      
+   8. talk [tɔːk] (noun):  一个演讲或正式的讲座
+      
+      - I'm giving a talk on modern architecture at the library next week. 下周我将在图书馆就现代建筑发表演讲 
+      
+   9. dialogue [ˈdaɪəlɔːg] (noun):  两个或多个人之间的对话或交谈；或关于特定主题的正式讨论
+      
+      - The two world leaders had a **productive** dialogue on trade agreements. 两位世界领导人就贸易协议进行了富有成效的对话。
 
-   exposition
+   contemporary  /kənˈtɛmpərɛri/   adj. 当代的 
 
-   fair
+   Some ideas conveyed in the Four Books even contradict contemporary thoughts. 
 
-   forums
+2. 
 
-   symposium
+   1. indemnity  /ɪn'dɛmnəti/ n.  保险赔偿或赔款；对某人的损失或损害的补偿
+      - People encouraged him to get back his indemnity.  人们鼓励他拿回赔偿金 
+      
+   2. compensation [ˌkɒmpɛnˈseʃən]  n.   补偿或赔偿，通常因工作、损失或受伤而给予
+      - She received $50,000 in compensation for the injuries she sustained  /səˈstend/  in the accident.  她因在事故中受伤获得了50,000美元的赔偿
+      
+      compensate  /ˈkɑːmpenset/   You will have to compensate us for the loss. 你必须补偿我们的损失 
 
-   summit
+   3. recompense [ˈrɛkəmˌpɛns]  vt. 赔偿 n. 赔偿    补偿或赔偿某人因提供服务、努力或损失所遭受的损害
+      
+      No amount of money can provide adequate recompense for his suffering. 再多的金钱也无法弥补他的痛苦
+      
+   4. reimbursement [ˌriːɪmˈbɜːrs.mənt] : 退款或报销，通常是因为你已为某个费用或支出而支付，而另一个人或组织同意报销你。
+      
+      - Submit your travel receipts  /rɪˈsiːt/ for reimbursement. 提交您的旅行收据以获得报销
 
-   talk
+   - **indemnity** 通常与合同和保险有关；
+   - **compensation** 广泛地涉及到各种类型的损失，特别是在工作或事故中；
+   - **recompense** 有时可以用作更正式的补偿词，涉及到为提供的服务或努力提供补偿；
+   - **reimbursement** 是对已经支付的费用进行报销。
 
-   dialogue
+   1. sustain [səˈsten] 动词
+      - 经受或遭受（损伤或损失）。
+      - sustain 通常用于描述事故、灾害或某种外部事件导致的损伤或损失
+        - He **sustained** injuries in the car accident.  他在车祸中受了伤
+        - The building **sustained** significant damage from the earthquake.  这座建筑在地震中受到了严重的损害
+      
+   2. suffer [ˈsʌfər]  动词
+      - 经受痛苦、伤害或损失；受到不利的影响
+      
+      - suffer 可以用来描述因身体、情感、社会或经济原因所遭受的痛苦或损失，范围比 sustain更广
+      
+        - She **suffered** a lot after her mother's death. 她在母亲去世后受了很大的苦
+      
+        - The country **suffered** an economic downturn. 这个国家经历了一个经济衰退
+      
+          Many animals **suffer** because of habitat destruction. 许多动物因为栖息地被破坏而受苦
 
-2. indemnity
+   - sustain 更多的是指某个具体事件或行为导致的损伤或损失
+   - suffer 在描述痛苦、损失或不利影响时的应用范围更广，可以是身体上的、情感上的或更广泛的社会、经济影响
 
-   compensation
+3. 
 
-   recompense
+   1. logo [ˈlogo] 一个代表公司、组织或品牌的图形符号或徽章 
+      - Nike's swoosh is one of the most recognized logos in the world. 耐克的勾形标志是世界上最受认可的标志之一
+   2. slogan [ˈsloɡən] 一个简短而引人注目的短句或语句，通常用于广告或为了吸引公众注意
+      - Just Do It is a famous slogan from Nike. “Just Do It”是耐克的著名广告语
+   3. catchy [ˈkætʃi] 吸引人的，容易记住的，尤其是因为有某种特别的音乐、节奏或重复模式
+      - The jingle from that advertisement is really catchy. 那则广告的歌曲真的很抓耳
 
-   reimbursement
+4. 
 
-3. logo
+   1. measurement [ˈmɛʒərmənt] 衡量或评估的过程；一个确定的尺寸、长度、数量等
+      - Can you give me the measurements of the room? 你能给我房间的尺寸吗？
+   2. Metric System 一个基于10的国际衡量体系，使用单位如米、千克和秒
+   3. International Standard Organization (often abbreviated  /əˈbriːviet/ as ISO) 
+   4. British System (also known as the Imperial System) 使用单位如英寸、英尺、磅和盎司
+   5. American System 在美国使用的衡量体系，与英制系统相似，但有一些差异，如容量单位。
 
-   slogan
+5. negotiate  /nɪˈɡoʃiet/  vt. 谈判，商议
 
-   catchy
-
-4. measurement
-
-   metric system
-
-   international Standard organization
-
-   British system
-
-   American system
-
-5. negotiate
+   It's crucial to negotiate terms before signing a contract.  在签订合同之前谈判条款至关重要
 
    negotiate a deal 达成交易
 
-6. payment 
+6. 
+
+   1. payment [ˈpemənt] 付款或支付的行为；所支付的款项
+
+   2. partial Payment [ˈpɑːrʃəl ˈpemənt] 只支付欠款的一部分
+      
+      - I made a partial payment for the car, and I'll pay the rest next month. 我为汽车支付了部分款项，下个月我会支付剩余的部分
+      
+   3. full payment 支付全部应付金额
+      - I prefer to make a full payment upfront to avoid any future hassles. 我更喜欢预先全额支付，以避免将来的任何麻烦
+      
+   4. installment payment 分期支付的一次付款
+      - The TV will cost $600, but you can also pay in six installment payments of $100 each.  电视机将花费600美元，但您也可以分六期支付，每期100美元
+      
+   5. down payment  一次性支付的部分款项，通常是购买时的初始支付
+      
+      - We put a 20% down payment on the house. 我们为这所房子支付了20%的首付
+      
+   6. One-time / lump sum Payment 一次性支付的全部款项，而不是分期支付
+      - Instead of monthly charges, they offered me a one-time payment option. 他们为我提供了一次性付款选项，而不是每月收费
+      
+   7. international settlement 跨国支付或转账的结算
+      
+      - Our company handles international settlements through a specific bank. 我们公司通过某个特定的银行处理国际结算
+      
+      cross-border e-commerce 跨境电商
+
+7. 
+
+   1. rebate [ˈriː.bet] 退款或退税; 通常是商品价格的一部分，作为激励或促销手段退还给消费者
+      - I got a $50 rebate after buying the new phone. 我在购买新手机后得到了50美元的退款
+      
+   2. tax rebate 由于过多的税收支付而获得的退税
+      
+      I'm looking forward to receiving my tax rebate this year. 我期待今年能收到我的退税
+      
+   3. export rebate 出口商品的退税
+      - The government offers an export rebate to boost overseas sales. 政府提供出口退税以促进海外销售
+      
+   4. cash rebate 以现金形式退还的退款
+      - The store offers a cash rebate on selected items. 该商店对选定商品提供现金退款
+      
+   5. discount [ˈdɪs.kaʊnt]  减价或降价
+      - They offer a 10% discount if you buy two or more. 如果您购买两个或更多，他们提供10%的折扣
+      
+   6. refund[ˈriː.fʌnd] 退款或退还支付的金额
+      - I returned the damaged item and got a full refund. 我退回了损坏的商品，并得到了全额退款
+      
+   7. replacement [rɪˈples.mənt] 替换或替代
+      
+      My headphones broke, so the company sent me a replacement. 我的耳机坏了，所以公司给我寄了一个替代品
+      
+   8. claim [klem] 索赔或要求赔偿
+      - After the accident, I had to file a claim with my insurance company. 事故发生后，我不得不向我的保险公司提出索赔
+
+8. 
+
+   1. sample ['sæm.pəl]  一个用于展示、测试或评估的产品或物品的部分或例子
+      
+      - Can I have a sample of that perfume? 我可以要一份那款香水的样品吗？
+      
+   2. free sample [friː 'sæm.pəl] 免费提供的样品，通常用作促销手段
+      
+      The company was giving away free samples of their new drink.
+      
+      - **中文**: 该公司正在赠送他们新饮料的免费样品。
+      
+   3. sale of sample [sel ʌv 'sæm.pəl] 通过提供样品进行的销售，意味着购买者依赖样品作为合同的一部分 
+      
+      - I bought the carpet based on a sale of sample, and the delivered product matches the sample perfectly. 我根据样品销售购买了这块地毯，交付的产品与样品完全匹配
+      
+   4. sale by specification and description 基于详细规格和描述而不是实际样品的销售
+      - When ordering machinery, it's often a sale by specification and description since you might not see the actual machine until it's delivered. 当订购机械时，它通常是按规格和描述进行销售，因为您可能在机器交付之前都看不到实际的机器
+
+9. 
+
+   1. sanction [ˈsæŋkʃən]   (n.) 正式的批准或同意；或惩罚，制裁措施
+
+      The government gave its sanction to the proposed bill. 政府对提议的法案给予了正式的批准
+
+   2. trade sanction 与贸易有关的制裁措施，如禁止或限制某国的进出口
+      - Trade sanctions were imposed on the country due to its violation of human rights. 由于该国侵犯人权，对其实施了贸易制裁
+
+   3. economic sanction 与经济有关的制裁，如冻结资产或限制金融交易
+      - Economic sanctions can cripple a country's financial infrastructure. 经济制裁可以瘫痪一个国家的金融基础设施
+
+   4. impose a sanction on  对...实施制裁
+      - The international community decided to impose sanctions on the rogue state. 国际社会决定对这个流氓国家实施制裁
+
+   5. lift the sanction 取消制裁
+
+      - Once the nation complied with the treaty, the UN lifted the sanctions. 一旦这个国家遵守了条约，联合国就取消了制裁
+
+10. 
+
+    1. workforce 所有参与工作的人的总体，或在某地区或行业工作的所有人
+       - The company has a workforce of 5,000. 该公司有5000名员工
+    2. labour force 所有能够工作和正在寻找工作的人群
+       - The labour force in the region has been shrinking due to migration. 由于迁移，该地区的劳动力一直在减少
+    3. staff [stæf] 特定组织或公司的所有员工
+       - The staff at the hospital are working tirelessly to help patients. 医院的员工正在不知疲倦地工作以帮助病人
+
+    **联系与区别**：
+    - workforce通常是指一组为同一目的（如完成一个项目或运行一个公司）而工作的人
+    - labour force通常指的是一个国家、地区或行业中的所有工作年龄的人，包括那些正在寻找工作的人
+    - staff是指在同一组织（如公司或学校）工作的人的集合体
 
-   partial payment
+11. 
 
-   full payment
+    1. asset [ˈæsɛt] 一个有价值的物品，特别是一个组织或个人拥有的，可以用来偿付债务的东西
+       - The company's main assets are its staff and reputation. 公司的主要资产是其员工和声誉
+    2. property [ˈprɒpərti] 拥有的东西，特别是土地或建筑物 
+       - He owns several properties in the city. 他在这个城市拥有几处房产
+    3. intellectual property right 与创作（如音乐、书籍或发明）有关的法律权利
+       - She has the intellectual property rights to her book. 她拥有她的书的知识产权
+    4. lost property 失物；被遗弃或忘记的物品
+       - I left my umbrella on the bus and now it's in the lost property. 我把伞忘在了公交车上，现在它在失物招领处
+    5. lost and found 失物招领处
+       - Can you check the lost and found for my missing scarf ?  你可以帮我检查一下失物招领处，看我的围巾在不在那吗？
+    6. estate [ɪˈstet] 大片土地，特别是有房子或其他建筑物的；或指一个人死后留下的全部财产
+       - She inherited a large estate from her grandfather. 她从她的祖父那里继承了一大片土地
+    7. real estate 土地及其上的建筑物和资源
+       - The value of real estate in this area has been increasing. 这个地区的房地产价值一直在上涨
 
-   installment payment
+    **联系与区别**：
+    - asset 是一个广泛的术语，可以包括无形的资产（如品牌或知识产权）和有形的资产（如物业或设备）
+    - property 更偏向于实物资产，特别是土地和建筑
+    - intellectual property right 是关于知识产权的，如商标、专利或版权
+    - lost property和 lost and found 都指失物招领
+    - estate可以指大片土地或一人死后的财产
+    - real estate 是特指土地及其上的建筑物
 
-   down payment
+12. 
 
-   one-time / lump sum payment
+    1. authorize [ˈɔːθəˌraɪz] verb.   授权，批准
+       - I've been authorized to speak on behalf of the company. 我已经获得公司的授权代表公司发言
+    2. exclusively authorized agent 独家授权代理
+       - He's the exclusively authorized agent for this brand in the region. 他是该地区这个品牌的独家授权代理
+    3. franchise [ˈfrænˌʧaɪz] noun. 连锁经营权；通过支付许可费获得的权利，根据某个公司的商业模式运营
+       - She owns a franchise of the popular coffee chain. 她拥有这个受欢迎的咖啡连锁店的经营权
 
-   international settlement
+13. 
 
-7. rebate 
+    1. breach 名词 (Noun) / 动词 (Verb)   /briːʧ/  违背，违反；缺口，裂痕
+       - It would be a breach of trust.  这么做有点背信弃义 
+    2. breach the contract  违反合同
+       - If you don't deliver the goods on time, you will breach the contract.   如果你不按时交货，你将违反合同
+    3. the breach of the contract   合同的违反
+       - The breach of the contract resulted in a lawsuit.  合同的违反导致了一个诉讼
 
-   tax rebate
+    - breach the contract和 the breach of the contract在含义上都指的是违反合同，但语法结构不同。前者是一个动宾结构，其中breach作为动词；后者是一个名词短语，其中breach作为名词
 
-   export rebate
+14.  A war over Taiwan could involve a new generation of arms, causing untold destruction and escalating unpredictably. This is how to avert it  台湾战争可能涉及新一代武器，造成不可估量的破坏，并不可预测地升级。以下是避免战争的方法 
 
-   cash rebate
+    untold    /ˌʌnˈtold/  adj. 数不清的 无限的 
 
-   discount 
+    escalate  /ˈɛskəlet/    vt. & vi. (使)逐步升级；(使)逐步扩大
 
-   refund 
+    avert   /əˈvɜːrt/  vt. 防止 避免  
 
-   replacement
+    1. currency  名词 (Noun) /'kɜrənsi/  货币
+       - The official currency of Japan is the yen. 日本的官方货币是日元 
+    2. hard currency   硬通货 强势货币   
+       -  If they continue like this, they may have no hard currency left.   如果他们继续这样下去，他们可能就没剩下什么硬通货了 
+    3. invoice currency开票货币 
+       - What's the invoice currency for this transaction? 这笔交易的发票货币是什么？ 
+    4. international currency  国际货币 
+       - The US dollar is often used as an international currency. 美元经常被用作国际货币 
+    5. currency exchange  货币兑换
+       - I went to the currency exchange to get some **euros**.  /ˈjʊroʊ/ 我去货币兑换处兑换了一些欧元
+    6. currency rate  货币汇率
+       - The currency rate **fluctuates**   (/ˈflʌktʃuet/ vi. 波动, 涨落, 起伏)  daily. 汇率每天都在波动 
 
-   claim
+15. 
 
-8. sample 样品 样本 抽样
+    - distribute 指的是分发或分配物品的过程
+    - distribution channel 是商品从制造商到消费者的整个分销路径
+    - outlet是一个特定的销售点或地方
+    - wholesaler 通常从制造商购买大量商品，并以批发价格卖给零售商
+    - retailer从批发商或制造商购买商品，并直接向公众销售
+    - end user是最终使用或消费商品的个人或实体
+    - manufacturer是生产商品的公司或个人 
 
-   free sample
+16. 
 
-   sale of sample
+    enterprise/'ɛntərˌpraɪz/   企业  事业单位
 
-   sale by specification and description
+    - She works for a large enterprise that manufactures car parts.  她在一个制造汽车零件的大企业工作
 
-9. sanction
+    SOE (state-owned enterprise)   国有企业
+    - The SOE has been underperforming and is in need of reforms. 这家国有企业表现不佳，需要改革
 
-   trade sanction
+    entrepreneur  /ˌɑntrəprə'nɜr/  企业家
+    - He is a successful entrepreneur who started several tech companies. 他是一个成功的企业家，创办了几家科技公司
 
-   economic sanction
+    joint venture 合资企业
 
-   impose a sanction on
+    - They formed a joint venture to enter the Asian market. 他们成立了一个合资企业进入亚洲市场
 
-   lift the sanction
+    entrepreneurship /ˌɑntrəprə'nɜrˌʃɪp/ 创业精神，企业家才能
+    - In our city, we like entrepreneurship.  而我们所在的这个城市喜欢创业精神
 
-10. workforce 
+    start up one's own business 创业，开办自己的公司
 
-    labour force 
+    - After college, she decided to start up her own business. 大学毕业后，她决定开办自己的公司
 
-    staff
+    public institution 公共机构 事业单位
 
-11. asset  财产 资产
+    - He works at a public institution that focuses on scientific research. 他在一个专门从事科学研究的公共机构工作
 
-    property
+    central enterprise 中央企业 (在中国特指中央政府直接控制的大型国有企业)
+    - Several central enterprises in China are globally competitive. 中国有几家在全球具有竞争力的中央企业
 
-    intellectual property right
+17. 
 
-    lost property
+    flotation 名词 (Noun) /floʊ'teʃən/  公司上市，首次公开募股；或指使物体浮起的行为或状态
 
-    lost and found
+    - The company is preparing for its flotation on the stock market. 该公司正在为其在股票市场上的上市做准备 
 
-    estate
+    go public 上市
 
-    real estate
+    - They decided to go public to raise more capital. 他们决定上市以筹集更多的资本
 
-12. authorize 
+    initial public offering (IPO) 首次公开募股
+    - The company's IPO was highly anticipated by investors. 投资者高度期待该公司的首次公开募股
 
-    exclusively authorized agent
+    seek IPO 寻求首次公开募股
 
-    franchise
+    - Several startups are looking to seek IPOs this year. 今年有几家初创公司希望进行首次公开募股
 
-13. breach
+    listed company 上市公司
 
-    breach the contract
+    - Being a listed company comes with many regulatory requirements. 作为一家上市公司，有许多监管要求 
 
-    the breach of the contract
+18. 
 
-14. currency
-
-    hard currency
-
-    invoice currency
-
-    international currency
-
-    currency exchange
-
-    currency rate
-
-15. distribute
-
-    distribution channel 
-
-    outlet
-
-    wholesaler
-
-    retailer
-
-    end user 
-
-    manufacturer
-
-16. enterprise
-
-    SOE    state-owned enterprise
-
-    entrepreneur
-
-    joint venture
-
-    entrepreneurship
-
-    start up one's own business 
-
-    public institution
-
-    central enterprise
-
-17. floatation flotation
-
-    go public
-
-     initial public offering (IPO)
-
-    seek IPO
-
-    listed company
-
-18. office site
-
-    office building
-
-    home  office / headquarters (HQ)
-
-    subsidiary / branch
-
-    bank of China (New York)
-
-    purchase  /ˈpɜːrtʃəs/
-
-    purchase power
-
-    foreign exchange rate
-
-    purchase power parity (PPP)
+    1. office site 办公场地或办公地点的具体位置
+       - Our company is relocating to a new office site in the city center.  我们公司即将搬迁到市中心的新办公地点
+    2. office building 指用于商业或办公活动的建筑物
+       - Our office is located in a modern office building downtown.  我们的办公室位于市中心一座现代化的办公楼内
+    3. headquarters (HQ) 公司的总部或总部办公室
+       - The company's headquarters is responsible for making key decisions.  公司总部负责做出关键决策
+    4. subsidiary / branch /səbˈsɪdiˌɛri/ 分公司或附属公司，通常是母公司的子公司。
+       - The subsidiary in London handles our European operations.  伦敦子公司负责欧洲业务
+       - Subsidiary是独立法人实体，而branch可能是相对独立的分支机构
+    6. purchase /ˈpɜːrtʃəs/  购买或采购商品或服务
+       - I need to make a purchase for the office supplies. 
+    7. purchase power 购买力，指个人、公司或国家能够购买商品和服务的能力
+       - His high salary gives him a lot of purchase power.  他的高薪给了他很大的购买力 
+    9. purchase power parity (PPP) 购买力平价，是一个经济学概念，指不同国家的货币在购买力相等的情况下的兑换率
+       - Economists use purchase power parity to compare the relative value of currencies.  经济学家使用购买力平价来比较货币的相对价值 
+       - gender parity /ˈpærəti/ 性别平等
 
 19. provider 
 
@@ -897,11 +1224,24 @@ line manager  直系领导 部门领导
 
     manufacturer
 
-20. recession
+    好的，我将为您解释这几个词汇的含义、联系、区别，并提供KK音标、例句及其中文翻译：
 
-    economic stagnation
+    1. provider [prəˈvaɪdər]  名词， 提供者 供应者
+       - He is the main provider for his family. 他是家里的主要经济来源者
+    2. service provider [ˈsɜrvɪs prəˈvaɪdər] 服务供应商
+    3. solution provider 解决方案提供者
+       - The company is a leading solution provider for IT infrastructure. 该公司是IT基础设施的领先解决方案提供者
+    4. manufacturer [ˌmænjuˈfækʧərər] 制造商；生产厂家
+       - The car's manufacturer offers a three-year warranty.  /ˈwɔːrənti/  这辆车的制造商提供三年保修
 
-    boom and bust
+20. 
+
+    1. recession [rɪˈsɛʃən] 名词 经济衰退
+       - Many businesses closed during the recession.  许多企业在经济衰退期间倒闭了
+    2. economic stagnation [ˌɛkəˈnɑmɪk stægˈneʃən]
+       - The country has been experiencing economic stagnation for several years. 这个国家已经经历了好几年的经济停滞
+    3. boom and bust [bum ænd bʌst]  繁荣与萧条，描述经济或市场周期性的上升（繁荣）和下降（萧条）。
+       - The boom and bust cycle of the economy has affected many industries. 经济的繁荣与衰退周期影响了许多行业
 
 21. superior
 
@@ -911,29 +1251,67 @@ line manager  直系领导 部门领导
 
     inferior
 
-22. accounting
+    首先，请注意，您提到的 "spuerior" 可能是一个拼写错误，应该是 "superior"。我将为您提供有关这些词汇的详细解释。
 
-    accountant
+    1. superior [sʊˈpɪriər] 形容词 / 名词 质量更高的，更优越的；上级，长官
+       - Her performance was superior to that of her teammates. 她的表现比她的队友好
+       
+         在句子中，that of的作用是避免重复，同时确保句子结构的平衡和清晰。that在此处代指 performance，而 of her teammates指的是她的队友们的表现。完整的意思是Her performance was superior to the performance of her teammates. 如果您去掉 that of，句子会变成 Her performance was superior to her teammates.这样的表达在语法上是不准确的，因为这样的结构暗示她的表现不仅仅是超越了她的队友们的表现，而是超越了她的队友们本身，这显然是不合逻辑的
+       
+    2. superior quality and reasonable price 物美价廉
+       
+       - We offer products of superior quality and reasonable price. 我们提供高质量且价格合理的产品
+       
+    3. superior goods 高质量的商品
+       - Consumers are willing to pay more for superior goods. 消费者愿意为高质量的商品支付更多的钱
+       
+    4. inferior [ɪnˈfɪriər] 形容词 / 名词      质量较差的，较低的；下级，下属
+       - This brand is considered inferior to others in the market. 这个品牌被认为比市场上的其他品牌质量差
 
-    teller
+22. 
 
-    ATM  = automatic teller machine
+    1. accounting [əˈkaʊntɪŋ]  名词 记账、会计，涉及记录、分析、审核和解释财务交易的过程
+       - She's studying accounting at the university. 她在大学里学习会计
+    2. Accountant [əˈkaʊntənt] 名词 会计师，负责准备和检查财务记录的专业人员
+       - My brother works as an accountant for a big firm. 我的兄弟在一家大公司做会计师
+    3. teller [ˈtɛlər] 名词 出纳员，银行的员工，负责处理日常的存款和提款业务
+       - The bank teller assisted me with my withdrawal. 银行出纳员帮助我办理了取款业务
+    4. ATM (Automatic Teller Machine)   自动取款机
+       - I need to stop by the ATM to get some cash. 我需要去自动取款机取点现金
+    5. account book / ledger [əˈkaʊnt bʊk] / [ˈlɛdʒər] 账簿，用于记录财务交易的书或文件
+       - All financial transactions are recorded in the company's ledger. 公司的所有财务交易都记录在帐簿上
 
-    account book / ledger
+23. 
 
-23. commodity 
+    1. commodity [kəˈmɑdəti]   原材料或农产品，可以在市场上买卖，例如金、油或谷物
+       - The price of the commodity has been fluctuating in recent months. 近几个月，这种商品的价格一直在波动
+    2. goods [ɡʊdz] 可买卖或使用的物品或产品
+       - We shipped the goods to the customer last week. 我们上周把货物运给了客户
+    3. merchandise [ˈmɝːtʃəndaɪz]   在商店中买卖的货物；商品
+       - The store has a wide variety of merchandise on sale. 这家店有各种各样的商品出售
+    4. item [ˈaɪtəm]   单一的物品或事物
+       - The most expensive item on the menu is the lobster. 菜单上最贵的一项是龙虾
 
-    goods
+    **联系与区别**:
 
-    merchandise
+    - **commodity** 通常指的是基本的、大宗的、可交易的物品，如矿产、粮食等
+    - **goods** 是一个广泛的术语，可以用来描述几乎任何类型的物品或产品
+    - **merchandise** 通常与零售和销售有关，特指商店或商业环境中的货物
+    - **item** 是一个非常通用的术语，可以指代单一的物品或事物，无论是在销售环境中还是在其他上下文中
 
-    item
+24. 
 
-24. deposit
+    1. deposit [dɪˈpɑzɪt]  名词/动词
+       - 一个支付的部分金额，通常是为了确保服务或物品，或在银行账户中放置的金额
+       - I put a deposit on the apartment to secure it. 我为这套公寓支付了定金以确保它
+    2. down payment [daʊn ˈpemənt] 名词
+       - 购买物品或服务时首次支付的部分金额，通常是为了获得贷款或信贷
+       - We made a 20% down payment on the house. 我们为这房子支付了20%的首付
+    3. final / balance payment [ˈfaɪnəl ˈpemənt] / [ˈbæləns ˈpemənt]   名词
+       - 在全部交易完成后所需支付的剩余金额
+       - After the down payment, we'll need to make the balance payment within a year. 在首付后，我们需要在一年内支付余款
 
-    down payment
-
-    final / balance payment
+    - deposit可以是为了确保服务或物品的一部分支付，也可以是存款。在某些情境中，"deposit" 可以与 "down payment" 互换，但 "down payment" 通常用于大额购买，如房屋或汽车
 
 25. inflation
 
