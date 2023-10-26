@@ -1115,7 +1115,7 @@ line manager  直系领导 部门领导
 
     - breach the contract和 the breach of the contract在含义上都指的是违反合同，但语法结构不同。前者是一个动宾结构，其中breach作为动词；后者是一个名词短语，其中breach作为名词
 
-14.  A war over Taiwan could involve a new generation of arms, causing untold destruction and escalating unpredictably. This is how to avert it  台湾战争可能涉及新一代武器，造成不可估量的破坏，并不可预测地升级。以下是避免战争的方法 
+14. A war over Taiwan could involve a new generation of arms, causing untold destruction and escalating unpredictably. This is how to avert it  台湾战争可能涉及新一代武器，造成不可估量的破坏，并不可预测地升级。以下是避免战争的方法 
 
     untold    /ˌʌnˈtold/  adj. 数不清的 无限的 
 
@@ -1127,12 +1127,12 @@ line manager  直系领导 部门领导
        - The official currency of Japan is the yen. 日本的官方货币是日元 
     2. hard currency   硬通货 强势货币   
        -  If they continue like this, they may have no hard currency left.   如果他们继续这样下去，他们可能就没剩下什么硬通货了 
-    3. invoice currency开票货币 
+    3. invoice currency 开票货币 
        - What's the invoice currency for this transaction? 这笔交易的发票货币是什么？ 
     4. international currency  国际货币 
        - The US dollar is often used as an international currency. 美元经常被用作国际货币 
     5. currency exchange  货币兑换
-       - I went to the currency exchange to get some **euros**.  /ˈjʊroʊ/ 我去货币兑换处兑换了一些欧元
+       - I went to the currency exchange to get some **euros**.  /ˈjʊro/ 我去货币兑换处兑换了一些欧元
     6. currency rate  货币汇率
        - The currency rate **fluctuates**   (/ˈflʌktʃuet/ vi. 波动, 涨落, 起伏)  daily. 汇率每天都在波动 
 
@@ -1140,7 +1140,7 @@ line manager  直系领导 部门领导
 
     - distribute 指的是分发或分配物品的过程
     - distribution channel 是商品从制造商到消费者的整个分销路径
-    - outlet是一个特定的销售点或地方
+    - outlet  /ˈaʊtlɛt/ 是一个特定的销售点或地方
     - wholesaler 通常从制造商购买大量商品，并以批发价格卖给零售商
     - retailer从批发商或制造商购买商品，并直接向公众销售
     - end user是最终使用或消费商品的个人或实体
@@ -1148,7 +1148,7 @@ line manager  直系领导 部门领导
 
 16. 
 
-    enterprise/'ɛntərˌpraɪz/   企业  事业单位
+    enterprise/'ɛntərˌpraɪz/   企业
 
     - She works for a large enterprise that manufactures car parts.  她在一个制造汽车零件的大企业工作
 
@@ -1178,13 +1178,13 @@ line manager  直系领导 部门领导
 
 17. 
 
-    flotation 名词 (Noun) /floʊ'teʃən/  公司上市，首次公开募股；或指使物体浮起的行为或状态
+    flotation 名词 (Noun) /flo'teʃən/  公司上市，首次公开募股；或指使物体浮起的行为或状态
 
     - The company is preparing for its flotation on the stock market. 该公司正在为其在股票市场上的上市做准备 
 
     go public 上市
 
-    - They decided to go public to raise more capital. 他们决定上市以筹集更多的资本
+    - They decided  /dɪ'saɪd/ to go public to raise more capital. 他们决定上市以筹集更多的资本
 
     initial public offering (IPO) 首次公开募股
     - The company's IPO was highly anticipated by investors. 投资者高度期待该公司的首次公开募股
@@ -1203,7 +1203,7 @@ line manager  直系领导 部门领导
        - Our company is relocating to a new office site in the city center.  我们公司即将搬迁到市中心的新办公地点
     2. office building 指用于商业或办公活动的建筑物
        - Our office is located in a modern office building downtown.  我们的办公室位于市中心一座现代化的办公楼内
-    3. headquarters (HQ) 公司的总部或总部办公室
+    3. headquarter (HQ) 公司的总部或总部办公室
        - The company's headquarters is responsible for making key decisions.  公司总部负责做出关键决策
     4. subsidiary / branch /səbˈsɪdiˌɛri/ 分公司或附属公司，通常是母公司的子公司。
        - The subsidiary in London handles our European operations.  伦敦子公司负责欧洲业务
@@ -1311,337 +1311,577 @@ line manager  直系领导 部门领导
        - 在全部交易完成后所需支付的剩余金额
        - After the down payment, we'll need to make the balance payment within a year. 在首付后，我们需要在一年内支付余款
 
-    - deposit可以是为了确保服务或物品的一部分支付，也可以是存款。在某些情境中，"deposit" 可以与 "down payment" 互换，但 "down payment" 通常用于大额购买，如房屋或汽车
+    - deposit可以是为了确保服务或物品的一部分支付，也可以是存款。在某些情境中，deposit可以与 down payment互换，但 down payment通常用于大额购买，如房屋或汽车
 
-25. inflation
+25. 
 
-    deflation
+    1. inflation  /ɪnˈfleʃən/   通货膨胀
+       - High inflation can erode   /ɪˈrod/ the value of savings.  高通货膨胀会侵蚀储蓄的价值
+    2. deflation /dɪˈfleʃən/  通货紧缩
+       - During deflation, consumers may delay purchases in anticipation of lower prices. 在通货紧缩期间，消费者可能会推迟购买，以期待更低的价格
+    3. appreciation  /əˌpriːʃiˈeʃən/ 升值，指一种货币在外汇市场上增值或增加价值
+       - The appreciation of the Japanese yen   /jɛn/ against the US dollar is good news for Japanese exporters. 日元对美元的升值对日本出口商来说是个好消息
+    4. depreciation /dɪˌpriːʃiˈeʃən/ 贬值，指一种货币在外汇市场上贬值或失去价值
+       - The depreciation of the currency has led to higher import costs. 货币贬值导致进口成本上升
 
-    appreciation
+    - Inflation 和 deflation 是与一般物品和服务的价格水平有关的，而 appreciation 和 depreciation 是与货币相对于其他货币的价值有关的
 
-    depreciation
+26. inventory /ˈɪnvəntəri/ 存货，指一家企业或组织拥有的所有商品、原材料、成品和未完成品的清单。它是用来跟踪和管理库存的工具
+    - The company conducts a regular inventory to keep track of its stock levels. 该公司定期进行库存盘点，以跟踪库存水平
 
-26. inventory 
+    packing list  装箱单，是一份详细列出货物的清单，通常附在货物包装上，用于记录和标识包裹中的内容
+    - Please check the packing list to make sure all the items are included in the shipment. 请检查装箱单，确保所有物品都包含在发货中
 
-    packing list
+27. liquidation  /ˌlɪkwɪ'deʃən/  n. 结算 清算 
 
-27. liquidation
+28. discharge *vt. vi.*
 
-28. discharge 
+    释放或排出（Release or Emission）
+    - The factory discharged toxic chemicals into the river, causing pollution. 工厂向河流排放了有毒化学物质，导致污染
+    - 用法：通常用于描述废物、废水、废气、气体等的排放或释放行为
 
-29. overdraft 
+    解雇（Terminate Employment）
+    - The company had to discharge several employees due to financial difficulties. 由于财务困难，公司不得不解雇了几名员工
 
-    run up an overdraft
+    履行或执行（Fulfill or Execute）
 
-30. broker
+    - He discharged his duties as a manager with dedication. 他兢兢业业地履行了经理的职责
 
-    agent
+    放电（Electric Discharge）
+    - The lightning discharged a tremendous amount of energy. 闪电释放了大量能量
 
-    stock broker
+    出院（Release from Medical Care）
 
-    honest broker
+    - The doctor decided to discharge the patient from the hospital. 医生决定让病人出院
 
-    pawnshop 
+    卸货（Unloading Cargo）
+    - The **crew** worked quickly to discharge the cargo from the ship. **船员们**迅速卸货
 
-    pawnbroker
+    释放弹药（Fire Ammunition）
+
+29. overdraft   /ˈovərdræft/  
+
+    My bank charged me a fee for using an overdraft on my checking account.  我的银行因我在支票账户上透支而向我收取了费用 
+
+    run up an overdraft  
+
+30. 
+
+    broker  /ˈbrokər/  作为中介的人或机构，常涉及金融交易如股票、房地产
+    - He is a real estate broker.  他是一名房地产经纪人
+
+    agent  /ˈedʒənt/  代理人，代表某人或机构行事的人
+    - She is the agent of a famous actor.  她是一名著名演员的代理人
+
+    stock broker  股票经纪人，买卖股票的中介
+    - My stock broker advised me to sell my shares.  我的股票经纪人建议我卖掉我的股票
+
+    pawnshop   /'pɔn'ʃɑp/ 典当店
+
+    - He pawned his watch at the pawnshop.  他在典当店典当了他的手表
 
 ##### day04
 
-1. commerce
+1. commerce  /ˈkɑːmɜːrs/ 
 
-   Chamber of Commerce
+   Because of the global coronavirus pandemic, commerce is at a standstill. 由于全球冠状病毒大流行，商业活动陷于停滞
 
-2. financial 
+   Chamber of Commerce  商会
 
-   finanical center / crisis
+   House of Representatives &  Chamber of Deputies  众议院 
 
-   finance 
+   Senate   /ˈsɛnɪt/ 参议院
 
-3. overtime
+2. 
 
-   work overtime 
+   1. financial   /fɪˈnænʃəl/ 用作形容词，描述与财务或金融有关的名词
+
+      - We need to make some important financial decisions. 我们需要做一些重要的财务决策
+
+   2. financial center 金融中心
+
+      - New York City is a major financial center of the world. 纽约市是世界的主要金融中心之一
+
+   3. financial crisis  金融危机
+
+      - The global financial crisis of 2008 had a severe impact on economies worldwide. 2008年的全球金融危机对全球经济造成了严重影响
+
+   4. finance   /ˈfaɪˌnæns/  通常用作名词，指代金融领域；也可以作为动词，指提供资金
+
+      - He studied finance at the university.  他在大学学习金融
+
+3. overtime n. 加班
+
+   - She has been doing a lot of overtime this week. 这周她加了很多班
+
+   work overtime
+
+   - I seldom work overtime.  我很少加班
+   - I had to work overtime to finish the project on time. 我不得不加班以确保项目按时完成
 
    overtime pay
 
-4. tailer
+   - Employees **are entitled to** overtime pay when they work more than 40 hours a week.  当员工一周工作超过40小时时，他们有权获得加班工资
 
-   tailer-made
+4. tailor  /'telər/ 一个专业的裁缝，特指男士服装的裁缝；或作动词，表示定制或调整以适应特定需要
 
-   customize
+   tailor-made
 
-5. bill  
+   - She wore a tailor-made dress to the party. 她穿着一件定制的裙子去参加聚会
 
-   banknote
+   customize /'kʌstəˌmaɪz/  动词    根据个人的喜好或特定需求定制或修改某物
 
-   bill of exchange
+   - You can customize the settings of this application to suit your preferences. 你可以自定义此应用程序的设置以适应你的偏好
 
-   promissory note
+5. bill   账单； 或是指法律草案
 
-   bill of lading
+   - Please pay the electricity bill before Friday.  请在周五之前支付电费账单
 
-6. credit
+   banknote   银行券，货币的一种形式
 
-   creditor
+   - I don't have any banknotes, only coins.  我没有纸币，只有硬币
 
-   debtor
+   promissory note  承诺书，是借款人作出的书面承诺，承诺在特定时间或要求时支付特定金额
 
-7. margin
+   - /ˈprɑˌmɪsəri/
+   - He signed a promissory note to repay the loan in six months. 他签了一张承诺书，承诺六个月内还款
 
-   profit margin 
+   bill of lading /bɪl ʌv 'ledɪŋ/   提单，是一种文件，由承运人发给货物发货人，证明货物已接收用于运输
 
-   gross margin
+   - The bill of lading is required for the shipment to clear customs.   清关需要提单
 
-   net margin
+6. credit  /'krɛdɪt/ 名词.  信用；赊账；信誉。在财务中，通常指允许延期支付的一种安排
 
-8. mortgage 
+   - I bought the television on credit. 我用信用购买了这台电视
 
-   apply for / take out / pay off a mortgage
+   creditor  债权人。指有权要求债务人支付货币或履行其他义务的人
 
-   monthly mortgate repayments
+   - The company has to pay its creditors within 30 days. 该公司必须在30天内支付其债权人
 
-   installment
+   debtor /'dɛtər/     债务人。指欠别人钱或其他形式债务的人或实体
 
-9. subscribe
+   - The debtor promised to **repay the loan** next month. 债务人承诺下个月偿还贷款
 
-   subscribe to 
+7. margin /'mɑrdʒɪn/ 名词.  边缘；**利润空间**；保证金。在经济和财务中，通常指销售价格与成本之间的差额
 
-10. commission 佣金 
+   - We have a small margin of error in our calculations. 我们的计算有一小部分误差范围
 
-    interest difference
+   profit margin 利润率。销售收入与销售成本之间的差额，通常以百分比表示
 
-    work on commission
+   - The company aims to maintain a high profit margin. 公司的目标是保持高利润率
 
-11. contractor
+   gross margin 毛利润率。总销售收入与商品的直接成本之间的差额
 
-    general contractor
+   - Increasing the sales volume may improve the gross margin. 提高销售量可能会提高毛利润率
 
-    sub-contractor
+   net margin 净利润率。在扣除所有费用和税项后，销售收入与净利润之间的差额
 
-    agreement
+   - After paying all the expenses, the net margin of the company was quite low. 支付所有费用后，公司的净利润率相当低
 
-12. outsource
+8. mortgage /'mɔrgɪdʒ/ 抵押贷款。一种贷款形式，借款人用房产或其他不动产作为担保
 
-13. arrears  逾期欠款
+   - They took out a mortgage to buy a house. 他们贷款买了一栋房子
 
-    rent / mortgage / tax arears
+   apply for a mortgage  申请抵押贷款
+
+   take out a mortgage  办理抵押贷款
+
+   - 日常用法：作为动词短语使用。
+   - KK音标：/ə'plaɪ fɔr ə 'mɔrgɪdʒ/
+   - 例句：They went to the bank to apply for a mortgage.
+   - 中文翻译：他们去银行申请抵押贷款。
+
+   pay off a mortgage   偿还抵押贷款
+
+   - They managed to pay off their mortgage in 15 years. 他们设法在15年内偿还了抵押贷款
+
+   monthly mortgage repayments 月供
+
+   - The monthly mortgage repayments are quite a burden for them. 每月的抵押贷款还款对他们来说是一个相当大的负担
+
+   installment    分期付款。将总款项分成若干期进行支付
+
+   - I bought the car and paid in monthly installments.   我买了这辆车，并分期付款
+
+9. subscribe 订阅；预约。指事先付费以便定期收到某种服务，如杂志、网络服务
+
+   I subscribe to several fashion magazines.    我订阅了几本时尚杂志
+
+10. commission  作为名词或动词使用  佣金；委托；委员会。在销售中，佣金是销售人员基于销售额获得的收入
+
+    - The sales agent earns a 10% commission on each sale.  销售代理每笔销售可以赚取10%的佣金
+
+    interest difference 利差。指不同投资或贷款之间的利率差异
+
+    - The interest difference between the two banks is significant. 这两家银行之间的利差相当大
+
+    work on commission  动词短语.  以佣金为工资。指的是工作收入主要依赖于销售佣金
+
+    - Real estate agents often work on commission.   房地产代理人通常是靠佣金为生
+
+11. contractor /'kɒntræktər/  承包商；合同商。负责提供特定服务或完成特定项目的个人或公司
+
+    - The contractor is responsible for the construction of the building. 承包商负责建筑的建造
+
+    general contractor 总承包商。负责管理整个建筑项目，包括雇佣分包商、购买材料等
+
+    - The general contractor oversees all aspects of the construction project. 总承包商负责监督建筑项目的所有方面
+
+    sub-contractor 分包商。被总承包商雇佣来完成建筑项目中特定部分的个人或公司
+
+    - The sub-contractor was hired to do the electrical work for the building. 分包商被雇来负责建筑的电气工作
+
+    agreement 协议；合同
+
+    - We have reached an agreement on the terms of the contract. 我们已经就合同条款达成协议
+
+12. outsource vt. 
+
+    We need to outsource some programming work. 我们需要外包一些编程工作 
+
+13. arrear   /ə'rɪr/ n.  指代未按时支付的款项，如租金、抵押贷款或税款
+
+    - As for now, I have arrears on my rent.  目前，我还拖欠着房租
+
+    rent arrears   租金拖欠
+
+    mortgage arrears   抵押贷款逾期
+
+    tax arrears  税款拖欠
 
 14. book value 
 
-15. proforma
+    Many of America's biggest companies, including McDonald's,/mɪk'dɔnəld/  report a negative **book value**, a **gauge**  /ɡedʒ/ of a firm's net assets.  包括麦当劳在内的许多美国最大公司的账面价值都是负数，而账面价值是衡量公司净资产的标准 
 
-    proforma invoice
+15. proforma /pro'fɔrmə/ 
 
-16. equity
+    - The supplier provided a proforma document for our review.  供应商提供了一份预形式的文件供我们审核
 
-    equities
+    proforma invoice   预形式发票。这是一种销售提供给购买者的初步发票，其中包含了有关产品或服务、价格、运输费用等的详细信息，但它不是最终的计费发票
 
-    blue chips
+    - We received a proforma invoice from the manufacturer, detailing the cost of each item. 我们收到了制造商的预形式发票，其中详细列出了每项的费用
 
-    casino
+16. equity /'ɛkwəti/ 股权；在公司中，表示所有者对公司资产的所有权，计算方法是总资产减去总负债
 
-    red chips
+    - She has equity in the company, which means she is a part-owner. 她在公司中有股权，意味着她是公司的部分所有者
 
-17. fiscal
+    blue chips 是指那些在股票市场中有着良好表现，稳定且有着良好声誉的大公司的股票
 
-    fiscal policy
+    casino  赌场；一个提供赌博服务的场所
 
-    fiscal year
+    - Many tourists visit Las Vegas for its famous casinos. 许多游客访问拉斯维加斯是为了其著名的赌场
 
-    fiscal stimulus
+    red chips 是一个用来指代在香港上市的，拥有中国大陆背景的公司的股票。这些通常是大陆的国有企业 
 
-18. incentive
+17. fiscal /'fɪskəl/  adj. 财政的；与政府收入、花费和借款有关的
 
-    incentive policy
+    - The fiscal policies of the government affect the country's economy. 政府的财政政策影响着国家的经济
 
-    bonus / dividend / performance salary
+    fiscal policy 财政政策
 
-    subsidies
+    fiscal year  财政年度；一个用于计算政府预算的一年时间
 
-    allowance
+    - The fiscal year for the federal government starts on October 1. 联邦政府的财政年度从10月1日开始
 
-    paid leave
+    fiscal stimulus  财政刺激；通过增加公共支出或减税来刺激经济增长的政府策略
 
-    insurance
+    - The government introduced a fiscal stimulus package to boost the economy during the recession 政府在经济衰退期间推出了一项财政刺激计划，以促进经济增长。
 
-    medcial insurance
+18. incentive /ɪn'sɛntɪv/ n.  激励，刺激，诱因
 
-    incentive shares
+    - The company offered financial incentives to encourage productivity. 公司提供经济激励以鼓励生产力
 
-    training
+    incentive policy 激励政策   描述企业或政府采用的旨在激励特定行为的政策
 
-    work environment
+    - The government’s incentive policy aims to boost local manufacturing. 政府的激励政策旨在促进本地制造业
 
-19. monopolistic
+    bonus / dividend  /'dɪvɪˌdɛnd/  / performance salary  奖金 / 股息 / 绩效薪酬
 
-    monopoly
+    - Employees receive a bonus at the end of the year based on company profits. 员工根据公司利润在年底收到奖金
 
-    anti-monopoly
+    subsidy  补贴  政府为了支持特定行业或活动提供的财政援助。
 
-    dumping
+    - The government provides subsidies to farmers to support agriculture. 政府向农民提供补贴以支持农业
 
-    anti-dumping
+    allowance  津贴   额外的支付，用于覆盖特定费用
 
-20. vendor
+    - The company provides a travel allowance for business trips.  公司为商务旅行提供旅行津贴
 
-    vending machine
+    paid leave   带薪休假
 
-    pedlar
+    - Employees are entitled to 20 days of paid leave annually. 员工每年有权享受20天的带薪休假
 
-    sole trader
+    insurance  保险
 
-21. voucher
+    - Everyone should have health insurance to cover medical expenses. 每个人都应该有健康保险以支付医疗费用
 
-    coupon
+    medical insurance  医疗保险
 
-22. arbitrage 
+    incentive shares  激励股票   作为激励员工的一种方式，公司可能会提供股票
 
-    arbitrate
+    - The company granted incentive shares to employees based on performance. 公司根据员工的表现授予激励股票
 
-23. bookkeeper
+    training 培训
 
-    accountant
+    - The company provides training programs to help employees improve their skills. 公司提供培训计划，帮助员工提高他们的技能。
 
-24. fluctuate
+    work environment  工作环境
 
-    increase / ascend / rise / soar
+    - A positive work environment increases employee satisfaction and productivity. 积极的工作环境增加了员工的满意度和生产力
 
-    decrease / descend / fall / plunge
+19. monopolistic  /məˌnɑːpəˈlɪstɪk/  形容词   具有垄断性质的
+    - The monopolistic practices of the company were investigated by the government. 该公司的垄断性做法受到了政府的调查
 
-    level off
+    monopoly /məˈnɑːpəli/  名词  垄断
+    - The company has a monopoly over the telecommunications industry. 该公司在电信行业具有垄断地位
 
-    remain stable
+    anti-monopoly 形容词  反垄断 
 
-25. monetary
+    - Anti-monopoly laws are essential for maintaining market competition. 反垄断法对于维持市场竞争是必要的
 
-    International monetary fund (IMF)
+    dumping /ˈdʌmpɪŋ/ 名词  倾销
 
-    monetary  unit / policy
+    - Dumping cheap goods into a market can harm the local industry. 向市场倾销廉价商品可能会损害本地行业
 
-26. own-label
+    anti-dumping 形容词 反倾销
+    - The country imposed anti-dumping duties on imported steel. 该国对进口钢铁征收反倾销税 
 
-    own-brand
+20. vendor 名词  卖主，供应商   通常指在交易中出售商品或服务的个人或公司
 
-    white-label
+       - The vendor provided excellent service, and the products were delivered on time. 卖家提供了优质的服务，产品也准时送达
 
-27. arbitration
+    vending machine 自动售货机
+       - I bought a bottle of water from the vending machine in the hallway. 我从走廊的自动售货机里买了一瓶水。
+       - Where's a vending machine around here?  这附近哪里有自动贩卖机
 
-    Dispute settlement
+    pedlar /ˈpɛdlər/  小贩，流动商贩
+       - The pedlar set up a small stall in the market to sell handmade crafts.  小贩在市场上设立了一个小摊位，出售手工艺品
 
-    negotiation
+    sole trader  个体经营者
+       - As a sole trader, she managed all aspects of her business by herself. 作为个体经营者，她独自管理自己业务的所有方面
 
-    mediation
+21. voucher   /ˈvaʊʧər/ 凭证；证明
 
-    lawsuit
+    - I have a voucher for a free meal at this restaurant.  我有一张在这家餐厅免费用餐的凭证
 
-28. brand-stetching
+    coupon /ˈkuˌpɑn, ˈkjuˌpɑn/  优惠券
 
-    brand extension
+    - I used a coupon to get a 20% discount on my purchase. 我使用了一张优惠券，在购买时获得了20%的折扣
 
-    branding
+22. arbitrage  /ˈɑːrbɪtrɑːʒ/    套利；利用市场的价格差异进行买卖以获取利润的活动
+    - He made a significant profit through arbitrage between the stock and futures markets. 他通过股票和期货市场之间的套利获得了可观的利润
+    - He is arbitraging between the commodities markets in China and the United States to take advantage of the price differences. 他在中国和美国的商品市场之间进行套利，以利用价格差异获取利润
 
-    instangible value
+    arbitrate   /ˈɑːrbɪtret/动词   仲裁
+    - The two companies agreed to arbitrate their dispute instead of going to court.  这两家公司同意通过仲裁解决他们的争端，而不是走上法庭
 
-    brand-name product
+23. bookkeeper记账员；负责记录和管理财务交易如收入、支出和其他财务活动的人
+    - The bookkeeper is responsible for maintaining accurate records of all financial transactions.  记账员负责维护所有财务交易的准确记录
 
-    brand loyalty
+    accountant  会计师
+    - The accountant prepared the financial statements and ensured they complied with regulations. 会计师准备了财务报表，并确保它们符合规定
+    - comply  /kəmˈplaɪ/ 
 
-    brand new
+24. fluctuate /ˈflʌktʃuet/ vi. 波动；指价格、数量、水平等不稳定，上下变动
+    - The stock prices fluctuate daily based on market conditions. 股票价格根据市场条件每天波动
 
-29. bulk
+    increase / ascend / rise / soar  增加；上升；描述数量或水平的提高
 
-    bulk cargo
+    decrease / descend / fall / plunge 减少；下降；描述数量或水平的降低
+    - After the announcement, the company’s shares took a plunge. 公告发布后，公司的股价暴跌
 
-    nude cargo
+    level off  动词短语.   稳定；指事物的数量或水平停止变动，保持稳定
+    - After a period of rapid growth, the market began to level off.  经过一段快速增长后，市场开始稳定下来
 
-    packed cargo
+    remain stable   保持稳定；未发生显著变化
+    - Despite economic fluctuations, the company's profits remain stable. 尽管经济波动，公司的利润保持稳定
 
-30. conglomerate
+25. monetary  /ˈmʌnɪˌtɛri/ adj.  与货币有关的 
+    - The central bank made a significant monetary policy adjustment. 中央银行做出了重大的货币政策调整
 
-    combine 联合企业
+    International Monetary Fund (IMF)  国际货币基金组织，一个国际金融组织，致力于促进全球货币合作和交易稳定
+    - The IMF has approved a new loan to support the country’s economic recovery. 国际货币基金组织批准了新的贷款以支持该国的经济复苏
 
-    trust 托拉斯
+    monetary unit  货币单位，一个国家或地区的基本货币
+    - The Euro is the monetary unit used by 19 of the 27 European Union countries. 欧元是27个欧盟国家中的19个国家使用的货币单位
+
+    monetary policy 货币政策
+
+26. own-label / own-brand  adj.  这是指由零售商自己品牌生产的商品，通常比主要品牌更便宜
+    - Many supermarkets offer own-label products as cheaper alternatives to branded goods. 许多超市提供自有品牌的产品，作为品牌商品的更便宜的选择 
+
+    white-label 贴牌  这指的是一个产品或服务，由一个公司生产并由另一个公司以其品牌名称销售
+
+    - The software company provides white-label solutions for many popular brands. 该软件公司为许多知名品牌提供白标解决方案
+
+27. arbitration /ˌɑrbɪ'treʃən/ n. 仲裁 
+    - They have agreed to settle the dispute through arbitration. 他们已同意通过仲裁解决争议
+
+    dispute settlement 争端解决
+    - The contract includes a clause on dispute settlement mechanisms. 合同包括有关争议解决机制的条款
+
+    negotiation /nɪˌgoʃiˈeʃn/ n. 协商，谈判 
+    - The negotiation between the two companies lasted several days. 两家公司之间的谈判持续了好几天
+
+    mediation /ˌmidiˈeʃn/ n. 一个中立的第三方协助冲突双方达成协议的过程
+    - The couple decided to go through mediation to avoid a court battle. 这对夫妇决定通过调解来避免法庭之战
+
+    lawsuit  n. 法律诉讼
+    - She filed a lawsuit against her employer for harassment. 她因骚扰起诉了她的雇主
+
+28. brand-stretching /brænd 'strɛtʃɪŋ/ 品牌拓展
+    - The company is considering brand-stretching by introducing a new line of accessories. 该公司正在考虑通过推出新的配件系列来进行品牌延伸
+
+    brand extension  当一个品牌添加新产品或服务时使用其名声
+    - The soft drink company did a brand extension by launching a line of snacks.这家软饮料公司通过推出一系列零食进行了品牌延伸。
+
+    branding   创建和维护品牌的过程，包括名字、设计和策略。
+    - Effective branding is essential for the success of any business. 有效的品牌塑造对任何企业的成功都是必不可少的
+
+    intangible value  无法量化或物理测量的价值，如品牌声誉或智识产权
+    - The intangible value of the brand contributes significantly to the company’s total worth. 品牌的无形价值对公司的总价值贡献很大
+
+29. bulk  n. adj. 大量，大块或大部分
+    - They bought toilet paper in bulk to save money. 他们大量购买卫生纸以节省资金
+
+    bulk cargo n.  以大宗形式运输，没有包装的货物，如煤、谷物等
+    - The ship was loaded with bulk cargo, mainly consisting of coal and grains. 这艘船装载了大宗货物，主要是煤和谷物
+
+    nude /nuːd/ cargo  n. 未包装的，直接装在船舱或集装箱中的货物
+    - Handling nude cargo requires extra care to prevent damage. 处理裸装货物需要格外小心以防止损坏
+
+    packed cargo  已经包装好的货物，以便于运输和储存
+    - The warehouse was full of packed cargo ready to be shipped overseas. 仓库里满是准备运往海外的包装货物
+
+30. conglomerate  n. adj. 一个由不同类型的业务组成的大公司或集团
+    - He works for a conglomerate that has various businesses in technology, health, and finance. 他在一个拥有技术、健康和金融等各种业务的大型集团公司工作
+
+    combine 动词、名词 
+    - We decided to combine our resources to start a new project.
+
+      我们决定合并我们的资源来启动一个新项目。
+
+    trust  n. adj. 在商业上，指一种控制市场的大型组织；在一般意义上指信任或信赖
+    - The trust was established to control the production and pricing of oil. 这个信托成立是为了控制石油的生产和定价
 
 ##### day05
 
-1. freehold 
+1. freehold   /'frihold/  n. 不动产所有权
 
-2. certification
+   Still they increased in numbers and zealously worked their freeholds.   尽管如此，他们的人数还是在增加，并且他们还是满怀热情地管理着自己的领地
 
-   quality certification
+2. certification   /ˌsɜːrtɪfɪˈkeʃn/  n.  认证
 
-   origin certification
+   They also must pass a certification or test in general teaching knowledge and specific subjects. 他们还必须通过一般教学知识和特定科目的认证或测试。
 
-3. memo 
+   quality certifications 质量认证
 
-   memorandum
+   origin certification 产地认证
 
-4. minutes 
+3. memo   /ˈmɛmo/   n. 备忘录 
 
-   meeting summary
+   Could you please sign this memo?  您能在这份备忘录上签字吗？ 
 
-5. notice
+   memorandum /ˌmɛməˈrændəm/ 
 
-6. delivery
+   But a sizable chunk are non-binding memorandums that may never materialize.  但相当大一部分是不具约束力的备忘录，可能永远不会实现
 
-7. grant
+   minutes   n. 备忘录  会议记录 
 
-8. appropriation
+   meeting summary 会议小结 
 
-   fiscal appropriation
+4. notice
 
-   allocation
+   "notice" 这个词在日常口语中有很多用法。它可以作为名词，也可以作为动词使用。
 
-9. item
+   1. 作为名词：
+      - 例句：Did you see the notice on the bulletin /ˈbʊlətɪn/  board about the meeting tomorrow?
+      - 中文翻译：你看到布告板上关于明天会议的通知了吗？
+      - 日常用法：在这种情况下，“notice”通常指的是一个官方或非正式的书面信息，通知人们有关某个事件或信息。
 
-   article
+   2. 作为动词：
+      - 例句：I didn’t notice that the milk was expired.  /iks'paiəd/ 
+      - 中文翻译：我没有注意到牛奶过期了。
+      - 日常用法：在这种情况下，“notice”意为注意到或察觉到某件事情。这是一个非常常见的用法，可以用来谈论你观察或意识到的事情。
 
-   clause
+   3. 作为动词，用于辞职或解雇情况：
+      - 例句：She gave her two weeks' notice yesterday, so she’ll be leaving the job soon.
+      - 中文翻译：她昨天提交了两周的辞职通知，所以她很快就会离职。
+      - 日常用法：在这种情况下，“notice”通常用于工作场景，表示某人打算离开当前职位，并且已经通知了雇主。
 
-10. delegate
+5. delivery /dɪˈlɪvəri/  n. 投递, 送交 
 
-11. termination
+   I’m waiting for a delivery from Amazon; it should arrive by tomorrow. 我在等待亚马逊的快递，应该明天会到达 
 
-    termination of the contract
+6. grant   /ɡrænt/  v. 授予，允许  
 
-12. application letter
+    The Times has been granted an exclusive interview.   时报获得独家用采访权
 
-    resignation letter
+7. appropriation  /ə,proprɪ'eʃən/
 
-    termination letter
+   The city council is discussing the appropriation of funds for the new park. 市议会正在讨论为新公园拨款的事宜
 
-13. executive
+   fiscal appropriation 财政拨款 
+
+   The fiscal appropriation for education has increased this year.  今年教育的财政拨款有所增加 
+
+   allocation   /ˌælə'keʃən/  n. 配给, 分配 
+
+   resource allocation 资源分配 
+
+   I need to reconsider my daily allocation of time to be more productive.   我需要重新考虑每天的时间分配，以提高工作效率。 
+
+8. item:  Can you add this item to the shopping list?  你可以把这个物品加到购物清单上吗 
+
+   article: I read an interesting article about climate change today.  我今天读了一篇关于气候变化的有趣文章 
+
+   clause: This clause in the contract seems a bit unclear.  合同中的这个条款似乎有些不清楚 
+
+9. delegate   /ˈdɛlɪɡɪt/   vt. 委派  n. 代表
+
+   I've learned to delegate tasks that I don't have time to handle. 我已经学会把我没有时间处理的任务委托给他人
+
+   She's the delegate from our district attending the national conference. 她是我们地区参加全国会议的代表
+
+10. termination /'tɝmɪ'neʃən/  n. 结束,终止 
+
+    termination of the contract  终止合同
+
+11. application letter 求职信 
+
+    resignation letter 辞职信
+
+    termination letter 解雇信
+
+12. executive  /ɪɡˈzɛkjətɪv/  n. 主管，高级行政人员，执行官 
 
     chief executive officer
 
     chief executive
 
-    executive suite
+    executive suite 行政套房
 
-14. hypermarket 
+13. hypermarket  超大型自助商场 
 
-    supermarket
+    supermarket n. 超级市场
 
-    convenience store
+    convenience  /kənˈviːniəns/ store 便利商店 
 
-    chain store
+    chain store n. 连锁商店
 
-15. balance of trade
+14. balance of trade  贸易平衡   通常指一个国家的出口和进口之间的差额 
 
-    trade surplus
+    trade surplus 贸易顺差 
 
-    trade deficit
+    trade deficit 贸易逆差
 
-16. bank draft
+15. Bank Draft 和 Bank Bill 通常涉及银行作为中介或担保方。
 
-    bank bill
+    Trade Bill 是商业交易中常见的一种支付方式。
 
-    trade bill
+    Sight Bill 和 Time Bill 则与支付时间有关，分别表示立即支付和未来某个时间支付。
 
-    sight bill
-
-    time bill
-
-17. cable transfer
+16. cable transfer
 
     telegraphic transfer
 
@@ -1649,145 +1889,207 @@ line manager  直系领导 部门领导
 
     draft transfer
 
-18. container freight station 
+17. container freight station  集装箱货站 
 
-    container yard
+    freight   /fret/  n. 货运 
 
-19. firm offer
+    container yard  货柜场 
 
-    non-firm offer
+18. firm offer 卖家对商品或服务的报价 
 
-    counter offer
+    non-firm offer 与固定报价相反，这是卖家对商品或服务的一个不确定的报价，可能根据市场条件和供需关系而变化 
 
-    floor offer
+    counter offer  当买家或卖家收到一方的报价后，他们可能会提出一个不同的价格或条款作为回应
 
-20. overhead expense
+    floor offer 底价
 
-    price composition
+19. overhead expense   间接费用/管理费用
 
-21. overland transportation
+    price composition   价格构成
 
-    marine transportation
+20. overland transportation   陆地运输 
 
-    Inland water transportation
+    marine transportation 海上运输 
 
-22. Valued customer
+    Inland water transportation 内河运输
 
-    regular customer
+21. Valued customer 尊贵的客户
 
-23. accident beyond control 
+    regular customer  常客/老客户
 
-    force majeure
+22. accident beyond control   指的是那些不能预见且无法控制的事件，这些事件会导致损失或伤害 
 
-    peril of the sea
+    force majeure  /mɑˈʒʊər /
 
-    natural calamity
+    peril /ˈpɛrəl/  of the sea  
 
-    fortuitous accidents
+    It has its perils and its merits.  这玩意儿有它的危险，也有它的好处  
 
-24. Import quota
+    natural calamity 自然灾难
 
-25. cheap clearance sale
+    calamity   /kəˈlæməti/  n. 灾祸, 灾难
 
-26. deadweight cargo
+    fortuitous accidents 偶然事故 
 
-    Liner
+    fortuitous /fɔːrˈtuːɪtəs/  adj. 偶然发生的,偶然的 
 
-    Charter
+23. Import quota 进口配额 
 
-27. floating debt
+24. cheap clearance sale 
 
-    fixed exhange rate
+25. deadweight cargo 载重量 
 
-28. in the red 
+26. floating debt   指的是一个公司或政府机构短期内必须偿还的债务 
 
-    in the black
+    fixed exhange rate 固定汇率
 
-29. pyramid selling
+27. In the Red 是财务亏损的意思，通常在财务报表中用红色表示。
 
-30. direct quote
+    In the Black 表示财务盈利的状态，通常在财务报表中用黑色表示。
 
-    indirect quote
+28. pyramid  /ˈpɪrəmɪd/ selling 金字塔骗局 
 
-31. time deposit
+29. direct quote 直接报价  用本国货币表示外国货币的价格 
 
-    current deposit
+    indirect quote 间接报价 用外国货币表示本国货币的价格 
 
-    installment saving
+30. 
 
-    time-demand deposit
+    1. Time Deposit (定期存款)
 
-    bull market
+       - 定义：一种银行存款，存款人在一定期限结束之前不能提取，否则将丧失一部分或全部利息。通常，定期存款的利息率高于活期存款。
+       - 示例：I have a time deposit that will mature in six months, earning a higher interest rate than a regular savings account.
 
-    bear market
+    2. Current Deposit (活期存款)
 
-32. cold call
+       - 定义：这是一种随时可以存入和取出的银行存款形式，也被称为“活期账户”。活期存款的利息通常较低。
+       - 示例：I keep my day-to-day money in a current deposit account because I can access it anytime.
+
+    3. Installment Saving (分期储蓄)
+
+       - 定义：这是一种定期存款一定金额的储蓄方式。通常，在一段时间结束后或达到某个目标金额后可以取出。
+       - 示例：I have an installment saving plan where I deposit $100 every month to save for a new car.
+
+    4. Time-Demand Deposit (定期活期存款)
+
+       - 定义：一种结合了定期存款和活期存款特点的存款形式。它有固定的到期日，但在某些条件下可以在到期前提取。
+       - 示例：My time-demand deposit allows me some flexibility to access funds before maturity under certain conditions.
+
+    5. Bull Market (牛市)
+
+       - 定义：指的是股票市场、商品或其他投资市场价格普遍上涨的市场条件。投资者对未来持乐观态度。
+       - 示例：Investors are enthusiastic in a bull market, expecting stocks to continue rising.
+
+    6. Bear Market (熊市)
+
+       - 定义：指的是股票市场、商品或其他投资市场价格普遍下跌的市场条件。投资者对未来持悲观态度。
+       - 示例：In a bear market, investors may sell off stocks, expecting prices to drop further.
+
+    总结：
+
+    - Time deposit 和 current deposit 是两种常见的银行存款类型，区别在于存款的流动性和利息率。
+    - Installment saving 和 time-demand deposit 提供了不同的存款和提款选项。
+    - Bull market 和 bear market 是描述金融市场总体趋势的术语，分别表示市场的上涨和下跌。
+
+31. cold call 是一种销售策略，通常指的是销售人员未经预约或提前联系而直接联系潜在客户的行为。在 cold call 中，销售人员试图与之前没有任何互动或联系的个人或企业建立联系，目的是为了推销产品或服务。这种联系方式可以是通过电话、电子邮件或面对面访问
 
 ##### day06
 
-1. export packing
+1. export Packing (出口包装)e
 
-   neutral packing
+      - ​    定义：这是指为了将商品运输到国外而进行的包装。出口包装通常需要更严格的标准，以保护商品在长途运输过程中不受损害。这可能包括使用特殊的包装材料、包装方法，以及符合目的国的包装规定和标准。
+      - 示例：The manufacturer ensured that the machinery was secured with export packing to prevent any damages during overseas transportation.
 
-2. shipping mark
+   neutral Packing (中性包装)
+
+      - 定义：这是一种不显示制造商品牌和标识的包装方式。这种包装通常用于再销售或是当产品被不同品牌用作私人标签时。中性包装有助于保持产品的通用性，也有助于保护制造商的品牌不被直接与产品关联。
+      - 示例：The auto parts were delivered in neutral packing, allowing the retailers to sell them under various brand names.
+
+   总结：
+
+   - export packing 通常更为结实和安全，保证产品在国际运输过程中的完好。
+   - neutral packing 则更侧重于不展示商品的原始制造商信息，以保持产品的通用性或用于私人标签销售。
+
+2. shipping mark （装运标记）是放在外包装上的标识，用来识别、区分和管理在运输过程中的货物。这些标记包含了与货物的目的地、收货人、发货人以及货物内容有关的信息
 
 3. dull market
 
-   brisk market
+   dull /dʌl/ adj. 钝的；呆滞的；阴暗的  
 
-4. export declaration
+   brisk market 繁荣的市场  
 
-5. head paper
+   The business has been brisk today, with many customers coming in and out of the store. 今天的生意很红火，许多顾客进进出出
 
-   letter head
+4. export declaration （出口申报）是指在商品出口时，出口商或其代理向海关提交的一份官方文件 
 
-   date
+5. 这些术语通常用于描述商务或正式信件的各个部分：
 
-   inside address
+   1. Inside Address
 
-   salutation
+      - 含义：信件中的 "inside address" 指的是收件人的地址。它包括收件人的全名、职位、公司名、街道地址、城市、州/省、邮编和国家。
+      - 示例：Mr. John Doe, Manager, ABC Company, 123 Main St., City, State, Zip Code, Country
 
-   body
+   2. Salutation
 
-   complimentary close
+      - 含义："Salutation" 是信件的问候语。它通常放在信件开始，紧跟在收件人地址之后，通常以冒号或逗号结束。
+      - 示例：Dear Mr. Doe:
 
-   signature
+   3. Body
 
-6. trade in
+      - 含义：信件的 "body" 是信的主要部分，包含信件的所有重要信息和消息。
+      - 示例：I am writing to inquire about the status of our order placed on July 1st...
 
-7. brochure
+   4. Complimentary Close
 
-8. arrangement
+      - 含义："Complimentary close" 是信件结束前的礼貌结束语。
+      - 示例：Sincerely, (其他选项包括 "Best regards," "Kind regards," 等)
 
-9. post held 职位
+   5. Signature
 
-10. democratize  v. (使)民主化 
+      - 含义："Signature" 是信件末尾的签名部分。这可以是手写签名，也可以是打印的发送者名字，可能还包括发送者的职位和联系信息。
+      - 示例：[手写签名] John Doe, Manager
 
-11. with respect to 关于, 至于
+   这些部分合在一起，形成了一封完整和专业的商务或正式信件。
 
-    With respect to the quality of education, China has been improving rapidly.   在教育质量方面，中国一直在迅速提高 
+1. arrangement /əˈrendʒmənt/ n. 安排; 解决办法 
 
-12. progressive  /prəˈɡrɛsɪv/ adj. 不断前进的, 有进展的 
+   With their arrangements secure at last, they make their final preparations.  在安排妥当之后，他们开始做最后的准备 
 
-13. granularity  /ˌgrænju'læriti/  n. 间隔尺寸,粒度 
+2. democratize  v. (使)民主化 
 
-    The reach and granularity of code are unprecedented   代码的范围和粒度是前所未有的 
+   In many ways, it was this moment of fascism that democratized the sneaker.  从许多方面来看，正是这一法西斯主义时刻使运动鞋民主化
 
-14. infuse /ɪnˈfjuːz/  vt. 灌输,加入 
+3. with respect to 关于, 至于
 
-    The tea leaves infuse the water with flavor.  茶叶给水注入了风味 
+   With respect to the quality of education, China has been improving rapidly.   在教育质量方面，中国一直在迅速提高 
 
-15. underway   /ˌʌndɚ'we/  adj. 在进行中的 
+4. progressive  /prəˈɡrɛsɪv/ adj. 不断前进的, 有进展的 
 
-    The preparations  /ˌprɛpəˈreʃn/ for the festival /ˈfɛstəvl/  are underway. 节日的准备工作正在进行中  
+5. granularity  /ˌgrænju'læriti/  n. 间隔尺寸,粒度 
 
-16. Deep dives are important   深潜很重要  
+   The reach and granularity of code are unprecedented   代码的范围和粒度是前所未有的 
 
-    Because of this, extreme  /ɪkˈstriːm/  divers can also dive here with scuba gear.  正因如此，极限潜水员也能带着潜水设备来这儿潜水 
+6. infuse /ɪnˈfjuːz/  vt. 灌输,加入 
 
-17. postpone  /poʊˈspoʊn/  vt. 使…延期 
+   The tea leaves infuse the water with flavor.  茶叶给水注入了风味 
 
-    The EU's admittance was postponed, pending talks with Canada.  欧盟的准入被推迟，等待与加拿大对话 
+7. underway   /ˌʌndɚ'we/  adj. 在进行中的 
+
+   The preparations  /ˌprɛpəˈreʃn/ for the festival /ˈfɛstəvl/  are underway. 节日的准备工作正在进行中  
+
+8. Deep dives are important   深潜很重要  
+
+   Because of this, extreme  /ɪkˈstriːm/  divers can also dive here with scuba gear.  正因如此，极限潜水员也能带着潜水设备来这儿潜水 
+
+9. postpone  /poʊˈspoʊn/  vt. 使…延期 
+
+   The EU's admittance was postponed, pending talks with Canada.  欧盟的准入被推迟，等待与加拿大对话 
+
+10. This is what is called having a character!
+    Maintained its stance!
+
+    这就是所谓的有个性！
+    保持姿态！
 
  
 
