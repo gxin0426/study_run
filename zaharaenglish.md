@@ -48,13 +48,15 @@
 
    I really need to talk to you.  我需要和你聊聊。
 
-   hang on 稍等一下 
+   you got a minute to talk about ..... ?
+
+   hang on 稍等一下  
 
    hang on a sec 稍等一下
 
    just a sec 稍等
 
-2. I just wanted to see if you were both OK.  我只是看看你们是否安好
+2. I just wanted to **see if** you were both OK.  我只是看看你们是否安好
 
    just take a bite and see if it's tasty 尝一口，看看是否好吃
 
@@ -78,13 +80,55 @@
 
    Things are really coming along.  一切进展的很好啊。 
 
-   there's still room for improvement. 还有提升的空间
+   there's still **room for** improvement. 还有提升的空间
 
 9. You've got to keep it up. 继续保持
 
    keep up the good work. 再接再厉
 
-10. 
+###### listen3
+
+1. I really want ......  我特想要
+
+   I could really go for ....  我真的很想.... 
+
+   I could really go for a cold drink  我真的很想要一杯冷饮
+
+   same here  == me too
+
+   It's not my thing 
+
+   But it's just not really my thing 我对这个真的不感兴趣
+
+   No, me neither 我也一样(否定)
+
+   I'm not so worried.  No, me neither  我没那么担心。 我也不担心
+
+2. I'm such a scatterbrain 我真的健忘
+
+3. I have to juggle my job, my baby and housework  我要同时兼顾工作、孩子还有家务
+
+4. How tiring that must be for you, juggling all those affairs  你一定特别累吧， 同时应付那么多事
+
+5. You can't have it all  你(不可能)兼顾所有的
+
+6. Don't push yourself too hard  别太勉强自己了
+
+7. Don't go overboard  别太冲动(消费)了
+
+8. I may have gone a little overboard about this  我觉得我对此的反应可能有点过
+
+9. buyer's remorse  买家后悔
+
+10. That's  a good deal  那真的划算
+
+11. I work for months getting the best deal  我努力几个月拿到最便宜的价格
+
+12. you can never have too many   ... ... 再多也不嫌多
+
+    
+
+
 
 
 
