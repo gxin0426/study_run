@@ -1082,7 +1082,7 @@
 
 26. primarily   /praɪˈmerəli/  adv. 主要地 
 
-27. 
+27. seize   /siːz/  vt. & vi. 抓住，捉住 
 
 
 
