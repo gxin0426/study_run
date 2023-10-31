@@ -1,4 +1,4 @@
-##### listen-one
+###### listen-one
 
 1. keep me in the dark 瞒着我
 
@@ -42,7 +42,7 @@
 
 12. From Scratch 从头开始
 
-##### listen-two
+###### listen-two
 
 1. You got a minute? 你有空吗？ 
 
@@ -96,7 +96,7 @@
 
    same here  == me too
 
-   It's not my thing 
+   It's not my thing  这不是我的事 
 
    But it's just not really my thing 我对这个真的不感兴趣
 
@@ -126,7 +126,69 @@
 
 12. you can never have too many   ... ... 再多也不嫌多
 
+###### listen4
+
+1. it's awesome! 太棒了
+
+   these gloves are awesome. 这副手套太赞了
+
+   That's awesome! 
+
+2. I'm thrilled 我太激动了
+
+   I'm thrilled to hear the news  听到这个消息让我太激动了
+
+   He is on cloud nine. 他欣喜若狂
+
+   You seem to thrilled 
+
+3. She is devastated  她很伤心
+
+4. I'm very busy. ==  I'm so swamped today 
+
+   I'm swamped with work
+
+5. I'm exhausted. 我好累
+
+6. That's a tougth one.  这问题真让人头疼
+
+   That's a tough decision to make.  这是一个艰难的决定
+
+   She's been having a tough time. 她一直过得很艰难
+
+7. She's very difficult. == She is a total nightmare. 她很难相处
+
+8. awful == very bad 
+
+   It's awful 
+
+   I feel awful about it. 我对此心里真的很不好过
+
+9. It's very expensive. ==  They're totally ripping us off. 他们完全在坑我们钱啊。
+
+   We got ripped off. 我们被坑钱了。
+
+   I think you got ripped off. 我觉得应该是被坑钱了吧。
+
+10. I'm very angry. ==  I'm pissed off. 我真的很生气
+
+    I'm furious. 我真的相当恼火
+
+    I'm furious about what they did. 他们所做的让我相当恼火
+
     
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 
 
