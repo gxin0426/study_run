@@ -1086,9 +1086,51 @@
 
 
 
+### asyncio-python-vocabulary
+
+####  001
+
+1. dread   /drɛd/    n. 恐惧；可怕的人  adj. 可怕的  vt. 惧怕
+
+   You may be thinking with dread  您可能会害怕地想
+
+2. grasp  /ɡræsp/  n. 理解  vt.  vi.  理解  掌握
+
+   That’s a lot to grasp already    要掌握的东西已经很多了
+
+   Where does asyncio fit in?  asyncio 适合什么场合？ 
+
+3. firm adj. 坚定的 
+
+   This tutorial is built to answer that question, giving you a firmer grasp of Py's approach to asyncio. 本教程就是要回答这个问题，让您更牢固地掌握 Py 的 asyncio 方法
+
+4. paradigm   /ˈpærədaɪm/  n. 范式 
+
+   a language-agnostic paradigm (model) that has implementations across a host of programming languages   与语言无关的范式（模型），可在多种编程语言中实现 
+
+5. Coroutines (**specialized** generator functions) **are the heart of** async IO in Python, and we’ll **dive into** them **later on**.     Coroutines（**专门的**生成器函数）是 Python 异步 IO **的核心**，我们稍后将**深入研究**它们 
+
+6. denote  /dɪˈnot/   vt. 表示，指示 
+
+7. The 10000-Foot View of Async IO  异步 IO 的万丈高楼平地起 
+
+8. tried-and-true   /'traidən'tru:/ adj. 经过检验而可靠的,靠得住的 
+
+   Async IO is a bit lesser known than its tried-and-true cousins  与久经考验的同类产品相比，异步 IO 的知名度较低 
+
+9.  parallelism /ˈpærəlɛlɪzəm/  
+
+   Concurrency and parallelism are expansive subjects that are not easy to wade into.  并发和并行是一个广泛的课题，不容易学习和处理
+
+   “wade into”经常被用来指某人开始处理一个可能会很棘手或复杂的问题，或者开始参与到一个需要时间和精力去理解的讨论或活动中。例如，如果某人“wades into a debate,”这意味着他们开始积极参与到可能很激烈或复杂的辩论中去。当你听到“wade into”这个短语时，可以理解为某人正在慢慢并小心翼翼地进入一个新的、可能充满挑战的情境。
+
+10. 
 
 
- 
+
+
+
+
 
 
 
