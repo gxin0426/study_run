@@ -1112,19 +1112,77 @@
 
 6. denote  /dɪˈnot/   vt. 表示，指示 
 
-7. The 10000-Foot View of Async IO  异步 IO 的万丈高楼平地起 
+7. The 10000-Foot View of Async IO  从万丈高空俯瞰异步 IO
 
 8. tried-and-true   /'traidən'tru:/ adj. 经过检验而可靠的,靠得住的 
 
    Async IO is a bit lesser known than its tried-and-true cousins  与久经考验的同类产品相比，异步 IO 的知名度较低 
 
-9.  parallelism /ˈpærəlɛlɪzəm/  
+9. parallelism /ˈpærəlɛlɪzəm/  
 
    Concurrency and parallelism are expansive subjects that are not easy to wade into.  并发和并行是一个广泛的课题，不容易学习和处理
 
    “wade into”经常被用来指某人开始处理一个可能会很棘手或复杂的问题，或者开始参与到一个需要时间和精力去理解的讨论或活动中。例如，如果某人“wades into a debate,”这意味着他们开始积极参与到可能很激烈或复杂的辩论中去。当你听到“wade into”这个短语时，可以理解为某人正在慢慢并小心翼翼地进入一个新的、可能充满挑战的情境。
 
-10. 
+10. Multiprocessing is **a means to effect** parallelism, and it **entails** spreading tasks over a computer’s central processing units (CPUs, or cores).   多处理是一种实现并行化的手段，它需要将任务分散到计算机的中央处理器（CPU 或内核）上
+
+11. category   /ˈkætəɡɔːri/   n. 种类, 类别 
+
+    Multiprocessing is **well-suited** for CPU-bound tasks: tightly bound for loops and mathematical computations usually **fall into** this category.   多进程处理非常适合CPU密集型任务：紧密绑定的循环和数学计算通常属于这一类别 
+
+12. Concurrency is a **slightly broader term** than parallelism. It **suggests**  that multiple tasks have the ability to run in an **overlapping** manner.  (There’s a saying that concurrency does not **imply** parallelism.)  
+
+    并发（Concurrency）是一个比并行（Parallelism）稍宽的术语。它表示多个任务能够以重叠的方式运行。 (有一种说法是并发并不意味着并行）
+
+    suggest这个词通常用于表达意见或想法，但它所带来的是一个较为柔和或不那么直接的建议，这样可以让对方感觉更自在，尤其在需要提出批评或建议时
+
+13. Threading is a concurrent execution  /ˌɛksɪˈkjuːʃn/ model whereby multiple threads take turns executing tasks. 线程是一种并发执行模型，其中多个线程轮流执行任务 
+
+    whereby是一个连接词，用于说明一种方式、方法或过程。它连接两个句子部分，其中第二部分解释第一部分中的某种情况或过程是如何发生或被实现的
+
+    We set up a system whereby each department could report monthly sales. 我们建立了一个系统，各部门可以通过它报告每月销售情况 
+
+14. While a CPU-bound task is **characterized by** the computer’s cores  continually working hard from start to finish, an IO-bound job is  **dominated by** a lot of waiting on input/output to complete. CPU 绑定任务的特点是计算机内核自始至终持续努力工作，而 IO 绑定任务则主要是等待输入/输出完成
+
+15. To recap the above 回顾上述内容
+
+16. encompass  /ɪnˈkʌmpəs/  vt. 围绕；包围
+
+    concurrency **encompasses** both multiprocessing (**ideal for** CPU-bound tasks) and threading (**suited for** IO-bound tasks).  并发性包括多进程（适用于 CPU 相关任务）和线程（适用于 IO 相关任务） 
+
+17. Multiprocessing is **a form of** parallelism, with parallelism being a **specific type** (subset) of concurrency.
+
+    ``` bash
+    独立主格结构（Absolute Phrase）是英语中的一种独特句法结构。它通常由一个名词（或代词）和一个分词（通常是现在分词或过去分词）构成，有时还会包括这个名词或分词的修饰语。独立主格结构在句子中作状语，用来提供背景信息、设置场景、展示原因或结果等，但它与句子的主干在语法上是独立的，即没有主谓语的关系。
+    
+    独立主格结构的一些特点包括：
+    
+    1. 它通常与句子的主要部分通过逗号分开。
+    2. 它的逻辑主语与句子的主语不同。
+    3. 它不是句子的主要成分，通常不能独立成句。
+    
+    一些例子如下：
+    
+    1. Weather permitting, we will have a picnic tomorrow.
+       - 独立主格结构：Weather permitting
+       - 意思：如果天气允许，我们明天将会去野餐。
+       - 在这里，“Weather permitting”作为整个句子的背景信息或条件。
+    
+    2. His work complete, John decided to take a break.
+       - 独立主格结构：His work complete
+       - 意思：他的工作完成后，约翰决定休息一下。
+       - 这里，“His work complete”说明了John决定休息的原因。
+    
+    3. The sun having set, we packed up our things and left the beach.
+       - 独立主格结构：The sun having set
+       - 意思：太阳下山后，我们收拾好东西离开了海滩。
+       - “The sun having set”描述了一个发生在主句动作之前的事件。
+    
+    独立主格结构是英语中一种表达方式的精巧工具，能够在不增加过多从句的情况下，增加句子的信息量和深度。
+    ```
+
+18. Now it’s time to bring a new member to the mix.  现在是时候将一个新成员加入到这个组合中 
+19. **To be clear**, async IO is not a newly invented concept, and it has  existed or is being built into other languages and runtime environments.  需要明确的是，异步 IO 并不是一个新发明的概念，它已经存在于或正在内置于其他语言和运行时环境中 
 
 
 
