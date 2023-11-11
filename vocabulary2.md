@@ -1182,7 +1182,122 @@
     ```
 
 18. Now it’s time to bring a new member to the mix.  现在是时候将一个新成员加入到这个组合中 
+
 19. **To be clear**, async IO is not a newly invented concept, and it has  existed or is being built into other languages and runtime environments.  需要明确的是，异步 IO 并不是一个新发明的概念，它已经存在于或正在内置于其他语言和运行时环境中 
+
+20.  However, async IO is not threading, **nor** is it multiprocessing. It is not built on top of **either** of these.   不过，异步 IO 不是线程，也不是多进程。 它不是建立在这两者之上的 
+
+    **nor用法：**
+
+    nor是一个并列连词，用于连接两个否定的句子或句子成分，通常出现在否定句之后。它的主要用途是增强否定意义，表明两个或多个事物或情况都不成立。使用nor时，有几种常见的语法结构：
+
+    1. 跟在neither后面: 当用在neither... nor...的结构中，nor用来连接两个否定的选项。
+
+       - He is neither intelligent nor hardworking. 他既不聪明也不勤奋
+
+    2. 作为句首词导致部分倒装: 当nor用在句首时，通常会导致句子的主语和助动词/情态动词发生倒装。
+
+       - I don't like spinach  /'spɪnɪtʃ/  , nor do I like broccoli.  /'brɑkəli/ 我不喜欢菠菜，也不喜欢西兰花
+
+         在这个例子中，do（助动词）位于I（主语）之前，形成倒装
+
+##### 002
+
+1.  flesh   /flɛʃ/   n. （人或动物的）肉  v. 充实 
+
+    a term that you’ll flesh out by the end of this tutorial  在本教程结束时您将对这一术语有更深入的了解
+
+2. It has been said in other words that async IO **gives a feeling of** concurrency despite using a single thread in a single process.   换句话说，尽管在单个进程中使用的是单线程，但异步 IO 给人一种并发的感觉  
+
+   这句话使用了完成时态（"has been  said"），主要是为了表达某个说法或观点在过去被提出，并且到目前为止仍然具有相关性或有效性。完成时态通常用来强调过去发生的事情对现在的影响或持续性。在这个例子中，使用完成时态可能是为了强调这种关于async IO的说法已经存在一段时间，并且这个观点或评价仍然被认为是正确的或相关的 
+
+   despite的用法，它是一个介词，用来表达“尽管”或“不管”的意思，引导一个表达对比或让步关系的短语或从句:
+
+   1. **表示对比**: 引导一个名词、代词或名词短语，用来表达尽管有某种情况或事实，但仍然发生了另一种情况。
+      - Despite the rain, the game continued.（尽管下雨，比赛还是继续了
+   2. **与动名词连用**: 引导一个动名词短语，表示尽管有某个行为或过程，但结果仍然与预期不同
+      - Despite studying hard, he failed the exam.（尽管努力学习，他还是没通过考试
+
+   替换despite:
+
+   1. In spite of：和despite意义相近，常用于引入一个对比或让步的情况
+      - In spite of the bad weather, the event was a success.  尽管天气不好，活动还是很成功
+   2. Although 或 Though：这两个词是连词，**用于引导让步状语从句，而不是短语**
+      - Although it was raining, we decided /dɪ'saɪdɪd/ to go out.   尽管下雨，我们还是决定出门
+
+3. Coroutines (**a central feature of** async IO) can be scheduled concurrently, but they are not **inherently**  /ɪnˈhɪrəntli/ concurrent.   协程（异步 IO 的核心功能）可以并发调度，但它们本身并不并发
+
+4. To reiterate 重申一下
+
+5. It’s more closely aligned with threading than with multiprocessing, but  is very much distinct from both of these, and is a standalone member in  concurrency’s bag of tricks.   它与线程的关系比与多进程的关系更为密切，但又与这两者截然不同，是并发功能中的一个独立成员 (but引导的并列从句，从句省略了主语)
+
+   both of these和either of these 使用场景有显著的不同：
+
+   1. **both of these**:
+      - 意思是指两个项目或选项都被包括在内，强调的是包含和共同性。
+      - 使用场合是当你想强调两者都适用或都被考虑时。
+      - Both of these books are interesting.（这两本书都很有趣。）这句话意味着两本书每一本都是有趣的
+
+   2. **either of these**:
+      - 意味着两个中的任何一个，但不是两个同时。
+      - 使用场合是当提供两个选项，但只需要或期望选择其中一个时。
+      - You can choose either of these options.（你可以选择这两个选项中的任何一个）这句话意味着两个选项中只选择一个
+
+   **align with**是一个常用的短语，意味着“与…一致”，“与…对齐”，或者“与…保持一致性” 
+
+   1. 价值观或目标上的一致：指个人、团队或组织的目标、价值观或兴趣与另一方相符合或一致
+      - Our company's policies align with environmental sustainability goals. 我们公司的政策与环境可持续性目标一致
+
+   2. **策略或计划上的对齐**：指策略、计划或行动与某个目标或标准相一致。
+      - 例如: "The new initiative is designed to align with our long-term objectives."（新的倡议旨在与我们的长期目标保持一致。）
+
+   3. **物理上的对齐**：在更字面的意义上，指物体在空间中的位置与其他物体对齐。
+      - 例如: "Align the holes with the pins before inserting them."（在插入之前，使孔与销对齐。）
+
+   4. **观点或态度的一致性**：指个人或团体的观点、态度或信念与他人或某个群体保持一致。
+      - 例如: "His views align with those of the majority of the community."（他的观点与社区大多数人的一致。）
+
+   总体来说，“align with”是一个多用途短语，可以用来表达一致性、协调性或匹配性，无论是在抽象的概念上，如目标和价值观，还是在具体的物理位置上
+
+6. rigorous  /ˈrɪɡərəs/  adj. 严密的 
+
+   This isn’t a rigorous definition  这不是一个严格的定义 
+
+7. That leaves **one more** term. What does it mean for **something** to be  asynchronous? This isn’t a **rigorous** definition, but for our purposes  here, I **can think of** two properties:  还剩下一个术语。某物是异步的，这意味着什么？这并不是一个严格的定义，但对于我们目前的讨论，我能想到两个特性 
+
+   
+
+   one more这个短语在日常英语中相当常见，常用于指示还有额外的一项、一个或一次等。以下是一些例子：
+
+   1. One more chance: 指再给一次机会
+      - I just need one more chance to prove myself.   我只需要再一次机会来证明自己
+
+   2. One more time: 指再一次，常用于表示重复某个动作或经历
+      - Let's try it one more time.   让我们再试一次
+
+   3. One more thing: 指还有一件事情，通常在对话或讨论快结束时提及
+      - Before you go, one more thing to remember.   在你走之前，还有一件事要记住
+
+   4. One more person: 指再增加一个人
+      - We need one more person to join our team.  我们需要再一个人加入我们的团队
+
+   在所有这些用法中，one more都表达了增加或需要额外的一项、一次、一个人等的概念 
+
+   句中语法点：
+
+   1. 状语从句（Adverbial Clause）：
+      - 状语从句用来提供关于时间、地点、原因、条件、方式或程度等方面的额外信息。
+      - 在这个例子中，Before you go是一个时间状语从句，它指明了主句中的动作（记住某事）应该在什么时间（你离开之前）发生
+      - 这种从句通常由一个连词（如“before”, “after”, “because”, “if”等）引导，后跟一个完整的句子
+
+   2. 省略主句（elliptical clause）：
+      - 在某些情况下，尤其是口语或非正式写作中，主句的一部分（通常是主语和/或助动词）可能会被省略，特别是当这些元素可以从上下文中轻易推断出来时。
+      - 在例句 one more thing to remember中，完整的句子可能是 There is one more thing to remember或 It is one more thing to remember，但为了简洁，主语和助动词被省略了。
+      - 这种省略使句子更加直接和紧凑，是日常英语中常见的风格。
+
+   整体来说，这种语法结构通过结合状语从句和省略主句的方式，有效地传达了在某个特定时间点（例如，在某人离开之前）应考虑或执行的动作或思考。这是一种常用的、具有高度口语化特点的表达方式。
+
+
 
 
 
