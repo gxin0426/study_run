@@ -1203,9 +1203,9 @@
 
 ##### 002
 
-1.  flesh   /flɛʃ/   n. （人或动物的）肉  v. 充实 
+1. flesh   /flɛʃ/   n. （人或动物的）肉  v. 充实 
 
-    a term that you’ll flesh out by the end of this tutorial  在本教程结束时您将对这一术语有更深入的了解
+   a term that you’ll flesh out by the end of this tutorial  在本教程结束时您将对这一术语有更深入的了解
 
 2. It has been said in other words that async IO **gives a feeling of** concurrency despite using a single thread in a single process.   换句话说，尽管在单个进程中使用的是单线程，但异步 IO 给人一种并发的感觉  
 
@@ -1296,6 +1296,65 @@
       - 这种省略使句子更加直接和紧凑，是日常英语中常见的风格。
 
    整体来说，这种语法结构通过结合状语从句和省略主句的方式，有效地传达了在某个特定时间点（例如，在某人离开之前）应考虑或执行的动作或思考。这是一种常用的、具有高度口语化特点的表达方式。
+
+8. facilitate  /fəˈsɪlɪtet/   vt. 使便利
+
+   Asynchronous code, through the mechanism above, **facilitate**s concurrent execution.  **To put  it differently**, asynchronous code gives **the look and feel of**  concurrency.    异步代码通过上述机制促进了并发执行。 换句话说，异步代码给人一种并发的感觉
+
+9. Here’s a diagram to **put it all together**. 下面是一个图解，可以将所有内容整合在一起
+
+10. **I’ll stop there** on the comparisons between concurrent programming models 在比较并发编程模型的话题上，**我就说到这里** 
+
+11. spring up around it. 围绕... 出现的
+
+12. moderate  /ˈmɑːdərɪt/  
+
+    I try to exercise a moderate amount every day 我尝试每天进行适量的运动
+
+    It's important to consume alcohol in moderate quantities. 适量饮酒是很重要的 
+
+    My views are moderate  我的立场比较温和 
+
+13. For a **thorough** **exploration** of   为了全面的探索......
+
+14. Jim is way funnier than me and has sat in more meetings than me, to boot 
+
+    在英语中，"to boot"  这个短语是一个习语，意味着“此外”或“加之”。它通常用来增加一个额外的信息点，强调某个事实或情况的附加优势或特点。例如，如果某人说：“他很有才华，而且还很帅气，to boot”，这意味着除了他的才华以外，他的帅气也是一个值得注意的额外优点
+
+    在英语中，"way" 在这种用法中是一个非正式的强调词，用来加强紧随其后的形容词或副词。当某人说 "way funnier"，这里的 "way" 相当于 "much" 或 "significantly"，意味着 "非常有趣" 或 "比较有趣得多"。这是一种口语化的表达方式，用于强调两者之间的显著差异或程度。所以，"Jim is way funnier than me" 意味着 "吉姆比我有趣得多"。
+
+15. Async IO **may at first seem** **counterintuitive** and **paradoxical**. Async IO 初看起来似乎有悖常理，自相矛盾 
+
+    paradoxical  /ˌpærəˈdɑːksɪkl/ 
+
+16.  How does something that facilitates concurrent code use a single thread and a single CPU core?  
+
+    1. "How does something"：
+       - 这个短语翻译为“如何能让一个”或“怎样做到”，用于提出一个询问或探讨的方式。
+    2. "that facilitates concurrent code"：
+       - 这部分的翻译是“旨在促进并发代码的”。这里的“facilitates”意味着“促进”或“使容易”，而“concurrent code”指的是同时运行的、并发的代码。
+    3. "use a single thread and a single CPU core"：
+       - 这部分直接翻译为“只使用单个线程和单个CPU核心”。这里，“single thread”指的是单一的执行线程，而“single CPU core”指单个中央处理单元（CPU）核心。
+
+17. I’ve never been very good at conjuring up examples   我一直不擅长举例子 
+
+    conjure /ˈkʌndʒər/  vt. 创造或想象 
+
+18. more on that later 关于这个，稍后再详细说明 
+
+    So, cooperative multitasking is a fancy way of saying that a program’s  event loop (more on that later) communicates with multiple tasks to let  each take turns running at the optimal time.
+
+    optimal   /ˈɑːptɪməl/ adj. 最理想的 
+
+19. Async IO **takes** long waiting periods in which functions would otherwise  be blocking and allows other functions to run during that **downtime**.  异步IO利用了函数在其他情况下会阻塞的长时间等待期，允许在这段停滞时间内运行其他函数 
+
+20. I’ve heard it said  我曾听人说过
+
+21. error-prone
+
+    The truth is that building durable multithreaded code can be hard and error-prone.   建持久的多线程代码既困难又容易出错 
+
+22. 
 
 
 
