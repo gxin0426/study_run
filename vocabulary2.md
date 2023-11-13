@@ -1090,17 +1090,17 @@
 
 ####  001
 
-1. dread   /drɛd/    n. 恐惧；可怕的人  adj. 可怕的  vt. 惧怕
+1. dread   /drɛd/    n. 恐惧；可怕的人  adj. 可怕的  vt. 惧怕 
 
-   You may be thinking with dread  您可能会害怕地想
+   Some studies suggest that people dread idleness.  一些研究表明，人们害怕无所事事 
 
 2. grasp  /ɡræsp/  n. 理解  vt.  vi.  理解  掌握
 
-   That’s a lot to grasp already    要掌握的东西已经很多了
+   We don't have a good grasp of the American aesthetic  /ɛsˈθɛtɪk/ .  我们没有很好地把握美国人的审美观 
 
    Where does asyncio fit in?  asyncio 适合什么场合？ 
 
-3. firm adj. 坚定的 
+3. firm  /fɜːrm/ adj. 坚定的 
 
    This tutorial is built to answer that question, giving you a firmer grasp of Py's approach to asyncio. 本教程就是要回答这个问题，让您更牢固地掌握 Py 的 asyncio 方法
 
@@ -1108,33 +1108,43 @@
 
    a language-agnostic paradigm (model) that has implementations across a host of programming languages   与语言无关的范式（模型），可在多种编程语言中实现 
 
-5. Coroutines (**specialized** generator functions) **are the heart of** async IO in Python, and we’ll **dive into** them **later on**.     Coroutines（**专门的**生成器函数）是 Python 异步 IO **的核心**，我们稍后将**深入研究**它们 
+5. Coroutines (**specialized** generator functions) **are the heart of** asyncIO in Python, and we’ll **dive into** them **later on**.     Coroutines（**专门的**生成器函数）是 Python 异步 IO **的核心**，我们稍后将**深入研究**它们 
 
 6. denote  /dɪˈnot/   vt. 表示，指示 
+
+   His motions **plainly** denoted his extreme  /ɪkˈstriːm/  exhaustion  /ɪɡˈzɔːstʃən/ .   它的动作明白地表示出它已经精疲力竭了
 
 7. The 10000-Foot View of Async IO  从万丈高空俯瞰异步 IO
 
 8. tried-and-true   /'traidən'tru:/ adj. 经过检验而可靠的,靠得住的 
 
-   Async IO is a bit lesser known than its tried-and-true cousins  与久经考验的同类产品相比，异步 IO 的知名度较低 
+   AsyncIO is a bit lesser known than its tried-and-true cousins.  与久经考验的同类产品相比，异步 IO 的知名度较低 
 
 9. parallelism /ˈpærəlɛlɪzəm/  
 
-   Concurrency and parallelism are expansive subjects that are not easy to wade into.  并发和并行是一个广泛的课题，不容易学习和处理
+   Concurrency and parallelism are expansive subjects that are not easy to wade /wed/ into.  并发和并行是一个广泛的课题，不容易学习和处理
 
    “wade into”经常被用来指某人开始处理一个可能会很棘手或复杂的问题，或者开始参与到一个需要时间和精力去理解的讨论或活动中。例如，如果某人“wades into a debate,”这意味着他们开始积极参与到可能很激烈或复杂的辩论中去。当你听到“wade into”这个短语时，可以理解为某人正在慢慢并小心翼翼地进入一个新的、可能充满挑战的情境。
 
 10. Multiprocessing is **a means to effect** parallelism, and it **entails** spreading tasks over a computer’s central processing units (CPUs, or cores).   多处理是一种实现并行化的手段，它需要将任务分散到计算机的中央处理器（CPU 或内核）上
 
+    means  n. 方法, 手段 
+
 11. category   /ˈkætəɡɔːri/   n. 种类, 类别 
 
     Multiprocessing is **well-suited** for CPU-bound tasks: tightly bound for loops and mathematical computations usually **fall into** this category.   多进程处理非常适合CPU密集型任务：紧密绑定的循环和数学计算通常属于这一类别 
 
-12. Concurrency is a **slightly broader term** than parallelism. It **suggests**  that multiple tasks have the ability to run in an **overlapping** manner.  (There’s a saying that concurrency does not **imply** parallelism.)  
+12. Concurrency is a **slightly broader term** than parallelism. It **suggests**  that multiple tasks have the ability to run in an **overlapping** manner.  (**There’s a saying** that concurrency does not **imply** parallelism.)  
 
     并发（Concurrency）是一个比并行（Parallelism）稍宽的术语。它表示多个任务能够以重叠的方式运行。 (有一种说法是并发并不意味着并行）
 
     suggest这个词通常用于表达意见或想法，但它所带来的是一个较为柔和或不那么直接的建议，这样可以让对方感觉更自在，尤其在需要提出批评或建议时
+
+    **imply implication** : Not to mention the political implications. 更不用说政治含义了 
+
+    A: I notice you always skip the team meetings.   B: Are you implying I don't care about the team?
+
+    A：我发现你总是不参加团队会议。  B：你是在暗示我不关心团队吗？
 
 13. Threading is a concurrent execution  /ˌɛksɪˈkjuːʃn/ model whereby multiple threads take turns executing tasks. 线程是一种并发执行模型，其中多个线程轮流执行任务 
 
@@ -1185,7 +1195,7 @@
 
 19. **To be clear**, async IO is not a newly invented concept, and it has  existed or is being built into other languages and runtime environments.  需要明确的是，异步 IO 并不是一个新发明的概念，它已经存在于或正在内置于其他语言和运行时环境中 
 
-20.  However, async IO is not threading, **nor** is it multiprocessing. It is not built on top of **either** of these.   不过，异步 IO 不是线程，也不是多进程。 它不是建立在这两者之上的 
+20. However, async IO is not threading, **nor** is it multiprocessing. It is not built on top of **either** of these.   不过，异步 IO 不是线程，也不是多进程。 它不是建立在这两者之上的 
 
     **nor用法：**
 
@@ -1229,7 +1239,7 @@
 
 4. To reiterate 重申一下
 
-5. It’s more closely aligned with threading than with multiprocessing, but  is very much distinct from both of these, and is a standalone member in  concurrency’s bag of tricks.   它与线程的关系比与多进程的关系更为密切，但又与这两者截然不同，是并发功能中的一个独立成员 (but引导的并列从句，从句省略了主语)
+5. It’s more closely aligned [əˈlaɪnd]  with threading than with multiprocessing, but  is very much distinct from both of these, and is a standalone member in  concurrency’s bag of tricks.   它与线程的关系比与多进程的关系更为密切，但又与这两者截然不同，是并发功能中的一个独立成员 (but引导的并列从句，从句省略了主语)
 
    both of these和either of these 使用场景有显著的不同：
 
@@ -1248,13 +1258,13 @@
    1. 价值观或目标上的一致：指个人、团队或组织的目标、价值观或兴趣与另一方相符合或一致
       - Our company's policies align with environmental sustainability goals. 我们公司的政策与环境可持续性目标一致
 
-   2. **策略或计划上的对齐**：指策略、计划或行动与某个目标或标准相一致。
+   2. 策略或计划上的对齐：指策略、计划或行动与某个目标或标准相一致。
       - 例如: "The new initiative is designed to align with our long-term objectives."（新的倡议旨在与我们的长期目标保持一致。）
 
-   3. **物理上的对齐**：在更字面的意义上，指物体在空间中的位置与其他物体对齐。
+   3. 物理上的对齐：在更字面的意义上，指物体在空间中的位置与其他物体对齐。
       - 例如: "Align the holes with the pins before inserting them."（在插入之前，使孔与销对齐。）
 
-   4. **观点或态度的一致性**：指个人或团体的观点、态度或信念与他人或某个群体保持一致。
+   4. 观点或态度的一致性：指个人或团体的观点、态度或信念与他人或某个群体保持一致。
       - 例如: "His views align with those of the majority of the community."（他的观点与社区大多数人的一致。）
 
    总体来说，“align with”是一个多用途短语，可以用来表达一致性、协调性或匹配性，无论是在抽象的概念上，如目标和价值观，还是在具体的物理位置上
@@ -1263,7 +1273,7 @@
 
    This isn’t a rigorous definition  这不是一个严格的定义 
 
-7. That leaves **one more** term. What does it mean for **something** to be  asynchronous? This isn’t a **rigorous** definition, but for our purposes  here, I **can think of** two properties:  还剩下一个术语。某物是异步的，这意味着什么？这并不是一个严格的定义，但对于我们目前的讨论，我能想到两个特性 
+7. That leaves **one more** term. What does it mean for **something** to be  asynchronous /e'siŋkrənəs/? This isn’t a **rigorous** definition, but for our purposes  here, I **can think of** two properties:  还剩下一个术语。某物是异步的，这意味着什么？这并不是一个严格的定义，但对于我们目前的讨论，我能想到两个特性 
 
    
 
@@ -1299,7 +1309,7 @@
 
 8. facilitate  /fəˈsɪlɪtet/   vt. 使便利
 
-   Asynchronous code, through the mechanism above, **facilitate**s concurrent execution.  **To put  it differently**, asynchronous code gives **the look and feel of**  concurrency.    异步代码通过上述机制促进了并发执行。 换句话说，异步代码给人一种并发的感觉
+   Asynchronous code, through the mechanism above, **facilitate**s concurrent execution.  **To put  it differently**, asynchronous code gives **the look and feel of**  concurrency.    异步代码通过上述机制促进了并发执行。 **换句话说**，异步代码给人一种并发的感觉
 
 9. Here’s a diagram to **put it all together**. 下面是一个图解，可以将所有内容整合在一起
 
@@ -1342,7 +1352,7 @@
 
 18. more on that later 关于这个，稍后再详细说明 
 
-    So, cooperative multitasking is a fancy way of saying that a program’s  event loop (more on that later) communicates with multiple tasks to let  each take turns running at the optimal time.
+    So, cooperative multitasking is a fancy way of saying that a program’s  event loop (more on that later) communicates with multiple tasks to let  each take turns running at the optimal time. 所谓的协同多任务处理，其实是指程序的事件循环（稍后会详细介绍）与多个任务进行通信，让每个任务在最佳时机轮流运行
 
     optimal   /ˈɑːptɪməl/ adj. 最理想的 
 
@@ -1352,11 +1362,29 @@
 
 21. error-prone
 
-    The truth is that building durable multithreaded code can be hard and error-prone.   建持久的多线程代码既困难又容易出错 
+    The truth is that building durable /ˈdʊrəbl/ multithreaded code can be hard and error-prone.   实际上，构建稳定的多线程代码可能既困难又容易出错
 
-22. 
+##### 003
 
+1. some things that were **at first** disallowed are now allowed through new introductions.  一些起初被禁止的事物，现在通过新的引入变得允许了 
 
+2. Later, you’ll dive a lot deeper into how exactly the traditional generator is **repurposed** into a coroutine. For now, the easiest way to **pick up** how coroutines work is to start making some.  稍后，你将深入了解传统生成器如何被**重新利用**为一个 coroutine。现在，**学习**Coroutine 如何工作的最简单方法就是开始制作一些 Coroutine 
+
+3. immerse    /ɪˈmɜːrs/   vt. 沉浸；使陷入
+
+   immersive /ɪˈmɝsɪv/ adj. 拟真的；沉浸式的 
+
+   Let’s take the immersive approach and write some async IO code. 让我们采用身临其境的方法，编写一些异步 IO 代码
+
+   This short program is the `Hello World` of async IO but **goes a long way toward** illustrating /ˈɪləstret/ its core functionality  
+
+   functionality  /ˌfʌŋkʃə'næləti/  n. 功能性 功能
+
+   go a long way toward 有助于
+
+   This research will go a long way toward understanding the problem. 这项研究将在理解该问题方面起到很大作用或有显著贡献  
+
+ 
 
 
 
