@@ -1384,6 +1384,50 @@
 
    This research will go a long way toward understanding the problem. 这项研究将在理解该问题方面起到很大作用或有显著贡献  
 
+4. there is a slight but critical change  有一个微小但关键的变化 
+
+5. banal  /bəˈnɑːl/ adj. 陈腐的；平庸的；老一套的 
+
+   While using `time.sleep()` and `asyncio.sleep()` may seem banal 虽然使用 time.sleep() 和 asyncio.sleep() 看似平淡无奇 
+
+6. stand-in 替代品 替身
+
+   they are used as stand-ins for any **time-intensive** processes that involve wait time.  它们可以替代任何需要等待时间的时间密集型流程
+
+7. mundane  /mʌnˈden/  adj. 世俗的，平凡的
+
+8. take some time
+
+   **That is**, `time.sleep()` can represent any time-consuming blocking function call, while `asyncio.sleep()` is used to stand in for a non-blocking call (but one that also **takes some time** to complete). 也就是说，time.sleep() 可以代表任何耗时的阻塞函数调用，而 asyncio.sleep() 则用来代表非阻塞调用（但也需要一定时间才能完成） 
+
+9. cede  /siːd/   vt. 让给，割让；放弃 
+
+   readily  /ˈrɛdɪli/  adv. 容易地
+
+   the surrounding function can temporarily cede control to another function that’s more readily able to do something immediately. 周围的函数可以暂时将控制权让给另一个更容易立即执行任务的函数
+
+10. This section is a little dense, but getting a hold of `async`/`await` is instrumental, so come back to this if you need to  本节内容稍显冗长，但掌握 async/await 至关重要，因此如果需要，请回头再看这部分内容 
+
+    instrumental  /ˌɪnstrəˈmɛntl/  adj.  有帮助的  
+
+     getting a hold of  理解 掌握
+
+11. There’s also **a strict set of rules** around when and how you can and cannot use `async`/`await`. 对于何时以及如何使用和不能使用 async/await，也有一套严格的规则 
+
+12. These can be handy whether you are still picking up the syntax or already have exposure to using `async`/`await`: 无论您是仍在学习语法，还是已经接触过 async/await 的使用，这些都会非常方便  
+
+    handy  /ˈhændi/ adj. 手边的，就近的；便利的；容易取得的；敏捷的 
+
+    exposure /ɪkˈspoʒər/  n. 暴露, 显露 
+
+13. Forget about async generators **for the time being** and focus on **getting down** the syntax  **暂时**忘掉异步生成器，集中精力**掌握**语法
+
+14. terse  /tɜːrs/  adj. 简洁的，精练的，扼要的
+
+    Here are some terse examples **meant to** summarize the above few rules 下面是一些简明扼要的例子，**旨在**总结上述几条规则
+
+
+
  
 
 
