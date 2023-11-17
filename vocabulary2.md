@@ -1426,6 +1426,17 @@
 
     Here are some terse examples **meant to** summarize the above few rules 下面是一些简明扼要的例子，**旨在**总结上述几条规则
 
+15. proceed  /proˈsiːd/  vi. 前进  表示继续或进行某个动作、活动、计划等 
+
+    1. 会议或活动：Let's proceed with the next item on the agenda 让我们继续进行议程上的下一个项目
+    2. 指示和导航： Proceed straight for two blocks, then turn left   直走两个街区，然后左转
+    3. 餐厅点餐：Are you ready to proceed with your order?  您准备好点菜了吗？
+    4. 学术或专业领域： Let's proceed with our analysis of the data（让我们继续分析数据）。
+    5. 法律程序：The trial will proceed as scheduled 审判将按计划进行
+    6. We need to verify the data before we proceed.  在进行之前，我们需要核实数据 
+
+     at your own risk  需自行承担风险 
+
 
 
  
