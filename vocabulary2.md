@@ -1443,14 +1443,6 @@
 
 
 
-
-
-
-
-
-
-
-
  
 
 ### englishpod(come up and keep going)
@@ -1463,7 +1455,11 @@ fries   /fraɪz/  n. 炸薯条
 
 complimentary   /ˌkɑmplɪ'mɛntri/  adj. 赠送的
 
-### 连读规则0817
+
+
+
+
+### 连读规则
 
 -  连读 Linking 辅音 + 元音
 
@@ -1598,3 +1594,123 @@ complimentary   /ˌkɑmplɪ'mɛntri/  adj. 赠送的
 ​		s + 清辅音 == 不送气  speak stop  scout 清辅音后面都是元音
 
 ​		注意： disclose c后面是辅音 那么还是要送气
+
+
+
+
+
+### 语法总结
+
+#### 非限定动词
+
+非限定动词（Non-finite verbs）是英语中的一种动词形式，它们不受主语和时态的限制。非限定动词主要包括三种形式：
+
+1. **动名词（Gerunds）**:
+   - 动名词以-ing结尾，功能类似于名词。
+   - 它可以作为主语、宾语或者用在介词之后。例如："Swimming is my favorite sport."（游泳是我最喜欢的运动。）
+
+2. **分词（Participles）**:
+   - 分词包括现在分词（present participles）和过去分词（past participles）。
+   - 现在分词以-ing结尾，功能类似于形容词，用于描述名词或代词。例如："The running water is cold."（流动的水很冷。）
+   - 过去分词通常以-ed, -en, -d, -t, -n, 或 -ne结尾，也作为形容词使用。例如："The broken glass was sharp."（破碎的玻璃很尖锐。）
+
+3. **不定式（Infinitives）**:
+   - 不定式是动词的基本形式，前面加上“to”。例如："to run", "to write"。
+   - 不定式可以作为名词、形容词或副词使用。例如："To swim is fun."（游泳很有趣。）[作主语]
+
+这些非限定动词形式因不表示特定的时态或主语，因此被称为“非限定”的。它们在句子中的作用和含义取决于它们是作为名词、形容词还是副词。
+
+#### 简单句
+
+ **S + V**     he died yestday
+
+**S + V + O**   I bought a cat yestday
+
+**S + V + C**  the car is pretty
+
+**S + V + O +  O**
+
+Michael gave him a book.
+
+- 句型：这个句子是一个典型的**直接宾语+间接宾语**结构。
+- 成分分析：
+  - 主语：Michael
+  - 谓语：gave
+  - 间接宾语：him（接受动作的对象）
+  - 直接宾语：a book（动作的直接对象）
+- 这个句子的核心是动词“gave”，它是一个及物动词，需要一个或两个宾语（这里是一个直接宾语和一个间接宾语）。
+
+1. "John sent her an email."（约翰给她发了一封电子邮件。）
+2. "She showed me her new phone."（她给我看了她的新手机。）
+3. "They offered us a job."（他们给我们提供了一份工作。）
+4. "He bought his son a bike."（他给他儿子买了一辆自行车。）
+5. "Laura made him a cup of tea."（劳拉给他泡了一杯茶。）
+6. "I'll get you a drink."（我给你弄杯饮料。）
+7. "She told him a story."（她给他讲了一个故事。）
+8. "The teacher assigned the students some homework."（老师给学生布置了一些家庭作业。）
+9. "My parents read me a bedtime story."（我的父母给我读睡前故事。）
+10. "The chef cooked them a special dish."（厨师为他们做了一道特别的菜。）
+
+在英语中，间接宾语通常是指接收动作的人或事物。很多动词可以接受间接宾语，特别是那些表示“给予”、“告诉”、“显示”等动作的动词。以下是一些常见的动词和相应的间接宾语示例：
+
+1. **Give**: "She gave **him** a gift."（她给**他**一个礼物。）
+2. **Send**: "I'll send **her** the package tomorrow."（我明天会把包裹寄给**她**。）
+3. **Tell**: "He told **me** a secret."（他告诉**我**一个秘密。）
+4. **Show**: "They showed **us** the way."（他们向**我们**指路。）
+5. **Offer**: "We offered **the guests** some tea."（我们给**客人**提供了一些茶。）
+6. **Buy**: "I bought **my brother** a new phone."（我给**我的弟弟**买了一部新手机。）
+7. **Make**: "She made **her friend** a cake."（她为**她的朋友**做了一个蛋糕。）
+8. **Read**: "The teacher read **the students** a story."（老师给**学生们**读了一个故事。）
+9. **Lend**: "Can you lend **me** your pen?"（你能借给**我**你的笔吗？）
+10. **Pass**: "Please pass **John** the salt."（请把盐递给**约翰**。）
+
+**S + V + O + C**
+
+"I find the purse pretty."
+
+- 句型：这个句子是一个**宾语+宾补**结构。
+- 成分分析：
+  - 主语：I
+  - 谓语：find
+  - 宾语：the purse（被发现或被认为的对象）
+  - 宾语补足语：pretty（描述宾语的补充信息）
+- 在这个句子中，“find”是一个及物动词，后面跟着一个宾语“the purse”，以及一个宾语补足语“pretty”，用来补充描述宾语。
+
+主语+谓语+宾语+宾补的结构，其中宾补用来描述或补充说明宾语。日常口语：
+
+1. "She finds the movie interesting."（她觉得这部电影有趣。）
+2. "I consider the plan feasible."（我认为这个计划可行。）
+3. "He thought the idea brilliant."（他认为这个想法很棒。）
+4. "We found the performance amazing."（我们觉得那场表演惊艳。）
+5. "They made the room bright."（他们让房间变得明亮。）
+6. "I saw the situation challenging."（我发现这种情况具有挑战性。）
+7. "She keeps her garden beautiful."（她保持她的花园美丽。）
+8. "He painted the wall red."（他把墙涂成了红色。）
+9. "You left the door open."（你把门留开了。）
+10. "We consider the job essential."（我们认为这项工作是必要的。）
+
+这种句型中，宾语补足语通常是形容词或相当于形容词的词语，用来补充说明宾语的特征或状态。
+
+这种句型的主要特点是它包含一个宾语补足语（宾补），用来描述或说明宾语的状态或特性。这种结构的特点如下：
+
+1. **主语 + 谓语 + 宾语 + 宾补**:
+   - 主语（She）
+   - 谓语动词（finds），通常是感官动词或使役动词。
+   - 宾语（the movie），是谓语动词的直接受影响对象。
+   - 宾补（interesting），用来补充说明宾语的性质、状态或特征。
+
+2. **宾补通常是形容词或名词**:
+   - 宾补描述或定义了宾语的某种属性或状态。
+
+3. **常用于这种结构的动词**:
+   - 感官动词：如 find, think, consider, feel, make（在某些情况下）。
+   - 使役动词：如 make, have, get（这些词在其他结构中也常常带有宾补）。
+
+一些类似的例句包括：
+- "I consider her approach effective."（我认为她的方法有效。）
+- "He found the solution inadequate."（他发现这个解决方案不充分。）
+- "We thought their performance outstanding."（我们认为他们的表现杰出。）
+- "She makes the situation more complicated."（她使情况变得更复杂。）
+- "They felt  /fɛlt/ the task challenging."（他们觉得这个任务具有挑战性。）
+
+这种句型在表达个人感觉、看法或评价时非常常用。
