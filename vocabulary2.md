@@ -1620,6 +1620,65 @@ complimentary   /ˌkɑmplɪ'mɛntri/  adj. 赠送的
 
 这些非限定动词形式因不表示特定的时态或主语，因此被称为“非限定”的。它们在句子中的作用和含义取决于它们是作为名词、形容词还是副词。
 
+理解分词（Participle）、不定式（Infinitive）和动名词（Gerund）的含义，可以从他们在英语中的词根和用途来理解。
+
+**分词 (Participle)**
+
+1. 单词本身: "Participle" 来自拉丁语 "participium"，意味着“参与”。它既参与动词也参与形容词的特性。
+2. **用途**: 分词在句子中可以作为形容词使用，描述名词或代词。它有两种形式：
+   - **现在分词**: 以-ing 结尾，表示正在进行的动作（例如：running, talking）。
+   - **过去分词**: 通常以-ed 结尾（对于规则动词），表示已完成的动作或状态（例如：cooked, closed）。不规则动词的过去分词形式各不相同（例如：written, seen）。
+
+**不定式 (Infinitive)**
+
+1. **单词本身**: "Infinitive" 来自拉丁语 "infinitivus"，意味着“无限的”。不定式提供了一种无限定、泛化的动作或状态的表示。
+2. **用途**: 不定式是动词的基本形式，通常由“to” + 动词原形构成（例如：to eat, to dance）。它可以在句子中用作名词、形容词或副词。不定式表示目的、原因、期望、意图等。
+
+**动名词 (Gerund)**
+
+1. **单词本身**: "Gerund" 来自拉丁语 "gerundium"，源于动词 “gerere”，意味着“进行”或“承担”。动名词承担了动词和名词的双重特性。
+2. **用途**: 动名词是以-ing 结尾的动词形式，但在句子中作为名词使用（例如：swimming, reading）。它可以作为主语、宾语或表语，表示动作或状态本身。
+
+**总结**
+
+- **分词**：既有动词也有形容词的特性，用来描述名词，表达动作的进行或完成。
+- **不定式**：动词的基本形式，表达无限定、泛化的动作或状态，可以作为名词、形容词或副词，表达目的或意图。
+- **动名词**：作为名词使用的动词形式，表示动作或状态本身，可以在句子中承担名词的角色。
+
+当然，我会为分词（Participle）、不定式（Infinitive）和动名词（Gerund）各提供五个典型的、在日常对话中常用的例句。
+
+**分词 (Participle)**
+
+1. **现在分词**:
+   - "The **running** water is very soothing."（流动的水声很舒缓。）
+   - "She was sitting next to a **sleeping** dog."（她坐在一只睡着的狗旁边。）
+   - "A **crying** baby can be hard to soothe."（一个哭泣的婴儿很难安抚。）
+   - "They live in a **charming** old house."（他们住在一所迷人的老房子里。）
+   - "I saw a **flying** bird outside my window."（我看到一只飞翔的鸟在我窗外。）
+
+2. **过去分词**:
+   - "The windows are **closed** now."（窗户现在关上了。）
+   - "She showed us a **written** note from her teacher."（她给我们看了老师写的一张便条。）
+   - "The **broken** glass cut my foot."（破碎的玻璃割伤了我的脚。）
+   - "He is interested in **studied** phenomena."（他对已研究的现象感兴趣。）
+   - "The **baked** cookies smell amazing."（烤好的饼干闻起来很香。）
+
+**不定式 (Infinitive)**
+
+1. "I want **to eat** pizza tonight."（我今晚想吃比萨。）
+2. "She plans **to travel** to Italy next year."（她计划明年去意大利旅行。）
+3. "**To understand** is more important than to memorize."（理解比记忆更重要。）
+4. "He needs **to finish** his homework before going out."（他出去前需要完成作业。）
+5. "**To keep** healthy, I exercise every day."（为了保持健康，我每天都锻炼。）
+
+**动名词 (Gerund)**
+
+1. "**Swimming** is my favorite sport."（游泳是我最喜欢的运动。）
+2. "**Reading** before bed helps me relax."（睡前阅读帮助我放松。）
+3. "She enjoys **cooking** for her family."（她喜欢为家人做饭。）
+4. "Avoid **drinking** too much coffee."（避免喝太多咖啡。）
+5. "**Traveling** around the world is my dream."（环游世界是我的梦想。）
+
 #### 简单句
 
  **S + V**     he died yestday
@@ -1689,9 +1748,7 @@ Michael gave him a book.
 9. "You left the door open."（你把门留开了。）
 10. "We consider the job essential."（我们认为这项工作是必要的。）
 
-这种句型中，宾语补足语通常是形容词或相当于形容词的词语，用来补充说明宾语的特征或状态。
-
-这种句型的主要特点是它包含一个宾语补足语（宾补），用来描述或说明宾语的状态或特性。这种结构的特点如下：
+宾语补足语通常是**形容词或相当于形容词的词语**，用来补充说明宾语的特征或状态。
 
 1. **主语 + 谓语 + 宾语 + 宾补**:
    - 主语（She）
@@ -1706,7 +1763,6 @@ Michael gave him a book.
    - 感官动词：如 find, think, consider, feel, make（在某些情况下）。
    - 使役动词：如 make, have, get（这些词在其他结构中也常常带有宾补）。
 
-一些类似的例句包括：
 - "I consider her approach effective."（我认为她的方法有效。）
 - "He found the solution inadequate."（他发现这个解决方案不充分。）
 - "We thought their performance outstanding."（我们认为他们的表现杰出。）
@@ -1714,3 +1770,19 @@ Michael gave him a book.
 - "They felt  /fɛlt/ the task challenging."（他们觉得这个任务具有挑战性。）
 
 这种句型在表达个人感觉、看法或评价时非常常用。
+
+使役动词（Causative Verbs）是一类动词，用于表示一个人让、使或引导另一个人做某事。这些动词通常包括 "make"（使）、"have"（让/让人做）、"get"（让/让人得到）等。它们用来表达一个人通过某种方式引导或控制另一个人去完成某个动作或任务。以下是一些常见的使役动词及其用法：
+
+1. **Make**:
+   - **使某人做某事**：I made him clean his room.（我让他打扫了房间。）
+   - **强制某人做某事**：The teacher made the students study for the test.（老师强迫学生为考试而学习。）
+
+2. **Have**:
+   - **让某人做某事**：She had her hair cut.（她让自己的头发剪了。）
+   - **安排某事被做**：I had my car repaired yesterday.（我昨天修了我的车。）
+
+3. **Get**:
+   - **让某人做某事**：I got my brother to help me with my homework.（我让我兄弟帮我做作业。）
+   - **获得/拿到某物**：I got my hands on a new book.（我弄到了一本新书。）
+
+这些使役动词的使用可以有不同的语法结构，通常涉及到主动、被动以及不定式等形式。需要根据具体的句子和上下文来决定使用哪个使役动词以及对应的形式。总之，使役动词用来描述一个人对另一个人或事物施加影响，以引导或强制其执行某项动作。
