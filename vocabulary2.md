@@ -1786,3 +1786,44 @@ Michael gave him a book.
    - **获得/拿到某物**：I got my hands on a new book.（我弄到了一本新书。）
 
 这些使役动词的使用可以有不同的语法结构，通常涉及到主动、被动以及不定式等形式。需要根据具体的句子和上下文来决定使用哪个使役动词以及对应的形式。总之，使役动词用来描述一个人对另一个人或事物施加影响，以引导或强制其执行某项动作。
+
+#### 虚拟语气
+
+虚拟语气是用来表示说话人的愿望、假设、猜测或非现实情况的一种特殊语气形式。这里有几个主要用法：
+
+1. **条件句**：
+   - **现在或将来的不太可能的情况**：使用 "if" + 过去式, 主句用 "would" + 动词原形。
+     - If I had a million dollars, I would travel the world.  如果我有一百万美元，我会环游世界
+     - If I were a billionaire, I would buy my own island. 这表达了一个关于现在或未来但不太可能实现的幻想。 
+     - If I had more time, I would learn to play the piano. 这反映了一个关于现在或未来的愿望，但由于时间限制，这个愿望可能无法实现
+     - If she spoke Spanish, she would travel to South America.  如果她会说西班牙语，她就会去南美旅行 
+   - **过去未发生的情况**：使用 "if" + 过去完成时, 主句用 "would have" + 过去分词。
+     - If I had known you were coming, I would have baked a cake.  早知道你会来，我就烤个蛋糕了
+     - If I had studied harder, I would have passed the exam.  
+     - If you had told me about the party, I would have attended. 
+     - If we had left earlier, we would have avoided the traffic.  
+   
+2. **建议**：
+   - 使用 "should" 或 "ought to"。
+     - You should rest if you're feeling sick. 如果你感到不适，就应该休息 
+     - You should drink more water to stay hydrated.   你应该多喝水，以保持水分 
+     - You ought to review your notes regularly to improve your memory.  您应该定期复习笔记，以提高记忆力 
+     - You should try to get at least eight hours of sleep every night. 每晚应尽量保证至少八小时的睡眠 
+   
+3. **愿望或假设**：
+   - 使用 "wish" 或 "if only" + 过去式（现在的愿望）或过去完成时（过去的愿望）。
+     - I wish I were on a beach right now. (现在的愿望)
+     - I wish I had studied harder for the exam. (过去的愿望)
+
+4. **命令、要求、建议**：
+   - 使用 "suggest", "recommend", "demand", "insist" 等动词后，跟随 "that" + 主语 + 动词原形。
+     - My doctor insists that I take a vacation. 我的医生坚持让我休假
+
+5. **虚拟语气的常见短语**：
+   - "as if", "as though" 表示假设或虚构。
+     - He talks as if he knew everything.  他说起话来好像无所不知
+     - She smiles as if she has no worries in the world.  她面带微笑，仿佛无忧无虑
+     - He acts as though he owns the place.  他表现得好像这里是他的地盘 
+     - She plays the violin /ˌvaɪə'lɪn/ as if she were a professional.  她的小提琴拉得如同专业演奏家 
+
+**虚拟语气的关键在于它表达了与现实相反或未必可能发生的情况。**
