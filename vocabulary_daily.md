@@ -6,11 +6,31 @@
 
    cloud agnostic 与云无关  /æɡˈnɑːstɪk/ 
 
+   The application is platform agnostic, meaning it can operate seamlessly across various operating systems like Windows, macOS, and Linux.  该应用程序与平台无关，这意味着它可以在 Windows、macOS 和 Linux 等各种操作系统上无缝运行
+
 2. quantized analysis 量化分析   /'kwɒntaɪzd/ 
 
-   Quantization is the **procedure** of **constraining** something from a continuous set of values (such as the real numbers) to a **relatively** small discrete set (such as the integers).  量化是将某物从一个连续的数值集（如实数）约束到一个相对较小的离散集（如整数）的程序
+   Quantization  /ˌkwɔntai'zeʃən/ is the **procedure** of **constrainting** something from a continuous set of values (such as the real numbers) to a **relatively** small discrete set (such as the integers).     量化是将某物从一个连续的数值集（如实数）约束到一个相对较小的离散集（如整数）的程序
 
-3.  Designed **from the ground up** for containers without the **overhead** and limitations of **legacy** VM and server-based environments.   从一开始就专为容器设计，避免了传统虚拟机和基于服务器的环境所带来的开销和限制。
+   
+
+   "Procedure"和"Program"在计算机科学和编程领域中有着不同的含义：
+
+   1. **Procedure**:
+      - **定义**: Procedure通常指的是一个特定的任务或一组操作的执行步骤。它是一种功能单元，可以在程序中被调用来执行特定的任务。
+      - **用途**: Procedures用于分解复杂的程序逻辑，使其更加模块化。它们通常没有返回值（尽管在某些语言中，procedure和function的区别可能不那么明显）。
+      - **重点**: Procedures更多地关注于执行一个特定的操作或任务。
+
+   2. **Program**:
+      - **定义**: Program是一系列指令的集合，用于告诉计算机如何执行特定的任务或解决特定的问题。它是由一系列的procedures或functions组成的。
+      - **用途**: Programs是计算机软件的基础，可以执行各种复杂的任务，从简单的计算到复杂的数据处理。
+      - **重点**: Programs关注于整体的应用逻辑和最终用户的需求。
+
+   总结来说，procedure是构成program的一部分，是执行特定任务的一系列步骤，而program是一个完整的应用，由多个procedures或functions组成，旨在完成一个更大范围的任务或解决一个更复杂的问题。
+
+   
+
+3. Designed **from the ground up** for containers without the **overhead** and limitations of **legacy** VM and server-based environments.   从一开始就专为容器设计，避免了传统虚拟机和基于服务器的环境所带来的开销和限制。
 
    from the ground up 从头开始；彻底
 
@@ -24,13 +44,19 @@
 
 6. parameter substitution 参数替换
 
+   You either make the substitution or you are leaving my field. 你要么换人，要么走人 
+
 7. **In case**  conj. 如果  万一 
+
+   The deposit is as insurance in case you break something.  押金作为保险金，以防你弄坏东西
 
 8. "spec" 是 "specification"（规范、规格）
 
+   This product has been designed to the highest /haɪəst/specifications. 本产品按照最高规格设计
+
 9. curly brace 花括号
 
-   "the parameters must be enclosed in double quotes to escape the curly braces in YAML."
+   "the parameters must be enclosed in double quotes to escape the curly braces in YAML." 参数必须用双引号括起来，以避开 YAML 中的大括号
 
    该句是在讨论YAML语法中的一种情况，提到了参数必须用双引号括起来，以避免花括号（curly braces）的特殊处理。
 
@@ -38,11 +64,15 @@
 
    '[' - square brackets 或者 brackets 
 
-   '(' - parentheses 或者 round brackets
+   '(' - parentheses 或者 round brackets  /pə'rɛnθəsɪz/   parenthesis
 
 10. in case of  **在... 情况下** 防备, 假如, 如果发生 
 
+    These centers however still need a hospital nearby in case of serious problems.  不过，这些中心附近仍需要一家医院，以防出现严重问题
+
 11. nested  /'nɛstid/ adj. 嵌套的
+
+    nested structure  嵌套结构
 
 12. double dash => run after previous step 双短横线 => 在上一步之后运行
 
@@ -52,18 +82,25 @@
 
 14. As an **alternative** to **specifying** sequences of steps  作为指定步骤序列的一种替代方法
 
-1. **coronavirus** 冠状病毒 /kəˈronə vaɪrəs/ 
-2. **pitch** /pɪtʃ/ n: 沥青 树油子 v.t 投 扔 (To throw)
+    specify这个词意为“明确指出”或“具体说明”，通常用于描述提供详细信息或明确某事物的特定方面的情况  
 
-   1. **音高**： "the pitch of the sound"（声音的音高) 
-   2. **汽车、飞机等的倾斜角度**：  "the pitch of the plane"（飞机的俯仰角) 
-   3. **销售推广**：  "give a sales pitch"（做销售推广），"pitch a product to a customer"（向客户推销产品）
-   4. **站立或扔**：  "pitch a tent"（搭帐篷），"pitch a ball"（扔球）
-   5. **扔掉或抛弃**：  "pitch the old magazines"（扔掉旧杂志）
+    Please specify your requirements. 请具体说明您的要求 
 
-   总的来说，pitch这个词多用在与音乐、销售、体育运动、建筑和自然界等相关的场合。根据具体的上下文，"pitch" 这个词也可以有其他不同的意义 
-3. the mlops **landscape** is frequence evolving  (MLOPS的格局在不断变化)
-4. **tangible**  /ˈtændʒəbl/  adj: 通过触摸可以感知的；可触知的; 确实的，真实的：有可能被当作事实来对待的；真实的或具体的; 实际的：有可能被理解或实现的;  **tangible property**: 有形财产
+15. **coronavirus** 冠状病毒 /kəˈronə vaɪrəs/ 
+
+16. **pitch** /pɪtʃ/ n: 沥青 树油子 v.t 投 扔 (To throw)
+
+    1. **音高**： "the pitch of the sound"（声音的音高) 
+    2. **汽车、飞机等的倾斜角度**：  "the pitch of the plane"（飞机的俯仰角) 
+    3. **销售推广**：  "give a sales pitch"（做销售推广），"pitch a product to a customer"（向客户推销产品）
+    4. **站立或扔**：  "pitch a tent"（搭帐篷），"pitch a ball"（扔球）
+    5. **扔掉或抛弃**：  "pitch the old magazines"（扔掉旧杂志）
+
+    总的来说，pitch这个词多用在与音乐、销售、体育运动、建筑和自然界等相关的场合。根据具体的上下文，"pitch" 这个词也可以有其他不同的意义 
+
+17. the mlops **landscape** is frequence evolving  (MLOPS的格局在不断变化)
+
+18. **tangible**  /ˈtændʒəbl/  adj: 通过触摸可以感知的；可触知的; 确实的，真实的：有可能被当作事实来对待的；真实的或具体的; 实际的：有可能被理解或实现的;  **tangible property**: 有形财产
 
 ​		*n.*  tangibles 有形资产; 可触知的或具体的某事物
 
