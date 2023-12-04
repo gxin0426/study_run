@@ -1437,23 +1437,29 @@
 
      at your own risk  需自行承担风险 
 
+##### 004
 
+1. break into a. 闯入；破门而入    b. 分解 
+
+   This allows you to break programs into smaller, manageable, recyclable coroutines.  这样，您就可以将程序分解成更小的、可管理的、可循环使用的例行程序
+
+2. cumulative /ˈkjuːmjəletɪv/ adj. 累积的, 渐增的
+
+   even the cumulative number of items that will be added to the queue, in advance.  甚至是提前添加到队列中的累计项目数
+
+3. mimic   /'mɪmɪk/  vt. 模仿，摹拟  adj. 模仿的，模拟的 
+
+   Keep in mind that `asyncio.sleep()` is used to **mimic** some other   请记住，asyncio.sleep() 是用来模仿其他一些 
+
+4. disservice   /dɪs'sɝvɪs/  n. 伤害,虐待,不亲切的行为 
+
+   This ridiculous slander does a disservice to our nation.  这种荒谬的诽谤是在给国家抹黑 
+
+   
 
  
 
 
-
- 
-
-### englishpod(come up and keep going)
-
-###### lession one    ɛ
-
-spaghetti  /spəˈɡɛti/   n. 意大利面条 
-
-fries   /fraɪz/  n. 炸薯条
-
-complimentary   /ˌkɑmplɪ'mɛntri/  adj. 赠送的
 
 
 
