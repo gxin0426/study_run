@@ -1455,7 +1455,9 @@
 
    This ridiculous slander does a disservice to our nation.  这种荒谬的诽谤是在给国家抹黑 
 
-   
+5. feverish   /ˈfiːvərɪʃ/  adj. 发热的；极度兴奋的
+
+
 
  
 
