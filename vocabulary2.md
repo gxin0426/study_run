@@ -1457,6 +1457,30 @@
 
 5. feverish   /ˈfiːvərɪʃ/  adj. 发热的；极度兴奋的
 
+6. No, seriously 
+
+   No seriously 这个短语通常在对话中使用，用来强调前面的话虽然可能听起来像是开玩笑或不太可能，但说话者其实是认真的。它可以用在多种场景中，以下是一些例子：
+
+   1. **纠正误解：** 当一个人说了一些可能被误解为玩笑的话，而实际上他们是认真的，他们可能会添加 "No seriously," 来澄清自己的立场。
+      - A: I actually write poetry in my free time.
+      - B: Ha, good one!
+      - A: No seriously, I do write.
+      
+   2. **加强陈述：** 在讨论一个重要的话题时，如果觉得别人可能没有把自己的话当回事，可能会用这个短语来强调自己的严肃性。
+      - No seriously, we need to consider the environmental impact of our actions.
+      
+   3. **转换话题：** 在轻松的交谈之后转移到一个更严肃的话题时，使用 "No seriously," 可以帮助话题的转变。
+      - We had a lot of laughs tonight. No seriously, I wanted to talk to you about something important.
+      
+   4. **强调真诚的感情：** 在表达感情时，如果担心别人可能认为自己不是真心的，可能会使用这个短语。
+      - I know I joke around a lot, but no seriously, I really appreciate your help.
+
+   在所有这些例子中，"No seriously," 都用来抓住听众的注意力，并传达说话者的真诚和严肃。
+
+7. munchies  /'mʌntʃɪz/ n. 小点心 
+
+8. 
+
 
 
  
@@ -1695,9 +1719,7 @@
 
 **S + V + C**  the car is pretty
 
-**S + V + O +  O**
-
-Michael gave him a book.
+**S + V + O +  O** Michael gave him a book.
 
 - 句型：这个句子是一个典型的**直接宾语+间接宾语**结构。
 - 成分分析：
@@ -1835,3 +1857,109 @@ Michael gave him a book.
      - She plays the violin /ˌvaɪə'lɪn/ as if she were a professional.  她的小提琴拉得如同专业演奏家 
 
 **虚拟语气的关键在于它表达了与现实相反或未必可能发生的情况。**
+
+#### 从句
+
+##### 名词性从句
+
+名词性从句（Noun Clause）是一个从句，它在句子中承担和名词相同的语法角色。这意味着名词性从句可以在句子中作为主语、宾语、或表语等名词的用法。名词性从句通常由特定的连接词引导，如 "that", "what", "who", "whom", "whose", "which", "whether", 和 "if" 等。
+
+名词性从句的种类和用途主要包括：
+
+1. **主语从句 (Subject Clauses)**: 当名词性从句作为句子的主语时，它位于谓语动词之前。例如："What she said was surprising."
+
+2. **宾语从句 (Object Clauses)**: 宾语从句跟在动词或介词之后，作为宾语使用。例如："She knows that I am a teacher."
+
+3. **表语从句 (Complement Clauses)**: 表语从句跟在系动词（如 be, seem, appear 等）之后，用来补充说明主语的内容。例如："The problem is that we have lost our way."
+
+4. **同位语从句 (Appositive Clauses)**: 同位语从句用来进一步解释或说明前面的名词或名词短语。例如："The idea that the world is flat is outdated."
+
+##### 定语从句
+
+定语从句用于修饰名词或代词，就像形容词那样。它们提供关于先行词（定语从句所修饰的名词或代词）的额外信息。
+
+1. **结构**:
+   - 定语从句通常紧跟在它们修饰的先行词后面。
+   - 由关系代词（如 who, whom, whose, which, that）或关系副词（如 where, when, why）引导。
+   - 例如：The book **that you gave me** is excellent.（这里 "that you gave me" 是定语从句，修饰 "The book"）
+2. **功能**:
+   - 详细描述或限定先行词，提供必要的信息或附加信息。
+3. **类型**:
+   - 限制性定语从句：直接限定先行词，对先行词是必要的。没有逗号隔开。
+   - 非限制性定语从句：提供额外信息，不直接限定先行词。通常用逗号隔开。
+
+
+
+1. **限制性定语从句**:
+   - The book **that I read** was fascinating.
+   - 这里的定语从句that I read修饰 The book。它是限制性定语从句，因为它直接限定了所谈论的书籍。
+
+2. **使用 who的定语从句**:
+   - The artist **who painted this picture** is famous.
+   - who painted this picture是定语从句，修饰 The artist。这个从句使用who因为它修饰的是人
+
+3. **使用which的定语从句**:
+   - The car **which is parked outside** is mine.
+   - 这里which is parked outside是定语从句，修饰The car。Which用于指物
+
+4. **使用whose的定语从句**:
+   - The woman **whose phone rang** during the movie was embarrassed.
+   - whose phone rang是定语从句，修饰 The woman。Whose用于表示所有关系
+
+5. **使用where的定语从句**:
+   - I like the café **where we met**.
+   - where we met" 是定语从句，修饰the café。Where用于指地点
+
+6. **使用 when的定语从句**:
+   - I remember the day **when we first met**.
+   - when we first met是定语从句，修饰the day。When用于指时间
+
+##### 状语从句
+
+状语从句用于说明主句中动作发生的时间、原因、目的、结果、条件、方式或程度等。
+
+1. **结构**:
+
+   - 由从属连词引导，如 because, since, when, while, if, unless, although, even though 等。
+   - 位置可变，可以放在主句之前或之后。
+   - 例如：“I will call you **when I get home**.”（这里 "when I get home" 是状语从句，说明 "I will call you" 的时间）
+
+2. **功能**:
+
+   - 提供关于主句中动作或状态的附加信息。
+
+3. **类型**:
+
+   1. **时间状语从句**:
+      - 句子: "I will call you **when I get home**."
+      - 解释: 这里 "when I get home" 指出了打电话的时间。
+
+   2. **原因状语从句**:
+      - 句子: "She was late **because the traffic was heavy**."
+      - 解释: "because the traffic was heavy" 说明了迟到的原因。
+
+   3. **条件状语从句**:
+      - 句子: "If it rains, we will cancel the picnic."
+      - 解释: "If it rains" 设定了一个取消野餐的条件。
+
+   4. **目的状语从句**:
+      - 句子: "He studied hard **so that he could pass the exam**."
+      - 解释: "so that he could pass the exam" 说明了努力学习的目的。
+
+   5. **结果状语从句**:
+      - 句子: "He spoke so softly **that we could hardly hear him**."
+      - 解释: "that we could hardly hear him" 描述了说话声音小的结果。
+
+   6. **让步状语从句**:
+      - 句子: "Although it was raining, we went hiking."
+      - 解释: "Although it was raining" 表示了尽管有雨，我们还是去远足了。
+
+   7. **方式状语从句**:
+      - 句子: "She sings **as if she were a professional**."
+      - 解释: "as if she were a professional" 描述了她唱歌的方式，好像她是专业歌手一样。
+
+   8. **比较状语从句**:
+      - 句子: "He runs **faster than his brother does**."
+      - 解释: "faster than his brother does" 对两个人的跑步速度进行了比较。
+
+   状语从句在句子中如何提供额外的时间、原因、条件、目的、结果、让步、方式和比较信息。
