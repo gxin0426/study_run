@@ -1627,9 +1627,107 @@
 
 ​		注意： disclose c后面是辅音 那么还是要送气
 
+### 连读规则2
+
+#### 1.连读
+
+#### 2.加音 intrusion
+
+![](pronounce/001.png)
+
+![](pronounce/002.png)
+
+![](pronounce/003.png)
+
+#### 3 同化 异化
+
+![](pronounce/004.png)
+
+![](pronounce/005.png)
+
+![](pronounce/006.png)
+
+典型: books  dogs 
+
+![](pronounce/007.png)
+
+![](pronounce/008.png)
 
 
 
+#### 4 省音
+
+![](pronounce/009.png)
+
+![](pronounce/010.png)
+
+![](pronounce/011.png)
+
+#### 5 缩读
+
+![](pronounce/012.png)
+
+![](pronounce/013.png)
+
+![](pronounce/014.png)
+
+#### 6 弱读
+
+通常弱读的单词：
+
+![](pronounce/015.png)
+
+不弱读的情况:
+
+![](pronounce/016.png)
+
+
+
+#### 7 节奏
+
+![](pronounce/017.png)
+
+![](pronounce/018.png)
+
+![](pronounce/019.png)
+
+
+
+![](pronounce/020.png)
+
+中文与英语发音时区别在于：英语句中需要重读的单词中重音之间的时长基本相等，而中文属于‘音节等时性’语言，一般情况下，音节，也就是每个字的时长相等。
+
+#### 8 语调
+
+![](pronounce/021.png)
+
+![](pronounce/022.png)
+
+![](pronounce/23.png)
+
+
+
+#### 9 闪音
+
+#### 10 塞音
+
+![](pronounce/024.png)
+
+![](pronounce/025.png)
+
+无声除阻 == 失去爆破 == 不完全爆破
+
+无声除阻属于同化现象，不属于省音
+
+清辅音的爆破音/p/ /t/ /k/，浊辅音的爆破音/b/ /d/ /ɡ/
+
+
+
+
+
+
+
+  
 
 ### 语法总结
 
