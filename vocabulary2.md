@@ -1479,7 +1479,9 @@
 
 7. munchies  /'mʌntʃɪz/ n. 小点心 
 
-8. 
+8. fret /frɛt/   vt. 焦急；使磨损；使烦恼 
+
+   Something went wrong, but don’t fret — let’s give it another shot.   出了点问题，不过别着急，让我们再试一次
 
 
 
