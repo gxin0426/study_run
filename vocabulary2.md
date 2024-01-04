@@ -22,7 +22,7 @@
 
 4. Outpouring of support 可以翻译为 "大量支持" 或 "激增的支持"  
 
-   We're [wiːr]  fairly confident. You know we've  [wiːv] seen an outpour of support for this president, like which we haven't seen really this ever.  我们非常有信心，我们看到民众非常支持总统，支持的力度也是我们从未见过的
+   We're [wiːr]  fairly confident. You know we've  [wiːv] seen an outpouring of support for this president, like which we haven't seen really this ever.  我们非常有信心，我们看到民众非常支持总统，支持的力度也是我们从未见过的
 
 5. I desperately want to believe but i think we are getting overexcited about a diamagnet /ˈdaɪəˌmæɡnɪt/ 我非常渴望去相信，但我认为我们对一个抗磁体过于兴奋了
 
@@ -31,7 +31,7 @@
    **形容人在情感上的状态**：
 
    - I'm so desperate for a job; I'll take anything at this point. 我非常渴望一份工作，在这一点上，我什么都愿意接受
-   - She was desperate to see him again.
+   - She was desperate to see him again. 
 
 6. honor, fame, recognition   /ˌrɛkəɡˈnɪʃn/  荣誉、名声、认可 
 
@@ -1482,6 +1482,12 @@
 8. fret /frɛt/   vt. 焦急；使磨损；使烦恼 
 
    Something went wrong, but don’t fret — let’s give it another shot.   出了点问题，不过别着急，让我们再试一次
+
+9. Study on the go with no distractions  在旅途中心无旁骛地学习
+
+   distraction   /dɪˈstrækʃn/  n. 注意力分散；消遣；心烦意乱 
+
+10. 
 
 
 
