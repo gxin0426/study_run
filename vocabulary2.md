@@ -2,13 +2,47 @@
 
 ###### 001g
 
-1. deep <---> shallow /ˈʃælo/  
+1. deep 
+
+   shallow /ˈʃælo/  
 
    However, these relationships are often quite  /kwaɪt/  shallow  然而，这些关系往往很肤浅
 
-2. He represents you in the meeting   ==  He is **attending** the meeting on your behalf.  
+2. novice /ˈnɑːvɪs/  n. 初学者，新手
 
-3. current <---> legacy 
+   But soon we realized we were novices. 但很快我们意识到自己只是个菜鸟 
+
+3. violate /ˈvaɪəlet/  vt. 违反, 违背 
+
+4. 由坏到好程度：
+
+    extremely poor --> poor --> ordinary --> good --> excellent --> fascinating
+
+5. 
+   在英语中，介词 `of` 用来表示所属关系、来源、部分、特征或属性等。当 `of` 用于表示特征或属性时，它连接一个名词和另一个名词或名词短语，用来说明前者具有后者所指的特征或属性。这种用法帮助明确一个事物的特定方面或性质。
+
+   用法解析
+
+   - **表示特征或属性**：`of` 描述了某物具有的某种特定的特征、属性或质量。
+
+   例子
+
+   - 在句子 "These two things are of equivalent weight." 中，`of` 将 "These two things" 与其属性 "equivalent weight" 相连接，明确指出这两个事物共享相同的重量特征。
+   - 另一个例子："The walls of the castle are of stone."（城堡的墙是石头做的。）这里 `of` 描述了墙的材料属性，即是由石头构成的。
+
+   通过这种用法，`of` 起到了桥梁的作用，连接事物和其具体的某一特征或属性，使句子的意义更加清晰和具体。
+
+6. amusing adj. 有趣的 
+
+   The clown's performance was highly amusing, keeping the children laughing throughout. 小丑的表演非常有趣，让孩子们一直笑个不停
+
+   amazing adj. 令人惊奇的 惊人的
+
+   The magician's  /məˈdʒɪʃn/ act was truly amazing, leaving everyone in awe  /ɔː/ 
+
+7. He represents you in the meeting   ==  He is **attending** the meeting **on your behalf**.   他代替你去开会
+
+8. current <---> legacy 
 
    The current system supports modern  /'mɑdɚn/ encryption methods, while the legacy system relies on outdated  /ˌaʊtˈdetɪd/  algorithms.  当前系统支持现代加密方法，而遗留的系统则依赖于过时的算法
 
@@ -20,20 +54,20 @@
 
    当谈论技术或系统时，"legacy" 通常指的是旧的、过去的或不再是主流的技术或系统 
 
-4. Outpouring of support 可以翻译为 "大量支持" 或 "激增的支持"  
+9. Outpouring of support 可以翻译为 大量支持 或  激增的支持
 
    We're [wiːr]  fairly confident. You know we've  [wiːv] seen an outpouring of support for this president, like which we haven't seen really this ever.  我们非常有信心，我们看到民众非常支持总统，支持的力度也是我们从未见过的
 
-5. I desperately want to believe but i think we are getting overexcited about a diamagnet /ˈdaɪəˌmæɡnɪt/ 我非常渴望去相信，但我认为我们对一个抗磁体过于兴奋了
+10. I desperately want to believe but i think we are getting overexcited about a diamagnet /ˈdaɪəˌmæɡnɪt/ 我非常渴望去相信，但我认为我们对一个抗磁体过于兴奋了
 
    desperate  /ˈdɛspərɪt/  adj.   迫切的 渴望的
 
    **形容人在情感上的状态**：
 
    - I'm so desperate for a job; I'll take anything at this point. 我非常渴望一份工作，在这一点上，我什么都愿意接受
-   - She was desperate to see him again. 
+   - She was desperate to see him again.  
 
-6. honor, fame, recognition   /ˌrɛkəɡˈnɪʃn/  荣誉、名声、认可 
+11. honor, fame, recognition   /ˌrɛkəɡˈnɪʃn/  荣誉、名声、认可 
 
    **honor (荣誉)**：
 
@@ -78,13 +112,13 @@
 
    这些词在上下文中的用法可能更容易理解。例如，你可能会 receive 一个奖项作为achieve 一个目标的结果。你achieve目标，然后作为结果你receive奖励
 
-7. Still, go through the exercise of making this **cheat sheet**.  不过，还是做一下这个备忘录(小抄)的练习吧 
+11. Still, go through the exercise of making this **cheat sheet**.  不过，还是做一下这个备忘录(小抄)的练习吧 
 
-8. This is the cutest thing **ever**   这是史上最可爱的东西 
+12. This is the cutest thing **ever**   这是史上最可爱的东西 
 
-9. Demystifying HashMap in Java: How it Works **Under the Hood** 揭秘Java中的HashMap：底层原理解析
+13. Demystifying HashMap in Java: How it Works **Under the Hood** 揭秘Java中的HashMap：底层原理解析
 
-10. morality /məˈræləti/ 道德
+14. morality /məˈræləti/ 道德
 
    Conservatives often lament the role Hollywood plays in undermining morality.    保守派经常哀叹好莱坞在破坏道德方面所扮演的角色 
 
@@ -142,7 +176,7 @@
 
 17. along with 还有啥啥啥  表达的是一种附加信息
 
-    Please bring the cups along with the plates. 
+    Please bring the cups along with the plates. 请将杯子和盘子一并带来 
 
 18. it may seem strange that this chapter reads **as if** there were only a single filesystem.本章读起来好像只有一个文件系统，这似乎有些奇怪
 
@@ -1487,11 +1521,39 @@
 
    distraction   /dɪˈstrækʃn/  n. 注意力分散；消遣；心烦意乱 
 
-10. 
+10. The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it. 要做出伟大的工作，唯一的方法是热爱你所做的事。如果你还没有找到，那就继续寻找。不要停滞不前。正如所有心灵事务一样，当你找到它时你会知道的
 
 
 
- 
+###  How to learn any language in six months
+
+[05:32](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=332s) - How to learn any language in six months 
+
+[07:59](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=479s) - Principle # 1: Focus on language content that is relevant to you  关注与您相关的语言内容 
+
+[08:49](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=529s) - Principle # 2: Use your new language as a tool to communicate from day 1 从第一天起就将新语言作为交流的工具
+
+[09:37](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=577s) - Principle # 3: When you first understand the message you will unconsciously acquire the language 当你第一次理解信息时，你会不自觉地掌握这种语言
+
+[10:31](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=631s) - Principle # 4: Physiological training  生理训练
+
+[11:45](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=705s) - Principle # 5: Psycho-physiological state matters  心理生理状态很重要
+
+[12:22](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=742s) - Action # 1: Listen a lot (brain soaking)  大量听
+
+[12:43](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=763s) - Action # 2: Focus on getting the meaning first (before the words)  重点是先理解意思（然后才是单词）
+
+[13:31](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=811s) - Action # 3: Start mixing  开始混合 
+
+[13:58](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=838s) - Action # 4: Focus on the core  关注核心 
+
+[15:22](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=922s) - Action # 5: Get a language parent  找一位语言家长 
+
+[16:29](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=989s) - Action # 6: Copy the face   复制表情 
+
+[17:13](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=1033s) - Action # 7: "Direct connect" to mental images "直接连接 "心理图像 
+
+
 
 
 
